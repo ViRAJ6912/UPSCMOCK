@@ -1,1 +1,752 @@
-[{"id":1,"paper":"gs-ancient-history","subject":"Placeholder","difficulty":"Medium","question":"Placeholder question — questions coming soon.","options":{"A":"Option A","B":"Option B","C":"Option C","D":"Option D"},"correct":"A","explanation":"Placeholder explanation."}]
+[
+  {
+    "id": 1,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Indus Valley Civilization:\n1. The Great Bath was found at Mohenjo-daro.\n2. The dockyard was found at Lothal.\n3. Evidence of horse sacrifice has been found at Surkotada.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "The Great Bath is located at Mohenjo-daro. The dockyard was discovered at Lothal in Gujarat. Horse bones (not sacrifice, but remains) were found at Surkotada, suggesting familiarity with horses. All three statements are correct."
+  },
+  {
+    "id": 2,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements regarding the decline of the Harappan Civilization:\n1. Robert Raikes proposed that tectonic disturbances and floods caused the decline.\n2. Mortimer Wheeler attributed the destruction to Aryan invasion.\n3. Climate change and drying up of the Ghaggar-Hakra river system is a widely accepted modern theory.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Robert Raikes proposed the flood/tectonic theory. Mortimer Wheeler suggested Aryan invasion based on skeletal remains at Mohenjo-daro. Modern research supports climate change and river drying as major factors. All three are historically documented theories."
+  },
+  {
+    "id": 3,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Which of the following Vedic texts is correctly matched with its description?\n1. Rigveda — Collection of hymns dedicated to gods\n2. Yajurveda — Collection of sacrificial formulae\n3. Samaveda — Collection of melodies and chants\n4. Atharvaveda — Collection of spells and charms",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 3 and 4 only",
+      "C": "2, 3 and 4 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct": "D",
+    "explanation": "All four matches are correct. Rigveda contains hymns to gods, Yajurveda has sacrificial formulae, Samaveda contains melodies for rituals, and Atharvaveda deals with spells, charms, and speculative thought."
+  },
+  {
+    "id": 4,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Later Vedic Period:\n1. The Sabhaand Samiti lost their importance.\n2. The king performed Ashvamedha and Rajasuya sacrifices to assert supremacy.\n3. Iron was known as 'Shyama' or 'Krishna Ayas'.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "In the Later Vedic period, Sabha and Samiti declined in importance as kingship became hereditary. Ashvamedha (horse sacrifice) and Rajasuya were performed to establish supremacy. Iron was referred to as Shyama or Krishna Ayas (dark metal)."
+  },
+  {
+    "id": 5,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about Jainism:\n1. Mahavira was the 24th Tirthankara.\n2. Parsvanatha, the 23rd Tirthankara, preached four vows; Mahavira added the fifth vow of Brahmacharya.\n3. The first Jain council was held at Pataliputra under Sthulabhadra.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "Mahavira was indeed the 24th Tirthankara. Parsvanatha taught four vows (non-violence, truth, non-stealing, non-possession) and Mahavira added Brahmacharya (celibacy). The first Jain council was held at Pataliputra under Sthulabhadra around 300 BCE."
+  },
+  {
+    "id": 6,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about Buddhist Councils:\n1. The First Buddhist Council was held at Rajagriha under the patronage of Ajatashatru.\n2. The Fourth Buddhist Council was held at Kundalvana under Kanishka.\n3. The split into Mahayana and Hinayana occurred during the Third Buddhist Council.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The First Council was held at Rajagriha (Saptaparni Cave) under Ajatashatru's patronage with Mahakassapa presiding. The Fourth Council was at Kundalvana, Kashmir under Kanishka. The Mahayana-Hinayana split occurred during the Fourth Council, not the Third."
+  },
+  {
+    "id": 7,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Which of the following statements about Ashoka's Rock Edicts is/are correct?\n1. Rock Edict XIII describes the Kalinga War and its aftermath.\n2. The edicts were written exclusively in Brahmi script.\n3. The Kandahar inscription is bilingual — in Greek and Aramaic.",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1 only",
+      "C": "1 and 2 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Rock Edict XIII describes the Kalinga War. The edicts were written in multiple scripts including Brahmi, Kharoshthi (in the northwest), and Greek/Aramaic (in Kandahar). The Kandahar inscription is indeed bilingual in Greek and Aramaic."
+  },
+  {
+    "id": 8,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Mauryan administration:\n1. Megasthenes described the Mauryan municipal administration as having six committees.\n2. Arthashastra mentions 'Sitadhyaksha' as the superintendent of agriculture.\n3. Dhamma Mahamattas were appointed by Ashoka for propagation of Dhamma.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Megasthenes in Indica described six committees of five members each for municipal administration. Arthashastra mentions Sitadhyaksha (superintendent of agriculture). Ashoka appointed Dhamma Mahamattas for propagation of his policy of Dhamma."
+  },
+  {
+    "id": 9,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Gandhara and Mathura schools of art:\n1. The Gandhara school was influenced by Greco-Roman art.\n2. The Mathura school used spotted red sandstone.\n3. The Gandhara school depicted Buddha in spiritual form while Mathura showed him in human form.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "2 and 3 only",
+      "D": "1 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "Gandhara school was heavily influenced by Greco-Roman art and used grey sandstone/stucco. Mathura school used spotted red sandstone. Statement 3 is incorrect — both schools depicted Buddha in human form; it was the Gandhara school that showed more realistic human features while Mathura showed indigenous Indian features."
+  },
+  {
+    "id": 10,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Which of the following pairs of ancient Indian trade ports and their locations is/are correctly matched?\n1. Bharuch (Barygaza) — Gujarat coast\n2. Arikamedu — Tamil Nadu coast\n3. Tamralipti — Odisha coast",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "2 and 3 only",
+      "D": "1 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "Bharuch (Barygaza) was on the Gujarat coast. Arikamedu was near Pondicherry on the Tamil Nadu coast. Tamralipti was in Bengal (modern West Bengal), not Odisha. It was the chief port for trade with Southeast Asia."
+  },
+  {
+    "id": 11,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Gupta Empire:\n1. Chandragupta I adopted the title 'Maharajadhiraja'.\n2. Samudragupta's military conquests are described in the Allahabad Pillar Inscription composed by Harisena.\n3. The Nalanda University was established during the Gupta period.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "Chandragupta I was the first Gupta ruler to adopt the title Maharajadhiraja. The Allahabad Pillar Inscription (Prayag Prashasti) by Harisena details Samudragupta's conquests. Nalanda University was established during the Gupta period (5th century CE) by Kumaragupta I."
+  },
+  {
+    "id": 12,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Sangam Age:\n1. The three Sangam kingdoms were Chera, Chola, and Pandya.\n2. Madurai was the capital of the Chola kingdom.\n3. Tolkappiyam is the earliest extant Tamil literary work.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1 and 2 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The three Sangam kingdoms were Chera, Chola, and Pandya. Madurai was the capital of the Pandya kingdom, not Chola (whose capital was Uraiyur/Puhar). Tolkappiyam, a work on Tamil grammar, is the earliest extant Tamil literary work."
+  },
+  {
+    "id": 13,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about ancient Indian philosophical schools (Shad Darshanas):\n1. Samkhya philosophy was founded by Kapila and is dualistic in nature.\n2. Vaisheshika school propounded the atomic theory of creation.\n3. Yoga philosophy was systematized by Patanjali.\n4. Mimamsa school rejected the authority of the Vedas.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1 and 3 only",
+      "C": "2, 3 and 4 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct": "A",
+    "explanation": "Samkhya by Kapila is dualistic (Purusha and Prakriti). Vaisheshika by Kanada propounded atomic theory. Patanjali systematized Yoga. Statement 4 is incorrect — Mimamsa upheld Vedic authority and ritualism; it was the Charvaka/Lokayata school that rejected the Vedas."
+  },
+  {
+    "id": 14,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Which of the following statements about land grants in ancient India is/are correct?\n1. Agrahara grants were given to Brahmanas and were tax-free.\n2. Copper plate inscriptions were used to record land grants.\n3. Land grants became widespread from the Gupta period onwards.",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Agrahara grants were tax-free grants to Brahmanas for religious and educational purposes. Copper plate inscriptions were the standard medium for recording land grants. The practice became widespread from the Gupta period, contributing to feudalism in India."
+  },
+  {
+    "id": 15,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about ancient Indian coinage:\n1. The earliest coins in India were punch-marked coins (Karshapanas) made of silver.\n2. Indo-Greek rulers were the first to issue gold coins in India.\n3. Gupta gold coins were called 'Dinara'.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1 and 2 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Punch-marked coins (Karshapanas) of silver are the earliest Indian coins (6th century BCE). The Kushanas (not Indo-Greeks) were the first to issue gold coins in India on a large scale. Indo-Greeks introduced the practice of issuing coins with portraits. Gupta gold coins were called Dinara (derived from Roman Denarius)."
+  },
+  {
+    "id": 16,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about science in ancient India:\n1. Aryabhata proposed that the Earth rotates on its axis.\n2. Charaka is known as the father of Indian medicine (Ayurveda).\n3. Brahmagupta introduced the concept of zero as a number.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Aryabhata in Aryabhatiya stated that the Earth rotates on its axis. Charaka authored Charaka Samhita, a foundational text of Ayurveda. Brahmagupta in Brahmasphutasiddhanta gave rules for arithmetic involving zero and negative numbers."
+  },
+  {
+    "id": 17,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Post-Mauryan period:\n1. The Sungas were Brahmanas who revived Vedic rituals including Ashvamedha.\n2. The Satavahanas were the first Indian rulers to grant tax-free villages to Brahmanas and Buddhist monks.\n3. Menander (Milinda) converted to Buddhism as recorded in Milindapanho.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "2 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "Pushyamitra Sunga was a Brahmana general who revived Vedic rituals and performed Ashvamedha. Satavahanas were pioneers in granting land to religious institutions. Menander's conversion to Buddhism is documented in Milindapanho (Questions of Milinda)."
+  },
+  {
+    "id": 18,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Which of the following features is/are associated with the Indus Valley Civilization?\n1. Standardized weights and measures based on multiples of 16.\n2. Knowledge of iron smelting.\n3. A sophisticated drainage system in urban areas.\n4. Use of baked and sun-dried bricks in a ratio of 4:2:1.",
+    "options": {
+      "A": "1, 3 and 4 only",
+      "B": "1, 2 and 3 only",
+      "C": "3 and 4 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct": "A",
+    "explanation": "The Harappans used standardized weights in multiples of 16, had advanced drainage systems, and used bricks in 4:2:1 ratio. They did NOT know iron smelting — they used copper and bronze (Chalcolithic/Bronze Age civilization)."
+  },
+  {
+    "id": 19,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about ancient Indian architecture:\n1. The Sanchi Stupa was originally built by Ashoka and later enlarged by the Sungas.\n2. Rock-cut caves at Ajanta belong exclusively to the Buddhist tradition.\n3. The Dashavatara temple at Deogarh is one of the earliest known Panchayatana-style temples.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "2 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "Sanchi Stupa was built by Ashoka and enlarged during the Sunga period with elaborate gateways (toranas). Ajanta caves are exclusively Buddhist (unlike Ellora which has Buddhist, Hindu, and Jain caves). The Dashavatara temple at Deogarh (Gupta period) is among the earliest Panchayatana-style temples."
+  },
+  {
+    "id": 20,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about Chandragupta Maurya:\n1. He defeated Seleucus Nicator and received the regions of Kabul, Kandahar, Herat, and Baluchistan.\n2. He embraced Jainism towards the end of his life.\n3. Mudrarakshasa by Vishakhadatta describes his accession to the throne.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Chandragupta defeated Seleucus and gained territories in the treaty. He adopted Jainism and reportedly fasted to death (Sallekhana) at Shravanabelagola. Mudrarakshasa by Vishakhadatta is a drama describing how Chanakya helped Chandragupta overthrow the Nandas."
+  },
+  {
+    "id": 21,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Sangam literature:\n1. Ettutogai (Eight Anthologies) and Pattupattu (Ten Idylls) form the core Sangam texts.\n2. Silappadikaram was written by Ilango Adigal.\n3. The Sangam texts mention Roman trade and the import of gold coins.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "Ettutogai and Pattupattu are the core Sangam literary works. Silappadikaram (The Tale of an Anklet) was authored by Ilango Adigal. Sangam texts reference Yavana (Roman/Greek) traders and the influx of Roman gold coins into South India."
+  },
+  {
+    "id": 22,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Which of the following statements about the Indus Valley Civilization's trade is/are correct?\n1. The Harappans traded with Mesopotamia, which they called 'Meluha'.\n2. Carnelian beads from the Indus region have been found in Mesopotamian sites.\n3. The Harappans used a standardized system of seals for trade purposes.",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "B",
+    "explanation": "Mesopotamians called the Indus region 'Meluha' (not the other way around). Carnelian beads of Harappan origin have been found in Ur and other Mesopotamian sites. Harappan seals were used for trade identification and authentication."
+  },
+  {
+    "id": 23,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about Ashoka's Dhamma:\n1. Dhamma Mahamattas were appointed to spread Dhamma among all social classes.\n2. Ashoka banned animal sacrifice completely throughout his empire.\n3. The concept of Dhamma included tolerance of all sects (Samavaya).\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1 and 2 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Dhamma Mahamattas were appointed for propagation of Dhamma. Ashoka did not completely ban animal sacrifice — he restricted it in certain areas and banned it only in the capital. Tolerance of all sects (Samavaya) was a key principle of his Dhamma."
+  },
+  {
+    "id": 24,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Gupta period achievements in science:\n1. Aryabhata calculated the value of pi to four decimal places.\n2. Varahamihira authored Brihat Samhita, an encyclopedic work.\n3. Sushruta Samhita, dealing with surgery, was composed during the Gupta period.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Aryabhata calculated pi as 3.1416 (four decimal places). Varahamihira's Brihat Samhita covers astronomy, astrology, geography, and other subjects. Sushruta Samhita predates the Gupta period — it was composed around 6th century BCE, though it was redacted during the Gupta era."
+  },
+  {
+    "id": 25,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Kushana dynasty:\n1. Kanishka patronized the Fourth Buddhist Council at Kundalvana.\n2. The Kushanas introduced the Shaka era starting from 78 CE.\n3. Kanishka's empire extended from Central Asia to Varanasi.\n4. The Gandhara school of art flourished under Kushana patronage.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1, 3 and 4 only",
+      "B": "1, 2, 3 and 4",
+      "C": "1 and 4 only",
+      "D": "2, 3 and 4 only"
+    },
+    "correct": "A",
+    "explanation": "Kanishka patronized the Fourth Buddhist Council. His empire stretched from Central Asia to Varanasi. Gandhara art flourished under Kushana rule. However, the Shaka era (78 CE) is traditionally attributed to Kanishka, but many historians now dispute this — the Shakas (Scythians) may have started it. This remains debated, but UPSC traditionally accepts Kanishka as the founder. Given the controversy, statements 1, 3, and 4 are definitively correct."
+  },
+  {
+    "id": 26,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Rigvedic society:\n1. The family (Kula) was the basic unit of society.\n2. Women could attend assemblies (Sabha and Vidatha).\n3. The Varna system was rigid and birth-based.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "In Rigvedic society, Kula (family) was the basic unit. Women had a respectable position and could attend assemblies like Vidatha. The Varna system in the Rigvedic period was flexible and occupation-based, not rigid and birth-based — rigidity came in the Later Vedic period."
+  },
+  {
+    "id": 27,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Satavahana dynasty:\n1. They called themselves 'Dakshinapathapati' (Lords of the Deccan).\n2. Gautamiputra Satakarni is described as the destroyer of Shakas, Yavanas, and Pahlavas in the Nasik inscription.\n3. They issued coins predominantly in lead and potin.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "Satavahanas called themselves Dakshinapathapati. The Nasik inscription of Gautami Balashri describes Gautamiputra Satakarni as the destroyer of Shakas, Yavanas, and Pahlavas. Satavahanas predominantly issued lead and potin coins, which was unique among Indian dynasties."
+  },
+  {
+    "id": 28,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Which of the following is/are correctly matched?\n1. Periplus of the Erythraean Sea — Account of Indian Ocean trade routes\n2. Indica — Written by Megasthenes about Mauryan India\n3. Arthashastra — Written by Chanakya on statecraft\n4. Harshacharita — Written by Banabhatta about Samudragupta",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 2, 3 and 4",
+      "C": "2, 3 and 4 only",
+      "D": "1 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "Periplus describes Indian Ocean trade routes (1st century CE). Indica by Megasthenes describes Mauryan India. Arthashastra by Kautilya/Chanakya deals with statecraft. Harshacharita by Banabhatta is about Harshavardhana, not Samudragupta."
+  },
+  {
+    "id": 29,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Charvaka/Lokayata philosophy:\n1. It rejected the authority of the Vedas and the concept of afterlife.\n2. It accepted only Pratyaksha (perception) as a valid means of knowledge.\n3. It was founded by Brihaspati.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "2 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "Charvaka philosophy rejected Vedic authority, afterlife, karma, and moksha. It accepted only Pratyaksha (direct perception) as valid Pramana, rejecting Anumana (inference) and Shabda (testimony). It is traditionally attributed to Brihaspati."
+  },
+  {
+    "id": 30,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Mauryan economy:\n1. State-owned land was called 'Sita' land.\n2. The tax on land (Bhaga) was generally one-sixth of the produce.\n3. Toll tax was called 'Shulka'.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Crown/state land was called Sita land, cultivated by slaves and laborers. Bhaga (land tax) was typically one-sixth of the produce. Shulka was the toll/customs duty collected on goods. All three are mentioned in the Arthashastra."
+  },
+  {
+    "id": 31,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Gupta administration:\n1. The empire was divided into Bhuktis (provinces) headed by Uparikas.\n2. Vishayapatis administered the districts (Vishayas).\n3. The Gupta rulers maintained a large standing army and did not rely on feudatories.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "2 and 3 only",
+      "D": "1 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "Bhuktis were provinces under Uparikas, and Vishayas were districts under Vishayapatis. Statement 3 is incorrect — the Gupta Empire relied significantly on feudatories (Samantas) for military support, which was a key feature of their decentralized administration."
+  },
+  {
+    "id": 32,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Which of the following statements about the Indus Valley Civilization's religion is/are correct?\n1. A figure resembling 'Proto-Shiva' (Pashupati) was found on a seal.\n2. Evidence of fire altars has been found at Kalibangan.\n3. The people worshipped a Mother Goddess.\n4. Temple structures have been found at major Harappan sites.",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 3 and 4 only",
+      "C": "1 and 3 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct": "A",
+    "explanation": "The Pashupati seal shows a figure in yogic posture surrounded by animals. Fire altars were found at Kalibangan and Lothal. Terracotta Mother Goddess figurines are abundant. No temple structures have been found at any Harappan site, which is a distinctive feature of this civilization."
+  },
+  {
+    "id": 33,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about ancient Indian trade routes:\n1. The Uttarapatha connected Taxila to Pataliputra.\n2. The Dakshinapatha connected North India to the Deccan.\n3. The Silk Route passed through Taxila connecting India to China and Rome.\n4. The spice trade route connected Kerala to the Roman Empire.",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 2 and 4 only",
+      "C": "1, 2, 3 and 4",
+      "D": "2, 3 and 4 only"
+    },
+    "correct": "C",
+    "explanation": "Uttarapatha (Northern Road) connected Taxila to Pataliputra. Dakshinapatha connected the Gangetic plains to the Deccan. The Silk Route passed through Taxila. Kerala's Malabar coast was a major hub for spice trade with Rome, as evidenced by Roman coin hoards found in South India."
+  },
+  {
+    "id": 34,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about Mahavira:\n1. He was born in Kundagrama near Vaishali.\n2. He attained Kaivalya (supreme knowledge) under a Sal tree.\n3. He preached in Prakrit language.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "2 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "Mahavira was born at Kundagrama near Vaishali to Kshatriya parents. He attained Kaivalya (omniscience) under a Sal tree on the banks of river Rijupalika. He preached in Ardhamagadhi Prakrit to reach common people."
+  },
+  {
+    "id": 35,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Amaravati school of art:\n1. It flourished under the patronage of the Satavahanas.\n2. It used white marble for its sculptures.\n3. The narrative art depicted scenes from the Jataka tales and Buddha's life.\n4. It influenced the art of Southeast Asia, particularly Sri Lanka.",
+    "options": {
+      "A": "1, 3 and 4 only",
+      "B": "1, 2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct": "A",
+    "explanation": "Amaravati school flourished under Satavahana patronage. It used white limestone (not marble) for sculptures. It depicted Jataka tales and Buddha's life in narrative panels. It significantly influenced Southeast Asian art, especially in Sri Lanka and Myanmar."
+  },
+  {
+    "id": 36,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about Ashoka's inscriptions:\n1. The Bhabru (Bairat) edict mentions Ashoka's faith in Buddha, Dhamma, and Sangha.\n2. Minor Rock Edict I mentions Ashoka's connection with the Sangha.\n3. The Rummindei Pillar Inscription records Ashoka's visit to Lumbini.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "2 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "The Bhabru edict expresses Ashoka's faith in the Buddhist Triratna (Buddha, Dhamma, Sangha). Minor Rock Edict I mentions his association with the Sangha for over two years. The Rummindei (Lumbini) Pillar records his pilgrimage to Buddha's birthplace and tax reduction for the village."
+  },
+  {
+    "id": 37,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Sangam Age economy:\n1. Internal trade was conducted through barter as well as coins.\n2. Roman coins (denarii) found in South India indicate flourishing Indo-Roman trade.\n3. Musiri (Muziris) was a major port for pepper trade with Rome.\n4. Pliny complained about the drain of Roman gold to India.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "2, 3 and 4 only",
+      "C": "1, 3 and 4 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct": "D",
+    "explanation": "Sangam economy used both barter and coins. Large hoards of Roman coins have been found in Tamil Nadu and Kerala. Muziris (modern Pattanam, Kerala) was a major pepper trade port. Pliny the Elder in Natural History lamented the drain of Roman gold to India for spices and luxuries."
+  },
+  {
+    "id": 38,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Which of the following pairs regarding Harappan sites and their discoveries is/are correctly matched?\n1. Mohenjo-daro — Dancing Girl bronze statue\n2. Harappa — Granary and cemetery H culture\n3. Dholavira — Signboard with Indus script\n4. Chanhudaro — Bead-making factory",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 3 and 4 only",
+      "C": "1, 2, 3 and 4",
+      "D": "2, 3 and 4 only"
+    },
+    "correct": "C",
+    "explanation": "The Dancing Girl was found at Mohenjo-daro. Harappa had granaries and Cemetery H culture. Dholavira in Gujarat had a unique signboard with large Indus script characters. Chanhudaro was known for bead-making and had no citadel."
+  },
+  {
+    "id": 39,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Nalanda University:\n1. It was established by Kumaragupta I of the Gupta dynasty.\n2. Hiuen Tsang studied and taught there during Harshavardhana's reign.\n3. It was destroyed by Bakhtiyar Khilji in 1193 CE.\n4. It had eight separate compounds and ten temples.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 2, 3 and 4",
+      "C": "1 and 2 only",
+      "D": "2, 3 and 4 only"
+    },
+    "correct": "A",
+    "explanation": "Nalanda was established by Kumaragupta I (5th century CE). Hiuen Tsang studied there under Shilabhadra during Harsha's reign. Bakhtiyar Khilji destroyed it in 1193 CE. According to Hiuen Tsang, it had eight compounds and ten temples, but the exact numbers are debated by modern archaeology. Statements 1, 2, and 3 are definitively verified."
+  },
+  {
+    "id": 40,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Upanishads:\n1. They are also called Vedanta as they form the concluding part of the Vedas.\n2. They primarily deal with philosophy and metaphysics.\n3. There are 108 Upanishads, of which 13 are considered principal.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "2 and 3 only",
+      "D": "1 and 3 only"
+    },
+    "correct": "B",
+    "explanation": "Upanishads are called Vedanta (end of Vedas) as they form the concluding philosophical portion. They deal with metaphysical concepts like Brahman, Atman, and Moksha. There are 108 Upanishads in the Muktika canon, with 13 (sometimes 12 or 10) considered principal/Mukhya Upanishads."
+  },
+  {
+    "id": 41,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the decline of the Gupta Empire:\n1. The Hunas (Hephthalites) invasions weakened the empire significantly.\n2. Skandagupta was the last effective Gupta ruler who repelled the Hunas.\n3. The rise of feudatories (Samantas) contributed to the disintegration.\n4. Yashodharman of Malwa defeated the Huna chief Mihirakula.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 3 and 4 only",
+      "C": "1, 2, 3 and 4",
+      "D": "2 and 4 only"
+    },
+    "correct": "C",
+    "explanation": "Huna invasions severely weakened the Guptas. Skandagupta successfully repelled them but exhausted the treasury. The feudatory system led to decentralization and eventual breakup. Yashodharman of Malwa defeated Mihirakula around 528 CE, ending Huna dominance in India."
+  },
+  {
+    "id": 42,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about Buddhist architecture:\n1. Stupas, Viharas, and Chaityas are the three main types of Buddhist architecture.\n2. A Chaitya is a prayer hall while a Vihara is a monastery.\n3. The Karle Chaitya in Maharashtra is the largest rock-cut Chaitya hall.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "The three main types of Buddhist architecture are Stupas (reliquary mounds), Viharas (monasteries for monks), and Chaityas (prayer/assembly halls). Chaityas served as prayer halls with a stupa inside. The Karle Chaitya near Lonavala, Maharashtra is the largest rock-cut Chaitya hall in India."
+  },
+  {
+    "id": 43,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about ancient Indian metallurgy:\n1. The Iron Pillar at Mehrauli (Delhi) demonstrates advanced metallurgical skills of the Gupta period.\n2. Wootz steel produced in South India was exported to West Asia.\n3. The Arthashastra mentions the office of 'Lohadhyaksha' (superintendent of metals).\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "The Mehrauli Iron Pillar (attributed to Chandragupta II) is rust-resistant due to high phosphorus content, showing advanced metallurgy. Wootz steel (Ukku) from South India was famous in the ancient world and exported to make Damascus swords. Arthashastra mentions Lohadhyaksha as superintendent of metals."
+  },
+  {
+    "id": 44,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Mauryan art and architecture:\n1. Mauryan pillars are monolithic and made of chunar sandstone.\n2. The Lion Capital at Sarnath has been adopted as the national emblem of India.\n3. Mauryan polish on sculptures is a distinctive feature not replicated later.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "Mauryan pillars are monolithic (single stone) made from Chunar sandstone quarries near Varanasi. The Sarnath Lion Capital is India's national emblem. The lustrous Mauryan polish on stone surfaces is a unique feature that later craftsmen could not replicate."
+  },
+  {
+    "id": 45,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the concept of land grants and feudalism in ancient India:\n1. The practice of granting land with administrative and judicial rights (Prabhutva-Sanniyukta) increased from the Gupta period.\n2. Sub-infeudation (granting of land by feudatories to their subordinates) was a feature of post-Gupta India.\n3. D.D. Kosambi and R.S. Sharma argued that land grants led to Indian feudalism.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "Land grants with administrative and judicial powers became common from the Gupta period. Sub-infeudation was characteristic of post-Gupta feudal structure. D.D. Kosambi and R.S. Sharma are the main proponents of the Indian feudalism thesis based on land grant evidence."
+  },
+  {
+    "id": 46,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Buddha:\n1. He was born in Lumbini, attained enlightenment at Bodh Gaya, and died at Kushinagar.\n2. His first sermon (Dhammachakkappavattana Sutta) was delivered at Sarnath.\n3. He belonged to the Shakya clan and his father was Suddhodana.\n4. He attained Mahaparinirvana during the reign of Ajatashatru.",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 2, 3 and 4",
+      "C": "1 and 2 only",
+      "D": "2, 3 and 4 only"
+    },
+    "correct": "B",
+    "explanation": "Buddha was born at Lumbini, attained enlightenment at Bodh Gaya under a Peepal tree, and died at Kushinagar. His first sermon was at the Deer Park in Sarnath. He was a Shakya Kshatriya, son of Suddhodana. He attained Mahaparinirvana in 483 BCE during Ajatashatru's reign."
+  },
+  {
+    "id": 47,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about ancient Indian coinage:\n1. The Satavahanas issued bilingual coins with Tamil and Prakrit legends.\n2. Roman gold coins (Aureus) found in India were often defaced to prevent their use as currency.\n3. The Indo-Greek king Menander issued coins with Buddhist wheel symbol.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "B",
+    "explanation": "Satavahana coins were bilingual with Prakrit and Telugu/Dravidian legends, not Tamil. Roman coins found in India were often defaced (slashed) to prevent circulation as currency and use only as bullion. Menander's coins bear the Buddhist wheel (Dharmachakra) symbol, reflecting his Buddhist faith."
+  },
+  {
+    "id": 48,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Gupta period literature:\n1. Kalidasa wrote Abhijnanasakuntalam, Meghadutam, and Raghuvamsa.\n2. The Panchatantra was composed by Vishnu Sharma during this period.\n3. Amarasimha composed the Amarakosha, a Sanskrit lexicon.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "2 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "Kalidasa, the greatest Sanskrit poet, wrote all three works during the Gupta period. Panchatantra by Vishnu Sharma is a collection of animal fables composed during this era. Amarasimha, one of the 'nine gems' of Chandragupta II's court, composed the Amarakosha thesaurus."
+  },
+  {
+    "id": 49,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Indus Valley Civilization's urban planning:\n1. The citadel was generally located in the western part of the city on a higher platform.\n2. Dholavira had a unique three-part division of the town.\n3. Lothal had a bead-making factory and a Persian Gulf-style circular seal.\n4. Banawali had a radial street pattern unlike the grid pattern of other sites.",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1 and 2 only",
+      "C": "1, 2, 3 and 4",
+      "D": "2, 3 and 4 only"
+    },
+    "correct": "A",
+    "explanation": "The citadel was typically in the west on an elevated platform. Dholavira uniquely had three divisions — citadel, middle town, and lower town. Lothal had a bead factory and a circular Persian Gulf seal indicating maritime trade. Banawali did not have a radial pattern — it lacked the systematic grid planning of other sites but was not radial."
+  },
+  {
+    "id": 50,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about ancient Indian astronomy and mathematics:\n1. Aryabhata stated that the Earth revolves around the Sun (heliocentric model).\n2. Bhaskara I was the first to use decimal number system in a scientific work.\n3. Varahamihira's Panchasiddhantika summarizes five earlier astronomical systems.\n4. The Sulbasutras contain the earliest Indian geometrical knowledge related to altar construction.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "2, 3 and 4 only",
+      "B": "1, 2 and 3 only",
+      "C": "3 and 4 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct": "A",
+    "explanation": "Aryabhata proposed Earth's rotation on its axis but did NOT explicitly propose a heliocentric model — he maintained a geocentric framework. Bhaskara I used the decimal system in his commentary on Aryabhatiya. Varahamihira's Panchasiddhantika summarizes five astronomical schools. Sulbasutras (appendices to Kalpasutras) contain geometrical rules for Vedic altar construction."
+  }
+]

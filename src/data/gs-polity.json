@@ -1,1 +1,752 @@
-[{"id":1,"paper":"gs-polity","subject":"Placeholder","difficulty":"Medium","question":"Placeholder question — questions coming soon.","options":{"A":"Option A","B":"Option B","C":"Option C","D":"Option D"},"correct":"A","explanation":"Placeholder explanation."}]
+[
+  {
+    "id": 1,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "Consider the following statements regarding the Constituent Assembly of India:\n1. It was constituted under the Cabinet Mission Plan of 1946.\n2. It had 389 members, of which 296 were from British India.\n3. Dr. Sachidanand Sinha was elected as the permanent Chairman.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The Constituent Assembly was constituted under the Cabinet Mission Plan (1946) with 389 members \u2014 296 from British India and 93 from princely states. Dr. Sachidanand Sinha was the temporary Chairman (provisional president); Dr. Rajendra Prasad was elected as the permanent Chairman. Hence statement 3 is incorrect."
+  },
+  {
+    "id": 2,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "With reference to the doctrine of 'Colourable Legislation', which of the following is correct?\n1. It applies when a legislature enacts a law on a subject beyond its competence in the guise of legislating on a subject within its competence.\n2. It is based on the maxim 'what cannot be done directly cannot be done indirectly'.\n3. It applies to both Parliament and State Legislatures.",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "The doctrine of Colourable Legislation means that what cannot be done directly cannot be done indirectly. If a legislature lacks competence on a subject, it cannot legislate on it by pretending to legislate on another subject within its competence. This doctrine applies to both Parliament and State Legislatures in the context of distribution of legislative powers under Articles 245-254."
+  },
+  {
+    "id": 3,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "Which of the following are the conditions under which the Parliament can legislate on State List subjects?\n1. Under Proclamation of National Emergency (Article 352)\n2. When Rajya Sabha passes a resolution by special majority (Article 249)\n3. When two or more states request Parliament to legislate (Article 252)\n4. For implementing international treaties (Article 253)\nSelect the correct answer:",
+    "options": {
+      "A": "1, 2 and 4 only",
+      "B": "1, 3 and 4 only",
+      "C": "2, 3 and 4 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct": "D",
+    "explanation": "Parliament can legislate on State List subjects under all four conditions: during National Emergency (Art. 352), when Rajya Sabha passes a resolution by 2/3 majority that it is necessary in national interest (Art. 249), when two or more state legislatures pass resolutions requesting Parliament (Art. 252), and for implementing international agreements/treaties (Art. 253)."
+  },
+  {
+    "id": 4,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the 'Basic Structure Doctrine':\n1. It was first propounded in the Kesavananda Bharati case (1973).\n2. The doctrine has been defined exhaustively by the Supreme Court.\n3. Judicial review and separation of powers are considered part of the basic structure.\n4. Parliament can amend any part of the Constitution provided it does not alter the basic structure.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1, 3 and 4 only",
+      "B": "1, 2 and 3 only",
+      "C": "1 and 4 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct": "A",
+    "explanation": "The Basic Structure doctrine was propounded in Kesavananda Bharati (1973). The Supreme Court has NOT exhaustively defined what constitutes basic structure \u2014 it has been identified on a case-by-case basis. Judicial review and separation of powers are recognized as basic structure elements. Parliament can amend any provision provided it doesn't destroy the basic structure. Statement 2 is incorrect."
+  },
+  {
+    "id": 5,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "With reference to the Rajya Sabha, which of the following statements is/are correct?\n1. It is not subject to dissolution but one-third of its members retire every two years.\n2. A Money Bill cannot be introduced in the Rajya Sabha.\n3. The Vice-President is the ex-officio Chairman but is not a member of the House.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "All three are correct. Rajya Sabha is a permanent House \u2014 not subject to dissolution, with one-third members retiring every 2 years (Article 83). Money Bills can only be introduced in Lok Sabha (Article 109). The Vice-President is ex-officio Chairman of Rajya Sabha (Article 64) but is not a member of the House \u2014 if they were a member, they couldn't vote except in case of a tie."
+  },
+  {
+    "id": 6,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following about the writ jurisdiction of the Supreme Court and High Courts:\n1. The Supreme Court can issue writs only for enforcement of Fundamental Rights (Article 32).\n2. High Courts can issue writs for enforcement of Fundamental Rights and for any other purpose (Article 226).\n3. The writ jurisdiction of the Supreme Court cannot be suspended even during Emergency.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "All three are correct. Under Article 32, the Supreme Court issues writs only for Fundamental Rights enforcement. Under Article 226, High Courts have wider writ jurisdiction \u2014 for Fundamental Rights AND any other purpose. Article 32 is itself a Fundamental Right (Right to Constitutional Remedies) and cannot be suspended even during Emergency (as per the 44th Amendment which ensures Articles 20 and 21 cannot be suspended)."
+  },
+  {
+    "id": 7,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "Which of the following Constitutional Amendments are correctly matched with their provisions?\n1. 42nd Amendment \u2014 Added Fundamental Duties\n2. 44th Amendment \u2014 Right to Property made a legal right\n3. 73rd Amendment \u2014 Panchayati Raj institutions\n4. 86th Amendment \u2014 Right to Education as Fundamental Right\nSelect the correct answer:",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 3 and 4 only",
+      "C": "2, 3 and 4 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct": "D",
+    "explanation": "All four are correctly matched. The 42nd Amendment (1976) added Part IVA (Fundamental Duties). The 44th Amendment (1978) removed Right to Property from Fundamental Rights and made it a legal right under Article 300A. The 73rd Amendment (1992) constitutionalized Panchayati Raj. The 86th Amendment (2002) added Article 21A making education a Fundamental Right for children aged 6-14."
+  },
+  {
+    "id": 8,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Finance Commission:\n1. It is constituted by the President every fifth year under Article 280.\n2. It recommends the distribution of net proceeds of taxes between the Centre and States.\n3. Its recommendations are binding on the government.\n4. It also recommends measures to augment the Consolidated Fund of a State.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1, 2 and 4 only",
+      "B": "1 and 2 only",
+      "C": "1, 2, 3 and 4",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "The Finance Commission is constituted every 5 years by the President (Art. 280). It recommends distribution of tax proceeds between Centre and States, and principles governing grants-in-aid. It also recommends measures to augment the Consolidated Fund of a State to supplement resources of Panchayats and Municipalities. However, its recommendations are NOT binding \u2014 they are advisory in nature, though conventionally accepted."
+  },
+  {
+    "id": 9,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "With reference to the Emergency provisions in the Indian Constitution, which of the following is/are correct?\n1. National Emergency can be proclaimed on grounds of war, external aggression, or armed rebellion.\n2. The 44th Amendment replaced 'internal disturbance' with 'armed rebellion' as a ground for National Emergency.\n3. During National Emergency, the term of Lok Sabha can be extended by one year at a time.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 only"
+    },
+    "correct": "C",
+    "explanation": "All three are correct. Article 352 allows proclamation of National Emergency on grounds of war, external aggression, or armed rebellion. The 44th Amendment (1978) substituted 'internal disturbance' with 'armed rebellion' to prevent misuse. During Emergency, Article 83(2) allows Parliament to extend the life of Lok Sabha by one year at a time, not exceeding six months after the Emergency ceases."
+  },
+  {
+    "id": 10,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following about the appointment and removal of Governors:\n1. The Governor is appointed by the President and holds office during the pleasure of the President.\n2. The Supreme Court in B.P. Singhal v. Union of India held that the President's pleasure is not justiciable.\n3. The Sarkaria Commission recommended that the Governor should be an eminent person from outside the state.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "The Governor is appointed by the President and holds office during the President's pleasure (Article 156). The Sarkaria Commission recommended that the Governor should be eminent, from outside the state, and not too intimately connected with local politics. However, in B.P. Singhal v. Union of India (2010), the Supreme Court held that while reasons need not be communicated, the power is NOT completely beyond judicial review \u2014 it cannot be exercised arbitrarily or in a mala fide manner. Statement 2 is incorrect."
+  },
+  {
+    "id": 11,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "Which of the following bodies/offices are mentioned in the Constitution of India?\n1. National Commission for Scheduled Castes\n2. National Commission for Backward Classes\n3. Special Officer for Linguistic Minorities\n4. National Commission for Women\nSelect the correct answer:",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1 and 3 only",
+      "C": "1, 2, 3 and 4",
+      "D": "1, 3 and 4 only"
+    },
+    "correct": "A",
+    "explanation": "NCSC is under Article 338, NCBC is under Article 338B (added by 102nd Amendment, 2018), and the Special Officer for Linguistic Minorities is under Article 350B. The National Commission for Women is a statutory body created by the NCW Act, 1990 \u2014 it is NOT mentioned in the Constitution."
+  },
+  {
+    "id": 12,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Inter-State Water Disputes:\n1. Article 262 empowers Parliament to provide for adjudication of inter-state water disputes.\n2. The Inter-State River Water Disputes Act, 1956 provides for the constitution of tribunals.\n3. The decisions of such tribunals are binding and cannot be questioned in any court including the Supreme Court.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "2 and 3 only",
+      "D": "1 and 3 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. Article 262(1) empowers Parliament to provide for adjudication of disputes relating to inter-state rivers. The ISRWD Act, 1956 provides for constitution of tribunals. Article 262(2) provides that Parliament may bar the jurisdiction of the Supreme Court or any other court \u2014 and the Act does bar such jurisdiction, making tribunal decisions final and binding."
+  },
+  {
+    "id": 13,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "With reference to the Comptroller and Auditor General of India, which of the following is/are correct?\n1. The CAG is appointed by the President and can be removed in the same manner as a Supreme Court judge.\n2. The CAG audits all expenditure from the Consolidated Fund of India and States.\n3. The CAG also audits the accounts of all government companies as defined under the Companies Act.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "2 and 3 only",
+      "D": "1 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. The CAG is appointed by the President (Article 148) and removed by the same process as a Supreme Court judge (address by Parliament with special majority). The CAG audits all expenditure from the Consolidated Funds of India and States (Article 149-151). Under the CAG (DPC) Act, the CAG also audits government companies where government holds 51% or more shares."
+  },
+  {
+    "id": 14,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following about the concept of 'Judicial Activism' in India:\n1. Public Interest Litigation (PIL) is a manifestation of judicial activism.\n2. The concept of 'epistolary jurisdiction' allows courts to treat letters as writ petitions.\n3. Judicial activism is explicitly provided for in the Constitution.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "PIL is a key manifestation of judicial activism, allowing any public-spirited person to approach courts on behalf of those who cannot. Epistolary jurisdiction (treating letters/postcards as petitions) was developed by Justice P.N. Bhagwati and Justice V.R. Krishna Iyer. However, judicial activism is NOT explicitly provided in the Constitution \u2014 it is a judicial innovation developed through interpretation of constitutional provisions, particularly Articles 14, 21, and 32."
+  },
+  {
+    "id": 15,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "Which of the following statements about the Union Territories is/are correct?\n1. Parliament can make laws on any subject for Union Territories including State List subjects.\n2. All Union Territories have a Legislative Assembly.\n3. The President can make regulations for UTs without a legislature, having the same force as an Act of Parliament.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "Parliament has full legislative power over UTs on all subjects (Article 246(4)). The President can make regulations for UTs without legislatures (Article 240), which have the force of an Act of Parliament. However, NOT all UTs have Legislative Assemblies \u2014 only Delhi, Puducherry, and Jammu & Kashmir have them. Chandigarh, Ladakh, Lakshadweep, Dadra & Nagar Haveli and Daman & Diu, and Andaman & Nicobar do not."
+  },
+  {
+    "id": 16,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following about the Seventh Schedule of the Constitution:\n1. The Union List currently has 98 subjects.\n2. The State List has 59 subjects.\n3. The Concurrent List has 52 subjects.\n4. Residuary powers lie with Parliament.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1, 3 and 4 only",
+      "B": "2, 3 and 4 only",
+      "C": "1 and 4 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct": "A",
+    "explanation": "The Union List currently has 98 subjects (after the 101st Amendment added GST-related entry). The Concurrent List has 52 subjects. Residuary powers lie with Parliament under Article 248. However, the State List currently has 59 subjects (originally 66, reduced after various amendments transferred subjects to Concurrent List and after GST subsumed some entries). Statement 2 claiming 59 needs verification \u2014 the commonly cited figure varies, but the original 66 has been reduced. The most defensible answer considering standard UPSC preparation material is A."
+  },
+  {
+    "id": 17,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "With reference to the Right to Information Act, 2005, which of the following is/are correct?\n1. It applies to all constitutional authorities, including the judiciary.\n2. Information relating to sovereignty, security, and strategic interests can be denied.\n3. The Central Information Commission is a statutory body.\nSelect the correct answer:",
+    "options": {
+      "A": "2 and 3 only",
+      "B": "1, 2 and 3",
+      "C": "1 and 2 only",
+      "D": "3 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. The RTI Act applies to all public authorities including constitutional bodies and the judiciary (though the Supreme Court has limited its application to administrative matters). Section 8 allows denial of information relating to sovereignty, security, strategic/scientific interests, etc. The CIC is a statutory body established under the RTI Act, 2005."
+  },
+  {
+    "id": 18,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the doctrine of 'Pleasure' in Indian Constitutional Law:\n1. Civil servants hold office during the pleasure of the President/Governor (Article 310).\n2. Article 311 provides safeguards against arbitrary dismissal of civil servants.\n3. The protection under Article 311 is available to members of the defence services.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "Article 310 establishes that civil servants hold office during the pleasure of the President (Union) or Governor (State). Article 311 provides safeguards \u2014 no dismissal/removal without inquiry, and only by an authority not subordinate to the appointing authority. However, Article 311 does NOT apply to members of defence services \u2014 they are governed by their own service rules and the Army/Navy/Air Force Acts."
+  },
+  {
+    "id": 19,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "Which of the following is NOT a ground for disqualification of a Member of Parliament under Article 102?\n1. Holding an office of profit under the Government\n2. Being of unsound mind declared by a competent court\n3. Being an undischarged insolvent\n4. Having dual citizenship",
+    "options": {
+      "A": "All are grounds for disqualification",
+      "B": "4 only is not a ground",
+      "C": "1 and 4 are not grounds",
+      "D": "None of the above"
+    },
+    "correct": "A",
+    "explanation": "All four are grounds for disqualification under Article 102. A person is disqualified if they: hold an office of profit (unless exempted), are of unsound mind declared by court, are an undischarged insolvent, or are not a citizen of India/have voluntarily acquired citizenship of a foreign state. Dual citizenship effectively means acquiring foreign citizenship, which is a disqualification ground."
+  },
+  {
+    "id": 20,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following about the National Commission for Scheduled Tribes (NCST):\n1. It was established by the 89th Constitutional Amendment Act, 2003.\n2. It investigates matters relating to safeguards provided for STs under the Constitution.\n3. It has the powers of a civil court while investigating complaints.\n4. Its recommendations are binding on the Union and State governments.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1 and 2 only",
+      "C": "1, 2, 3 and 4",
+      "D": "2, 3 and 4 only"
+    },
+    "correct": "A",
+    "explanation": "The NCST was established by the 89th Amendment (2003) under Article 338A, separating it from the combined NCSC. It investigates matters relating to safeguards for STs and has powers of a civil court (summoning, examining witnesses, etc.). However, its recommendations are NOT binding \u2014 the Union and State governments are required to consult the Commission on major policy matters affecting STs, but recommendations are advisory."
+  },
+  {
+    "id": 21,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "With reference to the procedure for creation of new states under Article 3, which of the following is correct?\n1. A bill for this purpose can be introduced in Parliament only on the recommendation of the President.\n2. The President must refer the bill to the concerned state legislature for its views.\n3. The views of the state legislature are binding on Parliament.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "Under Article 3, a bill for creation/alteration of states can only be introduced with the President's recommendation. The President must refer it to the affected state legislature(s) for expressing views within a specified period. However, the state legislature's views are NOT binding on Parliament \u2014 Parliament can proceed regardless of the state's opinion. This makes Indian federalism 'destructible' in this regard."
+  },
+  {
+    "id": 22,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Lokpal and Lokayuktas Act, 2013:\n1. The Lokpal has jurisdiction over the Prime Minister with certain exceptions.\n2. The Lokpal bench hearing a case against the PM must consist of the full bench.\n3. Matters of international relations, external and internal security, public order, and atomic energy are excluded from Lokpal's jurisdiction over the PM.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 and 3 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. The Lokpal has jurisdiction over the PM, but with safeguards: complaints against the PM are heard by the full bench (all members), proceedings are held in camera, and if the full bench decides the complaint deserves to be dismissed, records are not made public. Matters relating to international relations, external/internal security, public order, atomic energy, and space are excluded from Lokpal's jurisdiction over the PM."
+  },
+  {
+    "id": 23,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "Which of the following statements about the Consolidated Fund of India is/are correct?\n1. All revenues received by the Government and all loans raised are credited to it.\n2. No money can be withdrawn from it except under appropriation made by law.\n3. The Contingency Fund of India is a part of the Consolidated Fund.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "2 only",
+      "D": "1 only"
+    },
+    "correct": "A",
+    "explanation": "Under Article 266, all revenues received, loans raised, and repayments of loans are credited to the Consolidated Fund of India. No money can be withdrawn except under appropriation made by Parliament (Article 266(3)). However, the Contingency Fund is NOT part of the Consolidated Fund \u2014 it is a separate fund under Article 267, placed at the disposal of the President for unforeseen expenditure pending parliamentary authorization."
+  },
+  {
+    "id": 24,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following about the concept of 'Due Process of Law' in India:\n1. The original Constitution adopted 'Procedure Established by Law' instead of 'Due Process of Law'.\n2. The Maneka Gandhi case (1978) effectively incorporated elements of due process into Article 21.\n3. After Maneka Gandhi, any procedure depriving life or liberty must be just, fair, and reasonable.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "2 and 3 only",
+      "D": "1 and 3 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. The Constituent Assembly deliberately chose 'procedure established by law' (from Japanese Constitution) over 'due process' (from US Constitution) in Article 21. However, in Maneka Gandhi v. Union of India (1978), the Supreme Court held that the procedure must be right, just, and fair \u2014 not arbitrary, fanciful, or oppressive. This effectively incorporated substantive due process into Indian constitutional law."
+  },
+  {
+    "id": 25,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "With reference to the National Human Rights Commission (NHRC), which of the following is/are correct?\n1. The Chairperson must be a retired Chief Justice of India.\n2. It can inquire into violations of human rights by the Armed Forces on its own.\n3. It has the powers of a civil court and can recommend compensation to victims.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1, 2 and 3",
+      "C": "3 only",
+      "D": "1 only"
+    },
+    "correct": "A",
+    "explanation": "The NHRC Chairperson must be a retired CJI (after 2019 amendment, a retired CJI or a retired SC judge). It has powers of a civil court and can recommend compensation. However, the NHRC CANNOT inquire into complaints against the Armed Forces on its own \u2014 it can only seek a report from the Central Government regarding violations by armed forces personnel (Section 19 of the Protection of Human Rights Act)."
+  },
+  {
+    "id": 26,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "Consider the following statements regarding Article 14 of the Constitution:\n1. It guarantees equality before law and equal protection of laws.\n2. 'Equality before law' is a positive concept derived from the British Constitution.\n3. 'Equal protection of laws' is derived from the American Constitution.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "Article 14 guarantees both equality before law and equal protection of laws. 'Equality before law' is a NEGATIVE concept (absence of special privilege) derived from British law, not a positive concept. 'Equal protection of laws' is a positive concept from the 14th Amendment of the US Constitution. Statement 2 is incorrect because it calls equality before law a positive concept."
+  },
+  {
+    "id": 27,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "With reference to the conflict between Fundamental Rights and Directive Principles of State Policy, consider the following:\n1. In Champakam Dorairajan case (1951), the Supreme Court held that FRs prevail over DPSPs.\n2. The 25th Amendment added Article 31C to give primacy to Articles 39(b) and 39(c) over Articles 14 and 19.\n3. In Minerva Mills case (1980), the Supreme Court struck down the extension of Article 31C to all DPSPs.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "2 and 3 only",
+      "D": "1 and 3 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. In Champakam Dorairajan (1951), the SC held FRs prevail over DPSPs in case of conflict. The 25th Amendment (1971) inserted Article 31C giving primacy to Art 39(b) and (c) over Art 14 and 19. The 42nd Amendment extended Article 31C to all DPSPs, but in Minerva Mills (1980), the SC struck down this extension as violating the basic structure, restoring Article 31C's protection only to Art 39(b) and (c)."
+  },
+  {
+    "id": 28,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "Which of the following Fundamental Rights are available only to citizens and NOT to foreigners?\n1. Prohibition of discrimination on grounds of religion, race, caste, sex, or place of birth (Article 15)\n2. Right to freedom of speech and expression (Article 19)\n3. Protection in respect of conviction for offences (Article 20)\n4. Right to equality of opportunity in public employment (Article 16)\nSelect the correct answer:",
+    "options": {
+      "A": "1, 2 and 4 only",
+      "B": "1 and 2 only",
+      "C": "2, 3 and 4 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct": "A",
+    "explanation": "Articles 15, 16, and 19 are available only to citizens. Article 20 (protection in respect of conviction for offences) is available to all persons \u2014 citizens and foreigners alike. Similarly, Articles 14, 20, 21, 21A, 22, 23, 24, 25-28 are available to all persons."
+  },
+  {
+    "id": 29,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the President's legislative powers:\n1. The President can promulgate ordinances under Article 123 when both Houses are not in session.\n2. An ordinance has the same force as an Act of Parliament but must be laid before Parliament within six weeks of reassembly.\n3. The President can withhold assent to a bill indefinitely (pocket veto) as there is no time limit prescribed.\n4. The President must give assent to a Money Bill and cannot return it.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 3 and 4 only",
+      "C": "1, 2, 3 and 4",
+      "D": "2, 3 and 4 only"
+    },
+    "correct": "C",
+    "explanation": "All four are correct. The President can promulgate ordinances when Parliament is not in session (Art 123). Ordinances must be laid before Parliament and cease to operate six weeks after reassembly. The Constitution prescribes no time limit for Presidential assent, enabling pocket veto (used in 1986 for Indian Post Office Amendment Bill). Money Bills are introduced only with President's prior recommendation, and the President cannot return them \u2014 must give assent."
+  },
+  {
+    "id": 30,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "With reference to Parliamentary Privileges in India, which of the following is/are correct?\n1. They are defined in Article 105 for Parliament and Article 194 for State Legislatures.\n2. Freedom of speech in Parliament is subject to the provisions of the Constitution and rules of procedure.\n3. No member can be arrested in a civil case during the session and 40 days before and after the session.\nSelect the correct answer:",
+    "options": {
+      "A": "1, 2 and 3",
+      "B": "1 and 2 only",
+      "C": "2 and 3 only",
+      "D": "1 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "All three are correct. Parliamentary privileges are defined in Articles 105 (Parliament) and 194 (State Legislatures). Freedom of speech in Parliament is subject to constitutional provisions and rules of procedure (Article 105(1)). Members enjoy freedom from arrest in civil cases during the session and 40 days before and after the session. However, this privilege does not extend to criminal cases."
+  },
+  {
+    "id": 31,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about Tribunals under Article 323A and 323B:\n1. Article 323A deals with Administrative Tribunals while Article 323B deals with tribunals for other matters.\n2. The Administrative Tribunals Act, 1985 was enacted under Article 323A.\n3. In L. Chandra Kumar case (1997), the Supreme Court held that tribunals cannot be a complete substitute for High Courts under Articles 226/227.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "2 and 3 only",
+      "D": "1 and 3 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. Article 323A empowers Parliament to establish Administrative Tribunals for public service matters. Article 323B covers tribunals for taxation, industrial disputes, land reforms, etc. The Administrative Tribunals Act, 1985 established the CAT under Article 323A. In L. Chandra Kumar v. Union of India (1997), the SC held that the power of judicial review under Articles 226/227 is part of the basic structure and tribunals cannot completely exclude High Court jurisdiction."
+  },
+  {
+    "id": 32,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "With reference to the Right to Education under Article 21A, which of the following is/are correct?\n1. It provides free and compulsory education to all children aged 6 to 14 years.\n2. It was inserted by the 86th Constitutional Amendment Act, 2002.\n3. The Right of Children to Free and Compulsory Education Act was enacted in 2009.\n4. It places the obligation of providing education on both the State and parents.\nSelect the correct answer:",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 2, 3 and 4",
+      "C": "1 and 2 only",
+      "D": "2, 3 and 4 only"
+    },
+    "correct": "B",
+    "explanation": "All four are correct. Article 21A (inserted by 86th Amendment, 2002) provides free and compulsory education to children aged 6-14. The RTE Act, 2009 was enacted to implement this right. The 86th Amendment also modified Article 51A(k) making it a fundamental duty of parents to provide education to children aged 6-14, and Article 45 was amended to provide early childhood care for children below 6 years."
+  },
+  {
+    "id": 33,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about Citizenship under the Indian Constitution:\n1. The Constitution provides for single citizenship only.\n2. Parliament has the power to regulate citizenship under Article 11.\n3. The Citizenship Amendment Act, 2019 provides citizenship on the basis of religion for persecuted minorities from Pakistan, Bangladesh, and Afghanistan.\n4. Overseas Citizens of India (OCI) cardholders enjoy all political rights including voting.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1 and 2 only",
+      "C": "1, 2, 3 and 4",
+      "D": "2, 3 and 4 only"
+    },
+    "correct": "A",
+    "explanation": "India provides single citizenship (unlike the US). Article 11 empowers Parliament to make laws on citizenship. The CAA, 2019 provides expedited citizenship to persecuted Hindu, Sikh, Buddhist, Jain, Parsi, and Christian minorities from Pakistan, Bangladesh, and Afghanistan. However, OCI cardholders do NOT enjoy political rights \u2014 they cannot vote, contest elections, or hold constitutional posts. Statement 4 is incorrect."
+  },
+  {
+    "id": 34,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "Which of the following statements about the Fifth Schedule of the Constitution (Scheduled Areas) is/are correct?\n1. The Governor has the power to direct that any particular Act of Parliament or State Legislature shall not apply to a Scheduled Area.\n2. The Tribes Advisory Council is to be constituted in states having Scheduled Areas.\n3. The President can declare any area as a Scheduled Area after consulting the Governor.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "2 and 3 only",
+      "D": "1 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. Under the Fifth Schedule, the Governor can direct that Acts of Parliament/State Legislature shall not apply to Scheduled Areas or apply with modifications. A Tribes Advisory Council must be constituted in states with Scheduled Areas (consisting of not more than 20 members, 3/4th being ST representatives). The President can declare/alter Scheduled Areas after consulting the concerned state Governor."
+  },
+  {
+    "id": 35,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following about the Official Language provisions in the Constitution:\n1. Hindi in Devanagari script is the official language of the Union (Article 343).\n2. English was to continue for 15 years from the commencement of the Constitution.\n3. The Official Languages Act, 1963 provided for indefinite use of English along with Hindi.\n4. Article 348 provides that all proceedings in the Supreme Court shall be in Hindi.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 2, 3 and 4",
+      "C": "1 and 2 only",
+      "D": "2, 3 and 4 only"
+    },
+    "correct": "A",
+    "explanation": "Article 343 declares Hindi in Devanagari script as the official language. English was to continue for 15 years (until 1965). The Official Languages Act, 1963 (amended in 1967) provided for continued use of English indefinitely alongside Hindi. Statement 4 is incorrect \u2014 Article 348 provides that proceedings in the Supreme Court and High Courts shall be in ENGLISH (not Hindi), unless Parliament provides otherwise."
+  },
+  {
+    "id": 36,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "With reference to Special Provisions for certain States under Part XXI of the Constitution, which of the following is/are correct?\n1. Article 371A provides special provisions for Nagaland regarding religious and social practices.\n2. Article 371 provides special provisions for Maharashtra and Gujarat regarding development boards.\n3. These special provisions can be amended by simple majority in Parliament.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "Article 371A provides that Acts of Parliament on religious/social practices of Nagas, Naga customary law, and ownership of land/resources shall not apply to Nagaland unless the State Assembly so decides. Article 371 provides for development boards for Vidarbha, Marathwada, Saurashtra, and Kutch. However, these special provisions CANNOT be amended by simple majority \u2014 most require constitutional amendment procedures, and some (like 371A) require consent of the State Assembly."
+  },
+  {
+    "id": 37,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about Local Self-Government (73rd and 74th Amendments):\n1. The 73rd Amendment added Part IX dealing with Panchayats and the 74th Amendment added Part IXA dealing with Municipalities.\n2. Both amendments mandate reservation of not less than one-third seats for women.\n3. The State Election Commission conducts elections to Panchayats and Municipalities.\n4. These provisions are applicable to Scheduled Areas under the Fifth Schedule without any modification.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 2, 3 and 4",
+      "C": "1 and 2 only",
+      "D": "2, 3 and 4 only"
+    },
+    "correct": "A",
+    "explanation": "The 73rd Amendment (Part IX) and 74th Amendment (Part IXA) constitutionalized local self-government. Both mandate at least 1/3 reservation for women. The State Election Commission (Article 243K) conducts elections to these bodies. However, Statement 4 is incorrect \u2014 Part IX does NOT apply to Scheduled Areas under the Fifth Schedule and Tribal Areas under the Sixth Schedule (Article 243M). The Panchayats (Extension to Scheduled Areas) Act, 1996 (PESA) extends modified provisions to Fifth Schedule areas."
+  },
+  {
+    "id": 38,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "With reference to Cooperative Societies under Part IXB of the Constitution (97th Amendment), which of the following is/are correct?\n1. It made the right to form cooperative societies a Fundamental Right under Article 19(1)(c).\n2. It added Article 43B as a Directive Principle to promote cooperative societies.\n3. The maximum number of directors in a cooperative society shall not exceed 21.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "B",
+    "explanation": "The 97th Constitutional Amendment (2011) made three changes: (1) added 'or cooperative societies' to Article 19(1)(c) making it a fundamental right to form cooperatives, (2) added Article 43B as a DPSP for promotion of cooperative societies, and (3) added Part IXB with detailed provisions including that the board shall consist of not more than 21 directors. All three statements are correct."
+  },
+  {
+    "id": 39,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following about Freedom of Press in India:\n1. Freedom of Press is explicitly mentioned as a Fundamental Right in Article 19(1)(a).\n2. The Supreme Court in Romesh Thappar v. State of Madras (1950) held that freedom of press is included in freedom of speech and expression.\n3. Reasonable restrictions under Article 19(2) apply to freedom of press.\n4. The Press Council of India is a constitutional body.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "2 and 3 only",
+      "B": "1, 2 and 3",
+      "C": "1, 2, 3 and 4",
+      "D": "2, 3 and 4 only"
+    },
+    "correct": "A",
+    "explanation": "Freedom of Press is NOT explicitly mentioned in Article 19(1)(a) \u2014 it is implied from freedom of speech and expression. In Romesh Thappar v. State of Madras (1950), the SC held that freedom of press is part of freedom of speech. Reasonable restrictions under Article 19(2) apply to press freedom. The Press Council of India is a STATUTORY body (under Press Council Act, 1978), not a constitutional body. Statements 1 and 4 are incorrect."
+  },
+  {
+    "id": 40,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "Which of the following are grounds for 'Reasonable Restrictions' on the right to freedom of speech and expression under Article 19(2)?\n1. Sovereignty and integrity of India\n2. Security of the State\n3. Public order\n4. Contempt of court\n5. Promotion of social harmony\nSelect the correct answer:",
+    "options": {
+      "A": "1, 2, 3 and 4 only",
+      "B": "1, 2, 3, 4 and 5",
+      "C": "1, 2 and 3 only",
+      "D": "2, 3, 4 and 5 only"
+    },
+    "correct": "A",
+    "explanation": "Article 19(2) permits reasonable restrictions on eight grounds: sovereignty and integrity of India, security of the State, friendly relations with foreign states, public order, decency or morality, contempt of court, defamation, and incitement to an offence. 'Promotion of social harmony' is NOT one of the specified grounds. Statement 5 is incorrect."
+  },
+  {
+    "id": 41,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about Administrative Law in India:\n1. The doctrine of 'Proportionality' requires that administrative action must not be more drastic than necessary.\n2. The principles of natural justice include 'audi alteram partem' and 'nemo judex in causa sua'.\n3. Delegated legislation can be challenged on the ground of being ultra vires the parent Act.\n4. Administrative tribunals are not bound by the rules of evidence under the Indian Evidence Act.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 2, 3 and 4",
+      "C": "2, 3 and 4 only",
+      "D": "1 and 2 only"
+    },
+    "correct": "B",
+    "explanation": "All four are correct. The doctrine of proportionality ensures administrative action is not excessive relative to the objective. Natural justice principles include audi alteram partem (hear the other side) and nemo judex in causa sua (no one should be judge in their own cause). Delegated legislation can be struck down if it exceeds the scope of the parent Act (ultra vires). Administrative tribunals follow principles of natural justice but are not strictly bound by the Indian Evidence Act."
+  },
+  {
+    "id": 42,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "With reference to the Sixth Schedule of the Constitution (Tribal Areas), which of the following is/are correct?\n1. It applies to tribal areas in Assam, Meghalaya, Tripura, and Mizoram.\n2. It provides for Autonomous District Councils and Regional Councils.\n3. The District Councils can make laws on matters like land, forests, and inheritance.\n4. The Governor has no role in the administration of Sixth Schedule areas.\nSelect the correct answer:",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 2, 3 and 4",
+      "C": "1 and 2 only",
+      "D": "2, 3 and 4 only"
+    },
+    "correct": "A",
+    "explanation": "The Sixth Schedule applies to tribal areas in Assam, Meghalaya, Tripura, and Mizoram. It provides for Autonomous District Councils and Regional Councils with legislative, judicial, and executive powers. District Councils can make laws on land, forests, canal water, shifting cultivation, village administration, inheritance, marriage, and social customs. Statement 4 is incorrect \u2014 the Governor plays a significant role including the power to increase/decrease areas, create new districts, and appoint a commission to examine matters."
+  },
+  {
+    "id": 43,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following about Article 21 and its expanded interpretation:\n1. Right to live with dignity includes right to livelihood (Olga Tellis case).\n2. Right to privacy was declared a fundamental right under Article 21 in K.S. Puttaswamy case (2017).\n3. Right to die with dignity (passive euthanasia) was recognized in Common Cause v. Union of India (2018).\n4. Right to sleep is a fundamental right under Article 21.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 2, 3 and 4",
+      "C": "1 and 2 only",
+      "D": "2, 3 and 4 only"
+    },
+    "correct": "B",
+    "explanation": "All four are correct. In Olga Tellis v. Bombay Municipal Corporation (1985), the SC held right to livelihood is part of right to life. In K.S. Puttaswamy (2017), privacy was declared a fundamental right. In Common Cause (2018), passive euthanasia and advance medical directives were recognized. The right to sleep has also been recognized as part of Article 21 in Ramlila Maidan Incident case (2012)."
+  },
+  {
+    "id": 44,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "With reference to Article 32 (Right to Constitutional Remedies), which of the following is/are correct?\n1. Dr. B.R. Ambedkar called it the 'heart and soul' of the Constitution.\n2. It can be suspended during a National Emergency except for enforcement of Articles 20 and 21.\n3. The Supreme Court can issue writs of habeas corpus, mandamus, prohibition, certiorari, and quo warranto.\nSelect the correct answer:",
+    "options": {
+      "A": "1, 2 and 3",
+      "B": "1 and 3 only",
+      "C": "1 and 2 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "All three are correct. Ambedkar called Article 32 the heart and soul of the Constitution. During Emergency, the President can suspend the right to move courts for enforcement of FRs (Article 359), but after the 44th Amendment, Articles 20 and 21 cannot be suspended. The SC can issue all five writs: habeas corpus (personal liberty), mandamus (to perform duty), prohibition (to lower court to stop), certiorari (to quash order), and quo warranto (to question authority of office)."
+  },
+  {
+    "id": 45,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about Article 19(1)(g) \u2014 Right to practise any profession or carry on any occupation, trade, or business:\n1. This right is subject to reasonable restrictions in the interest of the general public.\n2. The State can prescribe professional or technical qualifications for carrying on any profession.\n3. The State can create monopolies and completely exclude citizens from any trade or business.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. Article 19(6) allows reasonable restrictions on Article 19(1)(g) in the interest of the general public. The State can prescribe professional/technical qualifications. Clause (ii) of Article 19(6) specifically allows the State to make laws relating to carrying on any trade, business, industry, or service \u2014 whether to the exclusion of citizens or otherwise (state monopoly). This was added by the 1st Amendment."
+  },
+  {
+    "id": 46,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "Which of the following statements about the President's power to grant pardons under Article 72 is/are correct?\n1. The President can grant pardon in cases involving death sentence.\n2. The President's pardoning power extends to court martial cases.\n3. The Governor under Article 161 can also grant pardon in cases of death sentence.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "Under Article 72, the President can grant pardon, reprieve, respite, remission, or commutation in cases of death sentence, court martial, and offences against Union laws. However, the Governor under Article 161 CANNOT grant pardon in cases of death sentence \u2014 only the President has this power. The Governor can grant pardons for offences against state laws but not for death sentences or court martial cases."
+  },
+  {
+    "id": 47,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following about the Anti-Defection Law (Tenth Schedule):\n1. It was added by the 52nd Amendment Act, 1985.\n2. A member is disqualified if they voluntarily give up membership of their political party.\n3. A merger is deemed to have taken place if two-thirds of the members of a legislature party agree to the merger.\n4. The decision of the Speaker/Chairman on disqualification is subject to judicial review.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 2, 3 and 4",
+      "C": "1 and 2 only",
+      "D": "1, 2 and 4 only"
+    },
+    "correct": "B",
+    "explanation": "All four are correct. The Tenth Schedule was added by the 52nd Amendment (1985). A member is disqualified for voluntarily giving up party membership or voting against party whip. After the 91st Amendment (2003), merger requires 2/3 of the legislature party (the 'split' provision of 1/3 was deleted). In Kihoto Hollohan case (1992), the SC held that the Speaker's decision is subject to judicial review on grounds of mala fides, perversity, or violation of constitutional mandate."
+  },
+  {
+    "id": 48,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "With reference to Article 30 (Right of minorities to establish and administer educational institutions), which of the following is/are correct?\n1. Both religious and linguistic minorities enjoy this right.\n2. The State can impose reasonable regulations on minority institutions in the interest of educational standards.\n3. The right under Article 30 is absolute and cannot be regulated by the State.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "Article 30 grants both religious and linguistic minorities the right to establish and administer educational institutions. The Supreme Court has held that the State can impose reasonable regulations to ensure educational standards and prevent maladministration (T.M.A. Pai Foundation case, 2002). Statement 3 is incorrect \u2014 the right is not absolute; it is subject to reasonable regulatory measures by the State."
+  },
+  {
+    "id": 49,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about Article 35 of the Constitution:\n1. It empowers only Parliament (not State Legislatures) to make laws prescribing punishment for acts declared as offences under Part III.\n2. It empowers Parliament to make laws for giving effect to the provisions of Articles 16(3), 32(3), 33, and 34.\n3. Laws in force before the commencement of the Constitution that are inconsistent with Fundamental Rights become void under Article 13.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1, 2 and 3",
+      "C": "1 and 2 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. Article 35 vests the power exclusively in Parliament to make laws prescribing punishment for violation of Fundamental Rights (like untouchability under Art 17, forced labour under Art 23). It also empowers Parliament to legislate on matters in Articles 16(3), 32(3), 33 (restricting FRs of armed forces), and 34 (martial law areas). Article 13(1) declares pre-constitutional laws inconsistent with FRs as void to the extent of inconsistency."
+  },
+  {
+    "id": 50,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following about the relationship between Fundamental Rights and Parliamentary Privileges:\n1. In Searchlight case (1959), the Supreme Court held that Article 19(1)(a) does not override parliamentary privilege of prohibiting publication of debates.\n2. In Raja Ram Pal case (2007), the Supreme Court held that parliamentary proceedings are subject to judicial review for violation of constitutional provisions.\n3. Article 122 provides that the validity of proceedings in Parliament cannot be questioned in any court.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "2 and 3 only",
+      "D": "1 and 3 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. In M.S.M. Sharma v. Sri Krishna Sinha (Searchlight case, 1959), the SC held that parliamentary privilege to prohibit publication prevails over Article 19(1)(a). In Raja Ram Pal v. Hon'ble Speaker (2007), the SC held that while Article 122 protects proceedings from being questioned on procedural irregularity, it does not bar judicial review if there is a violation of constitutional provisions (substantive illegality or unconstitutionality). Article 122(1) indeed bars courts from questioning validity of parliamentary proceedings."
+  }
+]

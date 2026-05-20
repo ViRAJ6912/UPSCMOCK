@@ -1,1 +1,752 @@
-[{"id":1,"paper":"csat-comprehension","subject":"Placeholder","difficulty":"Medium","question":"Placeholder question — questions coming soon.","options":{"A":"Option A","B":"Option B","C":"Option C","D":"Option D"},"correct":"A","explanation":"Placeholder explanation."}]
+[
+  {
+    "id": 1,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'Decentralization of governance does not merely imply the transfer of authority from the centre to the periphery. It requires building institutional capacity at local levels, ensuring financial autonomy, and fostering participatory decision-making. Without these prerequisites, decentralization becomes a hollow exercise in administrative restructuring.'\n\nWhat is the central argument of the passage?",
+    "options": {
+      "A": "Decentralization always leads to better governance outcomes",
+      "B": "True decentralization requires more than just transferring authority",
+      "C": "Financial autonomy is the most important aspect of decentralization",
+      "D": "Administrative restructuring is unnecessary for governance reform"
+    },
+    "correct": "B",
+    "explanation": "The passage argues that decentralization is not merely about transferring authority but requires institutional capacity, financial autonomy, and participatory decision-making to be meaningful."
+  },
+  {
+    "id": 2,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'The paradox of economic growth in developing nations lies in its simultaneous capacity to reduce absolute poverty while exacerbating relative inequality. As GDP rises, the benefits often accrue disproportionately to those already possessing capital, education, and social networks. The trickle-down hypothesis, while not entirely without merit, operates on timescales that test the patience of democratic polities.'\n\nWhich inference can be most reasonably drawn from the passage?",
+    "options": {
+      "A": "Economic growth has no positive impact on poverty reduction",
+      "B": "Democratic governments may face political pressure due to slow redistribution of growth benefits",
+      "C": "The trickle-down hypothesis has been conclusively disproven",
+      "D": "Developing nations should abandon the pursuit of GDP growth"
+    },
+    "correct": "B",
+    "explanation": "The passage states that trickle-down operates on timescales that 'test the patience of democratic polities,' implying that democratic governments face political pressure because benefits take too long to reach the poor."
+  },
+  {
+    "id": 3,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'Biodiversity loss is not simply an environmental concern; it is fundamentally an economic and security issue. Ecosystem services—pollination, water purification, carbon sequestration—underpin agricultural productivity and human health. When species disappear, the resilience of these systems diminishes, creating vulnerabilities that cascade through food systems and economies.'\n\nThe author's tone in this passage can best be described as:",
+    "options": {
+      "A": "Alarmist and exaggerated",
+      "B": "Analytical and cautionary",
+      "C": "Indifferent and detached",
+      "D": "Optimistic about technological solutions"
+    },
+    "correct": "B",
+    "explanation": "The author presents a reasoned analysis of biodiversity loss, connecting it to economic and security concerns with a cautionary tone, without being alarmist or indifferent."
+  },
+  {
+    "id": 4,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'The philosophical foundations of rights-based governance rest on the assumption that certain entitlements are inherent to personhood and cannot be legitimately abrogated by the state. However, this universalist framework encounters friction when applied across cultures with divergent conceptions of the individual's relationship to the collective. The challenge is not to abandon universalism but to articulate it in ways that accommodate pluralism without dissolving into relativism.'\n\nWhat logical conclusion does the author arrive at?",
+    "options": {
+      "A": "Universal rights should be abandoned in favor of cultural relativism",
+      "B": "Rights-based governance is incompatible with non-Western cultures",
+      "C": "Universalism must be reformulated to respect diversity while maintaining core principles",
+      "D": "The state should have unlimited power to define rights"
+    },
+    "correct": "C",
+    "explanation": "The author concludes that the challenge is to articulate universalism in ways that accommodate pluralism without dissolving into relativism—essentially reformulating universalism to respect diversity while maintaining its core."
+  },
+  {
+    "id": 5,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'Science policy in India has historically oscillated between two imperatives: building indigenous technological capability and addressing immediate developmental needs. The tension between investing in frontier research and deploying existing technologies for poverty alleviation has shaped institutional choices from the establishment of national laboratories to the recent emphasis on mission-mode programs.'\n\nWhat is the main idea of the passage?",
+    "options": {
+      "A": "India's science policy has been shaped by the tension between long-term capability building and immediate development needs",
+      "B": "National laboratories have failed to deliver on their mandate",
+      "C": "Mission-mode programs are superior to basic research",
+      "D": "India should prioritize frontier research over poverty alleviation"
+    },
+    "correct": "A",
+    "explanation": "The passage describes how India's science policy has been shaped by the oscillation between building indigenous capability (long-term) and addressing immediate developmental needs."
+  },
+  {
+    "id": 6,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'The caste system's persistence in modern India cannot be explained solely through the lens of tradition or religious sanction. It is reproduced through material structures—land ownership patterns, occupational segregation, educational access disparities, and matrimonial networks. Legislation alone cannot dismantle what is embedded in the economic architecture of society. Affirmative action addresses symptoms while the underlying structures of accumulation remain largely intact.'\n\nWhich of the following best represents the author's critical analysis?",
+    "options": {
+      "A": "The caste system is purely a religious phenomenon",
+      "B": "Affirmative action has been completely ineffective",
+      "C": "Caste persists because it is sustained by material and economic structures that legal measures alone cannot transform",
+      "D": "Legislation should be repealed as it serves no purpose"
+    },
+    "correct": "C",
+    "explanation": "The author argues that caste is reproduced through material structures and that legislation alone cannot dismantle it, as affirmative action addresses symptoms while underlying structures remain intact."
+  },
+  {
+    "id": 7,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'The multilateral trading system faces an existential crisis not because free trade has failed to generate aggregate welfare gains, but because those gains have been distributed in ways that concentrate benefits among mobile capital while imposing adjustment costs on immobile labor. The political backlash against globalization is, at its core, a distributional conflict dressed in nationalist rhetoric.'\n\nWhat inference can be drawn about the author's view on anti-globalization movements?",
+    "options": {
+      "A": "They are entirely irrational and based on ignorance",
+      "B": "They reflect legitimate distributional grievances rather than purely nationalist sentiment",
+      "C": "They prove that free trade has no benefits whatsoever",
+      "D": "They are solely driven by xenophobia"
+    },
+    "correct": "B",
+    "explanation": "The author characterizes the political backlash as 'a distributional conflict dressed in nationalist rhetoric,' suggesting that anti-globalization movements reflect real economic grievances about how trade gains are distributed."
+  },
+  {
+    "id": 8,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'The Right to Education Act mandates free and compulsory education for children aged 6 to 14, yet enrollment figures mask a deeper crisis of learning outcomes. Children may attend school without acquiring foundational literacy and numeracy. The distinction between schooling and education is not merely semantic—it reflects a systemic failure to prioritize quality alongside access.'\n\nWhat distinction does the author emphasize?",
+    "options": {
+      "A": "The difference between public and private schools",
+      "B": "The difference between physical attendance at school and actual learning",
+      "C": "The difference between primary and secondary education",
+      "D": "The difference between urban and rural education systems"
+    },
+    "correct": "B",
+    "explanation": "The author explicitly distinguishes between 'schooling' (physical attendance/enrollment) and 'education' (actual learning outcomes), arguing this reflects a systemic failure to prioritize quality."
+  },
+  {
+    "id": 9,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'Artificial intelligence systems trained on historical data inevitably encode the biases present in that data. When deployed in criminal justice, hiring, or credit decisions, these systems do not merely reflect existing inequalities—they amplify and legitimize them by cloaking discriminatory patterns in the authority of algorithmic objectivity. The danger lies not in the technology itself but in the uncritical faith placed in its outputs.'\n\nWhat is the author's primary concern regarding AI systems?",
+    "options": {
+      "A": "AI technology is inherently evil and should be banned",
+      "B": "AI systems are too expensive for widespread deployment",
+      "C": "The perception of algorithmic objectivity masks and reinforces existing biases",
+      "D": "Historical data is always inaccurate"
+    },
+    "correct": "C",
+    "explanation": "The author's primary concern is that AI systems cloak discriminatory patterns in 'the authority of algorithmic objectivity,' and the danger lies in 'uncritical faith' in their outputs—meaning perceived objectivity masks real biases."
+  },
+  {
+    "id": 10,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'Sustainable development is often presented as a harmonious reconciliation of economic growth, social equity, and environmental protection. In practice, however, these three pillars frequently conflict. Rapid industrialization may lift incomes while degrading ecosystems; stringent environmental regulations may protect natural capital while constraining employment generation in the short term.'\n\nWhat is the author's view on sustainable development?",
+    "options": {
+      "A": "It is easily achievable with proper planning",
+      "B": "It is a concept with inherent tensions and trade-offs in practice",
+      "C": "Environmental protection should always take priority over economic growth",
+      "D": "It is an entirely meaningless concept"
+    },
+    "correct": "B",
+    "explanation": "The author contrasts the ideal presentation of sustainable development as 'harmonious reconciliation' with the practical reality where the three pillars 'frequently conflict,' indicating inherent tensions and trade-offs."
+  },
+  {
+    "id": 11,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'The concept of sovereignty in international relations has undergone a fundamental transformation since the Peace of Westphalia. The emergence of doctrines such as Responsibility to Protect (R2P) suggests that sovereignty is no longer an absolute shield against external intervention. Yet the selective application of R2P—invoked in Libya but not in Syria—reveals that humanitarian principles remain subordinate to geopolitical calculations.'\n\nWhat critical observation does the author make about R2P?",
+    "options": {
+      "A": "R2P has been universally and consistently applied",
+      "B": "R2P has completely replaced the concept of sovereignty",
+      "C": "The selective application of R2P shows that geopolitical interests override humanitarian principles",
+      "D": "R2P is a concept that has no practical relevance"
+    },
+    "correct": "C",
+    "explanation": "The author notes that R2P was invoked in Libya but not Syria, concluding that humanitarian principles remain subordinate to geopolitical calculations—meaning selective application reveals geopolitical interests override humanitarian concerns."
+  },
+  {
+    "id": 12,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'The Green Revolution transformed Indian agriculture by introducing high-yielding varieties, chemical fertilizers, and irrigation infrastructure. However, its benefits were geographically concentrated in Punjab, Haryana, and western Uttar Pradesh, bypassing rainfed regions. The long-term consequences—groundwater depletion, soil degradation, and farmer indebtedness—now challenge the very productivity gains it once delivered.'\n\nWhich of the following statements is supported by the passage?",
+    "options": {
+      "A": "The Green Revolution had no positive impact on Indian agriculture",
+      "B": "The Green Revolution's initial gains are now threatened by its own environmental consequences",
+      "C": "All regions of India benefited equally from the Green Revolution",
+      "D": "Chemical fertilizers have no negative environmental effects"
+    },
+    "correct": "B",
+    "explanation": "The passage states that long-term consequences like groundwater depletion and soil degradation 'now challenge the very productivity gains it once delivered,' supporting the idea that initial gains are threatened by environmental consequences."
+  },
+  {
+    "id": 13,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'Democratic deliberation presupposes a public sphere in which citizens can engage with diverse viewpoints and form reasoned opinions. The algorithmic curation of information—filter bubbles and echo chambers—fragments this public sphere into ideological silos. The crisis of democracy in the digital age is not one of insufficient information but of its hyper-personalized distribution, which undermines the shared epistemic foundation necessary for collective self-governance.'\n\nWhat logical conclusion does the passage support?",
+    "options": {
+      "A": "More information always leads to better democratic outcomes",
+      "B": "Algorithmic curation strengthens democratic deliberation",
+      "C": "Democracy requires a shared informational commons that algorithmic personalization erodes",
+      "D": "Digital technology has no impact on democratic processes"
+    },
+    "correct": "C",
+    "explanation": "The passage argues that algorithmic curation fragments the public sphere and undermines the 'shared epistemic foundation necessary for collective self-governance,' leading to the conclusion that democracy requires a shared informational commons."
+  },
+  {
+    "id": 14,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'Urbanization in India is characterized by what scholars call \"messy and hidden\" patterns. Unlike the planned urban transitions of East Asia, Indian urbanization often occurs through the densification of existing settlements and the reclassification of rural areas rather than through deliberate industrial planning. This results in urban agglomerations that lack basic infrastructure while bearing the demographic pressures of cities.'\n\nWhat is the main idea of the passage?",
+    "options": {
+      "A": "Indian urbanization is well-planned and follows the East Asian model",
+      "B": "Indian urbanization is unplanned and organic, leading to infrastructure deficits",
+      "C": "Rural areas in India are not experiencing any demographic changes",
+      "D": "Urbanization is harmful and should be reversed"
+    },
+    "correct": "B",
+    "explanation": "The passage describes Indian urbanization as 'messy and hidden,' occurring through densification and reclassification rather than deliberate planning, resulting in areas that lack basic infrastructure—indicating unplanned urbanization with infrastructure deficits."
+  },
+  {
+    "id": 15,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'The precautionary principle in environmental governance holds that where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures. Critics argue this principle, taken to its logical extreme, would paralyze all innovation since any new technology carries some uncertain risk. The resolution lies not in abandoning precaution but in developing proportionate risk assessment frameworks that distinguish between catastrophic and manageable uncertainties.'\n\nWhat position does the author take on the precautionary principle?",
+    "options": {
+      "A": "It should be abandoned entirely as it hinders progress",
+      "B": "It should be applied absolutely without any modification",
+      "C": "It should be retained but applied proportionately through risk assessment frameworks",
+      "D": "It is irrelevant to modern environmental governance"
+    },
+    "correct": "C",
+    "explanation": "The author argues the resolution lies 'not in abandoning precaution but in developing proportionate risk assessment frameworks,' indicating the principle should be retained but applied proportionately."
+  },
+  {
+    "id": 16,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'The informal economy in India employs over 80 percent of the workforce yet remains largely invisible to policy frameworks designed for formal enterprises. Workers in this sector lack social security, legal protections, and bargaining power. The formalization agenda, while well-intentioned, often fails to account for the heterogeneity of informal work—from street vendors to home-based workers to gig economy participants.'\n\nWhat inference can be drawn from the passage?",
+    "options": {
+      "A": "The informal economy is insignificant to India's overall employment",
+      "B": "A one-size-fits-all approach to formalization is unlikely to succeed given the diversity of informal work",
+      "C": "All informal workers prefer to remain in the informal sector",
+      "D": "Formalization has been successfully achieved in India"
+    },
+    "correct": "B",
+    "explanation": "The passage states that the formalization agenda 'often fails to account for the heterogeneity of informal work,' listing diverse categories, implying that a uniform approach cannot address such varied forms of informal employment."
+  },
+  {
+    "id": 17,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'Climate change adaptation requires fundamentally different institutional responses than mitigation. While mitigation is a global collective action problem amenable to international agreements, adaptation is inherently local—dependent on specific vulnerabilities, capacities, and ecological contexts. A coastal fishing community and a dryland farming village face entirely different climate risks and require distinct response strategies.'\n\nThe author's primary purpose is to:",
+    "options": {
+      "A": "Argue that climate mitigation is more important than adaptation",
+      "B": "Highlight that adaptation strategies must be context-specific rather than uniform",
+      "C": "Suggest that international agreements are unnecessary",
+      "D": "Prove that coastal communities are more vulnerable than farming villages"
+    },
+    "correct": "B",
+    "explanation": "The author emphasizes that adaptation is 'inherently local' and dependent on specific contexts, using examples to show that different communities need distinct strategies—highlighting the need for context-specific approaches."
+  },
+  {
+    "id": 18,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'The discourse on data privacy in India has evolved from a peripheral concern to a constitutional imperative following the Supreme Court's recognition of privacy as a fundamental right. Yet the architecture of digital governance—Aadhaar, digital health IDs, and surveillance infrastructure—creates tensions between the state's developmental ambitions and individual autonomy. The challenge is to construct a regulatory framework that enables data-driven governance without creating a panopticon.'\n\nWhat does the author imply by the reference to a 'panopticon'?",
+    "options": {
+      "A": "A system of universal healthcare",
+      "B": "A state of total surveillance where citizens are constantly monitored",
+      "C": "A transparent and accountable government",
+      "D": "A decentralized data storage system"
+    },
+    "correct": "B",
+    "explanation": "The panopticon is a reference to Bentham's prison design where inmates could be observed at all times. The author uses it to warn against creating a system of total state surveillance, contrasting it with the goal of data-driven governance."
+  },
+  {
+    "id": 19,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'India's demographic dividend—a large working-age population relative to dependents—is often cited as an engine of future growth. However, a demographic dividend is not automatic; it requires investments in health, education, and skill development to translate a young population into a productive workforce. Without these investments, the dividend becomes a demographic burden characterized by unemployment and social unrest.'\n\nWhich statement best captures the author's argument?",
+    "options": {
+      "A": "India's large population is inherently an economic advantage",
+      "B": "A demographic dividend requires deliberate policy investments to be realized",
+      "C": "Population growth should be curtailed immediately",
+      "D": "Health investments alone can ensure economic growth"
+    },
+    "correct": "B",
+    "explanation": "The author explicitly states that a demographic dividend 'is not automatic' and requires investments in health, education, and skills, otherwise it becomes a burden—making the argument that deliberate policy investments are necessary."
+  },
+  {
+    "id": 20,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'The Gandhian conception of development rejected the industrial model of the West not merely on environmental grounds but on philosophical ones. For Gandhi, the village republic was not a romantic anachronism but an ethical alternative to a civilization built on exploitation and alienation. Modern critics dismiss this as impractical utopianism, yet the ecological crisis vindicates at least the diagnostic element of Gandhi's critique—that unlimited material accumulation is incompatible with planetary boundaries.'\n\nWhat nuanced position does the author take?",
+    "options": {
+      "A": "Gandhi's vision should be implemented exactly as he proposed",
+      "B": "Gandhi's ideas are entirely irrelevant to modern challenges",
+      "C": "While Gandhi's prescriptions may be debatable, his diagnosis of the problems of industrial civilization has proven prescient",
+      "D": "The ecological crisis has nothing to do with material accumulation"
+    },
+    "correct": "C",
+    "explanation": "The author acknowledges critics who call Gandhi's vision 'impractical utopianism' but argues that 'the ecological crisis vindicates at least the diagnostic element'—taking the nuanced position that Gandhi's diagnosis was correct even if his prescriptions are debatable."
+  },
+  {
+    "id": 21,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'Public health infrastructure in India suffers from a fundamental mismatch between disease burden and resource allocation. While non-communicable diseases now account for over 60 percent of mortality, the health system remains oriented toward communicable disease control. Primary healthcare centers are understaffed, underfunded, and ill-equipped to manage chronic conditions requiring long-term follow-up and medication adherence.'\n\nWhat problem does the passage identify?",
+    "options": {
+      "A": "India has too many healthcare facilities",
+      "B": "The health system's structure does not match the current pattern of disease",
+      "C": "Communicable diseases are no longer a concern in India",
+      "D": "Non-communicable diseases cannot be treated at primary healthcare centers"
+    },
+    "correct": "B",
+    "explanation": "The passage identifies a 'fundamental mismatch between disease burden and resource allocation'—non-communicable diseases dominate mortality but the system remains oriented toward communicable disease control."
+  },
+  {
+    "id": 22,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'The rise of populism across democracies cannot be attributed to a single cause. It emerges at the intersection of economic dislocation, cultural anxiety, institutional distrust, and the failure of mainstream parties to articulate credible responses to rapid social change. Populist leaders exploit the gap between elite consensus and popular sentiment, offering simplistic narratives that bypass the complexity of governance.'\n\nWhat is the author's tone toward populist leaders?",
+    "options": {
+      "A": "Admiring of their ability to connect with people",
+      "B": "Neutral and purely descriptive",
+      "C": "Critical, viewing them as exploiting grievances with oversimplified solutions",
+      "D": "Supportive of their challenge to elite consensus"
+    },
+    "correct": "C",
+    "explanation": "The author uses words like 'exploit' and 'simplistic narratives that bypass the complexity of governance,' indicating a critical tone toward populist leaders who offer oversimplified solutions to complex problems."
+  },
+  {
+    "id": 23,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'The National Education Policy 2020 envisions a shift from rote memorization to critical thinking, multidisciplinary learning, and flexibility in course selection. However, implementation faces structural barriers: a shortage of trained teachers, rigid examination systems that reward memorization, and state-level variations in capacity and political will. Policy vision without implementation architecture remains aspirational.'\n\nWhat can be inferred about the author's assessment of NEP 2020?",
+    "options": {
+      "A": "The policy's vision is sound but its implementation faces significant challenges",
+      "B": "The policy is fundamentally flawed in its conception",
+      "C": "Implementation will be smooth and straightforward",
+      "D": "The policy focuses too much on implementation and not enough on vision"
+    },
+    "correct": "A",
+    "explanation": "The author describes the policy's vision positively (shift to critical thinking, flexibility) but identifies structural barriers to implementation, concluding that 'policy vision without implementation architecture remains aspirational.'"
+  },
+  {
+    "id": 24,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'The ethics of gene editing technologies like CRISPR present a classic case of the Collingridge dilemma: at the early stage of a technology's development, its social consequences cannot be fully anticipated, but by the time consequences become apparent, the technology is so embedded that control becomes difficult. Regulatory frameworks must therefore be adaptive—capable of evolving with the technology rather than being fixed at a single point in time.'\n\nWhat does the Collingridge dilemma, as described in the passage, suggest about technology regulation?",
+    "options": {
+      "A": "Technology should never be regulated",
+      "B": "Regulation is easy if implemented early enough",
+      "C": "There is an inherent timing problem—regulation is difficult both early and late in a technology's development",
+      "D": "Only scientists should decide on technology regulation"
+    },
+    "correct": "C",
+    "explanation": "The passage describes the dilemma as: early on, consequences cannot be anticipated (making regulation difficult), and later, the technology is too embedded to control (also making regulation difficult)—an inherent timing problem."
+  },
+  {
+    "id": 25,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'India's federal structure creates both opportunities and challenges for policy implementation. States serve as laboratories of democracy, experimenting with diverse approaches to common problems. Kerala's healthcare model, Gujarat's industrial policy, and Tamil Nadu's noon meal scheme demonstrate how state-level innovation can generate nationally replicable solutions. Yet this diversity also produces stark inter-state disparities in human development outcomes.'\n\nWhat is the author's view on India's federal structure?",
+    "options": {
+      "A": "It is entirely beneficial with no drawbacks",
+      "B": "It should be replaced with a unitary system",
+      "C": "It enables innovation but also produces inequality between states",
+      "D": "It prevents any meaningful policy experimentation"
+    },
+    "correct": "C",
+    "explanation": "The author presents federalism as creating 'both opportunities and challenges'—states innovate as 'laboratories of democracy' but this diversity also produces 'stark inter-state disparities,' showing both benefits and drawbacks."
+  },
+  {
+    "id": 26,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'The concept of climate justice reframes the environmental crisis as a question of equity rather than merely of science. Historically, industrialized nations have consumed a disproportionate share of the atmospheric carbon budget, yet the consequences of climate change fall most heavily on nations that contributed least to the problem. The principle of common but differentiated responsibilities attempts to operationalize this moral asymmetry, though its practical application remains contentious in international negotiations.'\n\nWhat is the central tension identified in the passage?",
+    "options": {
+      "A": "Science versus religion in understanding climate change",
+      "B": "The moral asymmetry between those who caused climate change and those who suffer its consequences",
+      "C": "The conflict between economic growth and environmental protection within a single nation",
+      "D": "The disagreement between scientists about the reality of climate change"
+    },
+    "correct": "B",
+    "explanation": "The passage identifies the central tension as the inequity between industrialized nations (who consumed the carbon budget) and developing nations (who bear the consequences), describing this as a 'moral asymmetry.'"
+  },
+  {
+    "id": 27,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'Judicial activism in India has expanded the scope of fundamental rights through creative interpretation of constitutional provisions. The right to clean environment, right to privacy, and right to food have all been read into Article 21's guarantee of life and liberty. While this has filled legislative vacuums and protected vulnerable populations, critics argue it blurs the separation of powers and creates governance by judiciary rather than by elected representatives.'\n\nThe passage presents judicial activism as:",
+    "options": {
+      "A": "Entirely positive and without any drawbacks",
+      "B": "A phenomenon with both protective benefits and institutional concerns",
+      "C": "Completely unconstitutional and illegitimate",
+      "D": "Irrelevant to the protection of fundamental rights"
+    },
+    "correct": "B",
+    "explanation": "The passage presents both sides: judicial activism has 'filled legislative vacuums and protected vulnerable populations' (benefits) but also 'blurs the separation of powers' (institutional concerns)."
+  },
+  {
+    "id": 28,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'The financialization of agriculture—where commodity futures markets, corporate land acquisitions, and input supply chains increasingly determine farming outcomes—transforms the farmer from a producer into a price-taker embedded in global value chains over which they have no control. This structural disempowerment cannot be addressed through minimum support prices alone; it requires reimagining the institutional architecture of agricultural markets.'\n\nWhat does the author suggest about minimum support prices?",
+    "options": {
+      "A": "They are the complete solution to farmer distress",
+      "B": "They are harmful and should be abolished",
+      "C": "They are necessary but insufficient to address the structural disempowerment of farmers",
+      "D": "They have no relationship to agricultural markets"
+    },
+    "correct": "C",
+    "explanation": "The author states that structural disempowerment 'cannot be addressed through minimum support prices alone,' implying MSPs are part of the solution but insufficient without broader institutional reform."
+  },
+  {
+    "id": 29,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'The digital divide in India is not merely about access to devices and connectivity. It encompasses disparities in digital literacy, availability of content in local languages, and the capacity to use technology for economic and social empowerment. Bridging this divide requires interventions that go beyond infrastructure provision to address the social and cultural dimensions of technology adoption.'\n\nWhich of the following best summarizes the passage?",
+    "options": {
+      "A": "Providing internet connectivity will automatically bridge the digital divide",
+      "B": "The digital divide is multidimensional and requires comprehensive interventions beyond infrastructure",
+      "C": "Digital literacy is unimportant compared to physical access",
+      "D": "Local language content is the only barrier to digital inclusion"
+    },
+    "correct": "B",
+    "explanation": "The passage argues the digital divide encompasses access, literacy, language, and empowerment capacity, requiring interventions 'beyond infrastructure provision'—making it multidimensional and requiring comprehensive solutions."
+  },
+  {
+    "id": 30,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'Amartya Sen's capability approach redefines development not as the accumulation of wealth but as the expansion of substantive freedoms—the real opportunities people have to lead lives they value. This framework shifts the evaluative focus from GDP per capita to whether individuals can achieve functionings such as being well-nourished, being educated, participating in community life, and having self-respect. Poverty, in this view, is capability deprivation rather than merely income insufficiency.'\n\nHow does the capability approach differ from conventional economic measures of development?",
+    "options": {
+      "A": "It focuses on GDP growth as the primary indicator",
+      "B": "It measures development by what people can actually do and be, rather than by income alone",
+      "C": "It ignores individual well-being in favor of national aggregates",
+      "D": "It considers only material wealth as relevant to development"
+    },
+    "correct": "B",
+    "explanation": "The passage states the capability approach shifts focus from GDP to 'whether individuals can achieve functionings' and redefines poverty as 'capability deprivation rather than merely income insufficiency'—measuring what people can do and be."
+  },
+  {
+    "id": 31,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'The proliferation of nuclear weapons in South Asia has created a stability-instability paradox. Nuclear deterrence prevents large-scale conventional war between India and Pakistan, but this very stability at the strategic level emboldens sub-conventional provocations—terrorism, border skirmishes, and proxy conflicts—because the aggressor calculates that the nuclear threshold will not be crossed in response to limited actions.'\n\nWhat does the 'stability-instability paradox' mean in this context?",
+    "options": {
+      "A": "Nuclear weapons make all forms of conflict impossible",
+      "B": "Strategic nuclear stability paradoxically enables lower-level instability and provocations",
+      "C": "Nuclear weapons create instability at all levels of conflict",
+      "D": "Conventional wars have become more likely due to nuclear weapons"
+    },
+    "correct": "B",
+    "explanation": "The passage explains that nuclear deterrence prevents large-scale war (stability) but this emboldens sub-conventional provocations (instability)—strategic stability paradoxically enables lower-level instability."
+  },
+  {
+    "id": 32,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'The commons—shared resources such as forests, fisheries, and grazing lands—have historically been governed through community-based institutions with evolved rules of access and use. Garrett Hardin's influential 'Tragedy of the Commons' thesis argued that shared resources are inevitably degraded without private property or state control. Elinor Ostrom's empirical work demonstrated that communities can and do sustainably manage commons through self-governance, challenging the binary of market versus state as the only viable institutional options.'\n\nWhat is the significance of Ostrom's work as presented in the passage?",
+    "options": {
+      "A": "It proved that private property is always the best solution for resource management",
+      "B": "It showed that state control is the only way to prevent resource degradation",
+      "C": "It demonstrated a third institutional option—community self-governance—beyond the market-state binary",
+      "D": "It confirmed Hardin's thesis about the inevitability of commons degradation"
+    },
+    "correct": "C",
+    "explanation": "The passage states Ostrom's work 'demonstrated that communities can and do sustainably manage commons through self-governance, challenging the binary of market versus state'—establishing community governance as a viable third option."
+  },
+  {
+    "id": 33,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'The migration of skilled professionals from developing to developed countries—often termed brain drain—represents a complex phenomenon that defies simple characterization. While it deprives source countries of human capital investments, it also generates remittances, creates diaspora networks that facilitate knowledge transfer, and may incentivize domestic educational investment. The net effect depends on the specific context, scale, and policy environment.'\n\nThe author's approach to the brain drain phenomenon is:",
+    "options": {
+      "A": "Entirely negative, viewing it as purely harmful",
+      "B": "Entirely positive, viewing it as beneficial",
+      "C": "Nuanced, recognizing both costs and benefits depending on context",
+      "D": "Dismissive, considering it an unimportant issue"
+    },
+    "correct": "C",
+    "explanation": "The author explicitly states brain drain 'defies simple characterization,' lists both negative aspects (loss of human capital) and positive ones (remittances, diaspora networks), and notes the net effect is context-dependent—a nuanced approach."
+  },
+  {
+    "id": 34,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'The legitimacy of international institutions rests on a tension between effectiveness and representation. The UN Security Council's veto structure enables decisive action but concentrates power among five states whose primacy reflects 1945 geopolitics rather than contemporary realities. Reform proposals that would enhance representativeness risk diluting decisiveness, while maintaining the status quo erodes legitimacy among the majority of nations excluded from meaningful participation.'\n\nWhat dilemma does the passage identify regarding UN Security Council reform?",
+    "options": {
+      "A": "The choice between abolishing the UN entirely or maintaining it unchanged",
+      "B": "The trade-off between making the Council more representative and maintaining its capacity for decisive action",
+      "C": "The conflict between developed and developing nations on economic policy",
+      "D": "The question of whether the UN should have a military force"
+    },
+    "correct": "B",
+    "explanation": "The passage identifies a tension between effectiveness and representation: reform for representativeness risks 'diluting decisiveness' while the status quo 'erodes legitimacy'—a trade-off between representation and decisive action."
+  },
+  {
+    "id": 35,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'The concept of circular economy challenges the linear 'take-make-dispose' model of production by designing waste out of the system. Products are conceived for durability, repairability, and eventual recycling, with materials circulating in closed loops. This requires not merely technological innovation but a fundamental shift in business models, consumer behavior, and regulatory frameworks that currently incentivize disposability.'\n\nWhat does the passage suggest about achieving a circular economy?",
+    "options": {
+      "A": "It requires only better recycling technology",
+      "B": "It demands systemic changes across technology, business models, consumer behavior, and regulation",
+      "C": "It is impossible to achieve in practice",
+      "D": "It can be achieved through consumer awareness alone"
+    },
+    "correct": "B",
+    "explanation": "The passage states a circular economy requires 'not merely technological innovation but a fundamental shift in business models, consumer behavior, and regulatory frameworks'—indicating systemic changes across multiple domains."
+  },
+  {
+    "id": 36,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'The notion that economic liberalization automatically produces political liberalization—the so-called modernization thesis—has been challenged by the experience of China, Singapore, and other authoritarian capitalist states. These cases demonstrate that market economies can coexist with political authoritarianism, particularly when the state delivers economic growth and maintains legitimacy through performance rather than participation. The assumed causal link between capitalism and democracy is historically contingent rather than structurally necessary.'\n\nWhat is the author's conclusion about the relationship between capitalism and democracy?",
+    "options": {
+      "A": "Capitalism always leads to democracy",
+      "B": "Capitalism and democracy are completely unrelated",
+      "C": "The link between capitalism and democracy is not inevitable but depends on historical circumstances",
+      "D": "Authoritarianism is always more economically efficient than democracy"
+    },
+    "correct": "C",
+    "explanation": "The author concludes that the link between capitalism and democracy is 'historically contingent rather than structurally necessary'—meaning it depends on circumstances rather than being an inevitable causal relationship."
+  },
+  {
+    "id": 37,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'Water scarcity in India is as much a governance failure as a hydrological reality. The country receives adequate rainfall in aggregate, but poor storage infrastructure, inefficient irrigation practices, groundwater over-extraction, and inequitable distribution create artificial scarcity. The crisis is one of management rather than absolute shortage, requiring institutional reform as much as engineering solutions.'\n\nWhat is the author's main argument?",
+    "options": {
+      "A": "India does not receive enough rainfall to meet its water needs",
+      "B": "Water scarcity in India is primarily caused by poor governance and management rather than natural shortage",
+      "C": "Engineering solutions alone can solve India's water crisis",
+      "D": "Groundwater extraction should be completely banned"
+    },
+    "correct": "B",
+    "explanation": "The author argues water scarcity is 'as much a governance failure as a hydrological reality' and 'one of management rather than absolute shortage,' making the case that poor governance and management are the primary causes."
+  },
+  {
+    "id": 38,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'The gig economy promises flexibility and entrepreneurial freedom but often delivers precarity and exploitation. Platform workers—delivery riders, cab drivers, domestic service providers—bear the risks of employment without its protections. They are classified as independent contractors, exempting platforms from obligations regarding minimum wages, social security, and working conditions. This regulatory arbitrage represents not innovation in labor relations but a regression to pre-industrial forms of piece-rate exploitation enabled by digital intermediation.'\n\nThe author's tone toward the gig economy can best be described as:",
+    "options": {
+      "A": "Enthusiastically supportive of its innovative potential",
+      "B": "Neutral and balanced in assessment",
+      "C": "Sharply critical, viewing it as exploitative despite its rhetoric of freedom",
+      "D": "Indifferent to its social consequences"
+    },
+    "correct": "C",
+    "explanation": "The author uses strongly critical language: 'precarity and exploitation,' 'regulatory arbitrage,' and 'regression to pre-industrial forms of piece-rate exploitation,' clearly viewing the gig economy as exploitative despite its promise of flexibility."
+  },
+  {
+    "id": 39,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'The success of India's space program demonstrates that technological excellence is not the exclusive preserve of wealthy nations. ISRO's cost-effective approach—achieving Mars orbit at a fraction of NASA's expenditure—reflects frugal engineering principles adapted to resource constraints. However, critics question whether space expenditure is justifiable in a country where millions lack basic sanitation and nutrition.'\n\nWhat tension does the passage highlight?",
+    "options": {
+      "A": "The conflict between ISRO and NASA",
+      "B": "The debate between investing in advanced technology and addressing basic developmental needs",
+      "C": "The superiority of Indian engineering over Western approaches",
+      "D": "The impossibility of space exploration for developing nations"
+    },
+    "correct": "B",
+    "explanation": "The passage presents ISRO's achievements but then introduces critics who question space expenditure given unmet basic needs—highlighting the tension between advanced technology investment and basic development priorities."
+  },
+  {
+    "id": 40,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'Deliberative democracy theory argues that legitimate political decisions emerge not from the mere aggregation of pre-formed preferences through voting, but from the transformation of preferences through reasoned public deliberation. Citizens who engage in structured dialogue, exposed to diverse perspectives and required to justify their positions with reasons, arrive at more considered judgments than those who simply register existing opinions. The challenge is scaling deliberation beyond small groups to the level of mass democracy.'\n\nWhat limitation of deliberative democracy does the author identify?",
+    "options": {
+      "A": "It produces worse decisions than simple voting",
+      "B": "It is theoretically incoherent",
+      "C": "It is difficult to implement at the scale required for large democratic societies",
+      "D": "It excludes all citizens from participation"
+    },
+    "correct": "C",
+    "explanation": "The author identifies 'the challenge is scaling deliberation beyond small groups to the level of mass democracy'—the limitation is implementing meaningful deliberation at the scale of large democratic societies."
+  },
+  {
+    "id": 41,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'The phenomenon of land degradation in India affects nearly 30 percent of the country's geographical area. Deforestation, overgrazing, unsustainable agricultural practices, and industrial pollution contribute to soil erosion, loss of fertility, and desertification. Reversing this trend requires integrated watershed management, agroforestry, and community participation in land restoration—approaches that treat land as a living system rather than an inert resource to be exploited.'\n\nWhat approach to land management does the author advocate?",
+    "options": {
+      "A": "Intensive industrial agriculture to maximize short-term yields",
+      "B": "Complete prohibition of all human activity on degraded land",
+      "C": "Integrated, community-based approaches that view land as a living system",
+      "D": "Exclusive reliance on government-led reforestation programs"
+    },
+    "correct": "C",
+    "explanation": "The author advocates 'integrated watershed management, agroforestry, and community participation' that 'treat land as a living system rather than an inert resource'—integrated, community-based approaches."
+  },
+  {
+    "id": 42,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'The rise of China presents the international order with a challenge that differs qualitatively from previous power transitions. Unlike the Soviet Union, China is deeply integrated into the global economic system; unlike Japan, it possesses the demographic and military weight to challenge American primacy. The question is whether the existing institutional architecture—designed by and for Western powers—can accommodate a rising power with different political values without either conflict or fundamental restructuring.'\n\nWhat makes China's rise unique according to the passage?",
+    "options": {
+      "A": "China is economically isolated from the global system",
+      "B": "China combines deep economic integration with sufficient power to challenge the existing order",
+      "C": "China shares identical political values with Western powers",
+      "D": "China's rise is identical to the Soviet Union's challenge during the Cold War"
+    },
+    "correct": "B",
+    "explanation": "The passage distinguishes China from the USSR (not economically integrated) and Japan (lacked demographic/military weight), making China unique in combining deep economic integration with the power to challenge American primacy."
+  },
+  {
+    "id": 43,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'Mental health remains the most neglected dimension of public health in India. With fewer than 0.3 psychiatrists per 100,000 population and pervasive social stigma surrounding mental illness, the treatment gap exceeds 80 percent for common mental disorders. The Mental Healthcare Act of 2017 established rights-based entitlements, but without commensurate investment in human resources and community-based services, these rights remain largely notional.'\n\nWhat is the primary barrier to mental healthcare in India according to the passage?",
+    "options": {
+      "A": "Excessive government spending on mental health",
+      "B": "The combination of inadequate professional resources and social stigma",
+      "C": "The absence of any mental health legislation",
+      "D": "Lack of awareness about mental health among psychiatrists"
+    },
+    "correct": "B",
+    "explanation": "The passage identifies both the severe shortage of psychiatrists (fewer than 0.3 per 100,000) and 'pervasive social stigma' as factors creating an 80% treatment gap—the combination of inadequate resources and stigma."
+  },
+  {
+    "id": 44,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'The blockchain technology underlying cryptocurrencies offers potential applications in governance—land registries, supply chain transparency, identity verification—that extend far beyond financial speculation. However, the technology's promise of trustless systems paradoxically requires trust in the code, the developers, and the governance mechanisms of the protocol itself. Decentralization does not eliminate power asymmetries; it merely relocates them from visible institutions to opaque technical architectures.'\n\nWhat paradox does the author identify about blockchain?",
+    "options": {
+      "A": "Blockchain is too simple to be useful for governance",
+      "B": "Blockchain's promise of eliminating trust actually requires trust in different, less visible actors and systems",
+      "C": "Blockchain completely eliminates all power asymmetries",
+      "D": "Blockchain has no applications beyond cryptocurrency"
+    },
+    "correct": "B",
+    "explanation": "The author identifies the paradox that 'trustless systems paradoxically require trust in the code, the developers, and the governance mechanisms' and that decentralization 'merely relocates' power asymmetries rather than eliminating them."
+  },
+  {
+    "id": 45,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, represents a paradigm shift in forest governance—from viewing tribal communities as encroachers to recognizing them as rights-holders. The Act acknowledges that historical injustice displaced communities from their ancestral lands and seeks to restore both individual and community forest rights. Implementation, however, has been uneven, with many claims rejected due to bureaucratic resistance and evidentiary requirements that disadvantage oral cultures.'\n\nWhat contradiction does the passage highlight?",
+    "options": {
+      "A": "The Act is opposed by all tribal communities",
+      "B": "The Act's progressive intent is undermined by implementation barriers that disadvantage the very communities it aims to protect",
+      "C": "Forest conservation and tribal rights are completely incompatible",
+      "D": "Bureaucratic processes always work efficiently in India"
+    },
+    "correct": "B",
+    "explanation": "The passage notes the Act's progressive intent (recognizing rights-holders) but highlights that implementation barriers—bureaucratic resistance and evidentiary requirements disadvantaging oral cultures—undermine its purpose for the communities it aims to help."
+  },
+  {
+    "id": 46,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'The concept of epistemic injustice—coined by philosopher Miranda Fricker—describes situations where individuals are wronged specifically in their capacity as knowers. Testimonial injustice occurs when a speaker's credibility is deflated due to prejudice; hermeneutical injustice occurs when gaps in collective interpretive resources disadvantage certain groups in making sense of their own experiences. In policy contexts, epistemic injustice manifests when the knowledge of marginalized communities—indigenous ecological knowledge, for instance—is systematically excluded from decision-making processes.'\n\nWhat is hermeneutical injustice as described in the passage?",
+    "options": {
+      "A": "When someone's testimony is disbelieved due to prejudice",
+      "B": "When marginalized groups lack the shared conceptual resources to understand and articulate their own experiences",
+      "C": "When indigenous knowledge is used without attribution",
+      "D": "When policy decisions are made without public consultation"
+    },
+    "correct": "B",
+    "explanation": "The passage defines hermeneutical injustice as occurring 'when gaps in collective interpretive resources disadvantage certain groups in making sense of their own experiences'—lacking conceptual resources to understand and articulate experiences."
+  },
+  {
+    "id": 47,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'South-South cooperation—collaboration among developing nations—offers an alternative to the traditional donor-recipient model of development assistance. Countries like India, Brazil, and China share development experiences, technical expertise, and appropriate technologies with other developing nations on terms that emphasize mutual benefit and non-conditionality. Critics, however, note that these relationships can replicate power asymmetries, with larger Southern economies extracting resources from smaller ones under the rhetoric of solidarity.'\n\nWhat critical perspective does the passage present on South-South cooperation?",
+    "options": {
+      "A": "It is entirely free from power imbalances",
+      "B": "It is identical to traditional North-South aid",
+      "C": "It may reproduce exploitative dynamics despite its egalitarian rhetoric",
+      "D": "It has no benefits for any participating nation"
+    },
+    "correct": "C",
+    "explanation": "The passage notes critics observe that South-South relationships 'can replicate power asymmetries, with larger Southern economies extracting resources from smaller ones under the rhetoric of solidarity'—reproducing exploitation despite egalitarian rhetoric."
+  },
+  {
+    "id": 48,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'The antimicrobial resistance crisis exemplifies a tragedy of the commons in healthcare. Individual rational behavior—patients demanding antibiotics for viral infections, doctors prescribing them defensively, farmers using them as growth promoters—collectively produces an irrational outcome: the erosion of antibiotic efficacy as a shared global resource. Unlike climate change, where future generations bear the costs, antimicrobial resistance threatens to return us to a pre-antibiotic era within the lifetimes of those currently alive.'\n\nWhy does the author compare antimicrobial resistance to a tragedy of the commons?",
+    "options": {
+      "A": "Because antibiotics are too expensive for most people",
+      "B": "Because individually rational overuse of antibiotics collectively destroys their effectiveness as a shared resource",
+      "C": "Because only farmers are responsible for antibiotic resistance",
+      "D": "Because the problem will only affect future generations"
+    },
+    "correct": "B",
+    "explanation": "The author explicitly frames it as individual rational behavior (patients, doctors, farmers each acting in self-interest) collectively producing an irrational outcome (erosion of antibiotic efficacy as a shared resource)—the classic tragedy of the commons."
+  },
+  {
+    "id": 49,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Medium",
+    "question": "Passage: 'The transition to renewable energy is not merely a technological substitution—replacing coal plants with solar panels—but a systemic transformation affecting employment patterns, land use, fiscal revenues, and geopolitical alignments. Coal-dependent regions face economic disruption as mines close and thermal plants retire. A just transition framework requires proactive planning for affected workers and communities, ensuring that the costs of decarbonization do not fall disproportionately on those least able to bear them.'\n\nWhat does the concept of 'just transition' emphasize?",
+    "options": {
+      "A": "Maximizing the speed of transition regardless of social costs",
+      "B": "Ensuring that the social and economic costs of energy transition are equitably distributed",
+      "C": "Maintaining coal-based energy indefinitely to protect jobs",
+      "D": "Focusing exclusively on technological innovation"
+    },
+    "correct": "B",
+    "explanation": "The passage defines just transition as requiring 'proactive planning for affected workers and communities, ensuring that the costs of decarbonization do not fall disproportionately on those least able to bear them'—equitable distribution of transition costs."
+  },
+  {
+    "id": 50,
+    "paper": "CSAT",
+    "subject": "Comprehension",
+    "difficulty": "Hard",
+    "question": "Passage: 'The Anthropocene—the proposed geological epoch defined by human impact on Earth systems—challenges the foundational assumption of modern politics: that nature is a stable backdrop against which human history unfolds. If human activity now shapes geological processes, the distinction between natural and political becomes untenable. Governance must expand its scope from managing human affairs to stewarding Earth systems, requiring institutional innovations that operate on timescales far exceeding electoral cycles and national boundaries.'\n\nWhat fundamental challenge does the Anthropocene pose to governance, according to the passage?",
+    "options": {
+      "A": "It requires governance to operate only at the local level",
+      "B": "It demands that governance expand beyond human affairs to Earth systems, on timescales and spatial scales that exceed current political institutions",
+      "C": "It proves that human activity has no impact on the environment",
+      "D": "It suggests that electoral democracy should be abolished"
+    },
+    "correct": "B",
+    "explanation": "The passage argues governance must expand from 'managing human affairs to stewarding Earth systems' and requires 'institutional innovations that operate on timescales far exceeding electoral cycles and national boundaries'—demanding governance beyond current political scales."
+  }
+]
