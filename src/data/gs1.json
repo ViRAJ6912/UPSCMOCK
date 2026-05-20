@@ -177,7 +177,7 @@
       "D": "Aurangzeb — Bibi Ka Maqbara"
     },
     "correct": "D",
-    "explanation": "Bibi Ka Maqbara in Aurangabad was built by Aurangzeb in memory of his wife Rabia-ud-Durrani. Taj Mahal was built by Shah Jahan (not Akbar). Buland Darwaza at Fatehpur Sikri was built by Akbar (not Shah Jahan). Shalimar Bagh in Kashmir was laid out by Jahangir but significantly developed by Shah Jahan."
+    "explanation": "Bibi Ka Maqbara in Aurangabad was commissioned by Prince Azam Shah (Aurangzeb's son) in memory of his mother Dilras Banu Begum (posthumously titled Rabia-ud-Durrani), and is associated with Aurangzeb's reign. Taj Mahal was built by Shah Jahan (not Akbar). Buland Darwaza at Fatehpur Sikri was built by Akbar (not Shah Jahan). Shalimar Bagh in Kashmir was laid out by Jahangir but significantly expanded by Shah Jahan."
   },
   {
     "id": 13,
@@ -904,15 +904,15 @@
     "paper": "GS1",
     "subject": "Environment",
     "difficulty": "Medium",
-    "question": "Consider the following about India's biodiversity hotspots:\n1. India has four biodiversity hotspots — Western Ghats, Eastern Himalayas, Indo-Burma, and Sundaland.\n2. A biodiversity hotspot must have at least 1,500 endemic vascular plant species and have lost at least 70% of its original habitat.\n3. The Western Ghats hotspot extends from Gujarat to the southern tip of India.\nWhich of the statements given above is/are correct?",
+    "question": "Consider the following about India's biodiversity hotspots:\n1. India has four biodiversity hotspots — Western Ghats, Himalaya, Indo-Burma, and Sundaland.\n2. A biodiversity hotspot must have at least 1,500 endemic vascular plant species and have lost at least 70% of its original habitat.\n3. The Western Ghats hotspot extends from Gujarat to the southern tip of India.\nWhich of the statements given above is/are correct?",
     "options": {
       "A": "2 and 3 only",
       "B": "1 and 2 only",
       "C": "2 only",
       "D": "1, 2 and 3"
     },
-    "correct": "A",
-    "explanation": "A biodiversity hotspot requires at least 1,500 endemic vascular plants and must have lost 70% or more of its original habitat. The Western Ghats extend from Gujarat to the southern tip. However, India has parts of FOUR hotspots but Sundaland primarily covers Southeast Asian islands (Malay Peninsula, Borneo, Sumatra) — the Nicobar Islands are the only Indian territory in Sundaland. The four hotspots with Indian territory are: Western Ghats-Sri Lanka, Himalaya, Indo-Burma, and Sundaland (Nicobar Islands)."
+    "correct": "D",
+    "explanation": "All three are correct. India has territory in four biodiversity hotspots: Western Ghats-Sri Lanka, Himalaya, Indo-Burma, and Sundaland (Nicobar Islands). A biodiversity hotspot requires at least 1,500 endemic vascular plant species and must have lost 70% or more of its original habitat. The Western Ghats hotspot extends from Gujarat to the southern tip of India including parts of Kerala and Tamil Nadu."
   },
   {
     "id": 62,

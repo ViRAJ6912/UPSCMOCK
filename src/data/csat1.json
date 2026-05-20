@@ -606,15 +606,15 @@
     "paper": "CSAT",
     "subject": "Analytical Reasoning",
     "difficulty": "Hard",
-    "question": "Seven meetings are scheduled for a week (Monday to Sunday). Meeting A must be held before Meeting B. Meeting C must be held on Wednesday. Meeting D must be held immediately after Meeting A. Meeting E cannot be held on Monday or Sunday. Meeting F must be held after Meeting B.\n\nIf Meeting A is held on Monday, on which day can Meeting F be held at the earliest?",
+    "question": "Seven meetings are scheduled for a week (Monday to Sunday), one per day. Meeting A must be held before Meeting B. Meeting C must be held on Wednesday. Meeting D must be held immediately after Meeting A. Meeting E cannot be held on Monday or Sunday. Meeting F must be held after Meeting B.\n\nIf Meeting A is held on Monday, on which day can Meeting F be held at the earliest?",
     "options": {
       "A": "Wednesday",
       "B": "Thursday",
       "C": "Friday",
       "D": "Tuesday"
     },
-    "correct": "B",
-    "explanation": "If A is on Monday, D must be immediately after A, so D is on Tuesday. A must be before B, so B is on Wednesday or later. C is fixed on Wednesday. If B is on Wednesday (same as C — assuming different meetings can be on same day is not allowed), then B must be Thursday or later. If B is Thursday, F must be after B, so F is Friday at earliest. But if meetings are one per day and C is Wednesday, B could be Thursday, making F on Friday. Actually, if B can be on Wednesday alongside C (if allowed), F could be Thursday. Given standard interpretation (one meeting per day), A=Mon, D=Tue, C=Wed, B=Thu, F=Fri at earliest. But re-reading: if B can share Wednesday with C, then F earliest = Thursday."
+    "correct": "C",
+    "explanation": "If A is on Monday, D must be immediately after A, so D is on Tuesday. C is fixed on Wednesday. A must be before B, and since Monday, Tuesday, Wednesday are taken (by A, D, C), B's earliest slot is Thursday. F must be after B, so F's earliest slot is Friday."
   },
   {
     "id": 42,
@@ -636,7 +636,7 @@
     "paper": "CSAT",
     "subject": "Analytical Reasoning",
     "difficulty": "Hard",
-    "question": "Four friends — Amit, Bala, Chitra, and Deepa — each live in a different city (Delhi, Mumbai, Chennai, Kolkata) and have different professions (Doctor, Engineer, Teacher, Lawyer).\n\nClues:\n1. Amit does not live in Delhi or Mumbai.\n2. The person in Chennai is a Doctor.\n3. Bala is an Engineer.\n4. Chitra lives in Mumbai.\n5. Deepa is not a Doctor.\n\nWho is the Lawyer?",
+    "question": "Four friends — Amit, Bala, Chitra, and Deepa — each live in a different city (Delhi, Mumbai, Chennai, Kolkata) and have different professions (Doctor, Engineer, Teacher, Lawyer).\n\nClues:\n1. Amit does not live in Delhi or Mumbai.\n2. The person in Chennai is a Doctor.\n3. Bala is an Engineer.\n4. Chitra lives in Mumbai.\n5. Deepa is not a Doctor.\n6. The person in Mumbai is a Teacher.\n\nWho is the Lawyer?",
     "options": {
       "A": "Amit",
       "B": "Bala",
@@ -644,7 +644,7 @@
       "D": "Deepa"
     },
     "correct": "D",
-    "explanation": "From clue 4: Chitra lives in Mumbai. From clue 1: Amit doesn't live in Delhi or Mumbai, so Amit lives in Chennai or Kolkata. From clue 2: Person in Chennai is a Doctor. From clue 3: Bala is an Engineer. From clue 5: Deepa is not a Doctor. If Amit lives in Chennai, Amit is a Doctor (from clue 2). Then Deepa lives in Delhi (remaining city for Deepa after Chitra=Mumbai, Amit=Chennai, Bala gets Kolkata or Delhi). Bala is Engineer. Amit is Doctor. Remaining professions: Teacher and Lawyer for Chitra and Deepa. Since no other constraints, we need more deduction. Actually Bala must live in Delhi or Kolkata. Amit in Chennai (Doctor), Chitra in Mumbai, so Bala and Deepa split Delhi and Kolkata. Professions left: Teacher, Lawyer for Chitra and Deepa. Without additional constraints distinguishing them — but the question has a unique answer, so let me reconsider. If Amit is in Kolkata (not Chennai), then who is in Chennai? Must be Bala or Deepa. Deepa can't be Doctor (clue 5), so if Deepa is in Chennai, contradiction. So Bala is in Chennai — but Bala is Engineer, not Doctor (clue 2 says Chennai person is Doctor). Contradiction. So Amit MUST be in Chennai and is the Doctor. Bala is Engineer (in Delhi or Kolkata). Deepa and Chitra get Teacher and Lawyer. Chitra is in Mumbai. No constraint makes Chitra specifically Teacher or Lawyer. But Deepa is not Doctor (already satisfied). Given standard puzzle logic and the answer options, Deepa is the Lawyer."
+    "explanation": "From clue 4: Chitra lives in Mumbai. From clue 6: The person in Mumbai is a Teacher, so Chitra is a Teacher. From clue 1: Amit doesn't live in Delhi or Mumbai, so Amit lives in Chennai or Kolkata. From clue 2: Person in Chennai is a Doctor. From clue 3: Bala is an Engineer. From clue 5: Deepa is not a Doctor. If Amit is in Chennai, Amit is a Doctor. Then Deepa must be in Delhi or Kolkata. Since Bala is Engineer and Chitra is Teacher, the remaining profession for Deepa is Lawyer. Bala gets the remaining city (Delhi or Kolkata). So Deepa is the Lawyer."
   },
   {
     "id": 44,
@@ -718,8 +718,8 @@
       "C": "6th",
       "D": "5th"
     },
-    "correct": "B",
-    "explanation": "B is 4th from front. A is 2nd behind B, so A is 6th. H is immediately in front of A, so H is 5th. Three persons between C and D with C ahead of D. Positions filled: 4th=B, 5th=H, 6th=A. C and D must have 3 persons between them. If C is 1st, D is 5th — but 5th is H. If C is 2nd, D is 6th — but 6th is A. If C is 3rd, D is 7th — possible! If C is 4th, that's B. So C=3rd, D=7th, or we check C=1st through remaining. With C=3rd and D=7th: remaining positions 1, 2, 8 for E, F, G. But wait — if D is 7th, let's verify: positions 1,2,3=C,7=D,4=B,5=H,6=A,8=remaining. Actually checking again: C=4th is B (no). C=1st, D=5th (H is there, no). C=2nd, D=6th (A is there, no). C=3rd, D=7th — works! Or C could be at other positions if D goes to 8: C=4th(B, no). So only C=3rd, D=7th works... unless C=4 is taken. Wait, what about D=8? C would be at position 4 (3 persons between: positions 5,6,7 between 4 and 8). But position 4 is B. So D=8 requires C=4=B, impossible. Therefore D is at 7th position. Hmm but let me recheck: 3 persons BETWEEN C and D means |C-D|-1=3, so |C-D|=4. C=3, D=7: |3-7|=4, persons between=3. Yes! But also C=1, D=5: 5 is H. C=2, D=6: 6 is A. Only C=3, D=7 works. But wait — D=8, C=4 would give |4-8|=4, but 4=B. What about D=8, C=4? No, C=4 is B. Hmm, actually I need to reconsider. Could D be 8th? That requires C at position 4 (taken by B). No. So D is 7th... but that's not matching option B (8th). Let me reconsider: 'exactly three persons between' could mean 3 people standing between them. C at position 1, D at position 5 (persons at 2,3,4 between them = 3 persons). Position 5 = H. C at 2, D at 6 = A. C at 3, D at 7 — works. C at 4 = B. So D = 7th. Answer is A (7th)."
+    "correct": "A",
+    "explanation": "B is 4th from front. A is 2nd behind B, so A is 6th. H is immediately in front of A, so H is 5th. Positions taken: 4th=B, 5th=H, 6th=A. For C and D with exactly 3 persons between them (C ahead of D): C=1,D=5 (5th taken by H). C=2,D=6 (6th taken by A). C=3,D=7 — valid! C=4,D=8 (4th taken by B). Only valid placement: C=3rd, D=7th."
   },
   {
     "id": 49,
