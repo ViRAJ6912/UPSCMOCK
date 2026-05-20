@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Indus Valley Civilization:\n1. The Great Bath at Mohenjo-daro was made of burnt bricks with a bitumen lining.\n2. Evidence of a dockyard has been found at Lothal.\n3. The Indus script has been conclusively deciphered as a Dravidian language.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The Great Bath at Mohenjo-daro was indeed made of burnt bricks with bitumen (natural tar) used as waterproofing. Lothal in Gujarat has evidence of a dockyard. However, the Indus script remains undeciphered to this day despite numerous attempts."
+  },
+  {
+    "id": 2,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Which of the following pairs of Vedic literature and their content is/are correctly matched?\n1. Brahmanas — Ritualistic interpretation of hymns\n2. Aranyakas — Philosophical discussions meant for forest hermits\n3. Upanishads — Collection of sacrificial formulae\nSelect the correct answer using the code given below:",
+    "options": {
+      "A": "1 only",
+      "B": "1 and 2 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "B",
+    "explanation": "Brahmanas are prose texts that explain the hymns in the Vedas and provide ritualistic interpretation. Aranyakas (literally 'forest texts') are philosophical discussions meant for hermits and students in the forest. Upanishads contain philosophical and metaphysical discussions, not sacrificial formulae — that description fits the Yajurveda."
+  },
+  {
+    "id": 3,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "With reference to the Mauryan administration, consider the following statements:\n1. Megasthenes mentioned a committee of 30 members divided into six boards for city administration.\n2. Arthashastra mentions 'Dharmasthiya' courts for civil cases and 'Kantakasodhana' for criminal cases.\n3. The Mauryan state maintained a network of spies called 'Gudhapurushas'.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three statements are correct. Megasthenes in his Indica described the municipal administration of Pataliputra with a committee of 30 divided into six boards of five members each. Kautilya's Arthashastra mentions Dharmasthiya (civil) and Kantakasodhana (criminal) courts. The espionage system using Gudhapurushas (secret agents) was a key feature of Mauryan administration."
+  },
+  {
+    "id": 4,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following about the Sangam Age:\n1. The Tolkappiyam is a work on Tamil grammar attributed to Tolkappiyar.\n2. The 'Pattinappalai' describes the flourishing trade at the Chola port of Puhar.\n3. The institution of 'Manram' was a village assembly that functioned as a judicial body.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 only",
+      "C": "1, 2 and 3",
+      "D": "2 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "Tolkappiyam is indeed the earliest extant Tamil grammar work attributed to Tolkappiyar. Pattinappalai, one of the Ten Idylls (Pattupattu), describes the Chola port city of Puhar (Kaveripattinam) and its trade. The Manram was a village assembly in Sangam Age Tamil society that served judicial and administrative functions."
+  },
+  {
+    "id": 5,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "The concept of 'Dhamma' propagated by Ashoka included which of the following principles?\n1. Respect for elders and generosity towards Brahmanas and Shramanas\n2. Non-violence (Ahimsa) and vegetarianism as state policy\n3. Tolerance of different religious sects\n4. Appointment of Dhamma Mahamattas for propagation\nSelect the correct answer using the code given below:",
+    "options": {
+      "A": "1, 3 and 4 only",
+      "B": "1, 2, 3 and 4",
+      "C": "2, 3 and 4 only",
+      "D": "1 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "Ashoka's Dhamma included respect for elders, generosity towards Brahmanas and Shramanas, tolerance of all sects, and appointment of Dhamma Mahamattas. While Ashoka promoted non-violence, he did not impose vegetarianism as state policy — he only restricted the killing of certain animals and reduced meat consumption in the royal kitchen. Complete vegetarianism was never enforced as state policy."
+  },
+  {
+    "id": 6,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Easy",
+    "question": "Which of the following statements about the Gupta period is NOT correct?",
+    "options": {
+      "A": "Fa-Hien visited India during the reign of Chandragupta II",
+      "B": "The decimal system and concept of zero originated during this period",
+      "C": "Land grants to Brahmanas were first initiated during the Gupta period",
+      "D": "Nalanda University was patronized by Gupta rulers"
+    },
+    "correct": "C",
+    "explanation": "Land grants to Brahmanas (Brahmadeya) were not first initiated during the Gupta period — they existed from the Satavahana period onwards. Fa-Hien visited during Chandragupta II's reign (c. 399-414 CE). The decimal system and zero concept developed during the Gupta period. Nalanda was indeed patronized by Gupta rulers, particularly Kumaragupta I."
+  },
+  {
+    "id": 7,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements regarding ancient Indian trade:\n1. The Periplus of the Erythraean Sea mentions Barygaza (Bharuch) as a major port on the western coast.\n2. Roman gold coins found in South India indicate a trade deficit of Rome with India.\n3. Pepper was called 'Yavanapriya' indicating its popularity among Greeks and Romans.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. The Periplus (1st century CE) mentions Barygaza (modern Bharuch) as a major trading port. Large hoards of Roman gold coins found in South India (especially Tamil Nadu and Kerala) confirm Rome's trade deficit with India, as noted by Pliny. Pepper was indeed called 'Yavanapriya' (beloved of the Greeks/Romans) in Sanskrit texts."
+  },
+  {
+    "id": 8,
+    "paper": "GS1",
+    "subject": "Ancient India",
+    "difficulty": "Medium",
+    "question": "With reference to the rock-cut architecture of ancient India, which of the following is/are correct?\n1. The Barabar caves were excavated during the Mauryan period for the Ajivika sect.\n2. The Chaitya at Karle is the largest rock-cut Chaitya hall in India.\n3. The Udayagiri caves in Odisha contain both Hindu and Jain rock-cut chambers.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 only",
+      "C": "1, 2 and 3",
+      "D": "2 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "The Barabar caves near Gaya were excavated by Ashoka for the Ajivika sect (as confirmed by inscriptions). The Karle Chaitya (1st century BCE) is the largest rock-cut Chaitya hall in India. The Udayagiri caves near Bhubaneswar contain both Jain (Hathigumpha inscription of Kharavela) and Hindu rock-cut chambers."
+  },
+  {
+    "id": 9,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Vijayanagara Empire:\n1. The Amara-Nayaka system was a military-feudal system of land revenue administration.\n2. Abdur Razzaq, the Persian ambassador, visited during the reign of Devaraya II.\n3. The empire's revenue system was based on a detailed land survey and classification.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. The Amara-Nayaka system involved military commanders (Nayakas) who were given territories (amarams) in return for maintaining troops and paying tribute. Abdur Razzaq visited Vijayanagara during Devaraya II's reign (1443 CE). The empire maintained detailed land surveys with classification of land for revenue purposes."
+  },
+  {
+    "id": 10,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "With reference to the Bhakti movement in medieval India, which of the following statements is/are correct?\n1. Ramanuja's Vishishtadvaita philosophy advocated qualified monism and devotion to a personal God.\n2. Kabir rejected both Hindu and Islamic orthodoxy and emphasized nirguna bhakti.\n3. Basavanna founded the Lingayat movement which rejected caste hierarchy and Vedic rituals.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. Ramanuja (11th-12th century) propounded Vishishtadvaita (qualified non-dualism) emphasizing devotion to Vishnu as a personal God. Kabir (15th century) rejected ritualism of both Hinduism and Islam, advocating nirguna (formless) devotion. Basavanna (12th century) founded the Lingayat/Virashaiva movement in Karnataka, rejecting caste discrimination and Vedic ritualism."
+  },
+  {
+    "id": 11,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following about the administrative system of the Delhi Sultanate:\n1. Iqta system was a revenue assignment system where the holder (muqti) collected revenue in lieu of salary.\n2. Alauddin Khalji introduced market control measures (Hisba) with separate controllers for different markets.\n3. Muhammad bin Tughlaq's token currency was made of gold-plated copper coins.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The Iqta system involved revenue assignments to officials (muqtis/iqtadars) who collected revenue in lieu of salary. Alauddin Khalji established elaborate market control with separate controllers (shahna) for grain, cloth, and horse markets. However, Muhammad bin Tughlaq's token currency was made of bronze/copper coins (not gold-plated) meant to have the same value as silver tanka, which failed because people forged them easily."
+  },
+  {
+    "id": 12,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Easy",
+    "question": "Which of the following Mughal emperors is correctly paired with their architectural contribution?",
+    "options": {
+      "A": "Akbar — Taj Mahal",
+      "B": "Shah Jahan — Buland Darwaza",
+      "C": "Jahangir — Shalimar Bagh in Kashmir",
+      "D": "Aurangzeb — Bibi Ka Maqbara"
+    },
+    "correct": "D",
+    "explanation": "Bibi Ka Maqbara in Aurangabad was built by Aurangzeb in memory of his wife Rabia-ud-Durrani. Taj Mahal was built by Shah Jahan (not Akbar). Buland Darwaza at Fatehpur Sikri was built by Akbar (not Shah Jahan). Shalimar Bagh in Kashmir was laid out by Jahangir but significantly developed by Shah Jahan."
+  },
+  {
+    "id": 13,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Maratha administration under Shivaji:\n1. The Ashtapradhan was a council of eight ministers where the Peshwa handled finance.\n2. The revenue system was based on measurement of land (kathi system) rather than crop sharing.\n3. Shivaji abolished the Jagirdari system and paid his soldiers in cash.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "2 and 3 only",
+      "B": "1 and 2 only",
+      "C": "3 only",
+      "D": "1 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "In the Ashtapradhan, the Peshwa was the prime minister handling general administration, not finance — finance was handled by the Amatya/Mazumdar. Shivaji's revenue system was based on measurement (kathi) rather than crop sharing, collecting chauth and sardeshmukhi. He abolished the Jagirdari system and paid soldiers in cash to prevent them from developing local loyalties."
+  },
+  {
+    "id": 14,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Permanent Settlement of 1793:\n1. It was introduced by Lord Cornwallis in Bengal, Bihar, and Orissa.\n2. The zamindars were made owners of the land and the revenue demand was fixed permanently.\n3. If a zamindar failed to pay revenue on time, his estate could be auctioned (Sunset Law).\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. The Permanent Settlement was introduced by Cornwallis in 1793 in Bengal, Bihar, and Orissa. Zamindars became proprietors of land with a permanently fixed revenue demand. The Sunset Law provision meant that if revenue was not paid by sunset on the due date, the estate would be auctioned off."
+  },
+  {
+    "id": 15,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "With reference to the Revolt of 1857, consider the following:\n1. The revolt at Kanpur was led by Nana Sahib, the adopted son of the last Peshwa Baji Rao II.\n2. Kunwar Singh, despite being over 70 years old, led the revolt in Bihar.\n3. The revolt was confined to the Bengal Presidency and did not spread to Madras or Bombay Presidencies.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "Nana Sahib was the adopted son of Baji Rao II and led the revolt at Kanpur. Kunwar Singh of Jagdishpur (Bihar) was indeed over 70 and led a remarkable campaign. However, statement 3 is incorrect — while the revolt was primarily in North and Central India, there were sporadic outbreaks in other regions too, and it was not strictly confined to the Bengal Presidency alone."
+  },
+  {
+    "id": 16,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Which of the following socio-religious reform movements and their founders are correctly matched?\n1. Prarthana Sabha — Atmaram Pandurang\n2. Arya Samaj — Dayananda Saraswati\n3. Theosophical Society in India — Annie Besant\n4. Ramakrishna Mission — Swami Vivekananda\nSelect the correct answer:",
+    "options": {
+      "A": "1, 2 and 4 only",
+      "B": "2, 3 and 4 only",
+      "C": "1, 2, 3 and 4",
+      "D": "1 and 2 only"
+    },
+    "correct": "A",
+    "explanation": "Prarthana Sabha (1867) was founded by Atmaram Pandurang in Bombay. Arya Samaj (1875) was founded by Dayananda Saraswati. Ramakrishna Mission (1897) was founded by Swami Vivekananda. However, the Theosophical Society was founded by Madame Blavatsky and Colonel Olcott in 1875 in New York — Annie Besant became its president later (1907) and popularized it in India but did not found it."
+  },
+  {
+    "id": 17,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Indian National Congress sessions:\n1. The 'Drain Theory' was first systematically presented by Dadabhai Naoroji in his work 'Poverty and Un-British Rule in India'.\n2. The Surat Split (1907) occurred over the question of accepting the Morley-Minto Reforms.\n3. The Lucknow Pact (1916) brought together the Congress and the Muslim League on common political demands.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1 and 2 only",
+      "C": "3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Dadabhai Naoroji systematically presented the Drain Theory in his work 'Poverty and Un-British Rule in India' (1901). The Lucknow Pact (1916) united Congress and Muslim League on common demands including self-governance. However, the Surat Split (1907) was NOT over Morley-Minto Reforms (which came in 1909) — it was over the question of Swadeshi, Boycott, and the extent of political demands between Moderates and Extremists."
+  },
+  {
+    "id": 18,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "With reference to the Non-Cooperation Movement (1920-22), which of the following is/are correct?\n1. It was launched in conjunction with the Khilafat Movement.\n2. The movement included boycott of legislatures, courts, and educational institutions.\n3. It was withdrawn after the Jallianwala Bagh massacre.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The Non-Cooperation Movement was launched alongside the Khilafat Movement in 1920. It included boycott of legislatures, courts, schools, and foreign goods. However, it was NOT withdrawn after Jallianwala Bagh (1919) — it was withdrawn after the Chauri Chaura incident (February 1922) where a mob set fire to a police station killing 22 policemen."
+  },
+  {
+    "id": 19,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Easy",
+    "question": "The Simon Commission was boycotted by Indians primarily because:",
+    "options": {
+      "A": "It recommended the partition of India",
+      "B": "It had no Indian member",
+      "C": "It proposed to abolish provincial autonomy",
+      "D": "It recommended separate electorates for Dalits"
+    },
+    "correct": "B",
+    "explanation": "The Simon Commission (1927) was boycotted by Indians because it had no Indian member — all seven members were British parliamentarians. This was seen as an insult to Indian self-respect. The slogan 'Simon Go Back' became famous during protests against the commission."
+  },
+  {
+    "id": 20,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following about the Civil Disobedience Movement:\n1. It began with the Dandi March on 12 March 1930.\n2. Khan Abdul Ghaffar Khan organized the 'Khudai Khidmatgar' movement in the North-West Frontier Province.\n3. The Gandhi-Irwin Pact led to the unconditional release of all political prisoners.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "The Civil Disobedience Movement began with the Dandi March on 12 March 1930. Khan Abdul Ghaffar Khan (Frontier Gandhi) organized the Khudai Khidmatgar (Servants of God) in NWFP. However, the Gandhi-Irwin Pact (1931) did NOT provide for unconditional release of all political prisoners — it only released those not convicted of violence, and many prisoners remained in jail."
+  },
+  {
+    "id": 21,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "With reference to the Quit India Movement (1942), consider the following statements:\n1. The 'Do or Die' call was given by Gandhi at the Gowalia Tank Maidan in Bombay.\n2. Parallel governments were established in Satara, Ballia, and Midnapore.\n3. The movement was entirely non-violent as directed by Gandhi.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 only",
+      "C": "1, 2 and 3",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "Gandhi gave the 'Do or Die' call at Gowalia Tank (August Kranti Maidan) on 8 August 1942. Parallel governments (Prati Sarkar) were established in Satara (Maharashtra), Ballia (UP), and Midnapore (Bengal). However, the movement was NOT entirely non-violent — after the arrest of leaders, the movement turned violent in many places with destruction of railway lines, telegraph wires, and government buildings."
+  },
+  {
+    "id": 22,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following about the Indian National Army (INA):\n1. It was first organized by Captain Mohan Singh with Japanese support in Southeast Asia.\n2. Subhas Chandra Bose took over its leadership and formed the Azad Hind Government.\n3. The INA trials at Red Fort led to widespread public sympathy and contributed to British decision to leave India.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. Captain Mohan Singh first organized the INA in 1942 with Japanese support using Indian POWs in Southeast Asia. Bose took over in 1943, reorganized it, and established the Provisional Government of Free India (Azad Hind). The INA trials (1945-46) at Red Fort generated massive public sympathy and demonstrated that the British could no longer rely on Indian loyalty, contributing to their decision to transfer power."
+  },
+  {
+    "id": 23,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Which of the following statements about the Cabinet Mission Plan (1946) is/are correct?\n1. It rejected the demand for a separate Pakistan.\n2. It proposed a three-tier federal structure with provinces grouped into three sections.\n3. It recommended immediate transfer of power to an interim government.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 only",
+      "C": "1, 2 and 3",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "The Cabinet Mission (1946) rejected the demand for Pakistan and proposed a three-tier structure: Union (dealing with foreign affairs, defence, communications), three groups of provinces (A, B, C), and individual provinces. While it did recommend formation of an interim government, it did not propose 'immediate' transfer of power — it envisaged a constituent assembly process first."
+  },
+  {
+    "id": 24,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following tribal and peasant movements during British rule:\n1. Birsa Munda led the Ulgulan movement among the Mundas of Chotanagpur.\n2. The Mappila Rebellion (1921) in Malabar was purely a nationalist movement against British rule.\n3. The Tebhaga Movement (1946) demanded that sharecroppers retain two-thirds of the harvest.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "Birsa Munda led the Ulgulan ('Great Tumult') in 1899-1900 against British and landlord exploitation in Chotanagpur. The Tebhaga Movement in Bengal demanded two-thirds (te-bhaga) share for sharecroppers instead of the existing half. However, the Mappila Rebellion was NOT purely nationalist — while it began with anti-British and anti-landlord sentiments linked to the Khilafat-Non-Cooperation movement, it took a communal turn with forced conversions and violence against Hindu landlords."
+  },
+  {
+    "id": 25,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Easy",
+    "question": "The Montagu-Chelmsford Reforms of 1919 introduced which of the following?",
+    "options": {
+      "A": "Complete provincial autonomy",
+      "B": "Dyarchy in provinces",
+      "C": "Universal adult franchise",
+      "D": "Responsible government at the Centre"
+    },
+    "correct": "B",
+    "explanation": "The Montagu-Chelmsford Reforms (Government of India Act, 1919) introduced Dyarchy in provinces, dividing subjects into 'Reserved' (under Governor) and 'Transferred' (under Indian ministers responsible to legislature). It did not introduce complete provincial autonomy (that came in 1935), universal franchise, or responsible government at the Centre."
+  },
+  {
+    "id": 26,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Preamble of the Indian Constitution:\n1. The words 'Socialist', 'Secular', and 'Integrity' were added by the 42nd Amendment Act.\n2. The Preamble is not justiciable but is considered part of the Constitution as per the Kesavananda Bharati case.\n3. The Preamble can be amended under Article 368.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. The 42nd Amendment (1976) added 'Socialist', 'Secular', and 'Integrity' to the Preamble. In Kesavananda Bharati v. State of Kerala (1973), the Supreme Court held that the Preamble is part of the Constitution. The Preamble can be amended under Article 368, as demonstrated by the 42nd Amendment itself, subject to the basic structure doctrine."
+  },
+  {
+    "id": 27,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "With reference to the Directive Principles of State Policy, which of the following statements is/are correct?\n1. Article 39(b) and 39(c) direct the state to ensure equitable distribution of material resources.\n2. Article 44 directs the state to secure a Uniform Civil Code, which is enforceable in courts.\n3. Article 48A (protection of environment) was added by the 42nd Amendment.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "Article 39(b) and (c) direct the state towards equitable distribution of material resources and prevention of concentration of wealth. Article 48A on environment protection was added by the 42nd Amendment. However, Article 44 (Uniform Civil Code) is a Directive Principle and is NOT enforceable in courts — DPSPs are non-justiciable by Article 37."
+  },
+  {
+    "id": 28,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "Consider the following about the President of India:\n1. The President can return a bill (other than a Money Bill) for reconsideration, but must give assent if it is passed again.\n2. The President's power to promulgate ordinances under Article 123 is subject to judicial review.\n3. The President can be impeached only for 'violation of the Constitution'.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. Under Article 111, if a non-Money Bill is returned and passed again (with or without amendments), the President must give assent. The Supreme Court in DC Wadhwa v. State of Bihar held that ordinance-making power is subject to judicial review. Article 61 provides that the President can be impeached for 'violation of the Constitution'."
+  },
+  {
+    "id": 29,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "With reference to the 73rd Constitutional Amendment Act, which of the following is/are correct?\n1. It mandates reservation of not less than one-third of total seats for women in Panchayats.\n2. It makes it mandatory for states to constitute a State Finance Commission every five years.\n3. It applies uniformly to all states including those in the Fifth and Sixth Schedule areas.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 only",
+      "C": "1, 2 and 3",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "The 73rd Amendment mandates not less than one-third reservation for women in Panchayats (seats and chairpersons). It requires states to constitute a State Finance Commission every five years (Article 243-I). However, it does NOT apply to Fifth Schedule areas (tribal areas) and Sixth Schedule areas — these were later covered by PESA Act 1996 for Fifth Schedule areas."
+  },
+  {
+    "id": 30,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Supreme Court of India:\n1. It has original jurisdiction in disputes between the Government of India and one or more states.\n2. Under Article 32, it can issue writs only for enforcement of Fundamental Rights.\n3. Its advisory jurisdiction under Article 143 is binding on the President.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 only",
+      "C": "1, 2 and 3",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "The Supreme Court has original jurisdiction in Centre-State and inter-State disputes (Article 131). Under Article 32, writs can be issued only for enforcement of Fundamental Rights (unlike High Courts under Article 226 which can issue writs for other purposes too). However, the advisory opinion under Article 143 is NOT binding on the President — it is advisory in nature."
+  },
+  {
+    "id": 31,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Easy",
+    "question": "Which of the following is NOT a feature borrowed from the British Constitution for the Indian Constitution?",
+    "options": {
+      "A": "Parliamentary form of government",
+      "B": "Rule of Law",
+      "C": "Fundamental Rights",
+      "D": "Single citizenship"
+    },
+    "correct": "C",
+    "explanation": "Fundamental Rights were borrowed from the US Constitution, not the British Constitution. From Britain, India borrowed parliamentary government, rule of law, single citizenship, cabinet system, bicameralism, and the concept of writs."
+  },
+  {
+    "id": 32,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "Consider the following about the Governor's powers:\n1. The Governor can reserve a bill for the consideration of the President under Article 200.\n2. The Governor has discretionary power in recommending President's Rule under Article 356.\n3. The Governor's power to appoint the Chief Minister is discretionary when no party has a clear majority.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1, 2 and 3",
+      "C": "2 and 3 only",
+      "D": "1 and 2 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. Under Article 200, the Governor can reserve any bill for the President's consideration. The Governor exercises discretion in reporting to the President about constitutional breakdown in the state (Article 356). When no party has a clear majority, the Governor uses discretion in inviting a leader to form government, as established through conventions and judicial pronouncements."
+  },
+  {
+    "id": 33,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "With reference to the Anti-Defection Law (Tenth Schedule), which of the following statements is/are correct?\n1. A member is deemed to have defected if they voluntarily give up membership of their political party.\n2. The decision of the Speaker/Chairman on disqualification is subject to judicial review.\n3. A merger is deemed to have taken place when two-thirds of the members of a legislature party agree to merge.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "2 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "All three are correct. Under the Tenth Schedule, voluntarily giving up party membership constitutes defection. In Kihoto Hollohan v. Zachillhu (1992), the Supreme Court held that the Speaker's decision is subject to judicial review on grounds of mala fides, perversity, etc. A merger requires at least two-thirds of the legislature party members agreeing to the merger."
+  },
+  {
+    "id": 34,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "Consider the following about the Election Commission of India:\n1. It is a multi-member body with the Chief Election Commissioner and two Election Commissioners.\n2. The Chief Election Commissioner can be removed only through impeachment.\n3. The Election Commission has the power to cancel elections in a constituency on grounds of booth capturing.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "The Election Commission currently has three members (CEC + 2 ECs). It can cancel elections on grounds of booth capturing under Section 58A of the Representation of the People Act. However, the CEC is removed by the same process as a Supreme Court judge (addressed to the President, passed by special majority in both Houses) — this is technically not called 'impeachment' which applies only to the President."
+  },
+  {
+    "id": 35,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Easy",
+    "question": "Which of the following Constitutional bodies is/are mentioned in the Constitution itself?\n1. Finance Commission\n2. NITI Aayog\n3. National Human Rights Commission\n4. Union Public Service Commission",
+    "options": {
+      "A": "1 and 4 only",
+      "B": "1, 2 and 4",
+      "C": "1, 3 and 4",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct": "A",
+    "explanation": "The Finance Commission (Article 280) and UPSC (Article 315) are Constitutional bodies mentioned in the Constitution. NITI Aayog was created by a Cabinet Resolution in 2015 (replacing Planning Commission). NHRC was established by the Protection of Human Rights Act, 1993 — it is a statutory body, not a Constitutional one."
+  },
+  {
+    "id": 36,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Inter-State Council:\n1. It is established under Article 263 of the Constitution by a Presidential order.\n2. It is a permanent constitutional body that meets regularly.\n3. Its recommendations are binding on the Union and State governments.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "1 and 2 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The Inter-State Council is established under Article 263 by a Presidential order (established in 1990 based on Sarkaria Commission recommendation). However, it is NOT a permanent body — it is constituted by the President when it appears necessary. Its recommendations are advisory and NOT binding on governments."
+  },
+  {
+    "id": 37,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "With reference to the Comptroller and Auditor General (CAG) of India:\n1. The CAG audits the accounts of both the Union and State governments.\n2. The CAG's reports are submitted to the President/Governor and then laid before Parliament/Legislature.\n3. The CAG acts as the guide, friend, and philosopher of the Public Accounts Committee.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. The CAG audits accounts of Union and States (Articles 149-151). Reports are submitted to the President/Governor who causes them to be laid before Parliament/Legislature. The CAG is described as the guide, friend, and philosopher of the PAC, which examines the CAG's audit reports."
+  },
+  {
+    "id": 38,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Medium",
+    "question": "Consider the following about the amendment procedure under Article 368:\n1. A Constitutional Amendment Bill can be introduced in either House of Parliament.\n2. Ratification by states is required for amendments affecting federal provisions.\n3. The President cannot withhold assent to a Constitutional Amendment Bill duly passed.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. A Constitution Amendment Bill can be introduced in either House (unlike Money Bills). Amendments affecting federal structure (like representation of states, judiciary, etc.) require ratification by at least half the state legislatures. The 24th Amendment (1971) made it clear that the President 'shall' give assent to a Constitution Amendment Bill — there is no discretion."
+  },
+  {
+    "id": 39,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Hard",
+    "question": "Which of the following correctly describes the difference between a 'Money Bill' and a 'Financial Bill'?\n1. A Money Bill can only be introduced in Lok Sabha, while a Financial Bill (Type I) can be introduced in either House.\n2. Rajya Sabha can only recommend amendments to a Money Bill within 14 days.\n3. The Speaker's certification that a bill is a Money Bill is final and cannot be questioned.\nSelect the correct answer:",
+    "options": {
+      "A": "2 and 3 only",
+      "B": "1 and 2 only",
+      "C": "1, 2 and 3",
+      "D": "1 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "Rajya Sabha can only recommend amendments to a Money Bill within 14 days (Article 109), and the Speaker's certification is final (Article 110). However, statement 1 is incorrect — a Financial Bill (Type I) under Article 117(1) can ONLY be introduced in Lok Sabha (like a Money Bill), though it is treated differently thereafter. It is Financial Bill Type II (Article 117(3)) that can be introduced in either House."
+  },
+  {
+    "id": 40,
+    "paper": "GS1",
+    "subject": "Polity",
+    "difficulty": "Easy",
+    "question": "The concept of 'Basic Structure' of the Constitution was propounded by the Supreme Court in which case?",
+    "options": {
+      "A": "Golaknath v. State of Punjab (1967)",
+      "B": "Kesavananda Bharati v. State of Kerala (1973)",
+      "C": "Minerva Mills v. Union of India (1980)",
+      "D": "Maneka Gandhi v. Union of India (1978)"
+    },
+    "correct": "B",
+    "explanation": "The Basic Structure doctrine was propounded in Kesavananda Bharati v. State of Kerala (1973). While Golaknath (1967) held that Parliament cannot amend Fundamental Rights, it did not establish the basic structure doctrine. Minerva Mills (1980) further developed the doctrine. Maneka Gandhi (1978) expanded the scope of Article 21."
+  },
+  {
+    "id": 41,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Monetary Policy Committee (MPC) of the RBI:\n1. It consists of six members — three from RBI and three external members appointed by the Government.\n2. The RBI Governor is the ex-officio chairperson with a casting vote in case of a tie.\n3. The MPC is mandated to maintain inflation at 4% with a tolerance band of +/- 2%.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. The MPC has six members: RBI Governor (chairperson), RBI Deputy Governor in charge of monetary policy, one RBI officer, and three external members appointed by the Central Government. The Governor has a casting vote. The inflation target is 4% CPI with a tolerance band of +/- 2% (i.e., 2% to 6%)."
+  },
+  {
+    "id": 42,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "With reference to the fiscal deficit and its financing, which of the following statements is/are correct?\n1. Fiscal deficit is the difference between total expenditure and total receipts excluding borrowings.\n2. Monetization of deficit means RBI directly purchasing government securities in the primary market.\n3. A high fiscal deficit necessarily leads to inflation in all economic conditions.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 only",
+      "C": "1, 2 and 3",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "Fiscal deficit = Total expenditure - Total receipts (excluding borrowings). Monetization of deficit involves RBI directly buying government securities in the primary market, effectively printing money to finance the deficit. However, a high fiscal deficit does NOT necessarily lead to inflation in all conditions — during a recession with excess capacity, deficit spending may stimulate demand without causing inflation (as argued by Keynesian economics)."
+  },
+  {
+    "id": 43,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "Consider the following about the Goods and Services Tax (GST) in India:\n1. The GST Council is a constitutional body created under Article 279A.\n2. Petroleum products are currently outside the purview of GST.\n3. The GST Council decisions require a three-fourths majority of weighted votes.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. The GST Council was created by the 101st Amendment under Article 279A. Petroleum crude, high-speed diesel, motor spirit (petrol), natural gas, and aviation turbine fuel are currently outside GST. GST Council decisions require three-fourths majority of weighted votes (Centre has one-third weightage, States collectively have two-thirds)."
+  },
+  {
+    "id": 44,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "With reference to the balance of payments, which of the following is/are correct?\n1. The current account includes trade in goods, services, primary income, and secondary income (transfers).\n2. Foreign Portfolio Investment (FPI) is recorded in the capital account.\n3. A current account deficit is always detrimental to the economy.\nSelect the correct answer:",
+    "options": {
+      "A": "1 only",
+      "B": "1 and 2 only",
+      "C": "1, 2 and 3",
+      "D": "2 and 3 only"
+    },
+    "correct": "B",
+    "explanation": "The current account includes trade balance (goods), services, primary income (investment income, compensation), and secondary income (remittances, grants). FPI is recorded in the capital/financial account. However, a current account deficit is NOT always detrimental — for developing countries, it may reflect higher investment financed by foreign capital inflows, which can boost growth if invested productively."
+  },
+  {
+    "id": 45,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about priority sector lending:\n1. Agriculture, micro and small enterprises, education, and housing are classified as priority sectors.\n2. Domestic commercial banks must lend 40% of Adjusted Net Bank Credit to priority sectors.\n3. Foreign banks with less than 20 branches must achieve the same priority sector targets as domestic banks.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 only",
+      "C": "1, 2 and 3",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "Agriculture, MSEs, education, housing, social infrastructure, renewable energy, and others are priority sectors. Domestic commercial banks and foreign banks with 20 or more branches must lend 40% of ANBC to priority sectors. However, foreign banks with less than 20 branches have a lower target (initially 32%, being raised in phases to 40%) — so statement 3 is incorrect."
+  },
+  {
+    "id": 46,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Easy",
+    "question": "Which of the following is the correct definition of 'Repo Rate'?",
+    "options": {
+      "A": "Rate at which commercial banks borrow from each other",
+      "B": "Rate at which RBI borrows from commercial banks",
+      "C": "Rate at which RBI lends short-term funds to commercial banks against government securities",
+      "D": "Rate at which government borrows from RBI"
+    },
+    "correct": "C",
+    "explanation": "Repo Rate (Repurchase Rate) is the rate at which the RBI lends short-term funds to commercial banks against the collateral of government securities. The rate at which RBI borrows from banks is the Reverse Repo Rate. The inter-bank lending rate is called the Call Money Rate."
+  },
+  {
+    "id": 47,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "Consider the following about India's external debt:\n1. External Commercial Borrowings (ECBs) constitute the largest component of India's external debt.\n2. Short-term debt is defined as debt with original maturity of one year or less.\n3. NRI deposits are classified as part of India's external debt.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. ECBs are the largest component of India's external debt. Short-term debt is defined by original maturity of one year or less (as per international standards). NRI deposits (FCNR, NRE, NRO) are classified as part of external debt since they represent liabilities to non-residents."
+  },
+  {
+    "id": 48,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "With reference to the concept of 'Twin Balance Sheet Problem' in India, consider the following:\n1. It refers to stressed balance sheets of both banks (NPAs) and corporate sector (over-leveraging).\n2. The Insolvency and Bankruptcy Code (IBC) was enacted primarily to address this problem.\n3. The problem originated mainly from aggressive lending during the infrastructure boom of 2004-2008.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. The Twin Balance Sheet problem refers to NPAs on bank balance sheets and over-leveraged corporate balance sheets. The IBC (2016) was enacted to provide a time-bound resolution mechanism for stressed assets. The problem largely originated from aggressive lending during the infrastructure investment boom of 2004-2008, which turned sour after the global financial crisis and policy delays."
+  },
+  {
+    "id": 49,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "Consider the following about the FRBM Act:\n1. It mandates the Central Government to limit fiscal deficit to 3% of GDP.\n2. The Act requires the government to eliminate revenue deficit.\n3. The Act allows the government to exceed fiscal deficit targets under exceptional circumstances.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1 and 2 only",
+      "C": "1, 2 and 3",
+      "D": "3 only"
+    },
+    "correct": "C",
+    "explanation": "The FRBM Act (2003, amended multiple times) mandates limiting fiscal deficit to 3% of GDP (though targets have been revised). It requires elimination of revenue deficit (ensuring revenue receipts cover revenue expenditure). The Act provides escape clauses allowing deviation from targets during national security, calamity, or exceptional grounds (as recommended by the NK Singh Committee)."
+  },
+  {
+    "id": 50,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "Which of the following statements about Special Economic Zones (SEZs) in India is/are correct?\n1. SEZ units are exempt from customs duties on imports of raw materials and capital goods.\n2. SEZs are deemed to be foreign territory for the purpose of trade operations.\n3. The SEZ Act 2005 replaced the earlier Export Processing Zone (EPZ) scheme.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "2 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "All three are correct. SEZ units enjoy duty-free import of raw materials and capital goods for production. SEZs are treated as foreign territory for trade operations and duties. The SEZ Act 2005 provided a comprehensive framework replacing the earlier EPZ scheme that had been in operation since 1965."
+  },
+  {
+    "id": 51,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Indian monsoon:\n1. The onset of the southwest monsoon over Kerala is typically around June 1.\n2. The monsoon trough is a low-pressure area extending from the thermal low over Pakistan to the Bay of Bengal.\n3. 'Break monsoon' conditions occur when the monsoon trough shifts to the foothills of the Himalayas.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. The southwest monsoon typically arrives over Kerala around June 1 (with a standard deviation of about 8 days). The monsoon trough extends from the thermal low over Pakistan/Rajasthan to the Bay of Bengal. During 'break' conditions, the trough shifts northward to the Himalayan foothills, causing rainfall to decrease over the plains and increase over the northeast and Himalayas."
+  },
+  {
+    "id": 52,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "With reference to the drainage patterns of Indian rivers, which of the following is/are correct?\n1. The Narmada and Tapi flow through rift valleys and form estuaries instead of deltas.\n2. The Godavari is called 'Dakshin Ganga' and has the largest drainage basin among peninsular rivers.\n3. The Brahmaputra performs an antecedent drainage cutting through the Himalayas at Dihang gorge.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "2 and 3 only",
+      "D": "1 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. Narmada and Tapi flow westward through rift valleys (fault troughs) and form estuaries at their mouths due to the narrow coastal plain. Godavari has the largest drainage basin (about 3.13 lakh sq km) among peninsular rivers and is called Dakshin Ganga. The Brahmaputra (Tsangpo in Tibet) is an antecedent river that existed before the Himalayan uplift and cut through the mountains at the Dihang gorge."
+  },
+  {
+    "id": 53,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following about Indian soil types:\n1. Black soil (Regur) is rich in iron, magnesium, and aluminium but deficient in nitrogen and phosphorus.\n2. Laterite soils are formed in regions of high temperature and heavy rainfall through leaching.\n3. Alluvial soils in the Indo-Gangetic plain are classified as Bhangar (old alluvium) and Khadar (new alluvium).\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 and 2 only"
+    },
+    "correct": "C",
+    "explanation": "All three are correct. Black soil (derived from basalt) is rich in iron, magnesium, aluminium, and calcium carbonate but deficient in nitrogen, phosphorus, and organic matter. Laterite soils form under tropical conditions of high temperature and heavy rainfall through intense leaching. Alluvial soils are classified as Bhangar (older, higher, contains kankar nodules) and Khadar (newer, deposited in flood plains)."
+  },
+  {
+    "id": 54,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Easy",
+    "question": "Which of the following passes is NOT located in the Western Himalayas?",
+    "options": {
+      "A": "Rohtang Pass",
+      "B": "Nathu La",
+      "C": "Zoji La",
+      "D": "Shipki La"
+    },
+    "correct": "B",
+    "explanation": "Nathu La is located in Sikkim (Eastern Himalayas) on the India-China border. Rohtang Pass is in Himachal Pradesh, Zoji La is in Jammu & Kashmir (connecting Srinagar to Leh), and Shipki La is in Himachal Pradesh on the India-Tibet border. All three are in the Western Himalayas."
+  },
+  {
+    "id": 55,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about ocean currents:\n1. The Indian Ocean is unique in having seasonally reversing currents due to monsoon winds.\n2. El Niño involves weakening of trade winds and warming of the eastern Pacific Ocean.\n3. The Indian Ocean Dipole (IOD) has no correlation with Indian monsoon rainfall.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 only",
+      "C": "1, 2 and 3",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "The Indian Ocean has seasonally reversing currents — the Somali Current reverses direction between summer and winter monsoons. El Niño involves weakening of Walker Circulation trade winds and anomalous warming of the eastern equatorial Pacific. However, statement 3 is incorrect — the IOD significantly influences Indian monsoon rainfall; a positive IOD can counteract the negative effects of El Niño on Indian rainfall."
+  },
+  {
+    "id": 56,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "With reference to the Western Ghats, which of the following is/are correct?\n1. The Western Ghats are higher in the southern section (Nilgiris, Anaimalai) than in the northern section.\n2. The Palghat Gap separates the Nilgiris from the Anaimalai hills.\n3. The Western Ghats are a UNESCO World Heritage Site recognized as one of the world's biodiversity hotspots.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 and 2 only"
+    },
+    "correct": "C",
+    "explanation": "All three are correct. The Western Ghats are generally higher in the south — Anai Mudi (2,695m) in Anaimalai is the highest peak in peninsular India. The Palghat Gap (about 24 km wide) is a significant break separating the Nilgiris from the Anaimalai hills. The Western Ghats were inscribed as a UNESCO World Heritage Site in 2012 and are recognized as one of the world's eight 'hottest hotspots' of biodiversity."
+  },
+  {
+    "id": 57,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following about India's mineral resources:\n1. The Dharwar system rocks are the most important source of metallic minerals in India.\n2. Jharkhand and Odisha together account for the majority of India's iron ore reserves.\n3. Monazite sands found in Kerala are a source of thorium.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. Dharwar system rocks (Precambrian) are the most important for metallic minerals including iron, manganese, copper, and gold. Jharkhand and Odisha (along with Chhattisgarh and Karnataka) hold the majority of India's iron ore reserves. Monazite sands along the Kerala coast (and parts of Tamil Nadu) are rich in thorium, which India plans to use in its three-stage nuclear programme."
+  },
+  {
+    "id": 58,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "With reference to the concept of 'Jet Streams' and their influence on Indian climate:\n1. The subtropical westerly jet stream splits into two branches around the Tibetan Plateau during summer.\n2. The tropical easterly jet stream develops over peninsular India during the monsoon season.\n3. The withdrawal of the westerly jet from north India triggers the onset of the monsoon.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "All three are correct. During summer, the subtropical westerly jet splits around the Tibetan Plateau — one branch goes north of Tibet, the other south. The tropical easterly jet (at about 14°N) develops during the monsoon season over peninsular India. The withdrawal of the subtropical westerly jet from its position south of the Himalayas to north of Tibet is considered a trigger for monsoon onset."
+  },
+  {
+    "id": 59,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following about India's islands:\n1. The Andaman Islands are the exposed peaks of a submerged mountain range continuing from the Arakan Yoma.\n2. Lakshadweep islands are of coral origin (atolls) formed on a submarine ridge.\n3. Barren Island in the Andaman Sea is India's only active volcano.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. The Andaman Islands are the continuation of the Arakan Yoma range of Myanmar, representing peaks of a submerged mountain chain. Lakshadweep consists of coral atolls formed on a submarine ridge (Chagos-Laccadive Ridge). Barren Island, located about 135 km from Port Blair, is India's only confirmed active volcano, with its last eruption in 2017."
+  },
+  {
+    "id": 60,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Easy",
+    "question": "The 'Rain Shadow' effect is best illustrated in India by which of the following?",
+    "options": {
+      "A": "The Thar Desert lying in the rain shadow of the Aravallis",
+      "B": "The eastern slopes of the Western Ghats receiving less rainfall than the western slopes",
+      "C": "The Ladakh region receiving scanty rainfall due to the Himalayas",
+      "D": "The Coromandel Coast receiving winter rainfall from retreating monsoon"
+    },
+    "correct": "B",
+    "explanation": "The rain shadow effect is best illustrated by the eastern slopes of the Western Ghats (Deccan Plateau side) receiving significantly less rainfall than the western slopes (Konkan/Malabar coast). The moisture-laden southwest monsoon winds deposit most rainfall on the windward (western) side, leaving the leeward (eastern) side relatively dry. While the Thar Desert and Ladakh also receive less rainfall, the Western Ghats provide the classic textbook example of rain shadow in India."
+  },
+  {
+    "id": 61,
+    "paper": "GS1",
+    "subject": "Environment",
+    "difficulty": "Medium",
+    "question": "Consider the following about India's biodiversity hotspots:\n1. India has four biodiversity hotspots — Western Ghats, Eastern Himalayas, Indo-Burma, and Sundaland.\n2. A biodiversity hotspot must have at least 1,500 endemic vascular plant species and have lost at least 70% of its original habitat.\n3. The Western Ghats hotspot extends from Gujarat to the southern tip of India.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "2 and 3 only",
+      "B": "1 and 2 only",
+      "C": "2 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "A biodiversity hotspot requires at least 1,500 endemic vascular plants and must have lost 70% or more of its original habitat. The Western Ghats extend from Gujarat to the southern tip. However, India has parts of FOUR hotspots but Sundaland primarily covers Southeast Asian islands (Malay Peninsula, Borneo, Sumatra) — the Nicobar Islands are the only Indian territory in Sundaland. The four hotspots with Indian territory are: Western Ghats-Sri Lanka, Himalaya, Indo-Burma, and Sundaland (Nicobar Islands)."
+  },
+  {
+    "id": 62,
+    "paper": "GS1",
+    "subject": "Environment",
+    "difficulty": "Hard",
+    "question": "With reference to the concept of 'Ecological Succession', which of the following statements is/are correct?\n1. Primary succession occurs on bare surfaces where no soil exists, such as newly formed volcanic islands.\n2. In hydrosere (aquatic succession), the climax community is typically a mesophytic forest.\n3. Secondary succession occurs faster than primary succession because soil and seed banks already exist.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "2 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "All three are correct. Primary succession begins on bare substrates without soil (lava flows, bare rock, sand dunes). In hydrosere, succession proceeds from aquatic to mesophytic (moderate moisture) forest as the climax community. Secondary succession (after disturbance like fire or logging) is faster because soil, nutrients, and seed banks are already present."
+  },
+  {
+    "id": 63,
+    "paper": "GS1",
+    "subject": "Environment",
+    "difficulty": "Medium",
+    "question": "Consider the following about the National Action Plan on Climate Change (NAPCC):\n1. It was launched in 2008 and consists of eight national missions.\n2. The National Solar Mission aims to establish India as a global leader in solar energy.\n3. The National Mission for Sustaining the Himalayan Ecosystem focuses on glaciology and biodiversity conservation.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. NAPCC was launched in June 2008 with eight missions: Solar, Enhanced Energy Efficiency, Sustainable Habitat, Water, Sustaining Himalayan Ecosystem, Green India, Sustainable Agriculture, and Strategic Knowledge for Climate Change. The Solar Mission aims for solar leadership. The Himalayan Mission focuses on understanding climate change impacts on glaciers, biodiversity, and ecosystem services."
+  },
+  {
+    "id": 64,
+    "paper": "GS1",
+    "subject": "Environment",
+    "difficulty": "Hard",
+    "question": "With reference to wetlands in India, consider the following:\n1. India is a signatory to the Ramsar Convention and has designated wetlands of international importance.\n2. Chilika Lake is the largest brackish water lagoon in Asia.\n3. Wetlands serve as carbon sinks, with mangroves and peatlands being particularly effective.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. India signed the Ramsar Convention in 1982 and has over 75 designated Ramsar sites. Chilika Lake in Odisha is the largest brackish water lagoon in Asia (over 1,100 sq km). Wetlands, particularly mangroves and peatlands, are highly effective carbon sinks — mangroves can sequester carbon at rates 3-5 times higher than terrestrial forests per unit area."
+  },
+  {
+    "id": 65,
+    "paper": "GS1",
+    "subject": "Environment",
+    "difficulty": "Medium",
+    "question": "Consider the following about the Wildlife Protection Act, 1972:\n1. Schedule I provides absolute protection with the highest penalties for offences.\n2. The National Board for Wildlife is chaired by the Prime Minister.\n3. Community reserves can be declared on private or community land with consent of the local community.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "2 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "All three are correct. Schedule I species (like tiger, elephant, rhinoceros) receive absolute protection with the highest penalties. The National Board for Wildlife (NBWL) is chaired by the Prime Minister. Community reserves (introduced by the 2002 amendment) can be declared on private or community land with the consent of the local community or individual landowners."
+  },
+  {
+    "id": 66,
+    "paper": "GS1",
+    "subject": "Environment",
+    "difficulty": "Easy",
+    "question": "Which of the following is NOT a greenhouse gas?",
+    "options": {
+      "A": "Methane",
+      "B": "Nitrous oxide",
+      "C": "Nitrogen",
+      "D": "Water vapour"
+    },
+    "correct": "C",
+    "explanation": "Nitrogen (N₂) is NOT a greenhouse gas — it makes up about 78% of the atmosphere but does not absorb infrared radiation. Methane (CH₄), nitrous oxide (N₂O), and water vapour are all greenhouse gases. Water vapour is actually the most abundant greenhouse gas, though its concentration is not directly controlled by human activities."
+  },
+  {
+    "id": 67,
+    "paper": "GS1",
+    "subject": "Environment",
+    "difficulty": "Medium",
+    "question": "Consider the following about coral reefs:\n1. Coral reefs require warm, shallow, clear water with adequate sunlight for zooxanthellae photosynthesis.\n2. India has coral reefs in the Gulf of Kutch, Gulf of Mannar, Andaman & Nicobar, and Lakshadweep.\n3. Coral bleaching occurs when corals expel their symbiotic algae due to thermal stress.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. Corals need warm (20-30°C), shallow, clear water for the zooxanthellae (symbiotic algae) to photosynthesize. India has four major coral reef areas: Gulf of Kutch, Gulf of Mannar, Andaman & Nicobar Islands, and Lakshadweep. Coral bleaching occurs when stressed corals (usually from elevated temperatures) expel their zooxanthellae, turning white and potentially dying."
+  },
+  {
+    "id": 68,
+    "paper": "GS1",
+    "subject": "Environment",
+    "difficulty": "Hard",
+    "question": "With reference to the concept of 'Payments for Ecosystem Services' (PES), which of the following is/are correct?\n1. PES involves beneficiaries of ecosystem services making payments to providers/stewards of those services.\n2. REDD+ is an example of PES where developing countries are compensated for reducing deforestation.\n3. PES schemes require well-defined property rights and measurable ecosystem service delivery.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. PES is a market-based mechanism where beneficiaries pay providers for maintaining ecosystem services (e.g., downstream water users paying upstream forest communities). REDD+ (Reducing Emissions from Deforestation and Forest Degradation) compensates developing countries for forest conservation — a form of PES for carbon sequestration. Effective PES requires clear property rights, measurable services, and conditionality (payment linked to service delivery)."
+  },
+  {
+    "id": 69,
+    "paper": "GS1",
+    "subject": "Environment",
+    "difficulty": "Medium",
+    "question": "Consider the following about the Biological Diversity Act, 2002:\n1. It establishes a three-tier structure: National Biodiversity Authority, State Biodiversity Boards, and Biodiversity Management Committees.\n2. Foreign nationals require approval from the NBA for accessing biological resources.\n3. Indian citizens do not require any approval for accessing biological resources for commercial use.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "The Act establishes NBA (national), SBBs (state), and BMCs (local) — a three-tier structure. Foreign nationals/companies need prior approval from NBA. However, statement 3 is incorrect — Indian citizens need to give prior intimation to the State Biodiversity Board for commercial utilization of biological resources, and must seek approval for obtaining intellectual property rights."
+  },
+  {
+    "id": 70,
+    "paper": "GS1",
+    "subject": "Environment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements about the ozone layer is/are correct?\n1. The ozone layer is primarily found in the stratosphere between 15-35 km altitude.\n2. CFCs release chlorine atoms in the stratosphere which catalytically destroy ozone molecules.\n3. The Montreal Protocol has been successful in phasing out ozone-depleting substances globally.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "All three are correct. The ozone layer is concentrated in the stratosphere (15-35 km). CFCs are stable in the troposphere but break down under UV radiation in the stratosphere, releasing chlorine atoms that catalytically destroy ozone (one chlorine atom can destroy thousands of ozone molecules). The Montreal Protocol (1987) is considered one of the most successful environmental treaties, having phased out 99% of ODS production."
+  },
+  {
+    "id": 71,
+    "paper": "GS1",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "question": "Consider the following about India's space programme:\n1. PSLV (Polar Satellite Launch Vehicle) is primarily used for launching satellites into Sun-Synchronous Polar Orbits.\n2. Chandrayaan-3 achieved a soft landing near the lunar south pole in 2023.\n3. The Gaganyaan programme aims to send Indian astronauts to the International Space Station.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "PSLV is designed primarily for Sun-Synchronous Polar Orbit missions (though it has also launched satellites into GTO). Chandrayaan-3 successfully soft-landed near the lunar south pole on August 23, 2023. However, Gaganyaan aims to demonstrate human spaceflight capability by sending Indian astronauts (Gagannauts) to Low Earth Orbit in an Indian spacecraft — NOT to the ISS."
+  },
+  {
+    "id": 72,
+    "paper": "GS1",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "question": "With reference to CRISPR-Cas9 gene editing technology, which of the following statements is/are correct?\n1. It allows precise cutting and modification of DNA sequences in living organisms.\n2. It can potentially be used to eliminate genetic diseases by correcting mutations.\n3. India has completely banned all forms of gene editing research including on plants.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "CRISPR-Cas9 uses a guide RNA to direct the Cas9 enzyme to cut DNA at specific locations, enabling precise gene editing. It has potential to correct genetic mutations causing diseases like sickle cell anemia and thalassemia. However, India has NOT completely banned gene editing research — while human germline editing is restricted, research on plants and animals is permitted under regulatory oversight by GEAC and other bodies."
+  },
+  {
+    "id": 73,
+    "paper": "GS1",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "question": "Consider the following about nuclear energy in India:\n1. India's three-stage nuclear programme was conceptualized by Homi Bhabha.\n2. The first stage uses Pressurized Heavy Water Reactors (PHWRs) with natural uranium as fuel.\n3. The third stage envisages using thorium-232 to breed fissile uranium-233.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. Homi Bhabha conceptualized the three-stage programme considering India's limited uranium but vast thorium reserves. Stage I uses PHWRs with natural uranium to produce plutonium. Stage II uses Fast Breeder Reactors with plutonium to breed U-233 from thorium. Stage III uses thorium-232/U-233 based reactors for large-scale power generation."
+  },
+  {
+    "id": 74,
+    "paper": "GS1",
+    "subject": "Science",
+    "difficulty": "Easy",
+    "question": "Which of the following technologies is used in India's Aadhaar system for biometric identification?",
+    "options": {
+      "A": "Fingerprint and iris scan only",
+      "B": "Fingerprint, iris scan, and facial recognition",
+      "C": "DNA profiling and fingerprint",
+      "D": "Retinal scan and voice recognition"
+    },
+    "correct": "B",
+    "explanation": "India's Aadhaar system uses three biometric identifiers: fingerprints (all ten fingers), iris scan (both eyes), and facial photograph/recognition. It does not use DNA profiling, retinal scan, or voice recognition. The facial recognition was added later to help authenticate people whose fingerprints may have degraded (manual laborers, elderly)."
+  },
+  {
+    "id": 75,
+    "paper": "GS1",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "question": "Consider the following about Artificial Intelligence and its applications in governance:\n1. Machine Learning is a subset of AI that enables systems to learn from data without explicit programming.\n2. India's National Strategy for AI (NITI Aayog) identifies healthcare, agriculture, education, smart cities, and transportation as focus areas.\n3. Deep Learning uses artificial neural networks with multiple layers to process complex patterns.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. Machine Learning enables systems to learn patterns from data and improve with experience without being explicitly programmed. NITI Aayog's National Strategy for AI (#AIforAll, 2018) identifies five priority sectors: healthcare, agriculture, education, smart cities/infrastructure, and smart mobility/transportation. Deep Learning uses multi-layered neural networks (deep neural networks) to process complex patterns in data."
+  },
+  {
+    "id": 76,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "Consider the following about Indian classical dance forms:\n1. Bharatanatyam originated in Tamil Nadu and is based on the Natya Shastra of Bharata Muni.\n2. Kathakali is a dance-drama from Kerala that combines dance, music, and acting with elaborate costumes.\n3. Manipuri dance is characterized by vigorous and masculine movements depicting martial themes.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "2 and 3 only",
+      "D": "1 only"
+    },
+    "correct": "A",
+    "explanation": "Bharatanatyam originated in Tamil Nadu temples and draws from Natya Shastra. Kathakali from Kerala is indeed a dance-drama with elaborate makeup and costumes. However, Manipuri dance is characterized by graceful, gentle, and lyrical movements (especially the Ras Leela) — it is NOT vigorous or martial. The martial dance form from Manipur is Thang-Ta, not Manipuri classical dance."
+  },
+  {
+    "id": 77,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "With reference to Indian painting traditions, which of the following pairs is/are correctly matched?\n1. Ajanta Paintings — Predominantly Buddhist themes from 2nd century BCE to 6th century CE\n2. Mughal Miniatures — Originated independently without any Persian influence\n3. Pahari Paintings — Developed in the hill kingdoms of Himachal Pradesh and Jammu\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "Ajanta paintings span from 2nd century BCE to 6th century CE with predominantly Buddhist themes (Jataka tales, life of Buddha). Pahari paintings developed in hill states of Himachal Pradesh and Jammu (Kangra, Basohli, Guler schools). However, Mughal miniature painting was heavily influenced by Persian painting traditions — Humayun brought Persian artists Mir Sayyid Ali and Abdus Samad to India, who established the Mughal atelier."
+  },
+  {
+    "id": 78,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "Consider the following about UNESCO Intangible Cultural Heritage items from India:\n1. Yoga was inscribed on the Representative List of Intangible Cultural Heritage.\n2. Kumbh Mela has been recognized as an intangible cultural heritage.\n3. Ramlila — the traditional performance of the Ramayana — is on the list.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. Yoga was inscribed in 2016, Kumbh Mela in 2017, and Ramlila in 2008 on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity. Other Indian entries include Vedic Chanting, Kutiyattam, Chhau dance, and Durga Puja."
+  },
+  {
+    "id": 79,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Easy",
+    "question": "The Konark Sun Temple in Odisha is designed in the form of:",
+    "options": {
+      "A": "A lotus flower floating on water",
+      "B": "A chariot with twelve pairs of wheels drawn by seven horses",
+      "C": "A mountain peak representing Mount Meru",
+      "D": "A ship sailing towards the east"
+    },
+    "correct": "B",
+    "explanation": "The Konark Sun Temple (13th century, built by Narasimhadeva I of the Eastern Ganga dynasty) is designed as a massive chariot of the Sun God with 12 pairs of elaborately carved wheels (representing 12 months) and drawn by 7 horses (representing 7 days of the week). It is a UNESCO World Heritage Site."
+  },
+  {
+    "id": 80,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "Consider the following about Indian temple architecture:\n1. The Nagara style is characterized by a curvilinear tower (shikhara) and is predominant in North India.\n2. The Dravidian style features a pyramidal tower (vimana) and is predominant in South India.\n3. The Vesara style is a hybrid of Nagara and Dravidian found primarily in the Deccan region.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. Nagara style (North India) has a curvilinear shikhara (tower) over the garbhagriha, no boundary walls, and elaborate entrance (torana). Dravidian style (South India) has a pyramidal vimana, gopurams (gateway towers), and enclosed compounds. Vesara (or hybrid/Chalukyan) style combines elements of both and is found in the Deccan, exemplified by temples at Aihole, Badami, and Pattadakal."
+  },
+  {
+    "id": 81,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "With reference to Indian musical traditions, which of the following is/are correct?\n1. Hindustani music is based on the raga-tala framework and was influenced by Persian and Arabic music.\n2. Carnatic music remained relatively uninfluenced by external traditions and is based on the kriti form.\n3. The 'Sangeet Ratnakar' by Sharangadeva is an important medieval treatise on Indian music.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1, 2 and 3",
+      "C": "2 and 3 only",
+      "D": "1 and 2 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. Hindustani music evolved with Persian/Arabic influences during the medieval period while retaining the raga-tala framework. Carnatic music remained more rooted in ancient traditions with the kriti (composition) as its primary form, developed by the Trinity — Tyagaraja, Muthuswami Dikshitar, and Syama Sastri. Sangeet Ratnakar (13th century) by Sharangadeva is a comprehensive treatise covering both vocal and instrumental music."
+  },
+  {
+    "id": 82,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "Consider the following about GI (Geographical Indication) tagged products:\n1. Darjeeling Tea was the first Indian product to receive a GI tag.\n2. GI tags are governed by the Geographical Indications of Goods (Registration and Protection) Act, 1999.\n3. A GI tag guarantees that the product is of superior quality compared to similar products from other regions.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 only"
+    },
+    "correct": "A",
+    "explanation": "Darjeeling Tea was the first Indian product to receive a GI tag (2004). The GI Act of 1999 governs registration and protection. However, a GI tag does NOT guarantee superior quality — it only certifies that the product originates from a specific geographical region and possesses qualities or reputation attributable to that origin. Quality may vary within GI-tagged products."
+  },
+  {
+    "id": 83,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "Which of the following statements about the Chola bronze sculptures is/are correct?\n1. The 'lost wax' (cire perdue) technique was used for casting bronze images.\n2. The Nataraja (Dancing Shiva) is the most iconic Chola bronze representing the cosmic dance.\n3. Chola bronzes were purely decorative and had no religious significance.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "Chola bronzes were made using the lost wax (cire perdue) technique — a wax model is made, covered in clay, heated to melt the wax, and molten metal poured in. The Nataraja is the most celebrated Chola bronze, depicting Shiva's Ananda Tandava (cosmic dance of creation and destruction). However, statement 3 is incorrect — Chola bronzes were primarily religious objects used in temple processions (utsava murtis) and had deep religious significance."
+  },
+  {
+    "id": 84,
+    "paper": "GS1",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "question": "Consider the following about quantum computing:\n1. Quantum computers use qubits which can exist in superposition of 0 and 1 simultaneously.\n2. Quantum entanglement allows qubits to be correlated regardless of distance.\n3. Quantum computers have already replaced classical computers for all computational tasks.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "Qubits can exist in superposition (both 0 and 1 simultaneously) unlike classical bits. Quantum entanglement creates correlations between qubits regardless of physical distance. However, quantum computers have NOT replaced classical computers — they are still in early stages and are advantageous only for specific problems (cryptography, optimization, simulation). For most everyday tasks, classical computers remain superior."
+  },
+  {
+    "id": 85,
+    "paper": "GS1",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "question": "With reference to India's missile programme, which of the following is/are correctly matched?\n1. Agni-V — Intercontinental Ballistic Missile with range over 5,000 km\n2. BrahMos — Supersonic cruise missile jointly developed with Russia\n3. Prithvi — India's first indigenously developed ballistic missile\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "All three are correct. Agni-V is an ICBM with a range exceeding 5,000 km, capable of reaching targets across Asia and parts of Europe/Africa. BrahMos is a supersonic cruise missile (Mach 2.8-3) jointly developed by India (DRDO) and Russia (NPO Mashinostroyeniya). Prithvi was India's first indigenously developed ballistic missile under the IGMDP (Integrated Guided Missile Development Programme)."
+  },
+  {
+    "id": 86,
+    "paper": "GS1",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "question": "Consider the following about mRNA vaccine technology:\n1. mRNA vaccines instruct cells to produce a protein that triggers an immune response.\n2. The mRNA from vaccines integrates into the host cell's DNA permanently.\n3. mRNA vaccines can be developed faster than traditional vaccines as they don't require growing pathogens.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "mRNA vaccines deliver genetic instructions for cells to produce a specific protein (like the spike protein of SARS-CoV-2), triggering an immune response. They can be developed rapidly since only the genetic sequence is needed, not the actual pathogen. However, mRNA does NOT integrate into DNA — it remains in the cytoplasm, is read by ribosomes to make protein, and is then degraded naturally within days."
+  },
+  {
+    "id": 87,
+    "paper": "GS1",
+    "subject": "International Relations",
+    "difficulty": "Medium",
+    "question": "Consider the following about India's 'Neighbourhood First' policy:\n1. It prioritizes diplomatic engagement with immediate neighbours in South Asia.\n2. India provides Lines of Credit, grants, and capacity building to neighbouring countries.\n3. The policy excludes Myanmar and Afghanistan from India's neighbourhood definition.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "The Neighbourhood First policy prioritizes India's immediate neighbours for diplomatic engagement, development assistance, and connectivity. India provides Lines of Credit, grants, disaster relief, and capacity building to neighbours. However, the policy does NOT exclude Myanmar and Afghanistan — both are considered part of India's extended neighbourhood and receive significant attention under this framework."
+  },
+  {
+    "id": 88,
+    "paper": "GS1",
+    "subject": "International Relations",
+    "difficulty": "Hard",
+    "question": "With reference to the Quad (Quadrilateral Security Dialogue), which of the following is/are correct?\n1. It comprises India, USA, Japan, and Australia.\n2. It was revived in 2017 after being dormant since its initial formation in 2007.\n3. The Quad has evolved into a formal military alliance with mutual defence obligations.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "The Quad comprises India, USA, Japan, and Australia. It was first formed in 2007 (initiated by Japanese PM Shinzo Abe), became dormant, and was revived in 2017. However, the Quad is NOT a formal military alliance — it is a diplomatic grouping focused on a free and open Indo-Pacific, with cooperation in areas like vaccines, climate, technology, and maritime security. It has no mutual defence treaty obligations like NATO."
+  },
+  {
+    "id": 89,
+    "paper": "GS1",
+    "subject": "International Relations",
+    "difficulty": "Medium",
+    "question": "Consider the following about India's membership in international organizations:\n1. India is a founding member of the United Nations.\n2. India is a member of the G20 but not a permanent member of the UN Security Council.\n3. India joined the Shanghai Cooperation Organisation (SCO) as a full member in 2017.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "All three are correct. India was a founding member of the UN (signed the UN Charter in 1945). India is a G20 member (and hosted the G20 presidency in 2023) but is not a permanent member of the UNSC (it has been a non-permanent member multiple times). India became a full member of the SCO in 2017 along with Pakistan, having been an observer since 2005."
+  },
+  {
+    "id": 90,
+    "paper": "GS1",
+    "subject": "International Relations",
+    "difficulty": "Hard",
+    "question": "With reference to India's Act East Policy, which of the following is/are correct?\n1. It evolved from the Look East Policy launched in 1991 under PM Narasimha Rao.\n2. It emphasizes economic integration, cultural ties, and strategic relations with ASEAN and East Asia.\n3. The India-Myanmar-Thailand Trilateral Highway is a connectivity project under this policy.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "2 and 3 only",
+      "D": "1 and 3 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. The Act East Policy (announced in 2014) evolved from the Look East Policy initiated by PM Narasimha Rao in 1991. It goes beyond economic engagement to include strategic, cultural, and people-to-people ties with ASEAN, East Asia, and the broader Indo-Pacific. The India-Myanmar-Thailand Trilateral Highway is a flagship connectivity project linking Northeast India to Southeast Asia."
+  },
+  {
+    "id": 91,
+    "paper": "GS1",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "Consider the following about India's digital public infrastructure:\n1. The India Stack comprises Aadhaar (identity), UPI (payments), and DigiLocker (documents).\n2. UPI (Unified Payments Interface) enables real-time inter-bank transactions through mobile phones.\n3. India's digital public infrastructure model has been adopted by several countries.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "All three are correct. India Stack is a set of open APIs built on Aadhaar (identity layer), UPI (payments layer), DigiLocker (data/documents layer), and eSign. UPI enables instant real-time inter-bank transfers via mobile. India's DPI model has gained international recognition, with countries like Singapore, UAE, France, and others adopting or studying UPI-like systems."
+  },
+  {
+    "id": 92,
+    "paper": "GS1",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "With reference to the Production Linked Incentive (PLI) scheme, which of the following is/are correct?\n1. It aims to boost domestic manufacturing by providing incentives based on incremental sales.\n2. The scheme covers sectors including electronics, pharmaceuticals, automobiles, and textiles.\n3. PLI incentives are given regardless of whether production targets are met.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "PLI provides financial incentives based on incremental sales over a base year to boost manufacturing. It covers 14 sectors including mobile phones, pharma, auto components, textiles, food processing, solar PV, and advanced chemistry cells. However, incentives are NOT given regardless of targets — companies must meet specified production/investment thresholds to qualify for incentives. Non-performance means no payout."
+  },
+  {
+    "id": 93,
+    "paper": "GS1",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "Consider the following about India's renewable energy targets:\n1. India aims to achieve 500 GW of non-fossil fuel energy capacity by 2030.\n2. India has committed to achieving net-zero carbon emissions by 2070.\n3. The National Green Hydrogen Mission aims to make India a global hub for green hydrogen production.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three are correct. At COP26 (Glasgow, 2021), India announced the target of 500 GW non-fossil fuel capacity by 2030 and net-zero by 2070. The National Green Hydrogen Mission (launched 2023) aims to make India a global hub for production, usage, and export of green hydrogen, with a target of 5 million tonnes annual production by 2030."
+  },
+  {
+    "id": 94,
+    "paper": "GS1",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "With reference to the Jal Jeevan Mission, which of the following is/are correct?\n1. It aims to provide functional household tap connections to every rural household by 2024.\n2. It is implemented by the Ministry of Jal Shakti.\n3. The mission follows a community-based approach with village-level planning and implementation.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 only"
+    },
+    "correct": "C",
+    "explanation": "All three are correct. Jal Jeevan Mission (launched 2019) aims to provide Functional Household Tap Connections (FHTC) to every rural household, with the original target of 2024. It is implemented by the Department of Drinking Water and Sanitation under the Ministry of Jal Shakti. The mission emphasizes community participation through Village Water and Sanitation Committees (VWSCs) for planning, implementation, and operation."
+  },
+  {
+    "id": 95,
+    "paper": "GS1",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "Consider the following about semiconductor manufacturing in India:\n1. India has announced a Semiconductor Mission with incentives for setting up fabrication plants.\n2. Semiconductor fabrication requires ultra-pure water, stable power supply, and cleanroom facilities.\n3. India currently has fully operational cutting-edge (sub-7nm) semiconductor fabrication plants.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "2 and 3 only",
+      "D": "1 only"
+    },
+    "correct": "A",
+    "explanation": "India Semiconductor Mission (ISM) was launched with fiscal support of ₹76,000 crore for developing the semiconductor ecosystem. Fab plants require ultra-pure water, uninterrupted power, vibration-free environments, and cleanrooms. However, India does NOT currently have cutting-edge (sub-7nm) fab plants — plants are being set up (like the Micron ATMP facility in Gujarat and Tata's fab in Dholera) but are not yet operational at cutting-edge nodes."
+  },
+  {
+    "id": 96,
+    "paper": "GS1",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "With reference to the National Education Policy (NEP) 2020, which of the following is/are correct?\n1. It replaces the 10+2 structure with a 5+3+3+4 curricular structure.\n2. It proposes a single regulatory body for higher education called HECI.\n3. It mandates that all education must be conducted only in English medium.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "NEP 2020 introduces the 5+3+3+4 structure (Foundational, Preparatory, Middle, Secondary). It proposes the Higher Education Commission of India (HECI) as an umbrella body. However, NEP does NOT mandate English-only education — it strongly promotes mother tongue/local language as the medium of instruction at least till Grade 5, and preferably till Grade 8."
+  },
+  {
+    "id": 97,
+    "paper": "GS1",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "Consider the following about the concept of 'Carbon Border Adjustment Mechanism' (CBAM):\n1. It is a policy tool that puts a carbon price on imports based on their carbon content.\n2. The EU has introduced CBAM to prevent 'carbon leakage' to countries with weaker climate policies.\n3. CBAM has no implications for Indian exports to the European Union.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "CBAM imposes a carbon price on imports equivalent to what domestic producers pay under the EU's Emissions Trading System. It aims to prevent carbon leakage — where production shifts to countries with laxer climate policies. However, CBAM has significant implications for Indian exports (especially steel, aluminium, cement, fertilizers) to the EU, as Indian exporters will need to pay for the carbon embedded in their products."
+  },
+  {
+    "id": 98,
+    "paper": "GS1",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "With reference to India's space commercialization efforts, which of the following is/are correct?\n1. IN-SPACe (Indian National Space Promotion and Authorization Centre) facilitates private sector participation in space activities.\n2. NewSpace India Limited (NSIL) is the commercial arm of ISRO for marketing space products.\n3. India's Space Policy 2023 opens up the space sector for private companies.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "2 and 3 only",
+      "D": "1 and 3 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. IN-SPACe was established to promote, authorize, and supervise private sector space activities. NSIL is ISRO's commercial arm responsible for marketing and transferring ISRO technologies. The Indian Space Policy 2023 delineates roles of ISRO (R&D), IN-SPACe (regulation), and NSIL (commercialization), opening the sector for private players like Skyroot Aerospace and Agnikul Cosmos."
+  },
+  {
+    "id": 99,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "Consider the following about the Insolvency and Bankruptcy Code (IBC), 2016:\n1. It provides a time-bound process of 180 days (extendable by 90 days) for resolution of insolvency.\n2. The National Company Law Tribunal (NCLT) is the adjudicating authority for corporate insolvency.\n3. The Committee of Creditors (CoC) comprises only financial creditors who vote on resolution plans.\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "All three are correct. IBC mandates resolution within 180 days (extendable by 90 days, with a maximum of 330 days including litigation time as per Supreme Court). NCLT is the adjudicating authority for corporate persons. The CoC comprises financial creditors (not operational creditors) who have voting rights to approve resolution plans with 66% majority."
+  },
+  {
+    "id": 100,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "With reference to the concept of 'Digital Currency' and RBI's e-Rupee (CBDC), which of the following is/are correct?\n1. CBDC is a legal tender issued by the central bank in digital form.\n2. Unlike cryptocurrencies, CBDC is centralized and backed by the sovereign.\n3. The e-Rupee eliminates the need for commercial banks in the payment system.\nSelect the correct answer:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "CBDC (Central Bank Digital Currency) is legal tender in digital form issued by the RBI. Unlike decentralized cryptocurrencies (Bitcoin, Ethereum), CBDC is centralized, regulated, and backed by the sovereign. However, the e-Rupee does NOT eliminate commercial banks — RBI has adopted a two-tier model where RBI issues CBDC to banks, and banks distribute it to the public. Banks remain intermediaries in the system."
+  }
+]
