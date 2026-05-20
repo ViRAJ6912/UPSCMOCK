@@ -16,6 +16,15 @@ export default function Home() {
           Select a paper to begin your practice session
         </p>
 
+        <div className="mt-6 flex justify-center gap-4">
+          <Link href="/subjects" className="rounded-lg border border-zinc-300 px-4 py-2 text-sm font-medium text-zinc-700 transition-colors hover:bg-zinc-100 dark:border-zinc-600 dark:text-zinc-300 dark:hover:bg-zinc-800">
+            Subject-wise Practice
+          </Link>
+          <Link href="/dashboard" className="rounded-lg border border-zinc-300 px-4 py-2 text-sm font-medium text-zinc-700 transition-colors hover:bg-zinc-100 dark:border-zinc-600 dark:text-zinc-300 dark:hover:bg-zinc-800">
+            Dashboard
+          </Link>
+        </div>
+
         <div className="mt-12 grid gap-6 sm:grid-cols-2">
           {exams.map((exam) => (
             <div
