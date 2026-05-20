@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html, body {
+  background-color: theme('colors.paper');
+  color: theme('colors.ink.DEFAULT');
+}
+
+body {
+  font-feature-settings: "ss01", "cv11";
+}
+
+/* Subtle scrollbar */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #d8d3c4; border-radius: 6px; }
+::-webkit-scrollbar-thumb:hover { background: #b9b3a0; }
+
+/* Utility for rich question text with embedded passages */
+.prose-q {
+  white-space: pre-wrap;
+  line-height: 1.7;
+}
+.prose-q p + p { margin-top: 0.75rem; }
