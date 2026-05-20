@@ -4,7 +4,7 @@
     "paper": "GS1",
     "subject": "Ancient India",
     "difficulty": "Medium",
-    "question": "Consider the following statements about the Indus Valley Civilization:\n1. The Great Bath was found at Mohenjo-daro.\n2. The dockyard was found at Lothal.\n3. Evidence of horse sacrifice has been found at Surkotada.\nWhich of the statements given above are correct?",
+    "question": "Consider the following statements about the Indus Valley Civilization:\n1. The Great Bath was found at Mohenjo-daro.\n2. The dockyard was found at Lothal.\n3. Evidence of horse bones (remains) has been found at Surkotada.\nWhich of the statements given above are correct?",
     "options": {
       "A": "1 and 2 only",
       "B": "2 and 3 only",
@@ -12,7 +12,7 @@
       "D": "1, 2 and 3"
     },
     "correct": "D",
-    "explanation": "The Great Bath is located at Mohenjo-daro. The dockyard was discovered at Lothal in Gujarat. Horse bones (not sacrifice, but remains) were found at Surkotada, suggesting familiarity with horses. All three statements are correct."
+    "explanation": "The Great Bath is located at Mohenjo-daro. The dockyard was discovered at Lothal in Gujarat. Horse bones (remains) were found at Surkotada, suggesting familiarity with horses. All three statements are correct."
   },
   {
     "id": 2,

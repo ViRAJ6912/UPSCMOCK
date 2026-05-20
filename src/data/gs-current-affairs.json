@@ -1,1 +1,752 @@
-[{"id":1,"paper":"gs-current-affairs","subject":"Placeholder","difficulty":"Medium","question":"Placeholder question — questions coming soon.","options":{"A":"Option A","B":"Option B","C":"Option C","D":"Option D"},"correct":"A","explanation":"Placeholder explanation."}]
+[
+  {
+    "id": 1,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "The Digital India programme was launched in which year?",
+    "options": {
+      "A": "2014",
+      "B": "2015",
+      "C": "2016",
+      "D": "2017"
+    },
+    "correct": "B",
+    "explanation": "Digital India was launched on July 1, 2015, with the vision to transform India into a digitally empowered society and knowledge economy."
+  },
+  {
+    "id": 2,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "Which of the following is NOT a pillar of the Digital India programme?",
+    "options": {
+      "A": "Broadband Highways",
+      "B": "Universal Access to Mobile Connectivity",
+      "C": "Mandatory Aadhaar linkage for all services",
+      "D": "e-Governance"
+    },
+    "correct": "C",
+    "explanation": "Digital India has 9 pillars including Broadband Highways, Universal Access to Mobile Connectivity, Public Internet Access, e-Governance, eKranti, Information for All, Electronics Manufacturing, IT for Jobs, and Early Harvest Programmes. Mandatory Aadhaar linkage is not a pillar."
+  },
+  {
+    "id": 3,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "The Smart Cities Mission was launched with an initial target of developing how many cities?",
+    "options": {
+      "A": "50",
+      "B": "75",
+      "C": "100",
+      "D": "150"
+    },
+    "correct": "C",
+    "explanation": "The Smart Cities Mission was launched in June 2015 with the objective of developing 100 cities with adequate infrastructure and smart solutions."
+  },
+  {
+    "id": 4,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "Under the Smart Cities Mission, the 'Area-Based Development' approach includes:",
+    "options": {
+      "A": "Only greenfield development",
+      "B": "Retrofitting, redevelopment, and greenfield development",
+      "C": "Only redevelopment of slums",
+      "D": "Only industrial corridor development"
+    },
+    "correct": "B",
+    "explanation": "Area-Based Development under Smart Cities Mission includes three approaches: retrofitting (improving existing areas), redevelopment (replacing existing built-up environment), and greenfield development (new areas)."
+  },
+  {
+    "id": 5,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "The Startup India initiative provides which key tax benefit to eligible startups?",
+    "options": {
+      "A": "Complete lifetime tax exemption",
+      "B": "Tax holiday for 3 consecutive years out of first 10 years",
+      "C": "50% tax reduction permanently",
+      "D": "No GST on any startup services"
+    },
+    "correct": "B",
+    "explanation": "Eligible startups under Startup India can avail income tax exemption for 3 consecutive assessment years out of the first 10 years from incorporation."
+  },
+  {
+    "id": 6,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "The Fund of Funds for Startups (FFS) under Startup India is managed by:",
+    "options": {
+      "A": "RBI",
+      "B": "SIDBI",
+      "C": "NABARD",
+      "D": "SBI"
+    },
+    "correct": "B",
+    "explanation": "The Fund of Funds for Startups with a corpus of Rs 10,000 crore is managed by SIDBI (Small Industries Development Bank of India), which invests in SEBI-registered AIFs."
+  },
+  {
+    "id": 7,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "The Pradhan Mantri Kaushal Vikas Yojana (PMKVY) under Skill India is implemented by:",
+    "options": {
+      "A": "Ministry of Education",
+      "B": "National Skill Development Corporation (NSDC)",
+      "C": "Ministry of Labour",
+      "D": "NITI Aayog"
+    },
+    "correct": "B",
+    "explanation": "PMKVY is the flagship scheme of the Ministry of Skill Development and Entrepreneurship, implemented through the National Skill Development Corporation (NSDC)."
+  },
+  {
+    "id": 8,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "The National Skills Qualifications Framework (NSQF) organizes qualifications into how many levels?",
+    "options": {
+      "A": "5",
+      "B": "8",
+      "C": "10",
+      "D": "12"
+    },
+    "correct": "C",
+    "explanation": "NSQF organizes qualifications into 10 levels based on knowledge, skills, and aptitude, from level 1 (basic) to level 10 (doctoral equivalent)."
+  },
+  {
+    "id": 9,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PM-JAY) provides health coverage of:",
+    "options": {
+      "A": "Rs 1 lakh per family per year",
+      "B": "Rs 3 lakh per family per year",
+      "C": "Rs 5 lakh per family per year",
+      "D": "Rs 10 lakh per family per year"
+    },
+    "correct": "C",
+    "explanation": "PM-JAY provides health insurance coverage of Rs 5 lakh per family per year for secondary and tertiary hospitalization to approximately 12 crore poor families."
+  },
+  {
+    "id": 10,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "The beneficiary identification under PM-JAY is based on:",
+    "options": {
+      "A": "BPL census data only",
+      "B": "Socio-Economic Caste Census (SECC) 2011 deprivation criteria",
+      "C": "Aadhaar-based income verification",
+      "D": "Self-declaration by applicants"
+    },
+    "correct": "B",
+    "explanation": "PM-JAY identifies beneficiaries based on deprivation and occupational criteria from the Socio-Economic Caste Census (SECC) 2011 data."
+  },
+  {
+    "id": 11,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "The National Education Policy 2020 proposes replacing the 10+2 school structure with:",
+    "options": {
+      "A": "8+4 structure",
+      "B": "5+3+3+4 structure",
+      "C": "6+3+3 structure",
+      "D": "5+4+3 structure"
+    },
+    "correct": "B",
+    "explanation": "NEP 2020 introduces a 5+3+3+4 curricular structure: Foundational (ages 3-8), Preparatory (8-11), Middle (11-14), and Secondary (14-18)."
+  },
+  {
+    "id": 12,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "NEP 2020 targets raising public expenditure on education to what percentage of GDP?",
+    "options": {
+      "A": "4%",
+      "B": "5%",
+      "C": "6%",
+      "D": "8%"
+    },
+    "correct": "C",
+    "explanation": "NEP 2020 recommends increasing public investment in education to 6% of GDP, up from approximately 4.4% at the time of its announcement."
+  },
+  {
+    "id": 13,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "The Production Linked Incentive (PLI) scheme was initially launched for which sectors?",
+    "options": {
+      "A": "Textiles and agriculture only",
+      "B": "Mobile manufacturing, pharmaceutical ingredients, and medical devices",
+      "C": "Only automobile sector",
+      "D": "Only food processing"
+    },
+    "correct": "B",
+    "explanation": "PLI was initially launched in March 2020 for three sectors: Large Scale Electronics Manufacturing (mobile phones), Critical Key Starting Materials/APIs, and Medical Devices."
+  },
+  {
+    "id": 14,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "The PLI scheme incentivizes manufacturers based on:",
+    "options": {
+      "A": "Total production volume",
+      "B": "Incremental sales over base year",
+      "C": "Number of employees hired",
+      "D": "Capital investment only"
+    },
+    "correct": "B",
+    "explanation": "PLI provides incentives of 4-6% on incremental sales (over base year) of goods manufactured in India, encouraging both domestic and foreign companies to set up manufacturing."
+  },
+  {
+    "id": 15,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "India's Semiconductor Mission aims to:",
+    "options": {
+      "A": "Import all semiconductors from Taiwan",
+      "B": "Establish semiconductor fabrication and design ecosystem in India",
+      "C": "Ban semiconductor imports entirely",
+      "D": "Only focus on semiconductor research, not manufacturing"
+    },
+    "correct": "B",
+    "explanation": "The India Semiconductor Mission (ISM), launched in 2021 with Rs 76,000 crore outlay, aims to build a complete semiconductor ecosystem including fabrication, packaging, and design in India."
+  },
+  {
+    "id": 16,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "Under the Semiconductor Mission, the government provides what level of fiscal support for semiconductor fabs?",
+    "options": {
+      "A": "25% of project cost",
+      "B": "50% of project cost",
+      "C": "Up to 50% of project cost",
+      "D": "75% of project cost"
+    },
+    "correct": "C",
+    "explanation": "The government provides fiscal support of up to 50% of the project cost for setting up semiconductor fabs in India, with the remaining investment from the private sector."
+  },
+  {
+    "id": 17,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "Green hydrogen is produced using:",
+    "options": {
+      "A": "Natural gas reforming",
+      "B": "Electrolysis of water using renewable energy",
+      "C": "Coal gasification",
+      "D": "Nuclear fission"
+    },
+    "correct": "B",
+    "explanation": "Green hydrogen is produced through electrolysis of water powered by renewable energy sources like solar or wind, making it carbon-free."
+  },
+  {
+    "id": 18,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "India's National Green Hydrogen Mission targets production capacity of how much green hydrogen annually by 2030?",
+    "options": {
+      "A": "1 million tonnes",
+      "B": "5 million tonnes",
+      "C": "10 million tonnes",
+      "D": "20 million tonnes"
+    },
+    "correct": "B",
+    "explanation": "The National Green Hydrogen Mission (2023) targets production of 5 million tonnes of green hydrogen annually by 2030, with an investment of over Rs 8 lakh crore."
+  },
+  {
+    "id": 19,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "India's Central Bank Digital Currency (CBDC) e-Rupee was launched as a pilot in:",
+    "options": {
+      "A": "2021",
+      "B": "2022",
+      "C": "2023",
+      "D": "2024"
+    },
+    "correct": "B",
+    "explanation": "RBI launched the Digital Rupee (e\u20b9) pilot in two phases in 2022: wholesale segment (November 1) and retail segment (December 1)."
+  },
+  {
+    "id": 20,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "Which statement about India's e-Rupee (CBDC) is correct?",
+    "options": {
+      "A": "It is a cryptocurrency like Bitcoin",
+      "B": "It is a legal tender issued by RBI representing a digital form of the rupee",
+      "C": "It operates on a decentralized blockchain without RBI control",
+      "D": "It can only be used for international transactions"
+    },
+    "correct": "B",
+    "explanation": "The e-Rupee is a legal tender issued by RBI in digital form. Unlike cryptocurrencies, it is centrally issued, regulated, and represents a claim on the central bank."
+  },
+  {
+    "id": 21,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "The Indian Space Research Organisation (ISRO) opened space sector to private players through which policy?",
+    "options": {
+      "A": "Space Activities Bill 2017",
+      "B": "Indian Space Policy 2023",
+      "C": "FDI Policy 2020",
+      "D": "ISRO Commercialization Act"
+    },
+    "correct": "B",
+    "explanation": "The Indian Space Policy 2023 delineates roles of ISRO, IN-SPACe, and NewSpace India Limited, formally opening the space sector to private participation."
+  },
+  {
+    "id": 22,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "IN-SPACe (Indian National Space Promotion and Authorization Centre) functions as:",
+    "options": {
+      "A": "A replacement for ISRO",
+      "B": "A regulatory and promotional body for private space activities",
+      "C": "A military space command",
+      "D": "An international space cooperation agency"
+    },
+    "correct": "B",
+    "explanation": "IN-SPACe acts as a single-window agency to authorize and regulate space activities by private entities, promote the space sector, and share ISRO facilities."
+  },
+  {
+    "id": 23,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "India's updated Nationally Determined Contribution (NDC) under the Paris Agreement targets:",
+    "options": {
+      "A": "Net zero by 2050",
+      "B": "50% cumulative electric power from non-fossil sources by 2030",
+      "C": "Reducing emissions intensity of GDP by 45% by 2030 over 2005 levels",
+      "D": "Complete elimination of coal by 2030"
+    },
+    "correct": "C",
+    "explanation": "India's updated NDC (August 2022) targets reducing emissions intensity of GDP by 45% by 2030 (over 2005 levels) and achieving 50% cumulative electric power from non-fossil fuel sources by 2030."
+  },
+  {
+    "id": 24,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "India announced its net-zero emissions target at COP26 for which year?",
+    "options": {
+      "A": "2050",
+      "B": "2060",
+      "C": "2070",
+      "D": "2080"
+    },
+    "correct": "C",
+    "explanation": "At COP26 in Glasgow (2021), PM Modi announced India's target to achieve net-zero carbon emissions by 2070."
+  },
+  {
+    "id": 25,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "Jal Jeevan Mission aims to provide:",
+    "options": {
+      "A": "Irrigation to all farmlands by 2025",
+      "B": "Functional household tap connections to all rural households by 2024",
+      "C": "Desalination plants in all coastal states",
+      "D": "Rainwater harvesting in all urban areas"
+    },
+    "correct": "B",
+    "explanation": "Jal Jeevan Mission, launched in 2019, aims to provide functional household tap water connections (Har Ghar Jal) to all rural households, ensuring 55 litres per capita per day."
+  },
+  {
+    "id": 26,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "Jal Jeevan Mission is implemented under which ministry?",
+    "options": {
+      "A": "Ministry of Water Resources",
+      "B": "Ministry of Jal Shakti",
+      "C": "Ministry of Rural Development",
+      "D": "Ministry of Housing and Urban Affairs"
+    },
+    "correct": "B",
+    "explanation": "Jal Jeevan Mission is implemented by the Department of Drinking Water and Sanitation under the Ministry of Jal Shakti."
+  },
+  {
+    "id": 27,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "PM-KISAN provides income support of how much per year to eligible farmer families?",
+    "options": {
+      "A": "Rs 2,000",
+      "B": "Rs 4,000",
+      "C": "Rs 6,000",
+      "D": "Rs 10,000"
+    },
+    "correct": "C",
+    "explanation": "PM-KISAN provides Rs 6,000 per year in three equal instalments of Rs 2,000 to eligible farmer families holding cultivable land."
+  },
+  {
+    "id": 28,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "Which of the following is NOT an eligibility criterion exclusion under PM-KISAN?",
+    "options": {
+      "A": "Institutional landholders",
+      "B": "Former and present holders of constitutional posts",
+      "C": "Farmers with less than 2 hectares of land",
+      "D": "Income tax payers in the last assessment year"
+    },
+    "correct": "C",
+    "explanation": "PM-KISAN excludes institutional landholders, constitutional post holders, serving/retired government employees with pension above Rs 10,000, professionals registered with bodies, and income tax payers. There is no exclusion based on land size."
+  },
+  {
+    "id": 29,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "The concept of 'One Nation One Election' refers to:",
+    "options": {
+      "A": "Having only one political party",
+      "B": "Simultaneous elections to Lok Sabha and all State Assemblies",
+      "C": "Abolishing state elections entirely",
+      "D": "Conducting elections only once every 10 years"
+    },
+    "correct": "B",
+    "explanation": "One Nation One Election proposes holding simultaneous elections to the Lok Sabha and all State Legislative Assemblies to reduce election expenditure and policy paralysis due to the Model Code of Conduct."
+  },
+  {
+    "id": 30,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "The High-Level Committee on 'One Nation One Election' headed by former President Ram Nath Kovind recommended:",
+    "options": {
+      "A": "Immediate implementation without constitutional amendments",
+      "B": "A phased approach requiring constitutional amendments",
+      "C": "Abandoning the idea as unconstitutional",
+      "D": "Only synchronizing municipal and panchayat elections"
+    },
+    "correct": "B",
+    "explanation": "The Kovind Committee (2024) recommended a phased approach: first synchronizing Lok Sabha and State Assembly elections, then municipal/panchayat elections, requiring amendments to Articles 83, 85, 172, 174, and 356."
+  },
+  {
+    "id": 31,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "The Digital Personal Data Protection Act was passed by the Indian Parliament in:",
+    "options": {
+      "A": "2021",
+      "B": "2022",
+      "C": "2023",
+      "D": "2024"
+    },
+    "correct": "C",
+    "explanation": "The Digital Personal Data Protection Act, 2023 was passed by Parliament in August 2023, establishing a framework for processing digital personal data."
+  },
+  {
+    "id": 32,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "Under the Digital Personal Data Protection Act 2023, the regulatory body is called:",
+    "options": {
+      "A": "Data Protection Authority of India",
+      "B": "Data Protection Board of India",
+      "C": "National Data Commission",
+      "D": "Digital Privacy Commission"
+    },
+    "correct": "B",
+    "explanation": "The Act establishes the Data Protection Board of India as the adjudicatory body to handle complaints and impose penalties for non-compliance."
+  },
+  {
+    "id": 33,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "India's approach to AI governance emphasizes:",
+    "options": {
+      "A": "Complete ban on AI development",
+      "B": "Responsible AI with focus on ethics, safety, and innovation",
+      "C": "Unrestricted AI development without any oversight",
+      "D": "Only military applications of AI"
+    },
+    "correct": "B",
+    "explanation": "India's AI governance approach, articulated through NITI Aayog's Responsible AI framework and the Global Partnership on AI (GPAI), emphasizes ethical, transparent, and accountable AI while promoting innovation."
+  },
+  {
+    "id": 34,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "India assumed the chair of the Global Partnership on Artificial Intelligence (GPAI) in:",
+    "options": {
+      "A": "2022",
+      "B": "2023",
+      "C": "2024",
+      "D": "2025"
+    },
+    "correct": "B",
+    "explanation": "India assumed the chair of GPAI in 2023 during its G20 presidency, focusing on responsible AI development and bridging the AI divide between developed and developing nations."
+  },
+  {
+    "id": 35,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "Critical minerals are important for India primarily because they are essential for:",
+    "options": {
+      "A": "Traditional agriculture only",
+      "B": "Clean energy transition, electronics, and defence technologies",
+      "C": "Textile manufacturing only",
+      "D": "Food processing industry"
+    },
+    "correct": "B",
+    "explanation": "Critical minerals like lithium, cobalt, rare earths are essential for batteries, solar panels, wind turbines, semiconductors, and defence applications, making them vital for India's energy transition and strategic autonomy."
+  },
+  {
+    "id": 36,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "India's first list of critical minerals identified how many minerals as critical?",
+    "options": {
+      "A": "15",
+      "B": "24",
+      "C": "30",
+      "D": "50"
+    },
+    "correct": "C",
+    "explanation": "India's Ministry of Mines released the first list of 30 critical minerals in 2023, including lithium, cobalt, nickel, rare earth elements, and others essential for economic development and national security."
+  },
+  {
+    "id": 37,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "The concept of 'supply chain resilience' gained prominence after:",
+    "options": {
+      "A": "2008 financial crisis only",
+      "B": "COVID-19 pandemic exposing vulnerabilities in global supply chains",
+      "C": "India's independence in 1947",
+      "D": "Formation of WTO in 1995"
+    },
+    "correct": "B",
+    "explanation": "While supply chain concerns existed earlier, COVID-19 dramatically exposed vulnerabilities of over-dependence on single sources, accelerating global efforts toward diversification and resilience."
+  },
+  {
+    "id": 38,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "India's 'China Plus One' strategy in supply chains refers to:",
+    "options": {
+      "A": "India becoming China's sole trading partner",
+      "B": "Positioning India as an alternative manufacturing destination to reduce over-dependence on China",
+      "C": "India and China jointly dominating global supply chains",
+      "D": "Banning all Chinese imports"
+    },
+    "correct": "B",
+    "explanation": "China Plus One is a business strategy where companies diversify manufacturing beyond China. India positions itself as a key alternative destination through PLI schemes and infrastructure development."
+  },
+  {
+    "id": 39,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "The Unified Payments Interface (UPI) was developed by:",
+    "options": {
+      "A": "Reserve Bank of India directly",
+      "B": "National Payments Corporation of India (NPCI)",
+      "C": "Ministry of Finance",
+      "D": "State Bank of India"
+    },
+    "correct": "B",
+    "explanation": "UPI was developed by the National Payments Corporation of India (NPCI), which is an initiative of RBI and Indian Banks' Association, and was launched in April 2016."
+  },
+  {
+    "id": 40,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "The Open Network for Digital Commerce (ONDC) aims to:",
+    "options": {
+      "A": "Replace all e-commerce platforms with a government portal",
+      "B": "Democratize digital commerce by creating an open, interoperable network",
+      "C": "Ban foreign e-commerce companies",
+      "D": "Create a government monopoly in online retail"
+    },
+    "correct": "B",
+    "explanation": "ONDC aims to democratize digital commerce by creating an open network that enables small sellers to be discoverable across platforms, reducing dependence on any single platform."
+  },
+  {
+    "id": 41,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "The PM GatiShakti National Master Plan focuses on:",
+    "options": {
+      "A": "Only road construction",
+      "B": "Integrated multimodal infrastructure planning and connectivity",
+      "C": "Only railway expansion",
+      "D": "Only port development"
+    },
+    "correct": "B",
+    "explanation": "PM GatiShakti (2021) is a digital platform for integrated planning of multimodal infrastructure (roads, railways, airports, ports, waterways) to reduce logistics costs and improve connectivity."
+  },
+  {
+    "id": 42,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "The National Logistics Policy targets reducing India's logistics cost from approximately 14% of GDP to:",
+    "options": {
+      "A": "12% by 2030",
+      "B": "10% by 2030",
+      "C": "8% by 2030",
+      "D": "Single digits by 2030"
+    },
+    "correct": "C",
+    "explanation": "The National Logistics Policy (2022) aims to reduce logistics cost from about 14-16% of GDP to 8% by 2030, bringing it in line with global benchmarks."
+  },
+  {
+    "id": 43,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "The Aspirational Districts Programme launched in 2018 focuses on:",
+    "options": {
+      "A": "Only metro cities",
+      "B": "Rapidly transforming 112 most underdeveloped districts",
+      "C": "Only state capitals",
+      "D": "Only border districts"
+    },
+    "correct": "B",
+    "explanation": "The Aspirational Districts Programme targets 112 most underdeveloped districts across 5 themes: health and nutrition, education, agriculture, financial inclusion, and basic infrastructure."
+  },
+  {
+    "id": 44,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "India's Panchamrit climate pledges announced at COP26 include all EXCEPT:",
+    "options": {
+      "A": "500 GW non-fossil energy capacity by 2030",
+      "B": "50% energy from renewable sources by 2030",
+      "C": "Complete phase-out of coal by 2030",
+      "D": "Reduce carbon intensity by 45% by 2030"
+    },
+    "correct": "C",
+    "explanation": "Panchamrit includes: 500 GW non-fossil capacity by 2030, 50% energy from renewables by 2030, reduce total projected carbon emissions by 1 billion tonnes by 2030, reduce carbon intensity by 45% by 2030, and net-zero by 2070. Complete coal phase-out by 2030 was not pledged."
+  },
+  {
+    "id": 45,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "The Semiconductor Laboratory (SCL) in Chandigarh is being modernized to produce:",
+    "options": {
+      "A": "Only raw silicon wafers",
+      "B": "Chips for strategic and automotive applications",
+      "C": "Only consumer electronics chips",
+      "D": "Only mobile phone processors"
+    },
+    "correct": "B",
+    "explanation": "SCL Chandigarh is being modernized as a brownfield fab to produce chips for strategic sectors, automotive, power electronics, and telecom applications."
+  },
+  {
+    "id": 46,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "The PM Vishwakarma scheme launched in 2023 targets:",
+    "options": {
+      "A": "Only IT professionals",
+      "B": "Traditional artisans and craftspeople working with hands and tools",
+      "C": "Only large-scale manufacturers",
+      "D": "Only agricultural labourers"
+    },
+    "correct": "B",
+    "explanation": "PM Vishwakarma provides end-to-end support to traditional artisans and craftspeople (18 trades) through recognition, skill upgradation, toolkit incentives, credit support, and market linkage."
+  },
+  {
+    "id": 47,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "Electoral bonds in India were struck down by the Supreme Court in 2024 primarily on grounds of:",
+    "options": {
+      "A": "Being too expensive to print",
+      "B": "Violating the right to information and enabling quid pro quo",
+      "C": "Being technically difficult to implement",
+      "D": "Violating RBI regulations only"
+    },
+    "correct": "B",
+    "explanation": "The Supreme Court struck down electoral bonds in February 2024, holding they violated citizens' right to information about political funding under Article 19(1)(a) and enabled potential quid pro quo."
+  },
+  {
+    "id": 48,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "The National Research Foundation (NRF) established under NEP 2020 aims to:",
+    "options": {
+      "A": "Replace all existing research bodies",
+      "B": "Fund, mentor, and build research capacity across universities with focus on national priorities",
+      "C": "Only fund IITs and IIMs",
+      "D": "Only support defence research"
+    },
+    "correct": "B",
+    "explanation": "NRF (established via Anusandhan National Research Foundation Act, 2023) aims to seed, grow, and facilitate research across universities, with a total outlay of Rs 50,000 crore over 5 years."
+  },
+  {
+    "id": 49,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "The Lakhpati Didi initiative aims to:",
+    "options": {
+      "A": "Provide Rs 1 lakh to all women",
+      "B": "Create 3 crore women with annual income exceeding Rs 1 lakh through SHGs",
+      "C": "Give free laptops to women",
+      "D": "Provide housing to all women"
+    },
+    "correct": "B",
+    "explanation": "Lakhpati Didi aims to skill women in SHGs (Self Help Groups) to enable them to earn a sustainable income of at least Rs 1 lakh per annum. The target was initially 2 crore and was enhanced to 3 crore Lakhpati Didis in the Interim Budget 2024."
+  },
+  {
+    "id": 50,
+    "paper": "GS2",
+    "subject": "Current Affairs",
+    "difficulty": "Hard",
+    "question": "India's first domestically developed vaccine platform technology used for COVID-19 was:",
+    "options": {
+      "A": "mRNA technology",
+      "B": "Whole Virion Inactivated platform (Covaxin by Bharat Biotech)",
+      "C": "Viral vector technology",
+      "D": "Protein subunit technology"
+    },
+    "correct": "B",
+    "explanation": "Covaxin by Bharat Biotech, developed with ICMR, was India's first indigenous COVID-19 vaccine using the Whole Virion Inactivated Vero Cell platform, demonstrating India's vaccine development capability."
+  }
+]

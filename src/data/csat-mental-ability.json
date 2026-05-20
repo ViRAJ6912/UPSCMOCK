@@ -1,1 +1,502 @@
-[{"id":1,"paper":"csat-mental-ability","subject":"Placeholder","difficulty":"Medium","question":"Placeholder question — questions coming soon.","options":{"A":"Option A","B":"Option B","C":"Option C","D":"Option D"},"correct":"A","explanation":"Placeholder explanation."}]
+[
+  {
+    "id": 1,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "Count the number of triangles in a figure where a large triangle is divided into 4 smaller triangles by joining the midpoints of its three sides.",
+    "options": {"A": "5", "B": "6", "C": "8", "D": "4"},
+    "correct": "A",
+    "explanation": "There are 4 small triangles (3 pointing up, 1 pointing down) plus 1 large outer triangle = 5 total."
+  },
+  {
+    "id": 2,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Hard",
+    "question": "How many total squares exist in a 4×4 grid (a large square divided into 16 equal unit squares)?",
+    "options": {"A": "16", "B": "20", "C": "25", "D": "30"},
+    "correct": "D",
+    "explanation": "1×1: 16, 2×2: 9, 3×3: 4, 4×4: 1. Total = 16+9+4+1 = 30."
+  },
+  {
+    "id": 3,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "A rectangle is divided by 2 vertical lines and 1 horizontal line into 6 equal parts. How many rectangles (including squares) can be counted in the figure?",
+    "options": {"A": "12", "B": "15", "C": "18", "D": "24"},
+    "correct": "C",
+    "explanation": "Vertical lines including edges = 4, horizontal lines including edges = 3. Total rectangles = C(4,2) × C(3,2) = 6 × 3 = 18."
+  },
+  {
+    "id": 4,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Easy",
+    "question": "How many triangles are there in a figure consisting of a triangle with one line drawn from the top vertex to the midpoint of the base?",
+    "options": {"A": "2", "B": "3", "C": "4", "D": "5"},
+    "correct": "B",
+    "explanation": "Left small triangle + right small triangle + the whole large triangle = 3."
+  },
+  {
+    "id": 5,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "How many triangles can be counted in a rectangle with both diagonals drawn?",
+    "options": {"A": "4", "B": "6", "C": "8", "D": "10"},
+    "correct": "C",
+    "explanation": "The diagonals create 4 small triangles. Each pair of adjacent small triangles forms a larger triangle, giving 4 more. Total = 4 + 4 = 8."
+  },
+  {
+    "id": 6,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "Count the total number of squares in a 3×3 grid (a square divided into 9 equal smaller squares).",
+    "options": {"A": "9", "B": "13", "C": "14", "D": "16"},
+    "correct": "C",
+    "explanation": "1×1: 9, 2×2: 4, 3×3: 1. Total = 9+4+1 = 14."
+  },
+  {
+    "id": 7,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Hard",
+    "question": "A triangle has 2 lines drawn from the top vertex to the base dividing it into 3 equal parts, and 1 line parallel to the base at the midpoint. How many triangles are in this figure?",
+    "options": {"A": "8", "B": "9", "C": "10", "D": "12"},
+    "correct": "B",
+    "explanation": "Small triangles in upper row: 2, small triangles in lower row: 3. Medium triangles combining upper pairs: 1, medium combining lower pairs: 2. Large triangles: upper half = 1. Total counting all combinations systematically = 9."
+  },
+  {
+    "id": 8,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Easy",
+    "question": "How many triangles are in a five-pointed star (pentagram)?",
+    "options": {"A": "5", "B": "10", "C": "15", "D": "20"},
+    "correct": "B",
+    "explanation": "5 small triangles at the points + 5 larger triangles each spanning two points of the star = 10 triangles."
+  },
+  {
+    "id": 9,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Easy",
+    "question": "If the word 'TORTURE' is written in front of a mirror, which letter will appear unchanged in its mirror image?",
+    "options": {"A": "T", "B": "R", "C": "O", "D": "E"},
+    "correct": "C",
+    "explanation": "The letter O is symmetrical about the vertical axis, so its mirror image looks the same as the original."
+  },
+  {
+    "id": 10,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "A clock shows 3:15. What time will its mirror image show?",
+    "options": {"A": "8:45", "B": "9:45", "C": "8:15", "D": "9:15"},
+    "correct": "A",
+    "explanation": "To find mirror image time, subtract from 12:00 (for hours between 1-11) or use 11:60. 11:60 - 3:15 = 8:45."
+  },
+  {
+    "id": 11,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "The number ' 3 1 8 ' is placed in front of a mirror. Which of the following represents its correct mirror image?",
+    "options": {"A": "8 1 3 (reversed)", "B": "8 1 E (reversed and flipped)", "C": "ε 1 8", "D": "8 1 ε"},
+    "correct": "A",
+    "explanation": "In a mirror image, the sequence reverses left-to-right. So 318 becomes 813 read from the mirror, with each digit laterally inverted. Since 1 and 8 are vertically symmetric, they look the same. 3 becomes its mirror form."
+  },
+  {
+    "id": 12,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "What will be the water image (reflection in water) of the word 'CHIDE'? In a water image, the figure flips vertically (top becomes bottom).",
+    "options": {"A": "The word appears upside down with letters inverted top-to-bottom", "B": "The word appears reversed left-to-right", "C": "The word appears the same", "D": "Only H, I, D appear unchanged"},
+    "correct": "A",
+    "explanation": "A water image flips the figure along the horizontal axis (top-to-bottom inversion). Each letter gets flipped vertically, making the word appear upside down."
+  },
+  {
+    "id": 13,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Easy",
+    "question": "Which of the following words will look the same in a mirror? (Mirror placed to the right of the word)",
+    "options": {"A": "BOOK", "B": "OTTO", "C": "MAMA", "D": "TOOT"},
+    "correct": "D",
+    "explanation": "TOOT: T and O are both vertically symmetric letters, and the word is a palindrome. So its mirror image reads the same as the original."
+  },
+  {
+    "id": 14,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Hard",
+    "question": "A clock shows 5:25. What time does its mirror image show?",
+    "options": {"A": "6:35", "B": "7:35", "C": "6:25", "D": "7:25"},
+    "correct": "A",
+    "explanation": "Mirror image time = 11:60 - actual time = 11:60 - 5:25 = 6:35."
+  },
+  {
+    "id": 15,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "Which of the following capital letters will look the same in its water image (reflection along horizontal axis)?",
+    "options": {"A": "A", "B": "B", "C": "E", "D": "All of these"},
+    "correct": "C",
+    "explanation": "In a water image (horizontal axis reflection), letters with horizontal symmetry appear unchanged. E has horizontal symmetry — its top and bottom halves are mirror images. The correct answer is C."
+  },
+  {
+    "id": 16,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "A square piece of paper is folded in half vertically (left over right). A triangular piece is then cut from the top-right corner. When unfolded, what shape appears?",
+    "options": {"A": "One triangle at the top-right corner", "B": "Two triangles at both top corners", "C": "A diamond shape at the top center", "D": "A triangle at the top-left corner only"},
+    "correct": "B",
+    "explanation": "When folded left over right, the top-right corner represents both top corners. Cutting a triangle from this corner creates symmetric cuts on both top corners when unfolded."
+  },
+  {
+    "id": 17,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "A circular piece of paper is folded in half along a diameter, then folded again in half. A small circle is punched at the center of the folded piece. How many holes appear when fully unfolded?",
+    "options": {"A": "1", "B": "2", "C": "4", "D": "8"},
+    "correct": "C",
+    "explanation": "Two folds create 4 layers. A single punch goes through all 4 layers, creating 4 holes when unfolded, arranged symmetrically."
+  },
+  {
+    "id": 18,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Hard",
+    "question": "A square paper is folded in half horizontally (bottom to top), then folded in half vertically (right to left). A small square is cut from the bottom-right corner of the folded piece. What does the paper look like when unfolded?",
+    "options": {"A": "A square hole in the center", "B": "Four square holes, one near each corner", "C": "Two square holes along the bottom edge", "D": "One square hole at the bottom-right corner"},
+    "correct": "A",
+    "explanation": "After both folds, the bottom-right corner of the folded piece corresponds to the center of the original paper. Cutting here creates a single square hole in the center when unfolded."
+  },
+  {
+    "id": 19,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Easy",
+    "question": "A rectangular paper is folded once along its vertical center line (left half over right half). A semicircular cut is made on the folded edge. What shape appears when unfolded?",
+    "options": {"A": "A semicircle on the left edge", "B": "A full circle in the center", "C": "Two semicircles on both edges", "D": "An oval in the center"},
+    "correct": "B",
+    "explanation": "The folded edge becomes the center line of the paper. A semicircular cut on the fold creates a full circle when the paper is unfolded, as both halves contribute a semicircle."
+  },
+  {
+    "id": 20,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Hard",
+    "question": "A square paper is folded diagonally (bottom-left corner to top-right corner). Then a small triangle is cut from the right-angle corner (which was the bottom-left/top-right of the original). What appears when unfolded?",
+    "options": {"A": "A square hole in the center", "B": "A diamond (rhombus) hole in the center", "C": "Triangular cuts at two opposite corners", "D": "A triangular hole at one corner only"},
+    "correct": "C",
+    "explanation": "The right-angle corner of the folded triangle corresponds to two opposite corners of the original square (bottom-left and top-right). Cutting a triangle here removes triangular pieces from both these corners."
+  },
+  {
+    "id": 21,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "A square paper is folded into quarters (folded in half horizontally, then vertically). A triangular cut is made at the corner where all folds meet. What shape is the hole when the paper is fully unfolded?",
+    "options": {"A": "A triangle", "B": "A square", "C": "A diamond (rhombus)", "D": "An octagon"},
+    "correct": "C",
+    "explanation": "The corner where all folds meet is the center of the original paper. Cutting a right triangle at this point, when unfolded through both axes of symmetry, creates a diamond (rhombus/square rotated 45°) shaped hole at the center."
+  },
+  {
+    "id": 22,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "A square paper is folded in half vertically. Two holes are punched: one near the top of the folded paper and one near the bottom. How many holes are visible when the paper is unfolded?",
+    "options": {"A": "2", "B": "3", "C": "4", "D": "6"},
+    "correct": "C",
+    "explanation": "Each punch goes through 2 layers (since the paper is folded once). Two punches × 2 layers each = 4 holes total, arranged symmetrically about the vertical center line."
+  },
+  {
+    "id": 23,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "In a 3×3 matrix pattern, each row contains a circle, a square, and a triangle. Each row also has the shapes in black, white, and striped. Row 1: black circle, white square, striped triangle. Row 2: striped square, black triangle, white circle. Row 3: white triangle, striped circle, ?. What replaces the question mark?",
+    "options": {"A": "Black square", "B": "White square", "C": "Black circle", "D": "Striped square"},
+    "correct": "A",
+    "explanation": "Each row and column must contain all three shapes and all three patterns. Row 3 has triangle and circle, so it needs a square. Row 3 has white and striped, so it needs black. Answer: black square."
+  },
+  {
+    "id": 24,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Easy",
+    "question": "A pattern shows figures rotating clockwise by 45° in each step. Figure 1 has an arrow pointing up. Figure 2 has the arrow pointing to the upper-right. Figure 3 has the arrow pointing right. What direction does the arrow point in Figure 5?",
+    "options": {"A": "Down", "B": "Lower-left", "C": "Lower-right", "D": "Left"},
+    "correct": "A",
+    "explanation": "Each step rotates 45° clockwise. Up → Upper-right → Right → Lower-right → Down. Figure 5 has the arrow pointing down."
+  },
+  {
+    "id": 25,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "In a series of figures: Figure 1 has 1 dot inside a circle, Figure 2 has 3 dots inside a circle, Figure 3 has 6 dots inside a circle, Figure 4 has 10 dots inside a circle. How many dots will Figure 5 have?",
+    "options": {"A": "13", "B": "14", "C": "15", "D": "16"},
+    "correct": "C",
+    "explanation": "The pattern follows triangular numbers: 1, 3, 6, 10, 15 (each time adding 2, 3, 4, 5...). Figure 5 = 10 + 5 = 15."
+  },
+  {
+    "id": 26,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "A 3×3 matrix has the following pattern: In each row, the number of sides of the shape increases by 1 from left to right (triangle, square, pentagon). The shading alternates. Row 1: shaded triangle, unshaded square, shaded pentagon. Row 2: unshaded triangle, shaded square, unshaded pentagon. What is the first figure in Row 3?",
+    "options": {"A": "Shaded triangle", "B": "Unshaded triangle", "C": "Shaded square", "D": "Unshaded square"},
+    "correct": "A",
+    "explanation": "The shading pattern in the first column alternates: shaded, unshaded, shaded. So Row 3, Column 1 = shaded triangle."
+  },
+  {
+    "id": 27,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Hard",
+    "question": "In a pattern series, each figure is a square with internal lines. Figure 1: square with 1 diagonal (top-left to bottom-right). Figure 2: square with 2 diagonals (an X). Figure 3: square with 2 diagonals plus a vertical line. Figure 4: square with 2 diagonals plus vertical and horizontal lines. What comes next in Figure 5?",
+    "options": {"A": "Square with all previous lines plus a line from midpoint of top to midpoint of right side", "B": "Square with 2 diagonals, vertical, horizontal, and both mid-diagonals", "C": "The pattern repeats from Figure 1", "D": "Square with a circle inscribed"},
+    "correct": "A",
+    "explanation": "The pattern adds one new line each step, progressing through the lines of symmetry and then intermediate angles. After the two diagonals, vertical, and horizontal, the next line connects midpoints of adjacent sides."
+  },
+  {
+    "id": 28,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Easy",
+    "question": "A pattern shows: Figure 1 is a single small square. Figure 2 is a 2×2 arrangement of squares (4 squares). Figure 3 is a 3×3 arrangement (9 squares). What is Figure 4?",
+    "options": {"A": "12 squares in a 3×4 grid", "B": "16 squares in a 4×4 grid", "C": "13 squares", "D": "14 squares in an irregular pattern"},
+    "correct": "B",
+    "explanation": "The pattern is n×n squares: 1, 4, 9, 16. Figure 4 = 4×4 = 16 squares."
+  },
+  {
+    "id": 29,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "In a 3×3 matrix, each cell contains an arrow. Row 1: →, ↓, ←. Row 2: ↑, →, ↓. Row 3: ?, ↑, →. What direction should the arrow in the missing cell (Row 3, Column 1) point?",
+    "options": {"A": "← (left)", "B": "↓ (down)", "C": "↑ (up)", "D": "→ (right)"},
+    "correct": "A",
+    "explanation": "Each row shows arrows rotating 90° clockwise: Row 1: right, down, left. Row 2: up, right, down. Row 3 should start with left (continuing the pattern where each row's first arrow rotates 90° clockwise from the previous row's first arrow: right→up→left)."
+  },
+  {
+    "id": 30,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Hard",
+    "question": "A series of figures shows a shape being progressively divided. Figure 1: circle with 1 horizontal line (2 parts). Figure 2: circle with 1 horizontal and 1 vertical line (4 parts). Figure 3: circle with lines at 0°, 60°, and 120° (6 parts). How many parts will Figure 4 have?",
+    "options": {"A": "8", "B": "10", "C": "12", "D": "16"},
+    "correct": "A",
+    "explanation": "The number of parts follows: 2, 4, 6, 8. Each figure adds 2 more parts (one additional line through the center). Figure 4 has 4 lines creating 8 equal parts."
+  },
+  {
+    "id": 31,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Easy",
+    "question": "Four figures are given: (A) A circle with a triangle inside, (B) A square with a circle inside, (C) A triangle with a square inside, (D) A pentagon with a triangle inside. Which is the odd one out based on the rule of the inner shape having fewer sides than the outer shape?",
+    "options": {"A": "Figure A", "B": "Figure B", "C": "Figure C", "D": "Figure D"},
+    "correct": "C",
+    "explanation": "In A: triangle (3) inside circle (∞ sides) ✓. In B: circle inside square ✓. In D: triangle (3) inside pentagon (5) ✓. In C: square (4) inside triangle (3) — the inner shape has MORE sides than the outer. C is the odd one out."
+  },
+  {
+    "id": 32,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "Four figures are given: (A) A shape with 2 straight lines and 1 curve, (B) A shape with 2 straight lines and 1 curve, (C) A shape with 3 straight lines and 1 curve, (D) A shape with 2 straight lines and 1 curve. Which is the odd one out?",
+    "options": {"A": "Figure A", "B": "Figure B", "C": "Figure C", "D": "Figure D"},
+    "correct": "C",
+    "explanation": "Figures A, B, and D each have 2 straight lines and 1 curve (total 3 elements with same composition). Figure C has 3 straight lines and 1 curve (4 elements, different composition). C is the odd one out."
+  },
+  {
+    "id": 33,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "Five figures show different arrangements of dots: (A) 3 dots in a straight line, (B) 3 dots forming a triangle, (C) 4 dots forming a square, (D) 4 dots in a straight line, (E) 5 dots forming a pentagon. Which is the odd one out?",
+    "options": {"A": "Figure A", "B": "Figure B", "C": "Figure C", "D": "Figure D"},
+    "correct": "D",
+    "explanation": "Figures B, C, and E show dots arranged as vertices of regular polygons. Figure A has 3 dots in a line (could be seen as degenerate). Figure D has 4 dots in a straight line — unlike C (square), D's dots are collinear, making it the odd one out among the polygon-forming arrangements."
+  },
+  {
+    "id": 34,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Hard",
+    "question": "Four figures each contain a combination of shapes: (A) Large circle containing a small square and a dot, (B) Large square containing a small circle and a dot, (C) Large triangle containing a small circle and a dot, (D) Large circle containing a small triangle and a line. Which is the odd one out?",
+    "options": {"A": "Figure A", "B": "Figure B", "C": "Figure C", "D": "Figure D"},
+    "correct": "D",
+    "explanation": "In A, B, and C, the inner elements are a small closed shape and a dot. In D, the inner elements are a small closed shape and a line (not a dot). D breaks the pattern."
+  },
+  {
+    "id": 35,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Easy",
+    "question": "Four figures are shown: (A) Arrow pointing right, (B) Arrow pointing up, (C) Arrow pointing left, (D) Arrow pointing down but with a double-headed tip. Which is the odd one out?",
+    "options": {"A": "Figure A", "B": "Figure B", "C": "Figure C", "D": "Figure D"},
+    "correct": "D",
+    "explanation": "Figures A, B, and C are all single-headed arrows differing only in direction. Figure D has a double-headed tip, making it structurally different from the others."
+  },
+  {
+    "id": 36,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "A simple figure 'X' is a small right-angled triangle. Four complex figures are given: (A) A large square divided into triangles by both diagonals, (B) A circle divided into 6 equal parts, (C) A regular hexagon, (D) A rectangle divided by one diagonal. In which complex figure is figure X embedded?",
+    "options": {"A": "Figure A", "B": "Figure B", "C": "Figure C", "D": "Figure D"},
+    "correct": "D",
+    "explanation": "A rectangle divided by one diagonal creates two right-angled triangles. The small right-angled triangle (figure X) can be found as part of this figure, matching in shape (right angle with same proportions)."
+  },
+  {
+    "id": 37,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "A question figure shows a small square with a diagonal line from bottom-left to top-right. Which of the following complex figures contains this exact figure embedded within it? (A) A 3×3 grid with all cells having both diagonals, (B) A single large square with one diagonal, (C) A diamond shape with a horizontal line, (D) A 2×2 grid with one diagonal in the top-left cell only.",
+    "options": {"A": "Figure A", "B": "Figure B", "C": "Figure C", "D": "Figure D"},
+    "correct": "D",
+    "explanation": "Figure D (2×2 grid with one diagonal in top-left cell) contains exactly a small square with a single diagonal from bottom-left to top-right, matching the question figure."
+  },
+  {
+    "id": 38,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Hard",
+    "question": "The question figure is an equilateral triangle. In which of the following is it embedded? (A) A Star of David (hexagram), (B) A regular pentagon, (C) A square with both diagonals, (D) A circle with three radii at 120° apart.",
+    "options": {"A": "Figure A", "B": "Figure B", "C": "Figure C", "D": "Figure A and D both"},
+    "correct": "A",
+    "explanation": "A Star of David (hexagram) is formed by two overlapping equilateral triangles. An equilateral triangle is clearly embedded within it as one of its two component triangles."
+  },
+  {
+    "id": 39,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Easy",
+    "question": "The question figure is the letter 'T'. In which complex figure is it hidden? (A) A figure resembling the letter 'E', (B) A figure resembling the letter 'F', (C) A figure resembling the letter 'H', (D) A figure resembling a cross '+'.",
+    "options": {"A": "Figure A", "B": "Figure B", "C": "Figure C", "D": "Figure D"},
+    "correct": "D",
+    "explanation": "A cross (+) shape contains the letter T embedded within it — the top arm and the vertical line of the cross form a T shape."
+  },
+  {
+    "id": 40,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "The question figure is a small circle with a dot at its center. Which complex figure contains this embedded? (A) A target with 3 concentric circles, (B) A square with an inscribed circle, (C) Two overlapping circles, (D) A triangle with its incircle drawn and center marked.",
+    "options": {"A": "Figure A", "B": "Figure B", "C": "Figure C", "D": "Figure D"},
+    "correct": "D",
+    "explanation": "A triangle with its incircle and center marked contains a circle with a dot at its center — the incircle with the incenter marked is exactly the question figure embedded within the larger triangle figure."
+  },
+  {
+    "id": 41,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "A standard die has opposite faces summing to 7. Two dice are placed side by side touching each other. The face of the first die touching the second die shows 3. What number is on the face of the second die that touches the first die?",
+    "options": {"A": "3", "B": "4", "C": "5", "D": "Cannot be determined"},
+    "correct": "D",
+    "explanation": "The touching face of the second die is independent of the first die's touching face. Without additional information about the second die's orientation, we cannot determine what number is on its touching face."
+  },
+  {
+    "id": 42,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "Three positions of a die are shown. Position 1: Top=1, Front=2, Right=3. Position 2: Top=4, Front=2, Right=1. Position 3: Top=3, Front=2, Right=4. What number is opposite to face 2?",
+    "options": {"A": "4", "B": "5", "C": "6", "D": "3"},
+    "correct": "B",
+    "explanation": "In all positions, face 2 is the front. The faces adjacent to 2 (appearing on top and right) are 1, 3, 4. The remaining faces are 5 and 6. On a standard die, opposite faces sum to 7, so opposite to 2 is 5."
+  },
+  {
+    "id": 43,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Hard",
+    "question": "A die is rolled from position A to position B by tilting it forward (toward you) once. At position A, the top face shows 4 and the face facing you shows 1. After one forward tilt, what number is on top at position B?",
+    "options": {"A": "1", "B": "3", "C": "6", "D": "2"},
+    "correct": "C",
+    "explanation": "When a die tilts forward (toward you): back→top, top→front, front→bottom, bottom→back. Initially: top=4, front=1, so back=6 (opposite of 1), bottom=3 (opposite of 4). After forward tilt: new top = old back = 6."
+  },
+  {
+    "id": 44,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Easy",
+    "question": "On a standard die, if the face showing 1 is on top and the face showing 2 faces you, what number is on the bottom?",
+    "options": {"A": "5", "B": "6", "C": "3", "D": "4"},
+    "correct": "B",
+    "explanation": "On a standard die, opposite faces sum to 7. If 1 is on top, then 7-1 = 6 is on the bottom."
+  },
+  {
+    "id": 45,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Hard",
+    "question": "Two positions of a die are shown. Position 1: Top=3, Front=5, Right=1. Position 2: Top=3, Front=4, Right=5. What number is opposite to 1?",
+    "options": {"A": "4", "B": "6", "C": "2", "D": "5"},
+    "correct": "A",
+    "explanation": "In Position 1: Top=3, Front=5, Right=1. In Position 2: Top=3, Front=4, Right=5. The top face (3) stays the same, so the die rotated 90° clockwise (viewed from top). This moves Front→Right, so 5→Right ✓. Right→Back, so 1→Back. In Position 2, Front=4 and Back=1. Since front and back are opposite faces, face 1 is opposite face 4."
+  },
+  {
+    "id": 46,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "A flat cross-shaped figure (made of 6 squares: one center square with one square attached to each of its 4 sides, plus one more square attached to the bottom of the lower square) is to be folded into a cube. Which face will be opposite to the top square of the cross?",
+    "options": {"A": "The bottom-most square (6th square)", "B": "The left square", "C": "The right square", "D": "The center square"},
+    "correct": "A",
+    "explanation": "In this cross-shaped net, the top square and the bottom-most square (the extension below) are separated by 3 squares. When folded, they become opposite faces of the cube."
+  },
+  {
+    "id": 47,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Hard",
+    "question": "A 3D figure is viewed from the front and appears as a rectangle. Viewed from the side, it appears as a circle. Viewed from the top, it appears as a rectangle. What is the 3D figure?",
+    "options": {"A": "Cylinder", "B": "Rectangular prism", "C": "Cone", "D": "Hemisphere"},
+    "correct": "A",
+    "explanation": "A cylinder lying on its side: viewed from the circular end (side view) it appears as a circle, viewed from the front or top it appears as a rectangle. The answer is a cylinder."
+  },
+  {
+    "id": 48,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "How many unit cubes are needed to build a staircase that is 4 steps high, where step 1 has 1 cube, step 2 has 2 cubes stacked, step 3 has 3 cubes stacked, and step 4 has 4 cubes stacked, with each step being 1 cube wide and 1 cube deep?",
+    "options": {"A": "4", "B": "8", "C": "10", "D": "16"},
+    "correct": "C",
+    "explanation": "Step 1: 1 cube, Step 2: 2 cubes, Step 3: 3 cubes, Step 4: 4 cubes. Total = 1+2+3+4 = 10 unit cubes."
+  },
+  {
+    "id": 49,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Easy",
+    "question": "A cube is painted red on all faces and then cut into 27 equal smaller cubes (3×3×3). How many smaller cubes have exactly 2 faces painted?",
+    "options": {"A": "6", "B": "8", "C": "12", "D": "16"},
+    "correct": "C",
+    "explanation": "Cubes with exactly 2 painted faces are the edge cubes (not corners). Each edge of a cube has 1 such cube (middle of the edge). A cube has 12 edges, so there are 12 cubes with exactly 2 painted faces."
+  },
+  {
+    "id": 50,
+    "paper": "CSAT",
+    "subject": "Mental Ability",
+    "difficulty": "Medium",
+    "question": "A cube is painted blue on all faces and then cut into 64 equal smaller cubes (4×4×4). How many smaller cubes have no face painted at all?",
+    "options": {"A": "0", "B": "4", "C": "8", "D": "16"},
+    "correct": "C",
+    "explanation": "Cubes with no painted face are the interior cubes not touching any outer surface. In a 4×4×4 cube, the interior forms a 2×2×2 cube = 8 smaller cubes with no painted face."
+  }
+]

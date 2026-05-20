@@ -1,1 +1,752 @@
-[{"id":1,"paper":"gs-art-culture","subject":"Placeholder","difficulty":"Medium","question":"Placeholder question — questions coming soon.","options":{"A":"Option A","B":"Option B","C":"Option C","D":"Option D"},"correct":"A","explanation":"Placeholder explanation."}]
+[
+  {
+    "id": 1,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "Which classical dance form originated in the temples of Tamil Nadu and is characterized by the 'Aramandi' (half-sitting) posture?",
+    "options": {
+      "A": "Kathakali",
+      "B": "Bharatanatyam",
+      "C": "Odissi",
+      "D": "Kuchipudi"
+    },
+    "correct": "B",
+    "explanation": "Bharatanatyam originated in Tamil Nadu temples and is known for its distinctive Aramandi posture, Nritta (pure dance), and Abhinaya (expression). It was earlier known as Sadir or Dasi Attam."
+  },
+  {
+    "id": 2,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "The 'Jugalbandi' in Indian classical music refers to:",
+    "options": {
+      "A": "A solo vocal recital in Dhrupad style",
+      "B": "A duet performance where two musicians engage in a creative dialogue",
+      "C": "The concluding section of a Carnatic concert",
+      "D": "A percussion ensemble in Kathakali performances"
+    },
+    "correct": "B",
+    "explanation": "Jugalbandi is a duet performance in Indian classical music where two lead performers engage in creative musical dialogue and improvisation, often from different traditions or instruments."
+  },
+  {
+    "id": 3,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "The Nagara style of temple architecture is predominantly found in which part of India?",
+    "options": {
+      "A": "South India",
+      "B": "North India",
+      "C": "Northeast India",
+      "D": "Coastal India"
+    },
+    "correct": "B",
+    "explanation": "The Nagara style is the North Indian temple architecture style characterized by a curvilinear tower (Shikhara) over the sanctum. The Kandariya Mahadeva Temple at Khajuraho is a classic example."
+  },
+  {
+    "id": 4,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "Which of the following is a distinguishing feature of Gandhara School of Sculpture compared to the Mathura School?",
+    "options": {
+      "A": "Use of red sandstone as the primary medium",
+      "B": "Greco-Roman influence with realistic depiction of human anatomy",
+      "C": "Indigenous Indian style with spiritual symbolism",
+      "D": "Use of marble with abstract forms"
+    },
+    "correct": "B",
+    "explanation": "The Gandhara School (1st-5th century CE) shows strong Greco-Roman influence with realistic human anatomy, wavy hair, draped garments, and use of grey schist stone. The Mathura School used red sandstone and had a more indigenous Indian style."
+  },
+  {
+    "id": 5,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "Pattadakal, a UNESCO World Heritage Site in Karnataka, is significant because:",
+    "options": {
+      "A": "It has the largest Buddhist monastery in South India",
+      "B": "It represents the culmination of Chalukyan temple architecture with both Nagara and Dravidian styles",
+      "C": "It contains the earliest known Dravidian temples",
+      "D": "It is the birthplace of Vijayanagara Empire"
+    },
+    "correct": "B",
+    "explanation": "Pattadakal in Karnataka is a UNESCO World Heritage Site that represents the high point of Chalukyan art. It uniquely contains temples in both Nagara and Dravidian styles, showcasing architectural experimentation of the Early Chalukyas (7th-8th century CE)."
+  },
+  {
+    "id": 6,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "The 'Kriti' form in Carnatic music was perfected by which of the following composers?",
+    "options": {
+      "A": "Purandaradasa",
+      "B": "Tyagaraja",
+      "C": "Amir Khusrau",
+      "D": "Tansen"
+    },
+    "correct": "B",
+    "explanation": "Tyagaraja (1767-1847), one of the Trinity of Carnatic music, perfected the Kriti form \u2014 a devotional composition with three parts: Pallavi, Anupallavi, and Charanam. He composed thousands of Kritis, mostly in praise of Lord Rama."
+  },
+  {
+    "id": 7,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "The Pahari school of painting flourished in which region?",
+    "options": {
+      "A": "Rajasthan",
+      "B": "Deccan Plateau",
+      "C": "Hill states of Western Himalayas",
+      "D": "Bengal"
+    },
+    "correct": "C",
+    "explanation": "The Pahari (hill) school of painting flourished in the hill states of Western Himalayas (present-day Himachal Pradesh and Jammu) from the 17th to 19th centuries. It includes sub-schools like Kangra, Basohli, Guler, and Chamba."
+  },
+  {
+    "id": 8,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "Which of the following GI-tagged products is associated with Odisha?",
+    "options": {
+      "A": "Pochampally Ikat",
+      "B": "Pattachitra",
+      "C": "Channapatna Toys",
+      "D": "Thanjavur Painting"
+    },
+    "correct": "B",
+    "explanation": "Odisha Pattachitra is a GI-tagged traditional cloth-based scroll painting from Odisha, depicting mythological narratives and folktales. Pochampally Ikat is from Telangana, Channapatna Toys from Karnataka, and Thanjavur Painting from Tamil Nadu."
+  },
+  {
+    "id": 9,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "Koodiyattam, inscribed on UNESCO's Intangible Cultural Heritage list, is associated with:",
+    "options": {
+      "A": "Ritualistic dance of Assam",
+      "B": "Ancient Sanskrit theatre tradition of Kerala",
+      "C": "Puppet theatre of Rajasthan",
+      "D": "Martial art form of Tamil Nadu"
+    },
+    "correct": "B",
+    "explanation": "Koodiyattam is the ancient Sanskrit theatre form of Kerala, inscribed on UNESCO's Representative List of Intangible Cultural Heritage in 2001. It is one of the oldest surviving theatre traditions in the world, performed by the Chakyar community."
+  },
+  {
+    "id": 10,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "The 'Vesara' style of temple architecture is a blend of which two styles?",
+    "options": {
+      "A": "Nagara and Indo-Islamic",
+      "B": "Dravidian and Buddhist",
+      "C": "Nagara and Dravidian",
+      "D": "Buddhist and Jain"
+    },
+    "correct": "C",
+    "explanation": "The Vesara style is a hybrid of Nagara (North Indian) and Dravidian (South Indian) temple architecture styles, found predominantly in the Deccan region. The Hoysala temples at Belur and Halebidu are prime examples."
+  },
+  {
+    "id": 11,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "Which of the following statements about the Amaravati School of Sculpture is correct?",
+    "options": {
+      "A": "It used grey schist stone and showed Greco-Roman influence",
+      "B": "It used white marble and depicted scenes from the Ramayana",
+      "C": "It used white-green limestone and depicted Buddhist narratives with dynamic compositions",
+      "D": "It used red sandstone and depicted Jain Tirthankaras"
+    },
+    "correct": "C",
+    "explanation": "The Amaravati School (2nd century BCE - 3rd century CE) in Andhra Pradesh used white-green limestone (marble) and is known for dynamic compositions depicting Buddhist Jataka tales and events from Buddha's life, with narrative panels showing great movement and emotion."
+  },
+  {
+    "id": 12,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "Manipuri dance is primarily associated with which theme?",
+    "options": {
+      "A": "Stories from the Mahabharata",
+      "B": "Raslila \u2014 the divine love of Radha and Krishna",
+      "C": "Worship of Goddess Durga",
+      "D": "Tales of Shiva's cosmic dance"
+    },
+    "correct": "B",
+    "explanation": "Manipuri dance from Manipur is primarily associated with Raslila, depicting the divine love of Radha and Krishna. It is characterized by gentle, lyrical movements, swaying body, and the distinctive barrel-shaped costume (Kumil) worn by female dancers."
+  },
+  {
+    "id": 13,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "The 'Progressive Artists' Group' founded in 1947 in Bombay included which of the following artists?",
+    "options": {
+      "A": "Raja Ravi Varma and Abanindranath Tagore",
+      "B": "F.N. Souza, S.H. Raza, and M.F. Husain",
+      "C": "Amrita Sher-Gil and Jamini Roy",
+      "D": "Nandalal Bose and Rabindranath Tagore"
+    },
+    "correct": "B",
+    "explanation": "The Progressive Artists' Group (PAG) was founded in 1947 in Bombay by F.N. Souza, S.H. Raza, M.F. Husain, K.H. Ara, H.A. Gade, and S.K. Bakre. They sought to break away from nationalist art and embrace international modernism."
+  },
+  {
+    "id": 14,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "Which of the following is NOT a component of the Dravidian style of temple architecture?",
+    "options": {
+      "A": "Gopuram (ornate gateway tower)",
+      "B": "Vimana (tower over the sanctum)",
+      "C": "Shikhara (curvilinear spire)",
+      "D": "Prakaram (enclosure wall)"
+    },
+    "correct": "C",
+    "explanation": "The curvilinear Shikhara is a feature of the Nagara (North Indian) style. Dravidian temples feature a pyramidal Vimana over the sanctum, elaborate Gopurams (gateway towers), Prakarams (enclosure walls), and large temple tanks."
+  },
+  {
+    "id": 15,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "The Mughal painting tradition reached its zenith during the reign of:",
+    "options": {
+      "A": "Babur",
+      "B": "Akbar",
+      "C": "Jahangir",
+      "D": "Aurangzeb"
+    },
+    "correct": "C",
+    "explanation": "Mughal painting reached its zenith under Jahangir (1605-1627), who was a great connoisseur of art. His reign saw exceptional naturalistic portraiture, animal studies, and the development of individual artistic styles. Akbar established the atelier, but Jahangir refined it to its peak."
+  },
+  {
+    "id": 16,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "Which ancient Indian text is considered the foundational treatise on dramaturgy and performing arts?",
+    "options": {
+      "A": "Arthashastra",
+      "B": "Natyashastra",
+      "C": "Kamasutra",
+      "D": "Brihad Samhita"
+    },
+    "correct": "B",
+    "explanation": "The Natyashastra, attributed to Bharata Muni (circa 2nd century BCE - 2nd century CE), is the foundational treatise on Indian dramaturgy and performing arts. It covers dance, music, drama, stage design, and the theory of Rasa (aesthetic emotion)."
+  },
+  {
+    "id": 17,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "Warli painting, a tribal art form, originates from which state?",
+    "options": {
+      "A": "Madhya Pradesh",
+      "B": "Maharashtra",
+      "C": "Jharkhand",
+      "D": "Odisha"
+    },
+    "correct": "B",
+    "explanation": "Warli painting is a tribal art form of the Warli tribe from the Thane and Palghar districts of Maharashtra. It uses basic geometric shapes (circles, triangles, squares) and white pigment on mud walls to depict daily life, festivals, and nature."
+  },
+  {
+    "id": 18,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "The 'Dhrupad' style of Hindustani classical music is characterized by:",
+    "options": {
+      "A": "Light romantic themes with fast tempo",
+      "B": "Austere, meditative rendition with emphasis on pure notes and minimal ornamentation",
+      "C": "Use of tabla as the primary percussion",
+      "D": "Semi-classical form with dance movements"
+    },
+    "correct": "B",
+    "explanation": "Dhrupad is the oldest surviving form of Hindustani classical music, characterized by austere and meditative rendition, emphasis on pure notes (shuddha swara), minimal ornamentation, and use of Pakhawaj as percussion. It follows a four-part structure: Sthayi, Antara, Sanchari, and Abhog."
+  },
+  {
+    "id": 19,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "Which of the following festivals is associated with the worship of serpent deities and is celebrated primarily in Kerala?",
+    "options": {
+      "A": "Pongal",
+      "B": "Nag Panchami",
+      "C": "Mannarasala Ayilyam",
+      "D": "Bihu"
+    },
+    "correct": "C",
+    "explanation": "Mannarasala Ayilyam is a famous serpent worship festival celebrated at the Mannarasala Sree Nagaraja Temple in Kerala. While Nag Panchami is pan-Indian, Mannarasala Ayilyam is specifically a Kerala tradition with elaborate rituals for serpent deities."
+  },
+  {
+    "id": 20,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "The 'Sangam Literature' of ancient Tamil Nadu is primarily composed of:",
+    "options": {
+      "A": "Religious hymns dedicated to Vishnu",
+      "B": "Secular and heroic poetry classified into Akam (love) and Puram (war/valor)",
+      "C": "Buddhist philosophical texts",
+      "D": "Astronomical treatises"
+    },
+    "correct": "B",
+    "explanation": "Sangam Literature (3rd century BCE - 3rd century CE) is a corpus of ancient Tamil poetry classified into Akam (interior/love themes) and Puram (exterior/heroic and war themes). It provides valuable insights into early Tamil society, polity, and culture."
+  },
+  {
+    "id": 21,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "Kathak dance form is distinguished from other classical dances by its emphasis on:",
+    "options": {
+      "A": "Mask-wearing and elaborate costumes",
+      "B": "Footwork (Tatkar) and spinning movements (Chakkar)",
+      "C": "Tribhangi posture",
+      "D": "Lasya (graceful) movements only"
+    },
+    "correct": "B",
+    "explanation": "Kathak, originating from North India, is distinguished by its intricate footwork (Tatkar), fast spinning movements (Chakkar), and storytelling through facial expressions. It evolved from temple storytelling traditions and was later influenced by Mughal court culture."
+  },
+  {
+    "id": 22,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "Which of the following sites contains rock-cut caves representing Buddhist, Hindu, and Jain traditions together?",
+    "options": {
+      "A": "Ajanta Caves",
+      "B": "Ellora Caves",
+      "C": "Elephanta Caves",
+      "D": "Badami Caves"
+    },
+    "correct": "B",
+    "explanation": "Ellora Caves (UNESCO World Heritage Site) in Maharashtra uniquely contain rock-cut caves of all three religions \u2014 Buddhist (Caves 1-12), Hindu (Caves 13-29), and Jain (Caves 30-34) \u2014 dating from 6th to 11th century CE, demonstrating religious harmony."
+  },
+  {
+    "id": 23,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "The 'Madhubani' painting tradition is associated with which state?",
+    "options": {
+      "A": "Rajasthan",
+      "B": "Gujarat",
+      "C": "Bihar",
+      "D": "West Bengal"
+    },
+    "correct": "C",
+    "explanation": "Madhubani (or Mithila) painting is a traditional art form from the Mithila region of Bihar. It uses natural dyes and pigments, features geometric patterns and mythological themes, and is traditionally done by women on walls and floors during festivals."
+  },
+  {
+    "id": 24,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "Which of the following is correctly matched? (Theatre form \u2014 State)",
+    "options": {
+      "A": "Yakshagana \u2014 Tamil Nadu",
+      "B": "Bhand Pather \u2014 Jammu & Kashmir",
+      "C": "Tamasha \u2014 Gujarat",
+      "D": "Jatra \u2014 Odisha"
+    },
+    "correct": "B",
+    "explanation": "Bhand Pather is the traditional theatre form of Jammu & Kashmir, combining satire, dance, and music. Yakshagana is from Karnataka, Tamasha from Maharashtra, and Jatra from West Bengal/Bengal region."
+  },
+  {
+    "id": 25,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "The Sun Temple at Konark, a UNESCO World Heritage Site, was built by which dynasty?",
+    "options": {
+      "A": "Chola Dynasty",
+      "B": "Eastern Ganga Dynasty",
+      "C": "Pallava Dynasty",
+      "D": "Chandela Dynasty"
+    },
+    "correct": "B",
+    "explanation": "The Sun Temple at Konark in Odisha was built by King Narasimhadeva I of the Eastern Ganga Dynasty around 1250 CE. It is designed as a colossal chariot with 24 elaborately carved wheels and 7 horses, dedicated to the Sun God Surya."
+  },
+  {
+    "id": 26,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "Which of the following Rajput painting sub-schools is known for its bold use of primary colors and depiction of the 'Rasamanjari' theme?",
+    "options": {
+      "A": "Mewar School",
+      "B": "Basohli School",
+      "C": "Kishangarh School",
+      "D": "Bundi School"
+    },
+    "correct": "B",
+    "explanation": "The Basohli School (a sub-school of Pahari painting, sometimes classified under Rajput tradition) is known for bold primary colors, intense facial features, and depiction of the Rasamanjari (a treatise on love). The Kishangarh School is known for the 'Bani Thani' portrait."
+  },
+  {
+    "id": 27,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "Sattriya dance, recognized as a classical dance form in 2000, originated in:",
+    "options": {
+      "A": "Manipur",
+      "B": "Assam",
+      "C": "Tripura",
+      "D": "Meghalaya"
+    },
+    "correct": "B",
+    "explanation": "Sattriya dance originated in the Vaishnavite monasteries (Sattras) of Assam in the 15th century, created by the saint-reformer Srimanta Sankaradeva. It was recognized as the eighth classical dance form of India by the Sangeet Natak Akademi in 2000."
+  },
+  {
+    "id": 28,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "The concept of 'Rasa' as elaborated in the Natyashastra identifies how many primary aesthetic emotions?",
+    "options": {
+      "A": "Six",
+      "B": "Eight",
+      "C": "Nine",
+      "D": "Twelve"
+    },
+    "correct": "B",
+    "explanation": "The Natyashastra by Bharata Muni originally describes eight Rasas (Shringara, Hasya, Karuna, Raudra, Veera, Bhayanaka, Bibhatsa, Adbhuta). The ninth Rasa, Shanta (peace), was later added by Abhinavagupta and is not part of the original Natyashastra text. Hence the Natyashastra identifies eight primary aesthetic emotions."
+  },
+  {
+    "id": 29,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "Which of the following is a UNESCO World Heritage Site known for its step-well architecture?",
+    "options": {
+      "A": "Chand Baori, Rajasthan",
+      "B": "Rani ki Vav, Gujarat",
+      "C": "Agrasen ki Baoli, Delhi",
+      "D": "Toorji ka Jhalra, Rajasthan"
+    },
+    "correct": "B",
+    "explanation": "Rani ki Vav (Queen's Stepwell) at Patan, Gujarat, was inscribed as a UNESCO World Heritage Site in 2014. Built in the 11th century during the Solanki dynasty, it is an outstanding example of subterranean water architecture with over 500 principal sculptures."
+  },
+  {
+    "id": 30,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "Which of the following literary works is attributed to Kalidasa?",
+    "options": {
+      "A": "Mrichchhakatika",
+      "B": "Mudrarakshasa",
+      "C": "Abhijnanasakuntalam",
+      "D": "Svapnavasavadatta"
+    },
+    "correct": "C",
+    "explanation": "Abhijnanasakuntalam (The Recognition of Shakuntala) is a Sanskrit play by Kalidasa (4th-5th century CE). Mrichchhakatika is by Shudraka, Mudrarakshasa by Vishakhadatta, and Svapnavasavadatta by Bhasa."
+  },
+  {
+    "id": 31,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "The 'Cheriyal Scroll Painting' is a GI-tagged art form from which state?",
+    "options": {
+      "A": "Karnataka",
+      "B": "Telangana",
+      "C": "Andhra Pradesh",
+      "D": "Kerala"
+    },
+    "correct": "B",
+    "explanation": "Cheriyal Scroll Painting is a GI-tagged narrative scroll painting tradition from Cheriyal village in Telangana. It depicts stories from Indian mythology and epics, traditionally used by the Kaki Padagollu storytelling community."
+  },
+  {
+    "id": 32,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "In Hindustani classical music, the 'Gharana' system refers to:",
+    "options": {
+      "A": "A classification of ragas based on time of performance",
+      "B": "A lineage-based school of music with distinctive style and pedagogy",
+      "C": "The rhythmic cycle used in compositions",
+      "D": "A type of musical instrument classification"
+    },
+    "correct": "B",
+    "explanation": "The Gharana system in Hindustani music refers to lineage-based schools with distinctive styles, techniques, and pedagogical traditions passed through generations. Major vocal Gharanas include Gwalior, Agra, Jaipur-Atrauli, Kirana, and Patiala."
+  },
+  {
+    "id": 33,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "The Hornbill Festival, celebrated in December, is associated with which state?",
+    "options": {
+      "A": "Mizoram",
+      "B": "Nagaland",
+      "C": "Arunachal Pradesh",
+      "D": "Meghalaya"
+    },
+    "correct": "B",
+    "explanation": "The Hornbill Festival is celebrated annually in December at Kisama Heritage Village near Kohima, Nagaland. It showcases the cultural heritage of all Naga tribes through traditional dances, music, crafts, and sports."
+  },
+  {
+    "id": 34,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "Which of the following correctly describes the 'Tribhangi' posture in Indian classical dance?",
+    "options": {
+      "A": "A seated posture with legs crossed",
+      "B": "A three-bend posture with deflections at the neck, waist, and knee",
+      "C": "A jumping posture used in Tandava",
+      "D": "A standing posture with arms raised above the head"
+    },
+    "correct": "B",
+    "explanation": "Tribhangi (three bends) is a distinctive posture in Indian classical dance, particularly Odissi, where the body is deflected at three points \u2014 neck, waist, and knee \u2014 creating an S-shaped curve. It is inspired by sculptural traditions of Indian temples."
+  },
+  {
+    "id": 35,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "The Great Living Chola Temples, a UNESCO World Heritage Site, include which of the following?",
+    "options": {
+      "A": "Meenakshi Temple, Madurai",
+      "B": "Brihadisvara Temple, Thanjavur",
+      "C": "Virupaksha Temple, Hampi",
+      "D": "Kailasanatha Temple, Ellora"
+    },
+    "correct": "B",
+    "explanation": "The Great Living Chola Temples (UNESCO) include the Brihadisvara Temple at Thanjavur (built by Rajaraja I, 1010 CE), the Brihadisvara Temple at Gangaikondacholapuram, and the Airavatesvara Temple at Darasuram \u2014 all masterpieces of Chola architecture."
+  },
+  {
+    "id": 36,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "The 'Bengal School of Art' was founded as a reaction against:",
+    "options": {
+      "A": "Mughal miniature painting traditions",
+      "B": "Western academic art promoted during British colonial rule",
+      "C": "Folk art traditions of rural India",
+      "D": "Abstract expressionism of the Progressive Artists' Group"
+    },
+    "correct": "B",
+    "explanation": "The Bengal School of Art (early 20th century), led by Abanindranath Tagore, was founded as a nationalist reaction against Western academic art promoted in British India. It drew inspiration from Mughal miniatures, Ajanta murals, and Japanese wash techniques."
+  },
+  {
+    "id": 37,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "Tholu Bommalata, inscribed on India's Intangible Cultural Heritage list, is a form of:",
+    "options": {
+      "A": "Mask dance of Karnataka",
+      "B": "Shadow puppet theatre of Andhra Pradesh",
+      "C": "String puppet theatre of Rajasthan",
+      "D": "Rod puppet theatre of West Bengal"
+    },
+    "correct": "B",
+    "explanation": "Tholu Bommalata is the traditional shadow puppet theatre of Andhra Pradesh, using large, colorful leather puppets to narrate stories from the Ramayana and Mahabharata. It is recognized as part of India's intangible cultural heritage."
+  },
+  {
+    "id": 38,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "Which of the following ancient texts is a treatise on Indian painting and iconography?",
+    "options": {
+      "A": "Vishnudharmottara Purana (Part III)",
+      "B": "Arthashastra",
+      "C": "Ashtadhyayi",
+      "D": "Charaka Samhita"
+    },
+    "correct": "A",
+    "explanation": "The Vishnudharmottara Purana (Part III, Chitrasutra) is an ancient Indian treatise on painting, iconography, and visual arts. It discusses the six limbs of painting (Shadanga), color theory, perspective, and techniques of image-making."
+  },
+  {
+    "id": 39,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "The 'Phad' painting tradition is associated with which state?",
+    "options": {
+      "A": "Gujarat",
+      "B": "Rajasthan",
+      "C": "Maharashtra",
+      "D": "Madhya Pradesh"
+    },
+    "correct": "B",
+    "explanation": "Phad painting is a religious scroll painting tradition from Rajasthan, depicting the heroic deeds of folk deities Pabuji and Devnarayan. The scrolls are painted on cloth and used by Bhopa (priest-singers) during oral storytelling performances."
+  },
+  {
+    "id": 40,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "Which of the following pairs of UNESCO World Heritage Sites and their associated dynasties is INCORRECT?",
+    "options": {
+      "A": "Hampi \u2014 Vijayanagara Empire",
+      "B": "Khajuraho \u2014 Chandela Dynasty",
+      "C": "Mahabalipuram \u2014 Chola Dynasty",
+      "D": "Sanchi \u2014 Maurya and Shunga Dynasties"
+    },
+    "correct": "C",
+    "explanation": "Mahabalipuram (Group of Monuments) was built by the Pallava Dynasty (7th-8th century CE), not the Chola Dynasty. The Shore Temple and rock-cut rathas were created under Pallava kings Narasimhavarman I and II."
+  },
+  {
+    "id": 41,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "Mohiniyattam, a classical dance form characterized by graceful swaying movements, belongs to which state?",
+    "options": {
+      "A": "Tamil Nadu",
+      "B": "Andhra Pradesh",
+      "C": "Kerala",
+      "D": "Karnataka"
+    },
+    "correct": "C",
+    "explanation": "Mohiniyattam is a classical dance form from Kerala, characterized by graceful, swaying movements (Lasya style), white and gold costume, and themes from Hindu mythology. The name derives from 'Mohini' \u2014 the enchantress form of Lord Vishnu."
+  },
+  {
+    "id": 42,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "The 'Deccani' school of miniature painting flourished under which of the following sultanates?",
+    "options": {
+      "A": "Delhi Sultanate",
+      "B": "Sultanates of Bijapur, Golconda, and Ahmadnagar",
+      "C": "Bengal Sultanate",
+      "D": "Gujarat Sultanate"
+    },
+    "correct": "B",
+    "explanation": "The Deccani school of miniature painting flourished under the Deccan Sultanates \u2014 Bijapur (Adil Shahi), Golconda (Qutb Shahi), and Ahmadnagar (Nizam Shahi) \u2014 from the 16th to 17th centuries. It blended Persian, Turkish, and indigenous Indian artistic traditions."
+  },
+  {
+    "id": 43,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "Which of the following is a traditional martial art form that is also performed as a dance in Kerala?",
+    "options": {
+      "A": "Gatka",
+      "B": "Kalaripayattu",
+      "C": "Thang-Ta",
+      "D": "Silambam"
+    },
+    "correct": "B",
+    "explanation": "Kalaripayattu is an ancient martial art from Kerala that combines combat techniques with dance-like movements, flexibility exercises, and weapon training. It is considered one of the oldest fighting systems in existence and has influenced Kathakali's physical training."
+  },
+  {
+    "id": 44,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "The 'Ashtadhyayi' of Panini is significant in Indian literary tradition because:",
+    "options": {
+      "A": "It is the earliest known work of Tamil poetry",
+      "B": "It is a comprehensive grammar of Sanskrit with 3,959 rules",
+      "C": "It is the first Indian text translated into a European language",
+      "D": "It contains the earliest reference to Indian classical music"
+    },
+    "correct": "B",
+    "explanation": "The Ashtadhyayi by Panini (circa 4th century BCE) is a comprehensive grammar of Sanskrit containing 3,959 sutras (rules) organized in eight chapters. It is considered one of the greatest intellectual achievements of ancient India and a foundational work in linguistics."
+  },
+  {
+    "id": 45,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "Dokra (Dhokra) metal craft, known for its lost-wax casting technique, is primarily associated with which regions?",
+    "options": {
+      "A": "Rajasthan and Gujarat",
+      "B": "West Bengal, Chhattisgarh, and Odisha",
+      "C": "Tamil Nadu and Kerala",
+      "D": "Uttar Pradesh and Bihar"
+    },
+    "correct": "B",
+    "explanation": "Dokra (Dhokra) is a non-ferrous metal casting technique using the lost-wax (cire perdue) method, practiced by tribal communities in West Bengal (Bankura), Chhattisgarh (Bastar), and Odisha. The Dancing Girl of Mohenjo-daro is considered an early example of this technique."
+  },
+  {
+    "id": 46,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "Which of the following statements about Odissi dance is correct?",
+    "options": {
+      "A": "It originated in the Vaishnavite monasteries of Assam",
+      "B": "Its sculptural evidence is found in the Udayagiri-Khandagiri caves and temples of Bhubaneswar",
+      "C": "It was primarily a court dance of the Mughal period",
+      "D": "It uses the Mudiyettu ritual as its foundation"
+    },
+    "correct": "B",
+    "explanation": "Odissi dance has sculptural evidence in the Udayagiri-Khandagiri caves (2nd century BCE), Konark Sun Temple, and temples of Bhubaneswar. It was performed by Maharis (temple dancers) and Gotipuas (boy dancers) in Odisha's Jagannath Temple tradition."
+  },
+  {
+    "id": 47,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "The 'Pashmina' shawl, a GI-tagged product, is traditionally produced in:",
+    "options": {
+      "A": "Himachal Pradesh",
+      "B": "Kashmir",
+      "C": "Uttarakhand",
+      "D": "Sikkim"
+    },
+    "correct": "B",
+    "explanation": "Kashmir Pashmina is a GI-tagged luxury textile made from the fine undercoat of the Changthangi goat found in Ladakh. The weaving tradition of Kashmir Pashmina shawls dates back to the 15th century and involves intricate hand-spinning and weaving."
+  },
+  {
+    "id": 48,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "The 'Nayanars' and 'Alvars' of the Bhakti movement in South India composed devotional literature in which language?",
+    "options": {
+      "A": "Sanskrit",
+      "B": "Tamil",
+      "C": "Kannada",
+      "D": "Telugu"
+    },
+    "correct": "B",
+    "explanation": "The Nayanars (63 Shaivite saints) and Alvars (12 Vaishnavite saints) composed devotional hymns in Tamil between the 6th and 9th centuries CE. The Nayanars' works are compiled in the Tirumurai, and the Alvars' in the Nalayira Divya Prabandham."
+  },
+  {
+    "id": 49,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Medium",
+    "question": "Which of the following is an example of Intangible Cultural Heritage of India inscribed on UNESCO's list?",
+    "options": {
+      "A": "Taj Mahal",
+      "B": "Yoga",
+      "C": "Red Fort",
+      "D": "Western Ghats"
+    },
+    "correct": "B",
+    "explanation": "Yoga was inscribed on UNESCO's Representative List of Intangible Cultural Heritage of Humanity in 2016. Other Indian entries include Kumbh Mela, Ramlila, Vedic Chanting, and Durga Puja in Kolkata."
+  },
+  {
+    "id": 50,
+    "paper": "GS1",
+    "subject": "Art and Culture",
+    "difficulty": "Hard",
+    "question": "Amrita Sher-Gil, a pioneer of modern Indian art, is best known for:",
+    "options": {
+      "A": "Abstract geometric compositions inspired by Tantric art",
+      "B": "Paintings depicting Indian life with a synthesis of Western techniques and Indian themes",
+      "C": "Landscape paintings of the Himalayan region",
+      "D": "Portraits of British colonial officials"
+    },
+    "correct": "B",
+    "explanation": "Amrita Sher-Gil (1913-1941) is considered a pioneer of modern Indian art. She synthesized Western post-impressionist techniques with Indian subjects, depicting the lives of ordinary Indians. Her notable works include 'Three Girls', 'Bride's Toilet', and 'South Indian Villagers Going to Market'."
+  }
+]

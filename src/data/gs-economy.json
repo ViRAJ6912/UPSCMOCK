@@ -1,1 +1,752 @@
-[{"id":1,"paper":"gs-economy","subject":"Placeholder","difficulty":"Medium","question":"Placeholder question — questions coming soon.","options":{"A":"Option A","B":"Option B","C":"Option C","D":"Option D"},"correct":"A","explanation":"Placeholder explanation."}]
+[
+  {
+    "id": 1,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "Which of the following is the correct formula for Net National Product (NNP) at factor cost?",
+    "options": {
+      "A": "GDP at market price - Depreciation + Net factor income from abroad - Net indirect taxes",
+      "B": "GNP at market price - Depreciation - Net indirect taxes",
+      "C": "GDP at factor cost + Net factor income from abroad",
+      "D": "NDP at factor cost + Net factor income from abroad"
+    },
+    "correct": "B",
+    "explanation": "NNP at factor cost = GNP at market price - Depreciation - Net indirect taxes. This is also known as National Income. NNP at factor cost represents the net income earned by the factors of production of a country."
+  },
+  {
+    "id": 2,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Monetary Policy Committee (MPC) of India:\n1. It consists of six members, three from RBI and three external members.\n2. The Governor of RBI is the ex-officio chairperson.\n3. External members are appointed by the Central Government.\n4. Decisions are taken by majority vote with the Governor having a casting vote in case of a tie.\nWhich of the above statements are correct?",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 2 and 4 only",
+      "C": "1, 2, 3 and 4",
+      "D": "2, 3 and 4 only"
+    },
+    "correct": "C",
+    "explanation": "All four statements are correct. The MPC was constituted under Section 45ZB of the RBI Act, 1934. It has 6 members: RBI Governor (Chairperson), RBI Deputy Governor in charge of monetary policy, one RBI officer, and three external members appointed by the Central Government. The Governor has a casting vote in case of a tie."
+  },
+  {
+    "id": 3,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "Which of the following components are included in the Revenue Receipts of the Union Government?\n1. Corporation Tax\n2. Disinvestment proceeds\n3. Grants-in-aid from foreign countries\n4. Recovery of loans from States",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1, 2 and 3",
+      "C": "2 and 4 only",
+      "D": "1, 3 and 4"
+    },
+    "correct": "A",
+    "explanation": "Revenue receipts include tax revenue (like Corporation Tax) and non-tax revenue (like grants-in-aid). Disinvestment proceeds and recovery of loans are capital receipts, not revenue receipts. Capital receipts either create a liability or reduce an asset."
+  },
+  {
+    "id": 4,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "With reference to the Basel III norms, consider the following statements:\n1. They prescribe a minimum Capital Adequacy Ratio (CAR) of 8%.\n2. They introduced the concept of Counter-Cyclical Capital Buffer.\n3. In India, RBI has mandated a higher CAR than the Basel III minimum.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. Basel III prescribes minimum CAR of 8%. It introduced Counter-Cyclical Capital Buffer (0-2.5%) to be built during good times. RBI mandates 9% CAR for Indian banks, which is higher than the Basel III minimum of 8%."
+  },
+  {
+    "id": 5,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "Cost-push inflation can be caused by which of the following?\n1. Increase in wages not matched by productivity\n2. Rise in prices of raw materials\n3. Increase in money supply\n4. Supply chain disruptions",
+    "options": {
+      "A": "1, 2 and 4 only",
+      "B": "1, 2 and 3 only",
+      "C": "3 and 4 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct": "A",
+    "explanation": "Cost-push inflation is caused by increases in the cost of production — wages, raw materials, and supply disruptions. Increase in money supply causes demand-pull inflation, not cost-push inflation. Cost-push inflation shifts the aggregate supply curve leftward."
+  },
+  {
+    "id": 6,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "With reference to the Balance of Payments (BoP), which of the following transactions are recorded in the Capital Account?\n1. Foreign Direct Investment\n2. Remittances from abroad\n3. External Commercial Borrowings\n4. Portfolio Investment by FIIs",
+    "options": {
+      "A": "1, 3 and 4 only",
+      "B": "1, 2 and 3 only",
+      "C": "1, 2, 3 and 4",
+      "D": "2, 3 and 4 only"
+    },
+    "correct": "A",
+    "explanation": "FDI, ECBs, and Portfolio Investment by FIIs are capital account transactions as they involve transfer of financial assets. Remittances from abroad are current account transactions (classified under secondary income/transfers). The capital account records transactions that change the asset-liability status of a country."
+  },
+  {
+    "id": 7,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "Under the GST framework in India, which of the following taxes have been subsumed?\n1. Central Excise Duty\n2. Customs Duty\n3. State VAT\n4. Stamp Duty",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1, 2 and 3",
+      "C": "1, 3 and 4",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct": "A",
+    "explanation": "GST subsumed Central Excise Duty, Service Tax, State VAT, Entry Tax, Octroi, and several other indirect taxes. However, Customs Duty and Stamp Duty have NOT been subsumed under GST. Basic Customs Duty remains outside the GST framework."
+  },
+  {
+    "id": 8,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "With reference to Minimum Support Price (MSP) in India, consider the following statements:\n1. MSP is announced by the Cabinet Committee on Economic Affairs on the recommendation of CACP.\n2. The government currently announces MSP for 22 mandated crops and sugarcane.\n3. MSP is legally enforceable and farmers can approach courts if not paid MSP.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "MSP is announced by CCEA on CACP's recommendation for 22 mandated crops and sugarcane (FRP). However, MSP is NOT legally enforceable — it is only an administrative decision. There is no statutory backing for MSP (except sugarcane's FRP under Sugarcane Control Order)."
+  },
+  {
+    "id": 9,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "The National Manufacturing Policy aims to increase the share of manufacturing in GDP to what percentage?",
+    "options": {
+      "A": "20%",
+      "B": "25%",
+      "C": "30%",
+      "D": "15%"
+    },
+    "correct": "B",
+    "explanation": "The National Manufacturing Policy (2011) aims to increase the share of manufacturing in GDP from about 16% to 25% by 2025. It also aims to create 100 million additional jobs in the manufacturing sector. The policy envisages the establishment of National Investment and Manufacturing Zones (NIMZs)."
+  },
+  {
+    "id": 10,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "Which of the following is NOT a component of India's current account in the Balance of Payments?",
+    "options": {
+      "A": "Trade in goods (merchandise)",
+      "B": "Trade in services (invisibles)",
+      "C": "External Commercial Borrowings",
+      "D": "Private remittances"
+    },
+    "correct": "C",
+    "explanation": "External Commercial Borrowings (ECBs) are part of the Capital Account, not the Current Account. The Current Account includes trade in goods, trade in services, primary income (investment income), and secondary income (remittances and transfers)."
+  },
+  {
+    "id": 11,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Multidimensional Poverty Index (MPI):\n1. It is published by UNDP and Oxford Poverty and Human Development Initiative.\n2. It uses three dimensions — health, education, and standard of living.\n3. A person is considered multidimensionally poor if deprived in at least one-third of the weighted indicators.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three statements are correct. The Global MPI is published jointly by UNDP and OPHI. It measures deprivation across health, education, and standard of living using 10 indicators. A person is MPI poor if deprived in at least one-third (33.33%) of the weighted indicators."
+  },
+  {
+    "id": 12,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "Which of the following are the objectives of the Pradhan Mantri Jan Dhan Yojana (PMJDY)?\n1. Universal access to banking facilities\n2. Providing credit guarantee to all account holders\n3. Financial literacy programme\n4. Accident insurance cover",
+    "options": {
+      "A": "1, 3 and 4 only",
+      "B": "1, 2 and 3 only",
+      "C": "1 and 4 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct": "A",
+    "explanation": "PMJDY aims at universal banking access, financial literacy, and provides RuPay debit card with accident insurance cover of Rs 2 lakh. It does not provide credit guarantee to all account holders. It provides overdraft facility (up to Rs 10,000) to eligible accounts, not credit guarantee."
+  },
+  {
+    "id": 13,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "With reference to SEBI, consider the following statements:\n1. SEBI was established as a statutory body through an Act of Parliament in 1992.\n2. SEBI has the power to regulate credit rating agencies.\n3. SEBI can impose penalties and adjudicate disputes but cannot prosecute offenders in criminal courts.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "2 only",
+      "D": "1 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "SEBI was established as a statutory body by the SEBI Act, 1992. It regulates credit rating agencies (like CRISIL, ICRA). However, statement 3 is incorrect — SEBI can file criminal complaints and prosecute offenders in courts under Section 24 of the SEBI Act."
+  },
+  {
+    "id": 14,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "The Fiscal Responsibility and Budget Management (FRBM) Act, 2003 mandates the Central Government to:\n1. Eliminate revenue deficit\n2. Reduce fiscal deficit to 3% of GDP\n3. Reduce total public debt to 40% of GDP\nWhich of the above is/are correct as per the original FRBM Act and its amendments?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 only",
+      "C": "1, 2 and 3",
+      "D": "2 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "The FRBM Act originally targeted elimination of revenue deficit and reduction of fiscal deficit to 3% of GDP. The N.K. Singh Committee (2017) recommended reducing Central Government debt to 40% of GDP by 2024-25. These targets have been incorporated through amendments."
+  },
+  {
+    "id": 15,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "Which of the following correctly describes the Special Drawing Rights (SDRs) of the IMF?\n1. SDRs are an international reserve asset created by the IMF.\n2. The value of SDR is based on a basket of five currencies.\n3. SDRs can be used directly for transactions in international trade.\n4. The Chinese Renminbi was included in the SDR basket in 2016.",
+    "options": {
+      "A": "1, 2 and 4 only",
+      "B": "1, 2, 3 and 4",
+      "C": "1 and 2 only",
+      "D": "1, 3 and 4 only"
+    },
+    "correct": "A",
+    "explanation": "SDRs are an international reserve asset created by the IMF. Their value is based on a basket of five currencies: USD, Euro, Chinese Renminbi (added in 2016), Japanese Yen, and British Pound. However, SDRs cannot be used directly in international trade — they can only be exchanged among governments and with the IMF."
+  },
+  {
+    "id": 16,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "Which of the following statements about the Unified Payments Interface (UPI) is/are correct?\n1. It is developed by the National Payments Corporation of India (NPCI).\n2. It enables instant real-time payment between two bank accounts through a mobile platform.\n3. It is regulated directly by the Ministry of Finance.",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "2 and 3 only",
+      "D": "1 only"
+    },
+    "correct": "A",
+    "explanation": "UPI is developed by NPCI and enables instant inter-bank transactions via mobile. It is regulated by the RBI (not the Ministry of Finance) as it falls under the payment and settlement systems regulated by RBI under the Payment and Settlement Systems Act, 2007."
+  },
+  {
+    "id": 17,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "With reference to disinvestment in India, consider the following statements:\n1. Strategic disinvestment involves sale of substantial portion of government shareholding along with transfer of management control.\n2. The Department of Investment and Public Asset Management (DIPAM) handles disinvestment.\n3. Proceeds from disinvestment are credited to the Consolidated Fund of India.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "2 and 3 only",
+      "D": "1 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. Strategic disinvestment involves sale of government stake with transfer of management control. DIPAM under the Ministry of Finance handles disinvestment. Proceeds go to the Consolidated Fund of India and are then transferred to the National Investment Fund."
+  },
+  {
+    "id": 18,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "The Production Linked Incentive (PLI) scheme in India:\n1. Provides incentives based on incremental sales from products manufactured in India.\n2. Has been extended to 14 key sectors.\n3. Is aimed at making Indian manufacturers globally competitive.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1, 2 and 3",
+      "C": "2 and 3 only",
+      "D": "1 only"
+    },
+    "correct": "B",
+    "explanation": "All statements are correct. PLI provides financial incentives based on incremental sales of goods manufactured in India. It covers 14 sectors including mobile manufacturing, pharmaceuticals, automobiles, textiles, food processing, etc. The scheme aims to boost domestic manufacturing and make Indian products globally competitive."
+  },
+  {
+    "id": 19,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "GDP deflator is different from Consumer Price Index (CPI) because:",
+    "options": {
+      "A": "GDP deflator covers only consumer goods while CPI covers all goods and services",
+      "B": "GDP deflator covers all goods and services produced domestically while CPI covers only a fixed basket of consumer goods",
+      "C": "GDP deflator is calculated monthly while CPI is calculated annually",
+      "D": "GDP deflator uses base year quantities while CPI uses current year quantities"
+    },
+    "correct": "B",
+    "explanation": "The GDP deflator covers all goods and services produced in the economy (including investment goods, government services, exports) while CPI covers only a fixed basket of goods and services consumed by households. Also, GDP deflator uses current year quantities (Paasche index) while CPI uses base year quantities (Laspeyres index)."
+  },
+  {
+    "id": 20,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "Which of the following operations by the RBI will increase the money supply in the economy?\n1. Purchase of government securities in open market\n2. Reduction in Cash Reserve Ratio (CRR)\n3. Increase in Repo Rate\n4. Reduction in Statutory Liquidity Ratio (SLR)",
+    "options": {
+      "A": "1, 2 and 4 only",
+      "B": "1 and 2 only",
+      "C": "1, 2, 3 and 4",
+      "D": "1, 3 and 4 only"
+    },
+    "correct": "A",
+    "explanation": "Purchase of government securities (OMO) injects liquidity. Reduction in CRR frees up funds for lending. Reduction in SLR allows banks to lend more. However, increase in Repo Rate makes borrowing costlier and reduces money supply. Hence, statement 3 is incorrect."
+  },
+  {
+    "id": 21,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "Which of the following is true about the Goods and Services Tax (GST) Council?\n1. It is a constitutional body established under Article 279A.\n2. The Union Finance Minister is the Chairperson.\n3. Decisions require a three-fourths majority of weighted votes.\n4. The Centre has one-third weightage and States have two-thirds weightage.",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 2, 3 and 4",
+      "C": "1 and 2 only",
+      "D": "2, 3 and 4 only"
+    },
+    "correct": "B",
+    "explanation": "All statements are correct. The GST Council is a constitutional body under Article 279A. The Union Finance Minister chairs it. Decisions require three-fourths majority of weighted votes, with Centre having one-third and all States together having two-thirds weightage."
+  },
+  {
+    "id": 22,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "Consider the following about the World Trade Organization (WTO):\n1. The Dispute Settlement Body can authorize trade sanctions against non-compliant members.\n2. The Agreement on Agriculture classifies domestic support into Green Box, Blue Box, and Amber Box.\n3. India is classified as a developed country under WTO norms.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "The WTO's DSB can authorize retaliatory trade sanctions. The Agreement on Agriculture classifies subsidies into Green Box (non-trade distorting), Blue Box (production-limiting), and Amber Box (trade-distorting). India is classified as a developing country under WTO, not a developed country."
+  },
+  {
+    "id": 23,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "The term 'Twin Balance Sheet Problem' in the Indian context refers to:",
+    "options": {
+      "A": "Fiscal deficit of Centre and States simultaneously",
+      "B": "Stressed balance sheets of banks (NPAs) and over-leveraged corporate sector",
+      "C": "Current account deficit and capital account deficit together",
+      "D": "Revenue deficit and primary deficit occurring simultaneously"
+    },
+    "correct": "B",
+    "explanation": "The Twin Balance Sheet (TBS) problem refers to the simultaneous deterioration of balance sheets of the banking sector (due to high NPAs) and the corporate sector (due to over-leveraging/high debt). This was highlighted in the Economic Survey 2016-17."
+  },
+  {
+    "id": 24,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "With reference to Priority Sector Lending (PSL) norms in India, which of the following is correct?\n1. Domestic commercial banks must lend 40% of Adjusted Net Bank Credit to priority sectors.\n2. Foreign banks with 20 or more branches must also meet the 40% target.\n3. Agriculture must receive at least 18% of ANBC.\n4. Micro enterprises are not included in priority sector.",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1 and 3 only",
+      "C": "1, 2, 3 and 4",
+      "D": "1 and 2 only"
+    },
+    "correct": "A",
+    "explanation": "Domestic commercial banks and foreign banks with 20+ branches must lend 40% of ANBC to priority sectors. Agriculture must get 18% of ANBC. Statement 4 is incorrect — micro enterprises are very much included in priority sector lending under the MSME category."
+  },
+  {
+    "id": 25,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "Which of the following correctly describes 'Primary Deficit'?",
+    "options": {
+      "A": "Fiscal Deficit minus Interest Payments",
+      "B": "Revenue Deficit minus Capital Expenditure",
+      "C": "Total Expenditure minus Total Receipts",
+      "D": "Revenue Expenditure minus Revenue Receipts"
+    },
+    "correct": "A",
+    "explanation": "Primary Deficit = Fiscal Deficit - Interest Payments. It indicates the borrowing requirement of the government excluding interest obligations on past debt. A zero primary deficit means the government is borrowing only to pay interest on past loans."
+  },
+  {
+    "id": 26,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Insolvency and Bankruptcy Code (IBC), 2016:\n1. The National Company Law Tribunal (NCLT) is the adjudicating authority for corporate insolvency.\n2. The Corporate Insolvency Resolution Process (CIRP) must be completed within 330 days.\n3. Financial creditors have priority over operational creditors in the resolution plan.\n4. The Insolvency and Bankruptcy Board of India (IBBI) regulates insolvency professionals.",
+    "options": {
+      "A": "1, 2 and 4 only",
+      "B": "1, 2, 3 and 4",
+      "C": "1, 3 and 4 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "B",
+    "explanation": "All statements are correct. NCLT adjudicates corporate insolvency. CIRP has a maximum timeline of 330 days (including litigation). Financial creditors have priority in the waterfall mechanism. IBBI regulates insolvency professionals, agencies, and information utilities."
+  },
+  {
+    "id": 27,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "The concept of 'Effective Revenue Deficit' was introduced in the Union Budget to:",
+    "options": {
+      "A": "Exclude grants for creation of capital assets from Revenue Deficit",
+      "B": "Include off-budget borrowings in the deficit calculation",
+      "C": "Measure the deficit after accounting for disinvestment receipts",
+      "D": "Calculate deficit net of interest payments"
+    },
+    "correct": "A",
+    "explanation": "Effective Revenue Deficit = Revenue Deficit - Grants for creation of capital assets. It was introduced in Budget 2011-12 to deduct grants given to States/UTs for capital asset creation from revenue deficit, as these grants, though classified as revenue expenditure, actually create assets."
+  },
+  {
+    "id": 28,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "Which of the following statements about Non-Performing Assets (NPAs) is/are correct?\n1. A loan becomes NPA if interest or principal remains overdue for more than 90 days.\n2. A substandard asset is one that has remained NPA for a period not exceeding 12 months.\n3. A loss asset is one where the loss has been identified but not fully written off.",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. An asset becomes NPA after 90 days of non-payment. Substandard assets are NPAs for up to 12 months. Loss assets are those identified as loss by the bank or auditors but not fully written off from books."
+  },
+  {
+    "id": 29,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "The Wholesale Price Index (WPI) in India:\n1. Is published by the Office of Economic Adviser, DPIIT.\n2. Does not include services.\n3. Has the base year 2011-12.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "2 and 3 only",
+      "D": "1 and 3 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. WPI is published by the Office of Economic Adviser under DPIIT (Ministry of Commerce). It covers only commodities (manufactured goods, primary articles, fuel & power) and does not include services. The current base year is 2011-12."
+  },
+  {
+    "id": 30,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "With reference to External Commercial Borrowings (ECBs), consider the following:\n1. ECBs can be accessed under automatic route and approval route.\n2. The all-in-cost ceiling is determined by RBI.\n3. ECBs can be used for real estate activities and on-lending.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "ECBs can be accessed under automatic route (through AD Category-I banks) and approval route (through RBI). RBI determines the all-in-cost ceiling. However, ECBs cannot be used for real estate activities, investment in capital markets, or on-lending (with limited exceptions). These are negative list activities."
+  },
+  {
+    "id": 31,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "Which of the following is/are functions of the National Bank for Agriculture and Rural Development (NABARD)?\n1. Refinancing rural credit institutions\n2. Direct lending to farmers\n3. Supervision of cooperative banks and RRBs\n4. Promoting microfinance institutions",
+    "options": {
+      "A": "1, 3 and 4 only",
+      "B": "1, 2, 3 and 4",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 4 only"
+    },
+    "correct": "A",
+    "explanation": "NABARD refinances rural credit institutions, supervises cooperative banks and RRBs, and promotes microfinance. NABARD does NOT directly lend to farmers — it provides refinance to institutions that lend to farmers. It is an apex development bank for rural credit."
+  },
+  {
+    "id": 32,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "The concept of 'Impossible Trinity' or 'Trilemma' in international economics states that a country cannot simultaneously have:",
+    "options": {
+      "A": "Free capital flows, fixed exchange rate, and independent monetary policy",
+      "B": "Low inflation, high growth, and low unemployment",
+      "C": "Fiscal surplus, current account surplus, and capital account surplus",
+      "D": "Free trade, domestic industry protection, and export promotion"
+    },
+    "correct": "A",
+    "explanation": "The Impossible Trinity (Mundell-Fleming model) states that a country cannot simultaneously maintain free capital mobility, a fixed exchange rate, and an independent monetary policy. It can only achieve two of the three at any given time. India has chosen free capital flows and independent monetary policy, hence has a managed float exchange rate."
+  },
+  {
+    "id": 33,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "Which of the following taxes is/are shared between the Centre and States as per the Finance Commission recommendations?\n1. Corporation Tax\n2. Customs Duty\n3. Income Tax\n4. GST (CGST component)",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1, 3 and 4 only",
+      "C": "1, 2 and 3",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct": "A",
+    "explanation": "Under the divisible pool of taxes, Corporation Tax and Income Tax are shared between Centre and States. Customs Duty is NOT shared — it is exclusively a Central tax not part of the divisible pool. CGST is also not shared through the Finance Commission mechanism; SGST goes directly to States."
+  },
+  {
+    "id": 34,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "With reference to the World Bank Group, which of the following correctly matches the institution with its function?\n1. IBRD — Loans to middle-income countries\n2. IDA — Concessional loans to poorest countries\n3. IFC — Loans to private sector in developing countries\n4. MIGA — Settles investment disputes",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 2, 3 and 4",
+      "C": "1 and 2 only",
+      "D": "2, 3 and 4 only"
+    },
+    "correct": "A",
+    "explanation": "IBRD lends to middle-income countries, IDA provides concessional loans to poorest countries, and IFC invests in private sector. Statement 4 is incorrect — MIGA provides political risk insurance/guarantees. It is ICSID (International Centre for Settlement of Investment Disputes) that settles investment disputes."
+  },
+  {
+    "id": 35,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "The 'Angel Tax' in India refers to:",
+    "options": {
+      "A": "Tax on long-term capital gains from equity investments",
+      "B": "Tax on funds raised by startups from investors at a premium above fair market value",
+      "C": "Tax on dividend income received by angel investors",
+      "D": "Tax on profits earned by venture capital funds"
+    },
+    "correct": "B",
+    "explanation": "Angel Tax refers to income tax payable under Section 56(2)(viib) of the Income Tax Act when an unlisted company (startup) issues shares at a price exceeding its fair market value. The excess consideration is treated as income and taxed. It was introduced to curb money laundering but affected genuine startups."
+  },
+  {
+    "id": 36,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "Consider the following about India's agricultural marketing reforms:\n1. The Model APMC Act was suggested to allow private markets and direct marketing.\n2. e-NAM (electronic National Agriculture Market) integrates existing APMC mandis.\n3. Contract farming allows farmers to enter into agreements with buyers before sowing.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "All three are correct. The Model APMC Act (2003) suggested reforms including private markets and direct marketing. e-NAM is an online trading platform that integrates existing APMC mandis across India. Contract farming enables pre-agreed sale between farmers and buyers/sponsors."
+  },
+  {
+    "id": 37,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "The Marginal Standing Facility (MSF) rate is:",
+    "options": {
+      "A": "The rate at which RBI lends to banks overnight against government securities, typically 25 basis points above the Repo Rate",
+      "B": "The rate at which banks lend to each other in the overnight market",
+      "C": "The rate at which RBI borrows from commercial banks",
+      "D": "The rate at which banks can borrow from RBI by pledging their SLR securities below the mandated level"
+    },
+    "correct": "A",
+    "explanation": "MSF is the rate at which banks can borrow overnight from RBI by dipping into their SLR portfolio. It is typically 25 basis points above the Repo Rate and acts as the upper bound of the LAF corridor. Banks can borrow up to a certain percentage of their NDTL under MSF."
+  },
+  {
+    "id": 38,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "Which of the following statements about India's trade policy is/are correct?\n1. The Foreign Trade Policy is announced by the Ministry of Commerce and Industry.\n2. Advance Authorization scheme allows duty-free import of inputs for export production.\n3. Special Economic Zones are deemed foreign territory for trade operations.\n4. DGFT (Directorate General of Foreign Trade) implements the Foreign Trade Policy.",
+    "options": {
+      "A": "1, 2 and 4 only",
+      "B": "1, 2, 3 and 4",
+      "C": "1, 2 and 3 only",
+      "D": "2, 3 and 4 only"
+    },
+    "correct": "B",
+    "explanation": "All statements are correct. The Foreign Trade Policy is announced by the Ministry of Commerce. Advance Authorization allows duty-free imports for export production. SEZs are deemed foreign territory for trade purposes. DGFT under the Ministry of Commerce implements the FTP."
+  },
+  {
+    "id": 39,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "The Tendulkar Committee on poverty estimation recommended:",
+    "options": {
+      "A": "Using calorie intake as the sole criterion for poverty measurement",
+      "B": "A uniform poverty line basket for rural and urban areas based on consumption expenditure",
+      "C": "Using Mixed Reference Period (MRP) consumption data instead of Uniform Reference Period",
+      "D": "Measuring poverty based on income rather than consumption"
+    },
+    "correct": "C",
+    "explanation": "The Tendulkar Committee (2009) recommended using Mixed Reference Period (MRP) consumption data for poverty estimation instead of Uniform Reference Period (URP). It also recommended a shift from calorie-based norms to a broader consumption basket including health and education expenditure."
+  },
+  {
+    "id": 40,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "With reference to the Liquidity Adjustment Facility (LAF) of RBI:\n1. Repo operations inject liquidity into the banking system.\n2. Reverse Repo operations absorb excess liquidity.\n3. The LAF corridor is bounded by MSF rate (upper) and Reverse Repo rate (lower).\n4. Variable Rate Reverse Repo (VRRR) auctions are used for fine-tuning liquidity.",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 2, 3 and 4",
+      "C": "1 and 2 only",
+      "D": "1, 2 and 4 only"
+    },
+    "correct": "B",
+    "explanation": "All statements are correct. Under LAF, Repo injects liquidity and Reverse Repo absorbs it. The corridor is bounded by MSF (ceiling) and SDF/Reverse Repo (floor). VRRR auctions are used by RBI for fine-tuning liquidity management, especially to absorb surplus liquidity."
+  },
+  {
+    "id": 41,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "Which of the following is/are correct about the Goods and Services Tax Network (GSTN)?\n1. It is a not-for-profit, non-government company.\n2. It provides the IT infrastructure for GST.\n3. The Central and State Governments together hold majority stake in GSTN.",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "2 only"
+    },
+    "correct": "B",
+    "explanation": "GSTN provides the IT backbone for GST. Initially it was a private company, but in 2018, the government acquired 100% stake — Centre holds 50% and States hold 50%. So it is now a government company, making statement 1 incorrect. Statements 2 and 3 are correct."
+  },
+  {
+    "id": 42,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "Consider the following about India's Central Bank Digital Currency (CBDC):\n1. It is a legal tender issued in digital form by the RBI.\n2. The e-Rupee is based on blockchain/distributed ledger technology.\n3. CBDC is the same as cryptocurrency like Bitcoin.\n4. RBI launched pilot projects for both wholesale (e₹-W) and retail (e₹-R) CBDC.",
+    "options": {
+      "A": "1, 2 and 4 only",
+      "B": "1 and 4 only",
+      "C": "1, 2, 3 and 4",
+      "D": "1 and 2 only"
+    },
+    "correct": "A",
+    "explanation": "CBDC (e-Rupee) is a legal tender in digital form issued by RBI. It uses distributed ledger technology. RBI launched both wholesale and retail CBDC pilots. However, CBDC is NOT the same as cryptocurrency — it is centrally issued, regulated, and backed by the sovereign, unlike decentralized cryptocurrencies."
+  },
+  {
+    "id": 43,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) provides:\n1. At least 100 days of guaranteed wage employment per household per year.\n2. Unemployment allowance if work is not provided within 15 days.\n3. One-third of beneficiaries must be women.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "1 and 3 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. MGNREGA guarantees 100 days of employment per household. If work is not provided within 15 days of application, unemployment allowance must be paid. The Act mandates that at least one-third of beneficiaries should be women."
+  },
+  {
+    "id": 44,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "Which of the following statements about the Real Effective Exchange Rate (REER) is/are correct?\n1. REER adjusts the nominal exchange rate for inflation differentials between countries.\n2. An increase in REER indicates loss of export competitiveness.\n3. REER is calculated as a trade-weighted average of bilateral exchange rates.",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1, 2 and 3",
+      "C": "1 and 2 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. REER adjusts nominal exchange rate for relative price levels (inflation differentials). An increase in REER means the domestic currency has appreciated in real terms, making exports costlier and reducing competitiveness. It is calculated as a weighted average using trade shares as weights."
+  },
+  {
+    "id": 45,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "The National Infrastructure Pipeline (NIP) launched by the Government of India:",
+    "options": {
+      "A": "Is a regulatory body for infrastructure projects",
+      "B": "Is a project pipeline of infrastructure investments planned over a five-year period with Centre, States, and private sector participation",
+      "C": "Is a scheme exclusively for building national highways",
+      "D": "Is a PPP model mandated for all infrastructure projects above Rs 500 crore"
+    },
+    "correct": "B",
+    "explanation": "The National Infrastructure Pipeline (NIP) is a comprehensive list of infrastructure projects planned over a five-year period (2020-2025). It involves investment from Centre (39%), States (40%), and private sector (21%) across sectors like energy, roads, railways, urban infrastructure, etc."
+  },
+  {
+    "id": 46,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "With reference to the concept of 'Helicopter Money', consider the following:\n1. It involves direct transfer of money to citizens by the central bank.\n2. It is different from Quantitative Easing as it does not involve purchase of assets.\n3. It increases the monetary base permanently.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1, 2 and 3",
+      "C": "1 and 2 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. Helicopter money involves direct money transfers to citizens by the central bank. Unlike QE (which involves asset purchases that can be reversed), helicopter money does not involve asset purchases and permanently increases the monetary base. It is considered a more extreme form of monetary stimulus."
+  },
+  {
+    "id": 47,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "Which of the following is/are correct about the Micro, Small and Medium Enterprises (MSME) classification in India?\n1. Classification is now based on investment in plant and machinery AND annual turnover.\n2. The revised classification applies to both manufacturing and service enterprises uniformly.\n3. Registration under Udyam is mandatory for availing benefits under MSME schemes.",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 2 and 3",
+      "C": "1 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "B",
+    "explanation": "All three are correct. The revised MSME classification (2020) uses composite criteria of investment AND turnover. The distinction between manufacturing and services has been removed — same criteria apply to both. Udyam Registration (replacing Udyog Aadhaar) is required for availing MSME scheme benefits."
+  },
+  {
+    "id": 48,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "Consider the following about India's sovereign credit rating:\n1. India's sovereign rating is assessed by agencies like Moody's, S&P, and Fitch.\n2. India currently holds an investment-grade rating from all three major agencies.\n3. Sovereign rating affects the borrowing cost of the government in international markets.\n4. A downgrade to 'junk' status would trigger mandatory selling by many institutional investors.",
+    "options": {
+      "A": "1, 2, 3 and 4",
+      "B": "1, 3 and 4 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "All statements are correct. India is rated by Moody's (Baa3), S&P (BBB-), and Fitch (BBB-) — all investment grade but at the lowest rung. Sovereign rating affects international borrowing costs. A downgrade to junk would trigger forced selling by institutional investors whose mandates require investment-grade holdings."
+  },
+  {
+    "id": 49,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Medium",
+    "question": "The 'Inverted Duty Structure' in the context of Indian trade policy refers to:",
+    "options": {
+      "A": "Higher import duty on raw materials than on finished goods",
+      "B": "Lower import duty on raw materials than on finished goods",
+      "C": "Equal import duty on all stages of production",
+      "D": "Zero duty on all imported goods under FTA"
+    },
+    "correct": "A",
+    "explanation": "Inverted duty structure occurs when import duty on raw materials/intermediates is higher than on finished goods. This discourages domestic manufacturing as it becomes cheaper to import finished products. India has faced this issue in sectors like electronics, chemicals, and textiles."
+  },
+  {
+    "id": 50,
+    "paper": "GS1",
+    "subject": "Economy",
+    "difficulty": "Hard",
+    "question": "With reference to the National Monetisation Pipeline (NMP), consider the following:\n1. It involves selling government-owned infrastructure assets to the private sector.\n2. It is based on the principle of 'asset recycling' through structured partnerships.\n3. Ownership of assets remains with the government while operations are transferred.\n4. Roads, railways, and power transmission are among the top sectors identified.",
+    "options": {
+      "A": "2, 3 and 4 only",
+      "B": "1, 2 and 4 only",
+      "C": "1, 2, 3 and 4",
+      "D": "1 and 4 only"
+    },
+    "correct": "A",
+    "explanation": "Statement 1 is incorrect — NMP does NOT involve selling assets. It involves monetising brownfield assets through structured partnerships (like InvITs, concessions, long-term leases) where ownership remains with the government but operations are transferred to private players. Roads, railways, power, telecom, and mining are top sectors. It is based on asset recycling principle."
+  }
+]

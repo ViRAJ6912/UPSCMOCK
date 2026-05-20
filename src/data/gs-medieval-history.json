@@ -1,1 +1,752 @@
-[{"id":1,"paper":"gs-medieval-history","subject":"Placeholder","difficulty":"Medium","question":"Placeholder question — questions coming soon.","options":{"A":"Option A","B":"Option B","C":"Option C","D":"Option D"},"correct":"A","explanation":"Placeholder explanation."}]
+[
+  {
+    "id": 1,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Iqta system under the Delhi Sultanate:\n1. It was a revenue assignment given to officials in lieu of salary.\n2. Iqta holders had hereditary rights over their assignments.\n3. Alauddin Khalji made significant changes to the Iqta system to centralize control.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "B",
+    "explanation": "The Iqta system was a revenue assignment in lieu of salary (Statement 1 correct). Iqta holders did NOT have hereditary rights; assignments were transferable at the Sultan's will (Statement 2 incorrect). Alauddin Khalji centralized the system by reducing the power of Iqta holders and introducing strict auditing (Statement 3 correct)."
+  },
+  {
+    "id": 2,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Vijayanagara Empire:\n1. The Ashtadiggajas were eight celebrated poets in the court of Krishnadevaraya.\n2. The Mahanavami Dibba was a platform used for royal ceremonies during Dasara festival.\n3. The empire followed a highly centralized administrative system with no provincial autonomy.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The Ashtadiggajas were indeed eight celebrated Telugu poets in Krishnadevaraya's court (Statement 1 correct). The Mahanavami Dibba was used for royal ceremonies during Dasara (Statement 2 correct). The Vijayanagara Empire had a decentralized system with Nayankara provincial governors enjoying considerable autonomy (Statement 3 incorrect)."
+  },
+  {
+    "id": 3,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Bhakti movement:\n1. Ramanuja propounded the philosophy of Vishishtadvaita (qualified monism).\n2. Kabir was influenced by both Hindu and Islamic traditions and rejected ritualism.\n3. The Bhakti movement originated in South India and later spread to North India.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Ramanuja propounded Vishishtadvaita philosophy (Statement 1 correct). Kabir drew from both Hindu and Islamic traditions and rejected empty ritualism of both religions (Statement 2 correct). The Bhakti movement originated in Tamil Nadu with the Alvars and Nayanars (7th-9th century) and spread northward during the medieval period (Statement 3 correct)."
+  },
+  {
+    "id": 4,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Mansabdari system under the Mughals:\n1. The Mansabdari system was introduced by Akbar.\n2. Zat rank indicated the personal status and salary of the mansabdar.\n3. Sawar rank always had to be equal to or higher than the Zat rank.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Akbar introduced the Mansabdari system (Statement 1 correct). Zat rank determined personal status and salary (Statement 2 correct). The Sawar rank was generally equal to or lower than the Zat rank, not higher. Only in exceptional cases of royal favour could Sawar exceed Zat (Statement 3 incorrect)."
+  },
+  {
+    "id": 5,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Sufi movement in India:\n1. The Chishti order was known for its emphasis on asceticism and closeness to the common people.\n2. The Suhrawardi order, unlike the Chishtis, accepted state patronage.\n3. Khwaja Moinuddin Chishti established the Chishti order in India at Ajmer.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "The Chishti order emphasized asceticism, simplicity, and service to the poor (Statement 1 correct). The Suhrawardi order accepted royal patronage and lived comfortably, unlike the austere Chishtis (Statement 2 correct). Khwaja Moinuddin Chishti established the order in India, settling in Ajmer (Statement 3 correct)."
+  },
+  {
+    "id": 6,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Maratha administration under Shivaji:\n1. The Ashtapradhan was a council of eight ministers where the post of Peshwa was that of the Prime Minister.\n2. Shivaji divided his kingdom into Swarajya (home territory) and Mughlai (conquered territory).\n3. The Chauth and Sardeshmukhi were taxes collected only from Maratha territories.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "1 and 2 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "B",
+    "explanation": "The Ashtapradhan had eight ministers with Peshwa as Prime Minister (Statement 1 correct). Shivaji divided his kingdom into Swarajya and Mughlai territories (Statement 2 correct). Chauth (1/4 of revenue) and Sardeshmukhi (1/10 additional) were collected from neighbouring territories NOT under Maratha rule, as a form of protection tax (Statement 3 incorrect)."
+  },
+  {
+    "id": 7,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about Indo-Islamic architecture:\n1. The true arch and dome were introduced in India by the Turkish rulers.\n2. The Qutub Minar was begun by Qutbuddin Aibak and completed by Iltutmish.\n3. The use of calligraphy and arabesque designs was a distinctive feature of Indo-Islamic architecture.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "The true (voussoir) arch and dome were introduced by Turkish rulers, replacing the Indian trabeate style (Statement 1 correct). Qutub Minar was started by Aibak and completed by Iltutmish (Statement 2 correct). Calligraphy and arabesque (geometric and floral) designs were hallmarks of Indo-Islamic architecture since Islam discouraged figurative representation (Statement 3 correct)."
+  },
+  {
+    "id": 8,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Bahmani Kingdom:\n1. It was founded by Alauddin Hasan Bahman Shah after revolting against Muhammad bin Tughluq.\n2. Mahmud Gawan was a famous minister who reformed the provincial administration.\n3. The kingdom split into five Deccan Sultanates after the Battle of Talikota.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Alauddin Hasan Bahman Shah founded the Bahmani Kingdom in 1347 after revolting against Muhammad bin Tughluq (Statement 1 correct). Mahmud Gawan was a renowned minister who reformed provincial administration and reduced the power of provincial governors (Statement 2 correct). The Bahmani Kingdom broke into five Deccan Sultanates (Bijapur, Golconda, Ahmadnagar, Berar, Bidar) by around 1518 due to internal conflicts, NOT after the Battle of Talikota (1565), which was fought between the Deccan Sultanates and Vijayanagara (Statement 3 incorrect)."
+  },
+  {
+    "id": 9,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about Akbar's religious policy:\n1. Din-i-Ilahi was a syncretic religion founded by Akbar that combined elements of various faiths.\n2. Akbar abolished the Jaziya tax on non-Muslims.\n3. The Ibadat Khana at Fatehpur Sikri was initially open to scholars of all religions.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Din-i-Ilahi was Akbar's syncretic faith combining elements of Islam, Hinduism, Zoroastrianism, and Christianity (Statement 1 correct). Akbar abolished Jaziya in 1564 (Statement 2 correct). The Ibadat Khana was initially open only to Muslim scholars (1575) and was later (1578) opened to scholars of all religions (Statement 3 incorrect as it says 'initially')."
+  },
+  {
+    "id": 10,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about medieval Indian trade:\n1. The Karimi merchants were prominent in the Indian Ocean trade during the 13th-14th centuries.\n2. Surat emerged as the most important port on the western coast during the Mughal period.\n3. The introduction of silver from the Americas in the 16th century had no significant impact on the Indian economy.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Karimi merchants were prominent Arab traders in the Indian Ocean trade network during the 13th-14th centuries (Statement 1 correct). Surat was the premier port on India's western coast during the Mughal period, handling trade with West Asia and Europe (Statement 2 correct). The influx of American silver significantly impacted India's economy by increasing money supply, stimulating trade, and causing price inflation (Statement 3 incorrect)."
+  },
+  {
+    "id": 11,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Delhi Sultanate's military system:\n1. The standing army system was first organized effectively by Alauddin Khalji.\n2. Alauddin introduced the system of branding horses (dagh) and maintaining descriptive rolls (chehra) of soldiers.\n3. The military was primarily composed of cavalry recruited exclusively from Turkish nobility.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Alauddin Khalji organized an effective standing army to counter Mongol invasions (Statement 1 correct). He introduced dagh (branding of horses) and chehra (descriptive rolls) to prevent fraud (Statement 2 correct). The military was not exclusively Turkish; it included Indians, Afghans, and others, especially in later periods (Statement 3 incorrect)."
+  },
+  {
+    "id": 12,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Jagirdari system under the Mughals:\n1. Jagirs were revenue assignments given to mansabdars for maintaining their troops.\n2. There were different types of Jagirs including Tankha jagirs (transferable) and Watan jagirs (hereditary).\n3. The Jagirdari crisis in the later Mughal period was caused by an excess of available jagirs over the number of mansabdars.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Jagirs were revenue assignments to mansabdars for troop maintenance (Statement 1 correct). Tankha jagirs were transferable and Watan jagirs were hereditary, given to local chiefs (Statement 2 correct). The Jagirdari crisis was caused by a shortage of jagirs relative to the growing number of mansabdars (be-jagir problem), not an excess of jagirs (Statement 3 incorrect)."
+  },
+  {
+    "id": 13,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about Mughal painting:\n1. The Mughal school of painting was founded during Humayun's reign with the arrival of Persian painters Mir Sayyid Ali and Abdus Samad.\n2. Jahangir's reign is considered the golden age of Mughal painting, especially for portraiture and nature studies.\n3. Aurangzeb actively patronized painting and expanded the royal atelier.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Humayun brought Persian painters Mir Sayyid Ali and Abdus Samad who laid the foundation of Mughal painting (Statement 1 correct). Jahangir's reign saw the zenith of Mughal painting with emphasis on portraiture and natural history studies (Statement 2 correct). Aurangzeb discouraged painting due to his orthodox religious views, leading to dispersal of artists to provincial courts (Statement 3 incorrect)."
+  },
+  {
+    "id": 14,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Rajput kingdoms in medieval India:\n1. The Rajputs followed the practice of Jauhar and Saka during times of military defeat.\n2. Rana Kumbha of Mewar built the Vijay Stambha (Tower of Victory) at Chittor to commemorate his victory over the Sultanate of Malwa.\n3. All Rajput kingdoms uniformly resisted Mughal authority and never entered into matrimonial alliances with the Mughals.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Jauhar (self-immolation by women) and Saka (final battle charge by men) were practiced by Rajputs facing certain defeat (Statement 1 correct). Rana Kumbha built the Vijay Stambha (Victory Tower) at Chittor after defeating Mahmud Khalji of Malwa (Statement 2 correct). Many Rajput kingdoms, notably the Kachhwahas of Amber, entered matrimonial alliances with the Mughals; only Mewar consistently resisted (Statement 3 incorrect)."
+  },
+  {
+    "id": 15,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the social conditions in medieval India:\n1. The practice of Sati was prevalent among upper-caste Hindu women during the medieval period.\n2. The Purdah system became more widespread in North India due to Islamic influence.\n3. The caste system became more rigid during the medieval period with the proliferation of sub-castes.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Sati was prevalent among upper-caste Rajput and other Hindu women (Statement 1 correct). The Purdah system became more widespread in North India, partly due to Islamic cultural influence and partly as a protective measure (Statement 2 correct). The caste system became more rigid with proliferation of sub-castes (jatis) based on occupational specialization (Statement 3 correct)."
+  },
+  {
+    "id": 16,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about Muhammad bin Tughluq's administrative experiments:\n1. He shifted the capital from Delhi to Daulatabad to have a more central location for governing the Deccan.\n2. He introduced token currency using copper coins at par with silver tanka.\n3. His experiment of token currency succeeded because of effective prevention of counterfeiting.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Muhammad bin Tughluq shifted the capital to Daulatabad for a more central location to control the Deccan (Statement 1 correct). He introduced copper/brass token currency at par with silver tanka (Statement 2 correct). The token currency experiment failed because the state could not prevent widespread counterfeiting, leading to economic chaos and eventual withdrawal (Statement 3 incorrect)."
+  },
+  {
+    "id": 17,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the decline of the Mughal Empire:\n1. Aurangzeb's Deccan policy drained the empire's resources through prolonged warfare.\n2. The invasions of Nadir Shah (1739) and Ahmad Shah Abdali exposed the military weakness of the later Mughals.\n3. The Mughal Empire maintained effective central control over all provinces until the British conquest.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Aurangzeb's 25-year Deccan campaign exhausted the empire's treasury and military (Statement 1 correct). Nadir Shah's sack of Delhi (1739) and Ahmad Shah Abdali's invasions demonstrated Mughal military impotence (Statement 2 correct). The Mughal Empire lost effective central control well before the British conquest, with provinces becoming virtually independent under their governors (Statement 3 incorrect)."
+  },
+  {
+    "id": 18,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Vijayanagara Empire's economy:\n1. Foreign travellers like Abdur Razzaq and Nicolo Conti described the prosperity of Vijayanagara markets.\n2. The empire had a flourishing trade in spices, textiles, and precious stones through its ports on the western coast.\n3. The empire used only barter system and did not have any monetary economy.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Abdur Razzaq (Persian ambassador) and Nicolo Conti (Italian traveller) both described the prosperity and grandeur of Vijayanagara (Statement 1 correct). The empire had flourishing trade through ports like Mangalore, Honavar, and Bhatkal (Statement 2 correct). The empire had a well-developed monetary economy with gold (varaha/pagoda), silver, and copper coins in circulation (Statement 3 incorrect)."
+  },
+  {
+    "id": 19,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about Amir Khusrau:\n1. He is credited with the invention of the sitar and tabla.\n2. He was a disciple of Sufi saint Nizamuddin Auliya.\n3. He wrote in Persian, Hindi, and is considered the father of Urdu literature by some scholars.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Amir Khusrau is traditionally credited with inventing the sitar and tabla, though this is debated by some historians (Statement 1 correct as per traditional attribution). He was a devoted disciple of Nizamuddin Auliya (Statement 2 correct). He wrote extensively in Persian and Hindavi and is regarded by many scholars as a pioneer of Urdu literature (Statement 3 correct)."
+  },
+  {
+    "id": 20,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Maratha revenue system:\n1. Shivaji introduced the Ryotwari system where revenue was collected directly from cultivators.\n2. The assessment was based on measurement of land using the Kathi and Mahi system.\n3. Shivaji abolished the practice of revenue farming (Ijara) in his territories.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1 and 2 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Shivaji introduced direct collection from cultivators (Ryotwari-like system) eliminating intermediaries (Statement 1 correct). Land was measured using Kathi (measuring rod) and classified using the Mahi system (Statement 2 correct). Shivaji abolished revenue farming (Ijara) to prevent exploitation of peasants by middlemen (Statement 3 correct)."
+  },
+  {
+    "id": 21,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about Firoz Shah Tughluq's administration:\n1. He established the Department of Public Works (Diwan-i-Khairat) for charitable purposes.\n2. He imposed Jaziya on Brahmins for the first time.\n3. He built canals for irrigation, including one from the Yamuna to Hissar.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 and 2 only"
+    },
+    "correct": "C",
+    "explanation": "Firoz Shah established Diwan-i-Khairat for charity and welfare (Statement 1 correct). He was the first Sultan to impose Jaziya on Brahmins who were previously exempt (Statement 2 correct). He built several canals for irrigation including one from Yamuna to Hissar (Statement 3 correct)."
+  },
+  {
+    "id": 22,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Nayankara system of the Vijayanagara Empire:\n1. Nayakas were military governors who held territories on condition of military service.\n2. They had to maintain a fixed number of troops and pay annual tribute to the king.\n3. The Nayankara system was identical to European feudalism with complete sovereignty of the Nayakas.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Nayakas were military commanders who held territories (amara-nayaka) on condition of military service (Statement 1 correct). They maintained troops and paid tribute to the central authority (Statement 2 correct). Unlike European feudalism, Nayakas did not have complete sovereignty; they were transferable and accountable to the king (Statement 3 incorrect)."
+  },
+  {
+    "id": 23,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about Shah Jahan's architectural contributions:\n1. The Taj Mahal represents the culmination of Indo-Islamic architecture using white marble and pietra dura.\n2. The Red Fort of Delhi was built by Shah Jahan as his new capital Shahjahanabad.\n3. Shah Jahan's reign is known as the 'Golden Age of Mughal Architecture'.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "The Taj Mahal is the finest example of Indo-Islamic architecture with white marble and pietra dura inlay work (Statement 1 correct). Shah Jahan built the Red Fort as part of his new capital Shahjahanabad (Statement 2 correct). His reign is widely regarded as the Golden Age of Mughal Architecture due to the scale and beauty of his constructions (Statement 3 correct)."
+  },
+  {
+    "id": 24,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Peshwa administration of the Marathas:\n1. Balaji Vishwanath was the first Peshwa to make the office hereditary and dominant.\n2. Under Baji Rao I, the Maratha Empire expanded significantly into North India.\n3. The Third Battle of Panipat (1761) resulted in a decisive Maratha victory over Ahmad Shah Abdali.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Balaji Vishwanath made the Peshwa office hereditary and effectively became the real power behind the Chhatrapati (Statement 1 correct). Baji Rao I expanded Maratha power into Malwa, Gujarat, and Bundelkhand in North India (Statement 2 correct). The Third Battle of Panipat (1761) was a devastating defeat for the Marathas at the hands of Ahmad Shah Abdali, not a victory (Statement 3 incorrect)."
+  },
+  {
+    "id": 25,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about medieval Indian literature:\n1. Baburnama, the autobiography of Babur, was originally written in Chagatai Turkish.\n2. Ain-i-Akbari by Abul Fazl is a detailed account of Akbar's administration.\n3. Tuzuk-i-Jahangiri is the autobiography of Shah Jahan.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Baburnama was written in Chagatai Turkish (Statement 1 correct). Ain-i-Akbari by Abul Fazl provides detailed information about Akbar's administration, economy, and society (Statement 2 correct). Tuzuk-i-Jahangiri is the autobiography of Jahangir, not Shah Jahan (Statement 3 incorrect)."
+  },
+  {
+    "id": 26,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about Alauddin Khalji's market control system:\n1. He established three separate markets for grain, cloth, and horses/cattle/slaves.\n2. The Diwan-i-Riyasat was the department that controlled the markets.\n3. The market reforms were primarily aimed at improving the welfare of common people.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Alauddin established three separate markets: Mandi (grain), Sarai Adl (cloth), and a market for horses, cattle, and slaves (Statement 1 correct). Diwan-i-Riyasat was the market control department headed by a controller (Statement 2 correct). The market reforms were primarily aimed at maintaining a large army at low cost by keeping prices artificially low, not primarily for people's welfare (Statement 3 incorrect)."
+  },
+  {
+    "id": 27,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Bhakti saint Guru Nanak:\n1. He rejected caste distinctions and emphasized the unity of God.\n2. He undertook extensive travels called Udasis to spread his teachings.\n3. He established the institution of Langar (community kitchen) to promote social equality.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Guru Nanak rejected caste distinctions and preached monotheism (Statement 1 correct). He undertook four major Udasis (journeys) across India and beyond (Statement 2 correct). He established the Langar system where people of all castes ate together, promoting social equality (Statement 3 correct)."
+  },
+  {
+    "id": 28,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the provincial administration of the Mughal Empire:\n1. The empire was divided into Subahs, each headed by a Subedar (governor).\n2. The Diwan of the province was appointed by the emperor and was independent of the Subedar in financial matters.\n3. The Faujdar was responsible for judicial administration at the district level.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The Mughal Empire was divided into Subahs headed by Subedars (Statement 1 correct). The provincial Diwan was appointed by the emperor and functioned independently of the Subedar in revenue matters, serving as a check on the governor's power (Statement 2 correct). The Faujdar was responsible for military and law-and-order administration, not judicial; the Qazi handled judicial matters (Statement 3 incorrect)."
+  },
+  {
+    "id": 29,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Lodhi dynasty:\n1. Bahlol Lodhi was the founder of the Lodhi dynasty and the first Afghan ruler of Delhi.\n2. Sikandar Lodhi founded the city of Agra.\n3. Ibrahim Lodhi was defeated by Babur in the First Battle of Panipat (1526).\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Bahlol Lodhi founded the Lodhi dynasty in 1451 and was the first Afghan to rule Delhi (Statement 1 correct). Sikandar Lodhi founded Agra in 1504 and shifted his capital there (Statement 2 correct). Ibrahim Lodhi, the last Lodhi Sultan, was defeated and killed by Babur at the First Battle of Panipat in 1526 (Statement 3 correct)."
+  },
+  {
+    "id": 30,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about Aurangzeb's religious policies:\n1. He reimposed Jaziya on non-Muslims which had been abolished by Akbar.\n2. He issued orders for the destruction of newly built Hindu temples but not ancient ones.\n3. He banned music completely from the Mughal court.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1 and 2 only",
+      "C": "1, 2 and 3",
+      "D": "2 and 3 only"
+    },
+    "correct": "C",
+    "explanation": "Aurangzeb reimposed Jaziya in 1679 (Statement 1 correct). His temple destruction orders were primarily directed at newly constructed temples, though some older temples were also destroyed in specific political contexts (Statement 2 correct as a general policy directive). He banned music from the court, though he personally was a skilled veena player (Statement 3 correct)."
+  },
+  {
+    "id": 31,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Tughlaq dynasty's architecture:\n1. The Tughlaq style is characterized by sloping walls (batter), austerity, and minimal ornamentation.\n2. Firoz Shah Tughluq built the Hauz Khas complex in Delhi.\n3. The Tughlaqs extensively used red sandstone with white marble inlay in their constructions.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Tughlaq architecture is marked by sloping walls, austerity, and fortress-like appearance with minimal decoration (Statement 1 correct). Firoz Shah Tughluq built the Hauz Khas complex including a madrasa and tomb (Statement 2 correct). The Tughlaqs primarily used grey stone and rubble masonry, not red sandstone with white marble which was characteristic of later Mughal architecture (Statement 3 incorrect)."
+  },
+  {
+    "id": 32,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Deccan Sultanates:\n1. The Adil Shahi dynasty of Bijapur patronized the construction of the Gol Gumbaz.\n2. The Qutb Shahi dynasty of Golconda was known for its diamond trade and the fortress of Golconda.\n3. All five Deccan Sultanates were Sunni Muslim kingdoms.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The Gol Gumbaz was built by Muhammad Adil Shah of Bijapur (Statement 1 correct). Golconda under the Qutb Shahis was famous for diamond mines and trade (Statement 2 correct). Not all Deccan Sultanates were Sunni; the Adil Shahis of Bijapur and Qutb Shahis of Golconda were Shia, while others were Sunni (Statement 3 incorrect)."
+  },
+  {
+    "id": 33,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about Sher Shah Suri's administration:\n1. He introduced the silver Rupiya and copper Dam as standard currency.\n2. He built the Grand Trunk Road connecting Sonargaon (Bengal) to Peshawar.\n3. He divided his empire into Sarkars and Parganas for efficient administration.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Sher Shah introduced the silver Rupiya (178 grains) and copper Dam as standard coins (Statement 1 correct). He built the Grand Trunk Road (Sadak-i-Azam) from Sonargaon to Peshawar (Statement 2 correct). His empire was divided into Sarkars (districts) and Parganas (sub-districts) for administrative efficiency (Statement 3 correct)."
+  },
+  {
+    "id": 34,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Vijayanagara temple architecture:\n1. The Vittala Temple at Hampi is known for its musical pillars and stone chariot.\n2. The Gopuram (gateway tower) became increasingly elaborate and tall during the Vijayanagara period.\n3. Vijayanagara temples completely rejected the Dravidian style and adopted Indo-Islamic architecture.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The Vittala Temple is famous for its musical pillars that produce musical notes when struck, and its iconic stone chariot (Statement 1 correct). Gopurams became increasingly elaborate and towering during the Vijayanagara period (Statement 2 correct). Vijayanagara temples were firmly rooted in the Dravidian tradition, though they incorporated some elements from other styles; they did not adopt Indo-Islamic architecture (Statement 3 incorrect)."
+  },
+  {
+    "id": 35,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Mughal land revenue system:\n1. Todar Mal's Bandobast (Zabti system) involved measurement of land and classification of soil.\n2. Under the Zabti system, revenue was fixed based on average produce of the last 10 years.\n3. The Nasaq system involved estimation of revenue based on past records without actual measurement.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1 and 2 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Todar Mal's Zabti system involved actual measurement (jarib) of land and classification of soil into four categories (Statement 1 correct). The revenue was based on average prices of the last 10 years, not average produce (Statement 2 incorrect). The Nasaq system was based on estimation from past records without fresh measurement (Statement 3 correct)."
+  },
+  {
+    "id": 36,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Chola influence on medieval South Indian polity:\n1. The Chola system of local self-government through village assemblies (Sabha and Ur) continued to influence Vijayanagara administration.\n2. The Vijayanagara rulers adopted the Chola practice of maintaining a strong navy.\n3. The concept of divine kingship in Vijayanagara was entirely borrowed from Islamic political theory.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The Chola tradition of village self-government influenced later South Indian kingdoms including Vijayanagara (Statement 1 correct). Vijayanagara maintained a navy, continuing the Chola maritime tradition to protect coastal trade (Statement 2 correct). The concept of divine kingship in Vijayanagara drew from Hindu traditions of Dharmic kingship, not Islamic political theory (Statement 3 incorrect)."
+  },
+  {
+    "id": 37,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Sufi order of Qadiriyya in India:\n1. The Qadiriyya order was established in India by Syed Muhammad Gilani.\n2. Dara Shikoh, the Mughal prince, was associated with the Qadiriyya order.\n3. The Qadiriyya order, like the Chishtis, strictly avoided contact with the state.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The Qadiriyya order was brought to India by Syed Muhammad Gilani in the 15th century (Statement 1 correct). Dara Shikoh was a follower of the Qadiriyya order and was influenced by Mian Mir and Mulla Shah (Statement 2 correct). Unlike the Chishtis, the Qadiriyya order did not avoid state contact and maintained relations with the ruling class (Statement 3 incorrect)."
+  },
+  {
+    "id": 38,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the military technology in medieval India:\n1. Babur's use of gunpowder artillery and the tulughma tactic was decisive at the First Battle of Panipat.\n2. The Mughals established the Top-khana (artillery department) as a key component of their military.\n3. Indian kingdoms had no knowledge of gunpowder before the arrival of the Mughals.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Babur's use of field artillery and the tulughma (flanking) tactic was decisive at Panipat (Statement 1 correct). The Mughals maintained a well-organized Top-khana (Statement 2 correct). Indian kingdoms, including the Bahmani Sultanate and Vijayanagara, had knowledge of gunpowder and firearms before the Mughals; the Bahmanis used Turkish and European gunners (Statement 3 incorrect)."
+  },
+  {
+    "id": 39,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about Kabir's philosophy:\n1. Kabir rejected both Hindu idol worship and Islamic ritualism.\n2. He composed his verses in a language accessible to common people, often called Sadhukkadi.\n3. Kabir accepted the authority of the Vedas and the Quran as the ultimate source of truth.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Kabir rejected idol worship of Hindus and ritualism of Muslims, advocating a formless God (Statement 1 correct). He composed in Sadhukkadi, a mixed language accessible to common people (Statement 2 correct). Kabir rejected the authority of all scriptures including the Vedas and the Quran, relying on personal experience of the divine (Statement 3 incorrect)."
+  },
+  {
+    "id": 40,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the economic conditions during the Delhi Sultanate:\n1. The Sultanate period saw the growth of urban centres and the Karkhana (royal workshops) system.\n2. Ibn Battuta's account describes a well-developed postal system (Barid) and road network.\n3. Agriculture declined completely during the Sultanate period due to constant warfare.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The Sultanate period saw urbanization and the Karkhana system producing goods for the court and army (Statement 1 correct). Ibn Battuta describes an efficient postal system with horse-post (Ulaq) and foot-post (Dawa) and good roads (Statement 2 correct). Agriculture did not decline completely; while some areas suffered, new crops were introduced and irrigation was expanded, especially under Firoz Shah Tughluq (Statement 3 incorrect)."
+  },
+  {
+    "id": 41,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Mughal-Rajput relations:\n1. Akbar's policy of Sulh-i-Kul (universal peace) included matrimonial alliances with Rajput houses.\n2. Man Singh of Amber served as a prominent military commander under Akbar.\n3. Maharana Pratap of Mewar accepted Mughal suzerainty after the Battle of Haldighati.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Akbar's policy of Sulh-i-Kul included matrimonial alliances with Rajputs, beginning with the Kachhwaha princess of Amber (Statement 1 correct). Man Singh served as one of Akbar's most trusted generals and governors (Statement 2 correct). Maharana Pratap never accepted Mughal suzerainty; he continued guerrilla resistance after Haldighati (1576) until his death (Statement 3 incorrect)."
+  },
+  {
+    "id": 42,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Khalji Revolution (1290):\n1. It marked the end of the monopoly of Turkish nobility over the Delhi Sultanate.\n2. Jalaluddin Khalji came to power by overthrowing the last Slave dynasty ruler Kaiqubad.\n3. The Khalji dynasty was of Afghan origin.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The Khalji Revolution broke the Turkish monopoly over the Sultanate, allowing non-Turks to ascend the throne (Statement 1 correct). Jalaluddin Khalji overthrew the infant successor of Kaiqubad and seized power (Statement 2 correct). The Khaljis were of Turko-Afghan origin, having long settled in Afghanistan, but they were ethnically Turkic, not Afghan (Statement 3 incorrect)."
+  },
+  {
+    "id": 43,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about Akbar's administrative reforms:\n1. He abolished the offices of Wazir and distributed its functions among four departments.\n2. The Mir Bakshi was in charge of military administration and intelligence.\n3. The empire was divided into 15 Subahs (provinces) during Akbar's reign.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Akbar reduced the power of the Wazir by distributing functions among Diwan, Mir Bakshi, Mir Saman, and Sadr (Statement 1 correct). The Mir Bakshi headed military administration and also managed intelligence (Statement 2 correct). Akbar divided the empire into 15 Subahs for provincial administration (Statement 3 correct)."
+  },
+  {
+    "id": 44,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Sayyid and Lodhi dynasties:\n1. The Sayyid dynasty was founded by Khizr Khan who claimed descent from Prophet Muhammad.\n2. During the Sayyid period, the effective territory of the Delhi Sultanate was reduced to Delhi and its surroundings.\n3. The Sayyid rulers acknowledged the suzerainty of Timur's successors.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Khizr Khan founded the Sayyid dynasty and claimed descent from Prophet Muhammad (Statement 1 correct). The Sayyid Sultans controlled only Delhi and surrounding areas, with the rest of the Sultanate having broken away (Statement 2 correct). The Sayyid rulers acknowledged Timurid suzerainty and read the khutba in the name of the Timurid ruler (Statement 3 correct)."
+  },
+  {
+    "id": 45,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Bhakti saint Mirabai:\n1. She was a Rajput princess of Mewar who devoted herself to Lord Krishna.\n2. Her compositions were primarily in Braj Bhasha and Rajasthani.\n3. She advocated for the rigid observance of caste hierarchy in devotional practice.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Mirabai was a Rajput princess from Merta (associated with Mewar through marriage) who was devoted to Lord Krishna (Statement 1 correct). She composed in Braj Bhasha and Rajasthani dialects (Statement 2 correct). Mirabai rejected caste hierarchy and social conventions, associating freely with saints of all backgrounds (Statement 3 incorrect)."
+  },
+  {
+    "id": 46,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the trade guilds and merchant communities in medieval India:\n1. The Multani and Marwari merchants dominated overland trade routes during the Sultanate period.\n2. The concept of Hundi (bill of exchange) was well-developed in medieval Indian commerce.\n3. Medieval Indian merchants had no knowledge of maritime insurance or credit instruments.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Multani and Marwari merchants were prominent in overland trade during the Sultanate period (Statement 1 correct). Hundis were well-developed credit instruments used extensively in medieval Indian trade (Statement 2 correct). Medieval Indian merchants had sophisticated knowledge of credit instruments including hundis, insurance (bima), and partnership arrangements (Statement 3 incorrect)."
+  },
+  {
+    "id": 47,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about Shivaji's military organization:\n1. Shivaji built a strong navy to protect the Konkan coast and challenge European naval powers.\n2. His infantry was organized into units of 25 (equivalent to a modern platoon system).\n3. Shivaji relied exclusively on pitched battles and never employed guerrilla warfare.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Shivaji built a navy with bases at Sindhudurg and other coastal forts to protect the Konkan coast (Statement 1 correct). His infantry was organized in units of 25 (Ek-hazari system with subdivisions) (Statement 2 correct). Shivaji was famous for his guerrilla warfare tactics (Ganimi Kava), using the terrain of the Western Ghats to his advantage (Statement 3 incorrect)."
+  },
+  {
+    "id": 48,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the factors leading to the decline of the Mughal Empire:\n1. The Inam and Madad-i-Maash grants to religious institutions reduced the available revenue base.\n2. The rise of regional powers like Hyderabad, Bengal, and Awadh weakened central authority.\n3. The Mughal military remained technologically superior to European forces throughout the 18th century.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Revenue-free grants (Inam, Madad-i-Maash) to religious institutions and individuals reduced the state's revenue base over time (Statement 1 correct). The emergence of virtually independent states like Hyderabad (Nizam), Bengal (Murshid Quli Khan), and Awadh weakened Mughal central authority (Statement 2 correct). The Mughal military fell behind European forces in technology, training, and organization during the 18th century (Statement 3 incorrect)."
+  },
+  {
+    "id": 49,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the development of Urdu language:\n1. Urdu developed as a lingua franca in the military camps during the Delhi Sultanate period.\n2. It drew vocabulary from Persian, Arabic, Turkish, and local Indian languages.\n3. Urdu literature flourished primarily in the Deccan before it developed in North India.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Urdu evolved as a camp language (Zaban-i-Urdu-i-Mualla) during interactions between Turkish soldiers and local populations in the Sultanate period (Statement 1 correct). It incorporated vocabulary from Persian, Arabic, Turkish, and Hindi/Khari Boli (Statement 2 correct). Deccani Urdu literature (by poets like Wali Deccani) flourished before Urdu literary traditions developed in North India (Statement 3 correct)."
+  },
+  {
+    "id": 50,
+    "paper": "GS1",
+    "subject": "Medieval India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Mughal Empire's relationship with European trading companies:\n1. The English East India Company obtained its first farman for trade from Jahangir in 1613.\n2. The Portuguese established their first factory in India at Surat before the English.\n3. Aurangzeb's conflict with the English East India Company (Child's War, 1686-90) ended with the Company's humiliation and apology.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1 and 2 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The English obtained trading rights from Jahangir in 1613 after Captain Best's naval victory over the Portuguese at Surat (Statement 1 correct). The Portuguese established their first factory at Calicut (1500) and then Cochin, not Surat; their main base was Goa. The English established their first factory at Surat (1613) (Statement 2 incorrect). Child's War ended with the English Company's defeat and humiliation; Josiah Child had to send envoys to apologize to Aurangzeb (Statement 3 correct)."
+  }
+]

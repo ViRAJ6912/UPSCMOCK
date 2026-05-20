@@ -1,1 +1,752 @@
-[{"id":1,"paper":"csat-quantitative","subject":"Placeholder","difficulty":"Medium","question":"Placeholder question — questions coming soon.","options":{"A":"Option A","B":"Option B","C":"Option C","D":"Option D"},"correct":"A","explanation":"Placeholder explanation."}]
+[
+  {
+    "id": 1,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "If the price of a commodity increases by 20% and then decreases by 20%, what is the net percentage change in the price?",
+    "options": {
+      "A": "No change",
+      "B": "4% decrease",
+      "C": "2% decrease",
+      "D": "4% increase"
+    },
+    "correct": "B",
+    "explanation": "Let original price = 100. After 20% increase: 100 × 1.20 = 120. After 20% decrease: 120 × 0.80 = 96. Net change = 96 - 100 = -4. Percentage change = (-4/100) × 100 = -4%. Hence a 4% decrease."
+  },
+  {
+    "id": 2,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "In an election between two candidates, one got 55% of the total valid votes. 20% of the votes were invalid. If the total number of votes was 7500, what is the number of valid votes polled in favour of the winning candidate?",
+    "options": {
+      "A": "3300",
+      "B": "4125",
+      "C": "3500",
+      "D": "2700"
+    },
+    "correct": "A",
+    "explanation": "Total votes = 7500. Invalid votes = 20% of 7500 = 1500. Valid votes = 7500 - 1500 = 6000. Votes for winning candidate = 55% of 6000 = 0.55 × 6000 = 3300."
+  },
+  {
+    "id": 3,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Easy",
+    "question": "The population of a town increases by 10% in the first year and decreases by 10% in the second year. If the present population is 10000, what will be the population after 2 years?",
+    "options": {
+      "A": "10000",
+      "B": "9900",
+      "C": "9800",
+      "D": "10100"
+    },
+    "correct": "B",
+    "explanation": "Population after 1st year = 10000 × 1.10 = 11000. Population after 2nd year = 11000 × 0.90 = 9900."
+  },
+  {
+    "id": 4,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Hard",
+    "question": "A number is increased by 25% and then decreased by k%. If the number remains unchanged, what is the value of k?",
+    "options": {
+      "A": "25",
+      "B": "20",
+      "C": "22.5",
+      "D": "15"
+    },
+    "correct": "B",
+    "explanation": "Let original number = 100. After 25% increase = 125. For the number to return to 100: 125 × (1 - k/100) = 100. So (1 - k/100) = 100/125 = 4/5 = 0.80. Therefore k/100 = 0.20, hence k = 20."
+  },
+  {
+    "id": 5,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "If 30% of A is equal to 40% of B, then A:B is equal to?",
+    "options": {
+      "A": "3:4",
+      "B": "4:3",
+      "C": "2:3",
+      "D": "3:2"
+    },
+    "correct": "B",
+    "explanation": "30% of A = 40% of B. So 0.30A = 0.40B. A/B = 0.40/0.30 = 4/3. Therefore A:B = 4:3."
+  },
+  {
+    "id": 6,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "A shopkeeper buys an article for Rs. 800 and marks it up by 50%. He then offers a discount of 20%. What is his profit percentage?",
+    "options": {
+      "A": "20%",
+      "B": "25%",
+      "C": "30%",
+      "D": "15%"
+    },
+    "correct": "A",
+    "explanation": "Cost Price = Rs. 800. Marked Price = 800 × 1.50 = Rs. 1200. Selling Price after 20% discount = 1200 × 0.80 = Rs. 960. Profit = 960 - 800 = Rs. 160. Profit % = (160/800) × 100 = 20%."
+  },
+  {
+    "id": 7,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "A man sells two articles at Rs. 990 each. On one he gains 10% and on the other he loses 10%. What is his overall gain or loss percentage?",
+    "options": {
+      "A": "1% gain",
+      "B": "No gain no loss",
+      "C": "1% loss",
+      "D": "2% loss"
+    },
+    "correct": "C",
+    "explanation": "For article with 10% gain: CP = 990/1.10 = Rs. 900. For article with 10% loss: CP = 990/0.90 = Rs. 1100. Total CP = 900 + 1100 = Rs. 2000. Total SP = 990 + 990 = Rs. 1980. Loss = 2000 - 1980 = Rs. 20. Loss % = (20/2000) × 100 = 1%."
+  },
+  {
+    "id": 8,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Hard",
+    "question": "By selling 45 lemons for Rs. 40, a man loses 20%. How many should he sell for Rs. 24 to gain 20%?",
+    "options": {
+      "A": "16",
+      "B": "18",
+      "C": "20",
+      "D": "22"
+    },
+    "correct": "B",
+    "explanation": "SP of 45 lemons = Rs. 40, with 20% loss. CP of 45 lemons = 40/0.80 = Rs. 50. CP of 1 lemon = 50/45 = 10/9. For 20% gain, SP of 1 lemon = (10/9) × 1.20 = 12/9 = 4/3. Number of lemons for Rs. 24 = 24 ÷ (4/3) = 24 × 3/4 = 18."
+  },
+  {
+    "id": 9,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "A dealer offers a discount of 10% on the marked price and still makes a profit of 20%. If the cost price is Rs. 450, what is the marked price?",
+    "options": {
+      "A": "Rs. 540",
+      "B": "Rs. 600",
+      "C": "Rs. 650",
+      "D": "Rs. 500"
+    },
+    "correct": "B",
+    "explanation": "CP = Rs. 450. Profit = 20%, so SP = 450 × 1.20 = Rs. 540. Discount = 10%, so SP = MP × 0.90. Therefore MP = 540/0.90 = Rs. 600."
+  },
+  {
+    "id": 10,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Easy",
+    "question": "A man bought an article and sold it at a gain of 5%. If he had bought it at 5% less and sold it for Re. 1 less, he would have made a profit of 10%. What is the cost price of the article?",
+    "options": {
+      "A": "Rs. 200",
+      "B": "Rs. 150",
+      "C": "Rs. 250",
+      "D": "Rs. 100"
+    },
+    "correct": "A",
+    "explanation": "Let CP = x. SP = 1.05x. New CP = 0.95x. New SP = 1.05x - 1. New profit = 10%, so New SP = 0.95x × 1.10 = 1.045x. Therefore 1.05x - 1 = 1.045x. 0.005x = 1. x = 200. CP = Rs. 200."
+  },
+  {
+    "id": 11,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Easy",
+    "question": "What is the simple interest on Rs. 5000 at 8% per annum for 3 years?",
+    "options": {
+      "A": "Rs. 1000",
+      "B": "Rs. 1200",
+      "C": "Rs. 1500",
+      "D": "Rs. 800"
+    },
+    "correct": "B",
+    "explanation": "SI = P × R × T / 100 = 5000 × 8 × 3 / 100 = 120000/100 = Rs. 1200."
+  },
+  {
+    "id": 12,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "The difference between compound interest and simple interest on a sum of Rs. 10000 for 2 years at 10% per annum is?",
+    "options": {
+      "A": "Rs. 100",
+      "B": "Rs. 200",
+      "C": "Rs. 150",
+      "D": "Rs. 50"
+    },
+    "correct": "A",
+    "explanation": "SI = 10000 × 10 × 2 / 100 = Rs. 2000. CI = 10000 × (1 + 10/100)² - 10000 = 10000 × 1.21 - 10000 = 12100 - 10000 = Rs. 2100. Difference = 2100 - 2000 = Rs. 100."
+  },
+  {
+    "id": 13,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "A sum of money doubles itself in 8 years at simple interest. What is the rate of interest per annum?",
+    "options": {
+      "A": "10%",
+      "B": "12%",
+      "C": "12.5%",
+      "D": "15%"
+    },
+    "correct": "C",
+    "explanation": "If sum doubles, SI = Principal. So P = P × R × 8 / 100. Therefore 1 = 8R/100. R = 100/8 = 12.5%."
+  },
+  {
+    "id": 14,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Hard",
+    "question": "At what rate of compound interest per annum will Rs. 1600 amount to Rs. 1764 in 2 years?",
+    "options": {
+      "A": "4%",
+      "B": "5%",
+      "C": "6%",
+      "D": "8%"
+    },
+    "correct": "B",
+    "explanation": "A = P(1 + R/100)^n. 1764 = 1600(1 + R/100)². (1 + R/100)² = 1764/1600 = 441/400. (1 + R/100) = 21/20 = 1.05. R/100 = 0.05. R = 5%."
+  },
+  {
+    "id": 15,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "A sum of Rs. 12000 is lent in two parts. One part at 8% SI and the other at 10% SI. If the total interest after 1 year is Rs. 1060, what is the amount lent at 8%?",
+    "options": {
+      "A": "Rs. 7000",
+      "B": "Rs. 5000",
+      "C": "Rs. 8000",
+      "D": "Rs. 6000"
+    },
+    "correct": "A",
+    "explanation": "Let amount at 8% = x. Amount at 10% = 12000 - x. Interest: x×8/100 + (12000-x)×10/100 = 1060. 8x/100 + (120000-10x)/100 = 1060. (8x + 120000 - 10x)/100 = 1060. 120000 - 2x = 106000. 2x = 14000. x = 7000. Amount at 8% = Rs. 7000."
+  },
+  {
+    "id": 16,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "A can do a piece of work in 12 days and B can do it in 18 days. In how many days will they finish the work together?",
+    "options": {
+      "A": "7.2 days",
+      "B": "6 days",
+      "C": "8 days",
+      "D": "9 days"
+    },
+    "correct": "A",
+    "explanation": "A's 1 day work = 1/12. B's 1 day work = 1/18. Combined 1 day work = 1/12 + 1/18 = 3/36 + 2/36 = 5/36. Time to complete = 36/5 = 7.2 days."
+  },
+  {
+    "id": 17,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "A and B together can complete a work in 12 days. A alone can complete it in 20 days. In how many days can B alone complete the work?",
+    "options": {
+      "A": "25 days",
+      "B": "30 days",
+      "C": "35 days",
+      "D": "40 days"
+    },
+    "correct": "B",
+    "explanation": "A+B's 1 day work = 1/12. A's 1 day work = 1/20. B's 1 day work = 1/12 - 1/20 = 5/60 - 3/60 = 2/60 = 1/30. B alone can complete in 30 days."
+  },
+  {
+    "id": 18,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Hard",
+    "question": "A can do a work in 10 days, B in 12 days, and C in 15 days. They start working together but A leaves after 2 days and B leaves 3 days before the work is completed. In how many days is the total work completed?",
+    "options": {
+      "A": "5 days",
+      "B": "6 days",
+      "C": "7 days",
+      "D": "8 days"
+    },
+    "correct": "C",
+    "explanation": "A's rate = 1/10, B's rate = 1/12, C's rate = 1/15. Let total days = T. A works for 2 days, B works for (T-3) days, C works for T days. Work done: 2/10 + (T-3)/12 + T/15 = 1. 1/5 + (T-3)/12 + T/15 = 1. Multiply by 60: 12 + 5(T-3) + 4T = 60. 12 + 5T - 15 + 4T = 60. 9T - 3 = 60. 9T = 63. T = 7 days."
+  },
+  {
+    "id": 19,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Easy",
+    "question": "If 6 men can complete a work in 8 days, how many men are needed to complete the same work in 4 days?",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "14",
+      "D": "16"
+    },
+    "correct": "B",
+    "explanation": "Total work = 6 × 8 = 48 man-days. To complete in 4 days: men needed = 48/4 = 12."
+  },
+  {
+    "id": 20,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "A pipe can fill a tank in 6 hours and another pipe can empty it in 8 hours. If both pipes are opened simultaneously, in how many hours will the tank be filled?",
+    "options": {
+      "A": "20 hours",
+      "B": "24 hours",
+      "C": "18 hours",
+      "D": "12 hours"
+    },
+    "correct": "B",
+    "explanation": "Filling rate = 1/6 per hour. Emptying rate = 1/8 per hour. Net filling rate = 1/6 - 1/8 = 4/24 - 3/24 = 1/24 per hour. Time to fill = 24 hours."
+  },
+  {
+    "id": 21,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Easy",
+    "question": "A train 150 m long passes a pole in 15 seconds. What is the speed of the train in km/hr?",
+    "options": {
+      "A": "36 km/hr",
+      "B": "40 km/hr",
+      "C": "45 km/hr",
+      "D": "30 km/hr"
+    },
+    "correct": "A",
+    "explanation": "Speed = Distance/Time = 150/15 = 10 m/s. Converting to km/hr: 10 × 18/5 = 36 km/hr."
+  },
+  {
+    "id": 22,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "Two trains running in opposite directions cross each other in 10 seconds. Their speeds are 36 km/hr and 54 km/hr. If the first train is 100 m long, what is the length of the second train?",
+    "options": {
+      "A": "100 m",
+      "B": "120 m",
+      "C": "150 m",
+      "D": "140 m"
+    },
+    "correct": "C",
+    "explanation": "Relative speed = 36 + 54 = 90 km/hr = 90 × 5/18 = 25 m/s. Total distance covered = speed × time = 25 × 10 = 250 m. Length of second train = 250 - 100 = 150 m."
+  },
+  {
+    "id": 23,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "A car covers the first half of a journey at 40 km/hr and the second half at 60 km/hr. What is the average speed for the entire journey?",
+    "options": {
+      "A": "48 km/hr",
+      "B": "50 km/hr",
+      "C": "45 km/hr",
+      "D": "52 km/hr"
+    },
+    "correct": "A",
+    "explanation": "For equal distances, average speed = 2ab/(a+b) = 2×40×60/(40+60) = 4800/100 = 48 km/hr."
+  },
+  {
+    "id": 24,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Hard",
+    "question": "A boat goes 24 km upstream and 28 km downstream in 6 hours. It also goes 30 km upstream and 21 km downstream in 6.5 hours. What is the speed of the boat in still water?",
+    "options": {
+      "A": "10 km/hr",
+      "B": "8 km/hr",
+      "C": "12 km/hr",
+      "D": "6 km/hr"
+    },
+    "correct": "A",
+    "explanation": "Let speed upstream = u, downstream = d. 24/u + 28/d = 6 ...(1). 30/u + 21/d = 6.5 ...(2). Let 1/u = x, 1/d = y. 24x + 28y = 6 ...(1). 30x + 21y = 6.5 ...(2). From (1): 6x + 7y = 1.5 → y = (1.5-6x)/7. Substituting in (2): 30x + 21×(1.5-6x)/7 = 6.5. 30x + 3(1.5-6x) = 6.5. 30x + 4.5 - 18x = 6.5. 12x = 2. x = 1/6, so u = 6. From y = (1.5-1)/7 = 0.5/7 = 1/14, so d = 14. Speed in still water = (u+d)/2 = (6+14)/2 = 10 km/hr."
+  },
+  {
+    "id": 25,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "A man walks at 5 km/hr and reaches his office 10 minutes late. If he walks at 6 km/hr, he reaches 5 minutes early. What is the distance to his office?",
+    "options": {
+      "A": "7.5 km",
+      "B": "5 km",
+      "C": "10 km",
+      "D": "6 km"
+    },
+    "correct": "A",
+    "explanation": "Let distance = d km. Time difference = 10 + 5 = 15 minutes = 1/4 hour. d/5 - d/6 = 1/4. (6d - 5d)/30 = 1/4. d/30 = 1/4. d = 30/4 = 7.5 km."
+  },
+  {
+    "id": 26,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Easy",
+    "question": "If A:B = 2:3 and B:C = 4:5, then A:B:C is?",
+    "options": {
+      "A": "8:12:15",
+      "B": "2:3:5",
+      "C": "4:6:5",
+      "D": "6:9:10"
+    },
+    "correct": "A",
+    "explanation": "A:B = 2:3 and B:C = 4:5. To combine, make B common. B in first ratio = 3, B in second = 4. LCM of 3 and 4 = 12. A:B = 2×4:3×4 = 8:12. B:C = 4×3:5×3 = 12:15. Therefore A:B:C = 8:12:15."
+  },
+  {
+    "id": 27,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "Rs. 1360 is divided among A, B, and C such that A gets 2/3 of what B gets and B gets 1/4 of what C gets. What is B's share?",
+    "options": {
+      "A": "Rs. 240",
+      "B": "Rs. 360",
+      "C": "Rs. 120",
+      "D": "Rs. 480"
+    },
+    "correct": "A",
+    "explanation": "B = C/4, so C = 4B. A = 2B/3. Total: A + B + C = 2B/3 + B + 4B = (2B + 3B + 12B)/3 = 17B/3 = 1360. B = 1360 × 3/17 = 240. Verification: A = 160, B = 240, C = 960. Total = 1360. ✓"
+  },
+  {
+    "id": 28,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "The ratio of the ages of A and B is 4:3. After 6 years, the ratio becomes 5:4. What is the present age of A?",
+    "options": {
+      "A": "20 years",
+      "B": "24 years",
+      "C": "28 years",
+      "D": "32 years"
+    },
+    "correct": "B",
+    "explanation": "Let A = 4x, B = 3x. After 6 years: (4x+6)/(3x+6) = 5/4. Cross multiply: 4(4x+6) = 5(3x+6). 16x + 24 = 15x + 30. x = 6. Present age of A = 4×6 = 24 years."
+  },
+  {
+    "id": 29,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "A mixture contains milk and water in the ratio 5:3. If 8 litres of water is added, the ratio becomes 1:1. What is the quantity of milk in the mixture?",
+    "options": {
+      "A": "20 litres",
+      "B": "16 litres",
+      "C": "24 litres",
+      "D": "12 litres"
+    },
+    "correct": "A",
+    "explanation": "Let milk = 5x, water = 3x. After adding 8 litres of water: 5x/(3x+8) = 1/1. 5x = 3x + 8. 2x = 8. x = 4. Quantity of milk = 5×4 = 20 litres."
+  },
+  {
+    "id": 30,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Hard",
+    "question": "Three partners A, B, and C invest in a business in the ratio 3:5:7. If A invested for 12 months, B for 8 months, and C for 6 months, what is the ratio of their profits?",
+    "options": {
+      "A": "3:5:7",
+      "B": "6:10:7",
+      "C": "36:40:42",
+      "D": "6:8:7"
+    },
+    "correct": "C",
+    "explanation": "Profit ratio = Investment × Time. A's share = 3×12 = 36. B's share = 5×8 = 40. C's share = 7×6 = 42. Ratio of profits = 36:40:42."
+  },
+  {
+    "id": 31,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Easy",
+    "question": "The average of 5 numbers is 42. If one number is excluded, the average becomes 38. What is the excluded number?",
+    "options": {
+      "A": "56",
+      "B": "58",
+      "C": "52",
+      "D": "54"
+    },
+    "correct": "B",
+    "explanation": "Sum of 5 numbers = 5 × 42 = 210. Sum of remaining 4 numbers = 4 × 38 = 152. Excluded number = 210 - 152 = 58."
+  },
+  {
+    "id": 32,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "The average weight of a class of 30 students is 40 kg. If the teacher's weight is included, the average increases by 1 kg. What is the teacher's weight?",
+    "options": {
+      "A": "71 kg",
+      "B": "60 kg",
+      "C": "65 kg",
+      "D": "70 kg"
+    },
+    "correct": "A",
+    "explanation": "Total weight of 30 students = 30 × 40 = 1200 kg. New average with teacher = 41 kg. Total weight of 31 people = 31 × 41 = 1271 kg. Teacher's weight = 1271 - 1200 = 71 kg."
+  },
+  {
+    "id": 33,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "The average of 11 consecutive natural numbers is 20. What is the smallest number?",
+    "options": {
+      "A": "14",
+      "B": "15",
+      "C": "16",
+      "D": "10"
+    },
+    "correct": "B",
+    "explanation": "For consecutive natural numbers, the average equals the middle (6th) number. So the 6th number = 20. The smallest (1st) number = 20 - 5 = 15."
+  },
+  {
+    "id": 34,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "What is the remainder when 2^31 is divided by 5?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "C",
+    "explanation": "Powers of 2 mod 5 cycle with period 4: 2^1=2, 2^2=4, 2^3=3, 2^4=1, 2^5=2... Pattern: 2,4,3,1 repeating. 31 = 4×7 + 3. So 2^31 mod 5 = 2^3 mod 5 = 8 mod 5 = 3."
+  },
+  {
+    "id": 35,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "The HCF and LCM of two numbers are 12 and 360 respectively. If one number is 60, what is the other?",
+    "options": {
+      "A": "72",
+      "B": "84",
+      "C": "48",
+      "D": "96"
+    },
+    "correct": "A",
+    "explanation": "Product of two numbers = HCF × LCM. 60 × other number = 12 × 360 = 4320. Other number = 4320/60 = 72."
+  },
+  {
+    "id": 36,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Hard",
+    "question": "How many numbers between 1 and 100 (inclusive) are divisible by either 3 or 7?",
+    "options": {
+      "A": "43",
+      "B": "47",
+      "C": "38",
+      "D": "42"
+    },
+    "correct": "A",
+    "explanation": "Numbers divisible by 3 from 1-100: 3,6,...,99 → 33 numbers. Divisible by 7: 7,14,...,98 → 14 numbers. Divisible by both (LCM=21): 21,42,63,84 → 4 numbers. By inclusion-exclusion: 33 + 14 - 4 = 43."
+  },
+  {
+    "id": 37,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Easy",
+    "question": "What is the sum of all prime numbers between 10 and 30?",
+    "options": {
+      "A": "100",
+      "B": "112",
+      "C": "90",
+      "D": "101"
+    },
+    "correct": "B",
+    "explanation": "Prime numbers between 10 and 30: 11, 13, 17, 19, 23, 29. Sum = 11+13+17+19+23+29 = 112."
+  },
+  {
+    "id": 38,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "If the sum of two numbers is 15 and the sum of their squares is 113, what is the product of the two numbers?",
+    "options": {
+      "A": "56",
+      "B": "54",
+      "C": "50",
+      "D": "52"
+    },
+    "correct": "A",
+    "explanation": "Let numbers be a and b. a+b = 15, a²+b² = 113. We know (a+b)² = a²+2ab+b². 225 = 113 + 2ab. 2ab = 112. ab = 56."
+  },
+  {
+    "id": 39,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "If x + 1/x = 5, what is the value of x² + 1/x²?",
+    "options": {
+      "A": "23",
+      "B": "25",
+      "C": "27",
+      "D": "21"
+    },
+    "correct": "A",
+    "explanation": "Squaring both sides: (x + 1/x)² = 25. x² + 2(x)(1/x) + 1/x² = 25. x² + 2 + 1/x² = 25. x² + 1/x² = 23."
+  },
+  {
+    "id": 40,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Hard",
+    "question": "The sum of the digits of a two-digit number is 9. If the digits are reversed, the new number is 27 more than the original. What is the original number?",
+    "options": {
+      "A": "36",
+      "B": "45",
+      "C": "54",
+      "D": "63"
+    },
+    "correct": "A",
+    "explanation": "Let tens digit = x, units digit = y. x + y = 9 ...(1). Original number = 10x + y. Reversed = 10y + x. Given: (10y+x) - (10x+y) = 27. 9y - 9x = 27. y - x = 3 ...(2). From (1) and (2): x+y=9, y-x=3. Adding: 2y=12, y=6, x=3. Original number = 36."
+  },
+  {
+    "id": 41,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "If 2x + 3y = 12 and 3x + 2y = 13, what is the value of x + y?",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct": "B",
+    "explanation": "Adding both equations: (2x+3y) + (3x+2y) = 12+13. 5x + 5y = 25. 5(x+y) = 25. x+y = 5."
+  },
+  {
+    "id": 42,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Hard",
+    "question": "If one root of the equation x² - 7x + k = 0 is 4, what is the value of k?",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "14",
+      "D": "16"
+    },
+    "correct": "B",
+    "explanation": "If x=4 is a root: 4² - 7(4) + k = 0. 16 - 28 + k = 0. k = 12. Verification: x² - 7x + 12 = 0 → (x-3)(x-4) = 0 → roots are 3 and 4. ✓"
+  },
+  {
+    "id": 43,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "The perimeter of a rectangle is 60 cm. If the length is twice the breadth, what is the area of the rectangle?",
+    "options": {
+      "A": "150 sq cm",
+      "B": "200 sq cm",
+      "C": "250 sq cm",
+      "D": "180 sq cm"
+    },
+    "correct": "B",
+    "explanation": "Let breadth = b. Length = 2b. Perimeter = 2(l+b) = 2(2b+b) = 6b = 60. b = 10 cm. l = 20 cm. Area = l × b = 20 × 10 = 200 sq cm."
+  },
+  {
+    "id": 44,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "The diagonal of a square is 10√2 cm. What is the area of the square?",
+    "options": {
+      "A": "50 sq cm",
+      "B": "100 sq cm",
+      "C": "200 sq cm",
+      "D": "150 sq cm"
+    },
+    "correct": "B",
+    "explanation": "For a square with side a, diagonal = a√2. So a√2 = 10√2. a = 10 cm. Area = a² = 100 sq cm. Alternatively, Area = diagonal²/2 = (10√2)²/2 = 200/2 = 100 sq cm."
+  },
+  {
+    "id": 45,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Hard",
+    "question": "A cone has a base radius of 7 cm and height of 24 cm. What is its slant height?",
+    "options": {
+      "A": "25 cm",
+      "B": "26 cm",
+      "C": "28 cm",
+      "D": "30 cm"
+    },
+    "correct": "A",
+    "explanation": "Slant height l = √(r² + h²) = √(7² + 24²) = √(49 + 576) = √625 = 25 cm."
+  },
+  {
+    "id": 46,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "The area of an equilateral triangle with side 6 cm is?",
+    "options": {
+      "A": "9√3 sq cm",
+      "B": "12√3 sq cm",
+      "C": "6√3 sq cm",
+      "D": "18√3 sq cm"
+    },
+    "correct": "A",
+    "explanation": "Area of equilateral triangle = (√3/4) × side² = (√3/4) × 36 = 9√3 sq cm."
+  },
+  {
+    "id": 47,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Easy",
+    "question": "A bag contains 4 red, 3 blue, and 5 green balls. If one ball is drawn at random, what is the probability that it is not green?",
+    "options": {
+      "A": "5/12",
+      "B": "7/12",
+      "C": "1/2",
+      "D": "2/3"
+    },
+    "correct": "B",
+    "explanation": "Total balls = 4 + 3 + 5 = 12. Green balls = 5. Non-green balls = 12 - 5 = 7. P(not green) = 7/12."
+  },
+  {
+    "id": 48,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "Two dice are thrown simultaneously. What is the probability of getting a sum of 7?",
+    "options": {
+      "A": "1/6",
+      "B": "5/36",
+      "C": "7/36",
+      "D": "1/9"
+    },
+    "correct": "A",
+    "explanation": "Total outcomes = 6 × 6 = 36. Favorable outcomes for sum 7: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) = 6 outcomes. Probability = 6/36 = 1/6."
+  },
+  {
+    "id": 49,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "A card is drawn from a standard deck of 52 cards. What is the probability that it is either a king or a heart?",
+    "options": {
+      "A": "4/13",
+      "B": "16/52",
+      "C": "17/52",
+      "D": "15/52"
+    },
+    "correct": "A",
+    "explanation": "P(King) = 4/52. P(Heart) = 13/52. P(King and Heart) = 1/52 (King of Hearts). P(King or Heart) = 4/52 + 13/52 - 1/52 = 16/52 = 4/13."
+  },
+  {
+    "id": 50,
+    "paper": "CSAT",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "Hard",
+    "question": "A box contains 3 red and 5 blue balls. Two balls are drawn at random without replacement. What is the probability that both are red?",
+    "options": {
+      "A": "3/28",
+      "B": "3/56",
+      "C": "9/64",
+      "D": "1/7"
+    },
+    "correct": "A",
+    "explanation": "Total balls = 8. P(1st red) = 3/8. P(2nd red | 1st red) = 2/7. P(both red) = 3/8 × 2/7 = 6/56 = 3/28."
+  }
+]

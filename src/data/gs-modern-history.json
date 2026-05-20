@@ -1,1 +1,752 @@
-[{"id":1,"paper":"gs-modern-history","subject":"Placeholder","difficulty":"Medium","question":"Placeholder question — questions coming soon.","options":{"A":"Option A","B":"Option B","C":"Option C","D":"Option D"},"correct":"A","explanation":"Placeholder explanation."}]
+[
+  {
+    "id": 1,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Subsidiary Alliance System:\n1. It was introduced by Lord Wellesley.\n2. The Indian rulers were required to maintain a British contingent at their own expense.\n3. The rulers were free to enter into alliances with other powers.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The Subsidiary Alliance was introduced by Lord Wellesley in 1798. Rulers had to maintain British troops at their expense and were prohibited from entering alliances with other powers."
+  },
+  {
+    "id": 2,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Doctrine of Lapse:\n1. It was applied by Lord Dalhousie.\n2. Satara was the first state annexed under this doctrine.\n3. It recognized the right of adopted heirs to succeed to the throne.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "1 and 2 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "B",
+    "explanation": "The Doctrine of Lapse was applied by Lord Dalhousie. Satara (1848) was the first state annexed. The doctrine refused to recognize adopted heirs, not recognized them."
+  },
+  {
+    "id": 3,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the economic impact of British rule in India:\n1. The Permanent Settlement was introduced in Bengal in 1793.\n2. Under the Ryotwari system, the ownership rights were given to peasants.\n3. The Mahalwari system was introduced by Thomas Munro.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The Permanent Settlement was introduced in 1793 by Cornwallis. Ryotwari gave ownership to peasants. The Mahalwari system was introduced by Holt Mackenzie, not Thomas Munro (who introduced Ryotwari)."
+  },
+  {
+    "id": 4,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the 'Drain of Wealth' theory:\n1. Dadabhai Naoroji presented this theory in his book 'Poverty and Un-British Rule in India'.\n2. R.C. Dutt supported this theory in his 'Economic History of India'.\n3. The theory argued that a portion of India's national wealth was being exported to England with no adequate return.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three statements are correct. Dadabhai Naoroji presented the Drain theory in 'Poverty and Un-British Rule in India', R.C. Dutt supported it in his work, and the theory argued wealth was exported without adequate return."
+  },
+  {
+    "id": 5,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Brahmo Samaj:\n1. It was founded by Raja Ram Mohan Roy in 1828.\n2. It opposed idol worship and the caste system.\n3. Keshab Chandra Sen split from the Brahmo Samaj to form the Brahmo Samaj of India.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. Raja Ram Mohan Roy founded Brahmo Sabha in 1828 (later Brahmo Samaj). It opposed idol worship and caste. Keshab Chandra Sen formed the Brahmo Samaj of India in 1866 after splitting from Debendranath Tagore's faction."
+  },
+  {
+    "id": 6,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following pairs of socio-religious reform movements and their founders:\n1. Prarthana Samaj – Atmaram Pandurang\n2. Arya Samaj – Swami Dayananda Saraswati\n3. Ramakrishna Mission – Swami Vivekananda\n4. Theosophical Society in India – Annie Besant\nWhich of the pairs given above is/are correctly matched?",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "2, 3 and 4 only",
+      "C": "1, 2, 3 and 4",
+      "D": "1 and 2 only"
+    },
+    "correct": "A",
+    "explanation": "Prarthana Samaj was founded by Atmaram Pandurang (1867), Arya Samaj by Dayananda Saraswati (1875), and Ramakrishna Mission by Vivekananda (1897). The Theosophical Society was founded by Blavatsky and Olcott in 1875; Annie Besant became its president later but did not found it in India."
+  },
+  {
+    "id": 7,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Revolt of 1857:\n1. The immediate cause was the introduction of Enfield rifles with greased cartridges.\n2. Bahadur Shah Zafar was declared the Emperor of India by the rebels.\n3. The revolt was confined only to the northern parts of India.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The greased cartridges were the immediate cause and Bahadur Shah Zafar was declared Emperor. However, the revolt was not confined to northern India alone—it spread to central India (Jhansi, Gwalior) and other regions as well."
+  },
+  {
+    "id": 8,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following leaders and their centres during the Revolt of 1857:\n1. Nana Sahib – Kanpur\n2. Begum Hazrat Mahal – Lucknow\n3. Tatya Tope – Jhansi\n4. Kunwar Singh – Bihar\nWhich of the pairs given above is/are correctly matched?",
+    "options": {
+      "A": "1, 2 and 4 only",
+      "B": "1, 2 and 3 only",
+      "C": "2, 3 and 4 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct": "A",
+    "explanation": "Nana Sahib led at Kanpur, Begum Hazrat Mahal at Lucknow, and Kunwar Singh in Bihar. Tatya Tope was a general associated with Kanpur and later central India, not specifically Jhansi (which was led by Rani Lakshmibai)."
+  },
+  {
+    "id": 9,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Indian National Congress in its early phase (Moderates):\n1. The first session was held in Bombay in 1885 under W.C. Bonnerjee.\n2. The Moderates believed in constitutional methods like petitions and prayers.\n3. They demanded complete independence (Purna Swaraj) from British rule.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The first INC session was in Bombay (1885) under W.C. Bonnerjee. Moderates used constitutional methods. They did not demand Purna Swaraj—that demand came much later in 1929 at the Lahore session."
+  },
+  {
+    "id": 10,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Extremist phase of the Indian National Congress:\n1. The Surat Split of 1907 divided the Congress into Moderates and Extremists.\n2. Bal Gangadhar Tilak, Bipin Chandra Pal, and Lala Lajpat Rai were prominent Extremist leaders.\n3. The Extremists advocated Swadeshi, Boycott, and National Education as methods of protest.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The Surat Split (1907) divided Congress. Tilak, Pal, and Lajpat Rai (Lal-Bal-Pal) were key Extremists. They advocated Swadeshi, Boycott, National Education, and passive resistance."
+  },
+  {
+    "id": 11,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Non-Cooperation Movement (1920-22):\n1. It was launched in response to the Jallianwala Bagh massacre and the Khilafat issue.\n2. The movement involved boycott of British goods, courts, and educational institutions.\n3. It was withdrawn after the Chauri Chaura incident.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The NCM was launched due to the Rowlatt Act, Jallianwala Bagh, and Khilafat issue. It involved boycott of institutions and goods. Gandhi withdrew it after the Chauri Chaura violence in February 1922."
+  },
+  {
+    "id": 12,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Civil Disobedience Movement (1930):\n1. It began with the Dandi March on 12 March 1930.\n2. The Gandhi-Irwin Pact of 1931 led to the suspension of the movement.\n3. The movement was resumed after the failure of the Second Round Table Conference.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The CDM began with the Dandi March (12 March 1930). The Gandhi-Irwin Pact (March 1931) suspended it. After the failure of the Second Round Table Conference, Gandhi resumed the movement in 1932."
+  },
+  {
+    "id": 13,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Quit India Movement (1942):\n1. Gandhi gave the slogan 'Do or Die' during this movement.\n2. The movement was launched at the Bombay session of the Congress on 8 August 1942.\n3. The British responded by arresting all major Congress leaders immediately.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. Gandhi gave the 'Do or Die' slogan. The resolution was passed on 8 August 1942 at Bombay. The British arrested Gandhi and other leaders on 9 August 1942, leaving the movement leaderless."
+  },
+  {
+    "id": 14,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Hindustan Republican Association (HRA):\n1. It was founded in 1924 by Sachindranath Sanyal.\n2. It was later reorganized as the Hindustan Socialist Republican Association (HSRA) in 1928.\n3. The Kakori Conspiracy Case (1925) was associated with this organization.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. HRA was founded in 1924 by Sachindranath Sanyal. It was reorganized as HSRA in 1928 by Bhagat Singh, Chandrashekhar Azad, and others. The Kakori train robbery (1925) was carried out by HRA members."
+  },
+  {
+    "id": 15,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Indian Councils Act of 1909 (Morley-Minto Reforms):\n1. It introduced separate electorates for Muslims.\n2. It increased the size of legislative councils.\n3. It introduced the principle of direct elections for the first time.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The Morley-Minto Reforms introduced separate electorates for Muslims and increased the size of legislative councils. However, the principle of direct elections was not introduced by this Act; elections were still largely indirect."
+  },
+  {
+    "id": 16,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Government of India Act, 1919 (Montagu-Chelmsford Reforms):\n1. It introduced dyarchy in the provinces.\n2. It introduced bicameralism at the central level.\n3. It granted universal adult franchise.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The 1919 Act introduced dyarchy (division of subjects into reserved and transferred) in provinces and bicameralism (Council of State and Legislative Assembly) at the centre. It did not grant universal adult franchise; voting rights were limited by property and tax qualifications."
+  },
+  {
+    "id": 17,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Government of India Act, 1935:\n1. It proposed an All-India Federation comprising British India and Princely States.\n2. It abolished dyarchy in provinces and introduced provincial autonomy.\n3. It established the Federal Court of India.\n4. The federal provisions of the Act came into operation.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1 and 2 only",
+      "C": "2, 3 and 4 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct": "A",
+    "explanation": "The 1935 Act proposed an All-India Federation, abolished dyarchy in provinces introducing provincial autonomy, and established the Federal Court. However, the federal provisions never came into operation as princely states did not join."
+  },
+  {
+    "id": 18,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Communal Award of 1932:\n1. It was announced by British Prime Minister Ramsay MacDonald.\n2. It provided separate electorates for Depressed Classes.\n3. Gandhi undertook a fast unto death against it, leading to the Poona Pact.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. Ramsay MacDonald announced the Communal Award in 1932, providing separate electorates for Depressed Classes. Gandhi's fast led to the Poona Pact, which replaced separate electorates with reserved seats within joint electorates."
+  },
+  {
+    "id": 19,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Muslim League and the demand for Pakistan:\n1. The Lahore Resolution (1940) formally demanded separate Muslim states.\n2. The Two-Nation Theory was articulated by Muhammad Ali Jinnah.\n3. The Direct Action Day was observed on 16 August 1946.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The Lahore Resolution (March 1940) demanded separate states for Muslims. Jinnah articulated the Two-Nation Theory. Direct Action Day (16 August 1946) led to the Great Calcutta Killings."
+  },
+  {
+    "id": 20,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following tribal/peasant movements:\n1. Santhal Rebellion (1855-56) – Led by Sidhu and Kanhu\n2. Munda Rebellion (1899-1900) – Led by Birsa Munda\n3. Deccan Riots (1875) – Against moneylenders in Maharashtra\nWhich of the pairs given above is/are correctly matched?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All are correctly matched. The Santhal Rebellion was led by Sidhu and Kanhu against British and zamindars. Birsa Munda led the Munda Rebellion. The Deccan Riots were peasant uprisings against moneylenders in Maharashtra."
+  },
+  {
+    "id": 21,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Indigo Revolt (1859-60):\n1. It was primarily against the European indigo planters in Bengal.\n2. Dinabandhu Mitra's play 'Nil Darpan' highlighted the plight of indigo cultivators.\n3. The revolt led to the appointment of the Indigo Commission in 1860.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The Indigo Revolt was against European planters in Bengal. Dinabandhu Mitra's 'Nil Darpan' (1860) depicted the exploitation. The Indigo Commission was appointed in 1860 and its findings favoured the ryots."
+  },
+  {
+    "id": 22,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the role of the press in the Indian freedom struggle:\n1. The Vernacular Press Act of 1878 was enacted by Lord Lytton.\n2. 'Kesari' was a Marathi newspaper started by Bal Gangadhar Tilak.\n3. The Indian Press Act of 1910 was repealed after the Montagu-Chelmsford Reforms.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The Vernacular Press Act (1878) was enacted under Lord Lytton. Tilak started 'Kesari' in 1881. The Indian Press Act of 1910 was not repealed after the Montagu-Chelmsford Reforms; press restrictions continued in various forms."
+  },
+  {
+    "id": 23,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about women in the Indian freedom struggle:\n1. Sarojini Naidu was the first Indian woman to become the President of the Indian National Congress.\n2. Aruna Asaf Ali hoisted the flag at the Gowalia Tank Maidan during the Quit India Movement.\n3. Kasturba Gandhi was imprisoned during the Quit India Movement and died in detention.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. Sarojini Naidu became INC President in 1925. Aruna Asaf Ali hoisted the flag at Gowalia Tank on 9 August 1942. Kasturba Gandhi died in detention at Aga Khan Palace in February 1944."
+  },
+  {
+    "id": 24,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Indian National Army (INA):\n1. It was first organized by Captain Mohan Singh in 1942.\n2. Subhas Chandra Bose reorganized it and gave the slogan 'Give me blood and I shall give you freedom'.\n3. The INA fought alongside Japanese forces against the British in the Imphal campaign.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. Captain Mohan Singh first organized the INA in 1942. Bose reorganized it and gave the famous slogan. The INA participated in the Imphal campaign alongside Japanese forces in 1944."
+  },
+  {
+    "id": 25,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the INA trials (Red Fort Trials, 1945):\n1. The British put on trial Shah Nawaz Khan, P.K. Sahgal, and Gurbaksh Singh Dhillon.\n2. The trials generated widespread public sympathy for the INA soldiers.\n3. The Congress provided legal defence for the accused, with Bhulabhai Desai as the lead counsel.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The Red Fort Trials of Shah Nawaz Khan, Sahgal, and Dhillon generated massive public sympathy. Bhulabhai Desai led the defence team on behalf of the Congress. The trials became a catalyst for nationalist sentiment."
+  },
+  {
+    "id": 26,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Cabinet Mission Plan (1946):\n1. It rejected the demand for a separate Pakistan.\n2. It proposed a three-tier federal structure with grouping of provinces.\n3. It recommended the formation of a Constituent Assembly.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The Cabinet Mission (1946) rejected Pakistan, proposed a three-tier structure (Union, Groups of Provinces, Provinces), and recommended a Constituent Assembly for framing India's constitution."
+  },
+  {
+    "id": 27,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Mountbatten Plan (3 June 1947):\n1. It proposed the partition of India into India and Pakistan.\n2. It provided for the partition of Bengal and Punjab.\n3. A referendum was to be held in the NWFP and Sylhet district of Assam.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The Mountbatten Plan proposed partition of India, partition of Bengal and Punjab along communal lines, and referendums in NWFP and Sylhet to decide which dominion they would join."
+  },
+  {
+    "id": 28,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Royal Indian Navy Mutiny (1946):\n1. It began on 18 February 1946 in Bombay.\n2. The mutineers protested against poor food, racial discrimination, and the INA trials.\n3. Both the Congress and the Muslim League supported the mutiny openly.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The RIN Mutiny began on 18 February 1946 in Bombay. Causes included poor conditions, racial discrimination, and sympathy for INA prisoners. Both Congress and Muslim League asked the mutineers to surrender rather than supporting them openly."
+  },
+  {
+    "id": 29,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the integration of princely states:\n1. Sardar Vallabhbhai Patel and V.P. Menon were primarily responsible for the integration.\n2. Junagadh, Hyderabad, and Kashmir were the three states that posed major problems.\n3. Hyderabad was integrated through Operation Polo (police action) in September 1948.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. Patel and V.P. Menon handled integration. Junagadh, Hyderabad, and Kashmir were problematic. Hyderabad was integrated through Operation Polo (military action termed 'police action') in September 1948."
+  },
+  {
+    "id": 30,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Champaran Satyagraha (1917):\n1. It was Gandhi's first civil disobedience movement in India.\n2. It was against the tinkathia system imposed on indigo cultivators.\n3. Rajendra Prasad assisted Gandhi during this movement.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. Champaran (1917) was Gandhi's first satyagraha in India. It opposed the tinkathia system (cultivating indigo on 3/20th of land). Rajendra Prasad, J.B. Kripalani, and others assisted Gandhi."
+  },
+  {
+    "id": 31,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Rowlatt Act (1919):\n1. It was based on the recommendations of the Sedition Committee headed by Justice Rowlatt.\n2. It allowed detention of political prisoners without trial for up to two years.\n3. Gandhi called for a nationwide hartal against the Act on 6 April 1919.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The Rowlatt Act was based on Justice Rowlatt's committee recommendations. It allowed detention without trial. Gandhi called for a hartal on 6 April 1919, which marked the beginning of the Rowlatt Satyagraha."
+  },
+  {
+    "id": 32,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Jallianwala Bagh Massacre (1919):\n1. It took place on 13 April 1919 in Amritsar.\n2. General Dyer ordered firing on an unarmed gathering.\n3. The Hunter Commission was appointed to investigate the incident.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The massacre occurred on 13 April 1919 (Baisakhi day). General Dyer ordered firing without warning. The Hunter Commission (Disorders Inquiry Committee) was appointed to investigate."
+  },
+  {
+    "id": 33,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Khilafat Movement:\n1. It was led by Muhammad Ali and Shaukat Ali.\n2. It aimed to restore the Caliphate of the Ottoman Sultan.\n3. Gandhi supported the movement to forge Hindu-Muslim unity.\n4. The movement ended after Turkey itself abolished the Caliphate in 1924.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 3 and 4 only",
+      "C": "2, 3 and 4 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The Ali brothers led the Khilafat Movement to restore the Ottoman Caliphate. Gandhi supported it for Hindu-Muslim unity. The movement became irrelevant after Turkey abolished the Caliphate under Kemal Ataturk in 1924."
+  },
+  {
+    "id": 34,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Simon Commission (1927):\n1. It was appointed to review the working of the Government of India Act, 1919.\n2. It had no Indian member, which led to widespread protests.\n3. Lala Lajpat Rai was fatally injured during protests against the Commission in Lahore.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The Simon Commission was to review the 1919 Act. It had no Indian member, leading to 'Simon Go Back' protests. Lala Lajpat Rai was injured in a lathi charge in Lahore (1928) and died shortly after."
+  },
+  {
+    "id": 35,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Nehru Report (1928):\n1. It was drafted by a committee headed by Motilal Nehru.\n2. It demanded Dominion Status for India.\n3. It recommended joint electorates with reserved seats for minorities.\n4. Jinnah rejected it and proposed his Fourteen Points in response.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 3 and 4 only",
+      "C": "2, 3 and 4 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. Motilal Nehru headed the committee. It demanded Dominion Status and joint electorates with reserved seats. Jinnah rejected it and proposed his Fourteen Points (March 1929) demanding separate electorates and other safeguards."
+  },
+  {
+    "id": 36,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Lahore Session of Congress (1929):\n1. It was presided over by Jawaharlal Nehru.\n2. The demand for Purna Swaraj (Complete Independence) was adopted.\n3. 26 January 1930 was celebrated as the first Independence Day.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. Jawaharlal Nehru presided over the Lahore Session (December 1929). Purna Swaraj was adopted as the goal. 26 January 1930 was observed as Independence Day (later chosen as Republic Day)."
+  },
+  {
+    "id": 37,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Bhagat Singh and revolutionary movement:\n1. Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly in 1929.\n2. The purpose was 'to make the deaf hear' rather than to kill.\n3. Bhagat Singh, Rajguru, and Sukhdev were executed on 23 March 1931.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. Bhagat Singh and Dutt threw bombs in the Assembly on 8 April 1929 to protest the Public Safety Bill. Their stated purpose was to 'make the deaf hear.' Bhagat Singh, Rajguru, and Sukhdev were hanged on 23 March 1931."
+  },
+  {
+    "id": 38,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Swadeshi Movement (1905-08):\n1. It was launched in response to the Partition of Bengal by Lord Curzon.\n2. The movement promoted indigenous industries and boycott of British goods.\n3. Rabindranath Tagore composed 'Amar Sonar Bangla' during this movement.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The Swadeshi Movement was a response to Bengal's partition (1905) by Curzon. It promoted indigenous goods and boycotted British products. Tagore composed 'Amar Sonar Bangla' during this period."
+  },
+  {
+    "id": 39,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Cripps Mission (1942):\n1. It was sent to India to secure Indian cooperation in World War II.\n2. It offered Dominion Status after the war with the right to secede from the Commonwealth.\n3. It was rejected by both the Congress and the Muslim League.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The Cripps Mission (March 1942) aimed to secure Indian support for the war. It offered Dominion Status with the right to secede. Congress rejected it as a 'post-dated cheque on a crashing bank' (Gandhi), and the Muslim League also rejected it."
+  },
+  {
+    "id": 40,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Moplah Rebellion (1921):\n1. It took place in the Malabar region of Kerala.\n2. The Moplahs were Muslim peasants who revolted against Hindu landlords and the British.\n3. It was initially linked to the Khilafat and Non-Cooperation movements.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The Moplah Rebellion (1921) occurred in Malabar, Kerala. Moplah Muslims revolted against Hindu landlords (jenmi) and British authority. It was initially inspired by Khilafat and Non-Cooperation but later took a communal turn."
+  },
+  {
+    "id": 41,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Tebhaga Movement (1946):\n1. It was a peasant movement in Bengal demanding two-thirds share of the produce for sharecroppers.\n2. It was led by the Kisan Sabha wing of the Communist Party of India.\n3. The movement was directed against the jotedars (landlords).\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The Tebhaga (two-thirds) Movement demanded bargadars receive 2/3 of produce instead of 1/2. It was led by the Bengal Provincial Kisan Sabha linked to CPI. It was directed against jotedars."
+  },
+  {
+    "id": 42,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Wavell Plan and Shimla Conference (1945):\n1. It proposed reconstitution of the Viceroy's Executive Council with Indian members.\n2. All members except the Viceroy and Commander-in-Chief were to be Indians.\n3. It failed because Jinnah insisted that all Muslim members be nominated by the Muslim League.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The Wavell Plan proposed an all-Indian Executive Council except the Viceroy and C-in-C. It failed at the Shimla Conference because Jinnah claimed the Muslim League's exclusive right to nominate Muslim members."
+  },
+  {
+    "id": 43,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Azad Hind Government:\n1. It was established by Subhas Chandra Bose on 21 October 1943 in Singapore.\n2. It was recognized by Japan, Germany, and Italy among other Axis powers.\n3. It administered the Andaman and Nicobar Islands, renaming them Shahid and Swaraj Islands.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The Provisional Government of Free India (Azad Hind) was proclaimed on 21 October 1943 in Singapore. It was recognized by Axis powers. It nominally administered the Andaman and Nicobar Islands, renamed Shahid and Swaraj Islands."
+  },
+  {
+    "id": 44,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Charter Acts:\n1. The Charter Act of 1813 ended the East India Company's monopoly over Indian trade.\n2. The Charter Act of 1833 ended the Company's commercial activities entirely.\n3. The Charter Act of 1853 introduced open competition for civil services for the first time.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The 1813 Act ended the Company's trade monopoly (except tea and China trade). The 1833 Act ended all commercial activities. The 1853 Act introduced open competition for recruitment to civil services."
+  },
+  {
+    "id": 45,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Telangana Peasant Movement (1946-51):\n1. It was directed against the Nizam of Hyderabad and feudal landlords (deshmukhs).\n2. It was led by the Communist Party of India.\n3. The movement established village soviets (gram raj) in liberated areas.\n4. It was suppressed after the Indian Army's Operation Polo.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 2 and 4 only",
+      "C": "2, 3 and 4 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The Telangana movement was against the Nizam and feudal lords, led by CPI. Village soviets were established. After Operation Polo integrated Hyderabad, the Indian government suppressed the movement by 1951."
+  },
+  {
+    "id": 46,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Indian Independence Act, 1947:\n1. It was passed by the British Parliament on 18 July 1947.\n2. It provided for the creation of two independent dominions—India and Pakistan.\n3. It abolished the office of the Secretary of State for India.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The Indian Independence Act received Royal Assent on 18 July 1947. It created two dominions. It abolished the office of Secretary of State for India and ended British suzerainty over princely states."
+  },
+  {
+    "id": 47,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the August Offer (1940):\n1. It was made by Viceroy Lord Linlithgow.\n2. It offered Dominion Status as the objective for India after the war.\n3. It proposed expansion of the Viceroy's Executive Council to include more Indians.\n4. It was accepted by the Indian National Congress.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1 and 3 only",
+      "C": "2, 3 and 4 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct": "A",
+    "explanation": "The August Offer (1940) was made by Linlithgow, offered Dominion Status after the war, and proposed expanding the Executive Council. However, Congress rejected it as it fell short of their demand for complete independence."
+  },
+  {
+    "id": 48,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Widow Remarriage Act of 1856:\n1. It was passed during the Governor-Generalship of Lord Dalhousie.\n2. Ishwar Chandra Vidyasagar was the key social reformer who campaigned for it.\n3. The Act made remarriage of Hindu widows legal across British India.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The Hindu Widows' Remarriage Act was passed in 1856 under Lord Dalhousie. Ishwar Chandra Vidyasagar campaigned tirelessly for it. The Act legalized remarriage of Hindu widows."
+  },
+  {
+    "id": 49,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Bardoli Satyagraha (1928):\n1. It was led by Sardar Vallabhbhai Patel against the enhancement of land revenue.\n2. The revenue had been increased by 30 percent by the Bombay government.\n3. The title 'Sardar' was conferred on Patel by the women of Bardoli after the movement's success.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. Patel led the Bardoli Satyagraha (1928) against a 30% revenue hike by the Bombay government. After the successful movement, the women of Bardoli gave him the title 'Sardar' (leader)."
+  },
+  {
+    "id": 50,
+    "paper": "GS1",
+    "subject": "Modern India",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Instrument of Accession:\n1. It was the legal document through which princely states joined either India or Pakistan.\n2. States acceded on three subjects: Defence, External Affairs, and Communications.\n3. The ruler of Travancore was the first to announce independence rather than accession.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The Instrument of Accession was the legal document for princely states to join a dominion. Accession was on three subjects: Defence, External Affairs, and Communications. The Dewan of Travancore (Sir C.P. Ramaswami Aiyar) initially announced independence before eventually acceding to India."
+  }
+]

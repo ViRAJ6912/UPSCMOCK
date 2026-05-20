@@ -1,1 +1,752 @@
-[{"id":1,"paper":"gs-geography","subject":"Placeholder","difficulty":"Medium","question":"Placeholder question — questions coming soon.","options":{"A":"Option A","B":"Option B","C":"Option C","D":"Option D"},"correct":"A","explanation":"Placeholder explanation."}]
+[
+  {
+    "id": 1,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Himalayan mountain system:\n1. The Shiwaliks are composed of unconsolidated sediments brought down by rivers.\n2. The Lesser Himalayas are known for their fossil-bearing formations.\n3. The Great Himalayas contain the oldest rocks of the Himalayan system.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "1 and 2 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "C",
+    "explanation": "The Shiwaliks are composed of unconsolidated sediments. The Lesser Himalayas are NOT known for fossil-bearing formations; it is the Shiwaliks that contain fossils. The Great Himalayas contain the oldest metamorphic rocks like granites and gneisses."
+  },
+  {
+    "id": 2,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Deccan Plateau:\n1. It is higher in the west and slopes gently eastwards.\n2. The Malwa Plateau forms its northern part.\n3. The Meghalaya Plateau is an extension of the Deccan Plateau separated by the Rajmahal Hills gap.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "The Deccan Plateau is higher in the west (600-900m) and slopes eastwards. The Malwa Plateau forms its northern part. The Meghalaya Plateau (Shillong Plateau) is indeed an extension of the Deccan Plateau, separated by the Rajmahal Hills and the Garo-Rajmahal gap."
+  },
+  {
+    "id": 3,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Northern Plains of India:\n1. The Bhabar is a narrow belt of pebble-studded rocks lying along the foothills of the Shiwaliks.\n2. The Terai belt lies south of the Bhabar and is a marshy and swampy area.\n3. The Bangar represents the older alluvial plains forming terraces above the flood plains.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three statements are correct. Bhabar is a pebble-studded belt along the Shiwalik foothills where streams disappear. Terai lies south of Bhabar and is marshy due to re-emergence of streams. Bangar is the older alluvial plain forming terraces above the newer Khadar (flood plains)."
+  },
+  {
+    "id": 4,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Indian Monsoon:\n1. The onset of the southwest monsoon is driven by the shift of the Inter-Tropical Convergence Zone (ITCZ) northward.\n2. The Somali Jet (cross-equatorial flow) is crucial for the strength of the Indian monsoon.\n3. El Ni\u00f1o events always lead to deficient monsoon rainfall in India.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The ITCZ shift and the Somali Jet (low-level cross-equatorial jet stream off the coast of Somalia) are both crucial for the Indian monsoon. However, El Ni\u00f1o does NOT always lead to deficient monsoon; the relationship is probabilistic, not deterministic. India has experienced normal monsoons during some El Ni\u00f1o years."
+  },
+  {
+    "id": 5,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the retreating monsoon season in India:\n1. The months of October-November are known for the retreating monsoon.\n2. The retreating monsoon picks up moisture from the Bay of Bengal and causes rainfall in Tamil Nadu.\n3. Cyclonic disturbances during this period originate in the Arabian Sea.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "October-November is the retreating monsoon season. The northeast monsoon winds pick up moisture from the Bay of Bengal and give rainfall to the Coromandel Coast (Tamil Nadu). The cyclonic disturbances during this period originate primarily in the Bay of Bengal, not the Arabian Sea."
+  },
+  {
+    "id": 6,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the drainage systems of India:\n1. The Narmada and Tapi are the only two major west-flowing rivers of peninsular India that form estuaries.\n2. The Godavari has the largest drainage basin among peninsular rivers.\n3. The Brahmaputra performs antecedent drainage across the Himalayas.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Narmada and Tapi flow westward through rift valleys and form estuaries (not deltas). Godavari has the largest basin (about 3.13 lakh sq km) among peninsular rivers. The Brahmaputra is an antecedent river that existed before the Himalayas rose and cut through them maintaining its course."
+  },
+  {
+    "id": 7,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about soil types in India:\n1. Black soil (Regur) is ideal for cotton cultivation due to its high moisture-retaining capacity.\n2. Laterite soils are rich in iron and aluminium but deficient in nitrogen and humus.\n3. Alluvial soils are deficient in phosphorus.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Black soil retains moisture well and is ideal for cotton. Laterite soils are rich in iron and aluminium oxides but poor in nitrogen, potash, and humus due to leaching. Alluvial soils are generally deficient in nitrogen and humus, not phosphorus specifically."
+  },
+  {
+    "id": 8,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about natural vegetation in India:\n1. Tropical evergreen forests are found in areas receiving more than 200 cm of annual rainfall.\n2. Tidal forests are found in the delta regions of Ganga, Mahanadi, and Godavari.\n3. Tropical deciduous forests are the most widespread forests in India.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Tropical evergreen forests occur in areas with over 200 cm rainfall (Western Ghats, NE India, Andaman Islands). Tidal/mangrove forests are found in deltas of Ganga, Mahanadi, Godavari, Krishna, and Kaveri. Tropical deciduous forests are the most widespread, covering about 65% of India's forest area."
+  },
+  {
+    "id": 9,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about mineral resources in India:\n1. The Dharwar system rocks are the most important source of metallic minerals in India.\n2. India has the world's largest reserves of thorium.\n3. Gondwana coal fields account for about 98% of India's total coal reserves.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Dharwar system rocks are the primary source of metallic minerals (gold, iron, manganese). India has the world's largest thorium reserves (monazite sands of Kerala). Gondwana coal fields (Damodar valley, Mahanadi valley, Godavari valley) account for about 98% of India's coal reserves."
+  },
+  {
+    "id": 10,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about energy resources in India:\n1. The Mumbai High field is India's largest offshore oil-producing region.\n2. India's largest solar park is located in Gujarat.\n3. The Kudankulam Nuclear Power Plant uses Pressurized Heavy Water Reactor (PHWR) technology.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "1 and 2 only",
+      "C": "1 and 3 only",
+      "D": "2 and 3 only"
+    },
+    "correct": "A",
+    "explanation": "Mumbai High is India's largest offshore oil field. India's largest solar park (Bhadla Solar Park) is in Rajasthan, not Gujarat. Kudankulam uses VVER (Russian light water reactor) technology, not PHWR. PHWRs are used in indigenously built reactors like those at Rawatbhata and Kalpakkam."
+  },
+  {
+    "id": 11,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about cropping patterns in India:\n1. Rabi crops are sown in winter and harvested in spring (October to March).\n2. Wheat, mustard, and gram are major Rabi crops.\n3. Rice is exclusively a Kharif crop in India.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Rabi crops are sown in October-November and harvested in March-April. Wheat, mustard, and gram are major Rabi crops. However, rice is NOT exclusively a Kharif crop; it is also grown as a Rabi crop in parts of southern and eastern India where irrigation is available."
+  },
+  {
+    "id": 12,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about irrigation in India:\n1. Canal irrigation is the most important source of irrigation in India.\n2. Tube wells and wells together account for the largest share of net irrigated area.\n3. Tank irrigation is more prevalent in peninsular India due to the undulating terrain.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "2 and 3 only",
+      "C": "1 and 2 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "B",
+    "explanation": "Tube wells and wells account for the largest share (over 60%) of net irrigated area in India, not canals. Canal irrigation is the second most important source. Tank irrigation is more prevalent in peninsular India (Tamil Nadu, Andhra Pradesh, Karnataka) due to undulating terrain that allows construction of tanks."
+  },
+  {
+    "id": 13,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about industrial location factors in India:\n1. The iron and steel industry in Jamshedpur developed due to proximity to raw materials (iron ore, coal, and manganese).\n2. The cotton textile industry in Mumbai developed primarily due to availability of raw cotton in the black soil region of Maharashtra.\n3. The IT industry in Bangalore developed due to availability of skilled human resources and pleasant climate.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "B",
+    "explanation": "Jamshedpur's steel industry developed due to proximity to iron ore (Noamundi), coal (Jharia), manganese, and water (Subarnarekha river). Mumbai's textile industry developed primarily due to its port location, humid climate, and capital availability, not just raw cotton proximity. Bangalore's IT industry grew due to skilled workforce, educational institutions, pleasant climate, and government policy."
+  },
+  {
+    "id": 14,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about transport in India:\n1. The Golden Quadrilateral connects Delhi, Mumbai, Chennai, and Kolkata.\n2. The North-South corridor connects Srinagar to Kanyakumari.\n3. India has the largest railway network in Asia.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The Golden Quadrilateral connects Delhi, Mumbai, Chennai, and Kolkata. The North-South corridor connects Srinagar to Kanyakumari. India does NOT have the largest railway network in Asia; China has a larger railway network. India has the fourth largest railway network in the world."
+  },
+  {
+    "id": 15,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about urbanization in India:\n1. According to Census 2011, the level of urbanization in India was about 31.2%.\n2. Maharashtra is the most urbanized major state in India.\n3. The concept of 'Census Towns' refers to places that satisfy demographic criteria of urban areas but are governed as rural areas.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "B",
+    "explanation": "India's urbanization level was 31.16% as per Census 2011. Tamil Nadu (not Maharashtra) is the most urbanized major state among larger states (48.4%). Census Towns meet demographic criteria (population over 5000, density over 400/sq km, 75% male workers in non-agricultural activities) but are administered as rural areas by panchayats."
+  },
+  {
+    "id": 16,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about ocean currents:\n1. The Gulf Stream is a warm current that flows from the Gulf of Mexico towards Western Europe.\n2. The Labrador Current is a cold current that flows southward along the eastern coast of Canada.\n3. The meeting of the Labrador Current and the Gulf Stream creates one of the world's richest fishing grounds near Newfoundland.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. The Gulf Stream is a warm current flowing from the Gulf of Mexico towards NW Europe, moderating its climate. The Labrador Current is a cold current flowing south along eastern Canada. Their convergence near the Grand Banks of Newfoundland creates rich fishing grounds due to upwelling of nutrients."
+  },
+  {
+    "id": 17,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about ocean salinity:\n1. The average salinity of ocean water is about 35 parts per thousand.\n2. Salinity is highest in the subtropical regions due to high evaporation and low rainfall.\n3. The Dead Sea has the highest salinity among all water bodies in the world.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Average ocean salinity is about 35 ppt. Subtropical regions have highest ocean salinity due to high evaporation and low precipitation. The Dead Sea, while extremely saline, is not the most saline water body; Don Juan Pond in Antarctica and Lake Vanda have higher salinity. Also, the Dead Sea is a lake, not an ocean water body."
+  },
+  {
+    "id": 18,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about geomorphological processes:\n1. Chemical weathering is more effective in hot and humid climates.\n2. Exfoliation is a type of physical weathering caused by temperature changes.\n3. Karst topography develops in regions with soluble rocks like limestone.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Chemical weathering is most effective in hot and humid climates where water and heat accelerate chemical reactions. Exfoliation (unloading) is physical weathering where curved sheets of rock peel off due to thermal expansion and contraction. Karst topography (sinkholes, caves, stalactites) develops in limestone regions due to solution by carbonic acid in water."
+  },
+  {
+    "id": 19,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about landforms formed by rivers:\n1. Oxbow lakes are formed by the cutting off of meanders in the flood plain.\n2. Alluvial fans are formed where a river enters a plain from a mountainous region.\n3. Natural levees are formed by deposition of fine sediments along the river banks during floods.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All statements are correct. Oxbow lakes form when meander loops are cut off. Alluvial fans form at mountain-plain junctions where rivers deposit their load due to reduced velocity. Natural levees form when rivers overflow during floods and deposit coarser sediments near the banks."
+  },
+  {
+    "id": 20,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about biogeography:\n1. India lies at the junction of three biogeographic realms: Indo-Malayan, Palearctic, and Afro-tropical.\n2. The Western Ghats is one of the world's biodiversity hotspots.\n3. Mangrove forests have the highest species diversity among all forest types in India.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "India lies at the confluence of Indo-Malayan, Palearctic, and Afro-tropical realms, contributing to its biodiversity. The Western Ghats is recognized as a biodiversity hotspot. Mangrove forests do NOT have the highest species diversity; tropical evergreen forests have the highest species diversity among Indian forest types."
+  },
+  {
+    "id": 21,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about disaster management in India:\n1. India is vulnerable to earthquakes primarily in the Himalayan region and the Rann of Kutch.\n2. The National Disaster Management Authority (NDMA) is headed by the Prime Minister.\n3. Seismic Zone V is the most earthquake-prone zone in India.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "India is earthquake-prone in the Himalayan belt and the Rann of Kutch (both in Zone V). NDMA is headed by the Prime Minister as its chairperson under the Disaster Management Act, 2005. Seismic Zone V is the highest risk zone covering parts of Kashmir, Western and Central Himalayas, North Bihar, and the Andaman Islands."
+  },
+  {
+    "id": 22,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about cyclones in India:\n1. The Bay of Bengal witnesses more tropical cyclones than the Arabian Sea.\n2. The Coriolis force is responsible for the rotation of cyclones.\n3. Post-monsoon season (October-December) is the peak period for cyclones in the Bay of Bengal.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "The Bay of Bengal sees about 5 times more cyclones than the Arabian Sea due to warmer sea surface temperatures and favorable conditions. The Coriolis force deflects winds and causes cyclonic rotation. The post-monsoon season (October-December) is the peak cyclone period for the Bay of Bengal."
+  },
+  {
+    "id": 23,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about world climate zones:\n1. The Mediterranean climate is characterized by dry summers and wet winters.\n2. The Tundra climate is found in regions between 60\u00b0N and 70\u00b0N latitude.\n3. The Equatorial climate has uniform high temperatures and rainfall throughout the year.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "B",
+    "explanation": "Mediterranean climate has dry hot summers and mild wet winters due to shifting pressure belts. Equatorial climate has uniformly high temperatures (around 27\u00b0C) and heavy rainfall throughout the year. Tundra climate is found beyond 70\u00b0N (not between 60-70\u00b0N); the region between 60-70\u00b0N typically has a Subarctic (Taiga) climate."
+  },
+  {
+    "id": 24,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about continental drift and plate tectonics:\n1. The Indian Plate is moving northward at approximately 5 cm per year.\n2. The Himalayas were formed due to the collision between the Indian Plate and the Eurasian Plate.\n3. The Red Sea is an example of a divergent plate boundary.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "The Indian Plate moves northward at about 5 cm/year, making it one of the fastest-moving plates. The Himalayas formed from the convergent collision of the Indian and Eurasian plates about 50 million years ago. The Red Sea is a classic example of a divergent boundary where the African and Arabian plates are moving apart."
+  },
+  {
+    "id": 25,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Western Ghats:\n1. The Western Ghats are higher in the southern part compared to the northern part.\n2. Anaimudi is the highest peak of the Western Ghats.\n3. The Palghat Gap separates the Nilgiri Hills from the Anaimalai Hills.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "The Western Ghats are higher in the south (average 1500m+) compared to the north (average 1000m). Anaimudi (2695m) in the Anaimalai Hills is the highest peak of the Western Ghats and South India. The Palghat (Palakkad) Gap at about 24 km wide separates the Nilgiri Hills from the Anaimalai Hills."
+  },
+  {
+    "id": 26,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Indian Ocean Dipole (IOD):\n1. A positive IOD is characterized by warmer sea surface temperatures in the western Indian Ocean.\n2. A positive IOD generally enhances the Indian monsoon rainfall.\n3. IOD events are completely independent of El Ni\u00f1o-Southern Oscillation (ENSO).\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "A positive IOD has warmer SSTs in the western Indian Ocean and cooler in the eastern part, which enhances moisture flow towards India and boosts monsoon rainfall. However, IOD is NOT completely independent of ENSO; there is significant interaction between the two phenomena, and El Ni\u00f1o can trigger IOD events."
+  },
+  {
+    "id": 27,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Peninsular rivers of India:\n1. Most peninsular rivers are rain-fed and seasonal in nature.\n2. The Krishna river originates near Mahabaleshwar in Maharashtra.\n3. The Cauvery river is known as the 'Ganga of the South'.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Peninsular rivers are largely rain-fed and seasonal as they depend on monsoon rainfall. The Krishna originates near Mahabaleshwar in the Western Ghats. The Cauvery is called the 'Ganga of the South' due to its religious significance and perennial nature (fed by both southwest and northeast monsoons)."
+  },
+  {
+    "id": 28,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about glacial landforms:\n1. Cirques are armchair-shaped depressions formed by glacial erosion at the head of a glacier.\n2. Drumlins are elongated hills of glacial deposits with their steeper side facing the direction of glacier movement.\n3. Eskers are long, winding ridges of stratified sand and gravel deposited by meltwater streams flowing within glaciers.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "B",
+    "explanation": "Cirques are armchair-shaped hollows formed by glacial erosion (plucking and abrasion) at the glacier's source. Eskers are sinuous ridges of stratified glaciofluvial deposits from subglacial streams. However, drumlins have their steeper side (stoss end) facing AGAINST the direction of glacier movement (i.e., facing the direction from which the glacier came), not in the direction of movement."
+  },
+  {
+    "id": 29,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the jet streams and Indian climate:\n1. The subtropical westerly jet stream is positioned south of the Himalayas during winter.\n2. The tropical easterly jet stream develops during summer over peninsular India.\n3. The subtropical westerly jet stream brings western disturbances to north India in winter.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "During winter, the subtropical westerly jet stream flows south of the Himalayas over north India and brings western disturbances causing winter rainfall. During summer, the tropical easterly jet stream develops over peninsular India at about 14\u00b0N latitude, associated with the monsoon circulation."
+  },
+  {
+    "id": 30,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Exclusive Economic Zone (EEZ):\n1. The EEZ extends up to 200 nautical miles from the baseline of a coastal state.\n2. Within the EEZ, the coastal state has sovereign rights over all natural resources.\n3. Other states have no rights of navigation within another country's EEZ.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The EEZ extends 200 nautical miles from the baseline under UNCLOS. The coastal state has sovereign rights for exploring, exploiting, conserving, and managing natural resources. However, other states DO have rights of navigation and overflight within another country's EEZ; it is not territorial waters where sovereignty is complete."
+  },
+  {
+    "id": 31,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about arid landforms:\n1. Mushroom rocks are formed by wind abrasion being more effective near the ground surface.\n2. Barchans are crescent-shaped sand dunes with their horns pointing in the direction of wind.\n3. Playas are dry lake beds found in desert basins.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Mushroom rocks form because wind-blown sand is concentrated near the ground, eroding the lower portion more. Barchans are crescent-shaped dunes with horns pointing downwind (in the direction of wind movement). Playas (also called salt flats) are flat, dry lake beds in desert basins where water evaporates leaving salt deposits."
+  },
+  {
+    "id": 32,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about India's population:\n1. Kerala has the highest sex ratio among Indian states as per Census 2011.\n2. Bihar has the highest population density among Indian states as per Census 2011.\n3. Uttar Pradesh is the most populous state in India.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "2 and 3 only",
+      "C": "1 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "All three statements are correct. Kerala has the highest sex ratio (1084 females per 1000 males) among states as per Census 2011. Bihar has the highest population density among Indian states (1106 persons/sq km) as per Census 2011. Note: Delhi has higher density but is a Union Territory, not a state. Uttar Pradesh is the most populous state (about 200 million)."
+  },
+  {
+    "id": 33,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Green Revolution in India:\n1. It was primarily focused on wheat and rice production.\n2. Punjab, Haryana, and Western UP were the main beneficiaries.\n3. It led to a decrease in regional disparities in agricultural development.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "The Green Revolution focused on High Yielding Varieties of wheat and rice. Punjab, Haryana, and Western UP benefited the most due to irrigation facilities. However, it INCREASED regional disparities as benefits were concentrated in irrigated areas of northwest India while rainfed regions of eastern and central India lagged behind."
+  },
+  {
+    "id": 34,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about coral reefs:\n1. Coral reefs require warm, shallow, clear, and saline water for growth.\n2. Atolls are ring-shaped coral reefs enclosing a lagoon.\n3. The Gulf of Mannar has the most extensive coral reef system in India.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Corals need warm (20-25\u00b0C), shallow, clear, saline water with adequate sunlight. Atolls are ring-shaped reefs enclosing a lagoon, formed when a volcanic island subsides. The most extensive coral reef system in India is found in the Andaman and Nicobar Islands and Lakshadweep, not the Gulf of Mannar (which has fringing reefs but is less extensive)."
+  },
+  {
+    "id": 35,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Eastern Ghats:\n1. The Eastern Ghats are discontinuous and irregular, broken by major rivers.\n2. Mahendragiri is the highest peak of the Eastern Ghats.\n3. The Eastern Ghats merge with the Western Ghats at the Nilgiri Hills.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "B",
+    "explanation": "The Eastern Ghats are discontinuous, broken by rivers like Godavari, Krishna, Mahanadi, and Cauvery. They merge with the Western Ghats at the Nilgiri Hills in the south. Mahendragiri (1501m) is NOT the highest peak of the Eastern Ghats; Jindhagada Peak (1690m) in Andhra Pradesh is the highest. Mahendragiri is in Odisha."
+  },
+  {
+    "id": 36,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the thermohaline circulation:\n1. It is driven by differences in water density caused by temperature and salinity variations.\n2. The sinking of cold, dense water occurs primarily in the North Atlantic.\n3. It is also known as the 'Global Conveyor Belt' and takes about 1000 years for a complete cycle.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Thermohaline circulation is driven by density differences from temperature (thermo) and salinity (haline) variations. Cold, saline, dense water sinks in the North Atlantic (near Greenland and Labrador Sea) and in the Southern Ocean. It is called the Global Conveyor Belt and takes approximately 1000 years for water to complete the full circuit."
+  },
+  {
+    "id": 37,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about forest types in India:\n1. Sundarbans is the largest mangrove forest in the world.\n2. Tropical thorn forests are found in areas receiving less than 75 cm of rainfall.\n3. Alpine forests are found above 3600 metres in the Himalayan region.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "The Sundarbans (shared between India and Bangladesh) is the world's largest mangrove forest. Tropical thorn forests occur in semi-arid regions with less than 75 cm rainfall (parts of Rajasthan, Gujarat, Madhya Pradesh). Alpine forests (birch, rhododendron, juniper) are found above 3600m in the Himalayas, transitioning to alpine meadows higher up."
+  },
+  {
+    "id": 38,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about India's mineral belt:\n1. The Chotanagpur Plateau region is known as the 'Ruhr of India' due to concentration of minerals.\n2. Kolar Gold Fields are located in Karnataka.\n3. Panna in Madhya Pradesh is known for diamond mining.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "The Chotanagpur Plateau (Jharkhand-Odisha-West Bengal) is called the 'Ruhr of India' due to its rich mineral deposits (coal, iron, mica, copper). Kolar Gold Fields are in Karnataka (one of the deepest mines in the world, now largely closed). Panna district in Madhya Pradesh is India's only significant diamond-producing region."
+  },
+  {
+    "id": 39,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about India's inland waterways:\n1. National Waterway 1 is on the Ganga-Bhagirathi-Hooghly river system.\n2. National Waterway 2 is on the Brahmaputra river.\n3. National Waterway 3 is on the Godavari river.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "NW-1 is on the Ganga-Bhagirathi-Hooghly system (Allahabad to Haldia, 1620 km). NW-2 is on the Brahmaputra (Dhubri to Sadiya, 891 km). NW-3 is NOT on the Godavari; it is on the West Coast Canal along with Champakara and Udyogmandal canals in Kerala (205 km)."
+  },
+  {
+    "id": 40,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the concept of isostasy:\n1. Isostasy explains why mountains have deep roots extending into the mantle.\n2. Post-glacial rebound in Scandinavia is an example of isostatic adjustment.\n3. The concept was proposed by Airy and Pratt with different models.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Isostasy explains gravitational equilibrium of the Earth's crust. Mountains have deep crustal roots (Airy's model). Post-glacial rebound in Scandinavia (land rising after ice sheet melting) demonstrates isostatic adjustment. Both Airy (varying thickness, uniform density) and Pratt (varying density, uniform depth of compensation) proposed models of isostasy."
+  },
+  {
+    "id": 41,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about floods in India:\n1. Brahmaputra basin is the most flood-prone region in India.\n2. Floods in India are primarily caused by heavy monsoon rainfall and inadequate drainage.\n3. The Flood Plain Zoning approach restricts developmental activities in flood-prone areas.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "The Brahmaputra basin (Assam) is the most flood-prone region due to heavy rainfall, braided river channels, and deforestation. Indian floods are primarily caused by heavy monsoon rainfall, poor drainage, and encroachment of water bodies. Flood Plain Zoning demarcates flood-prone areas and restricts activities to reduce vulnerability."
+  },
+  {
+    "id": 42,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the African continent:\n1. The Great Rift Valley extends from the Jordan Valley to Mozambique.\n2. The Sahara Desert is expanding southward in a process called desertification.\n3. Lake Victoria is the source of the White Nile.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "The Great Rift Valley extends from the Jordan Valley in West Asia through East Africa to Mozambique (about 6000 km). The Sahara is expanding southward into the Sahel region through desertification. Lake Victoria is considered the source of the White Nile, which flows northward to join the Blue Nile at Khartoum."
+  },
+  {
+    "id": 43,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about soil erosion in India:\n1. Sheet erosion is the removal of a thin layer of topsoil by water over a large area.\n2. Ravines in the Chambal Valley are an example of gully erosion.\n3. Wind erosion is most prominent in the coastal regions of India.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "A",
+    "explanation": "Sheet erosion removes thin layers of topsoil uniformly over large areas by surface runoff. The Chambal Valley ravines are classic examples of gully erosion where deep channels are cut into the soil. Wind erosion is most prominent in arid and semi-arid regions (Rajasthan, Gujarat), NOT coastal regions."
+  },
+  {
+    "id": 44,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the sugar industry in India:\n1. Maharashtra has surpassed Uttar Pradesh as the largest sugar-producing state.\n2. The sugar industry in South India has a longer crushing season than in North India.\n3. Sugarcane is a tropical crop that requires temperatures between 21\u00b0C to 27\u00b0C.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Maharashtra has emerged as the largest sugar producer in recent years, surpassing UP. South Indian mills have a longer crushing season (7-8 months vs 4-5 months in North India) due to tropical climate allowing year-round growth. Sugarcane requires temperatures of 21-27\u00b0C and 75-100 cm rainfall."
+  },
+  {
+    "id": 45,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about earthquakes:\n1. The Richter scale measures the magnitude of an earthquake.\n2. The point on the Earth's surface directly above the focus is called the epicentre.\n3. P-waves can travel through both solid and liquid media.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "The Richter scale measures earthquake magnitude based on amplitude of seismic waves. The epicentre is the point on the surface directly above the focus (hypocenter). P-waves (Primary waves) are compressional waves that can travel through solids, liquids, and gases, unlike S-waves which travel only through solids."
+  },
+  {
+    "id": 46,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the Indus Water Treaty:\n1. It was signed between India and Pakistan in 1960 with the World Bank as a mediator.\n2. India got exclusive rights over the eastern rivers: Ravi, Beas, and Sutlej.\n3. Pakistan got exclusive rights over the western rivers: Indus, Jhelum, and Chenab.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "The Indus Water Treaty was signed in 1960 between India and Pakistan, brokered by the World Bank. India received rights over the three eastern rivers (Ravi, Beas, Sutlej) while Pakistan received rights over the three western rivers (Indus, Jhelum, Chenab), though India can use western rivers for limited purposes like hydroelectric generation."
+  },
+  {
+    "id": 47,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about the Thar Desert:\n1. It is bounded by the Aravalli Hills on its eastern side.\n2. The Luni is the only river in the Thar Desert that flows into the sea.\n3. Barmer and Jaisalmer districts receive less than 25 cm of annual rainfall.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "1 and 2 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "C",
+    "explanation": "The Thar Desert is bounded by the Aravalli Hills on the east. Barmer and Jaisalmer receive less than 25 cm rainfall annually. The Luni river does NOT flow into the sea; it disappears in the marshy grounds of the Rann of Kutch. It is an inland drainage river."
+  },
+  {
+    "id": 48,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the El Ni\u00f1o phenomenon:\n1. During El Ni\u00f1o, the trade winds weaken and warm water moves eastward in the Pacific.\n2. El Ni\u00f1o causes drought conditions in Australia and Indonesia.\n3. La Ni\u00f1a is the opposite phase characterized by cooler than normal sea surface temperatures in the central and eastern Pacific.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "During El Ni\u00f1o, weakened trade winds allow warm water to spread eastward across the Pacific. This suppresses upwelling off South America and shifts rainfall patterns. Australia and Indonesia experience drought as convection shifts eastward. La Ni\u00f1a is the cold phase with stronger trade winds and cooler SSTs in the central-eastern Pacific."
+  },
+  {
+    "id": 49,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Medium",
+    "question": "Consider the following statements about India's communication network:\n1. India has one of the largest telecom networks in the world by number of subscribers.\n2. The National Optical Fibre Network (now BharatNet) aims to connect all gram panchayats with broadband.\n3. India's first satellite dedicated to communication was APPLE, launched in 1981.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "India has the second-largest telecom network globally by subscribers. BharatNet (formerly NOFN) aims to provide broadband connectivity to all 2.5 lakh gram panchayats. APPLE (Ariane Passenger Payload Experiment) launched in 1981 was India's first experimental communication satellite."
+  },
+  {
+    "id": 50,
+    "paper": "GS1",
+    "subject": "Geography",
+    "difficulty": "Hard",
+    "question": "Consider the following statements about the concept of Central Place Theory:\n1. It was proposed by Walter Christaller to explain the size, number, and distribution of settlements.\n2. According to this theory, larger settlements are fewer in number and more widely spaced.\n3. The theory assumes a uniform plain with evenly distributed population and resources.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct": "D",
+    "explanation": "Central Place Theory was proposed by Walter Christaller (1933) to explain settlement patterns. It states that larger settlements (higher-order central places) are fewer and more widely spaced, while smaller ones are numerous and closely spaced. The theory assumes an isotropic plain with uniform population distribution, equal transport accessibility, and rational consumers."
+  }
+]

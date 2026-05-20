@@ -1,1 +1,752 @@
-[{"id":1,"paper":"csat-analytical-reasoning","subject":"Placeholder","difficulty":"Medium","question":"Placeholder question — questions coming soon.","options":{"A":"Option A","B":"Option B","C":"Option C","D":"Option D"},"correct":"A","explanation":"Placeholder explanation."}]
+[
+  {
+    "id": 1,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "Six persons A, B, C, D, E and F sit around a circular table facing the center. The clockwise order is A, C, E, B, D, F. Who sits opposite to A?",
+    "options": {
+      "A": "B",
+      "B": "D",
+      "C": "E",
+      "D": "F"
+    },
+    "correct": "A",
+    "explanation": "In a 6-seat circle, opposite = 3 positions away clockwise. A(1),C(2),E(3),B(4),D(5),F(6). Opposite of position 1 = position 4 = B."
+  },
+  {
+    "id": 2,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "Five persons P, Q, R, S and T sit in a row facing north. Order left to right: T, S, R, P, Q. Who is second from the right?",
+    "options": {
+      "A": "P",
+      "B": "R",
+      "C": "Q",
+      "D": "S"
+    },
+    "correct": "A",
+    "explanation": "T(1),S(2),R(3),P(4),Q(5). Second from right = position 4 = P."
+  },
+  {
+    "id": 3,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Hard",
+    "question": "Eight persons A-H sit around a circular table facing the center. Clockwise positions 1-8: A,B,C,D,E,F,G,H. If A and E swap, and C and G swap, who is to the immediate right of G?",
+    "options": {
+      "A": "D",
+      "B": "B",
+      "C": "F",
+      "D": "A"
+    },
+    "correct": "A",
+    "explanation": "After A(1)↔E(5): positions become E(1),B(2),C(3),D(4),A(5),F(6),G(7),H(8). After C(3)↔G(7): E(1),B(2),G(3),D(4),A(5),F(6),C(7),H(8). G now at position 3. Immediate right (clockwise) = position 4 = D."
+  },
+  {
+    "id": 4,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "Six persons P, Q, R, S, T, U sit around a circular table facing the center. Clockwise: P,Q,R,S,T,U. Who sits opposite R?",
+    "options": {
+      "A": "U",
+      "B": "P",
+      "C": "T",
+      "D": "Q"
+    },
+    "correct": "A",
+    "explanation": "P(1),Q(2),R(3),S(4),T(5),U(6). Opposite of position 3 = position 6 = U."
+  },
+  {
+    "id": 5,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Hard",
+    "question": "Eight persons sit around a circular table. Clockwise positions 1-8: A,B,C,D,E,F,G,H. B(pos 2) and F(pos 6) swap. Who is now opposite A?",
+    "options": {
+      "A": "E",
+      "B": "F",
+      "C": "B",
+      "D": "G"
+    },
+    "correct": "A",
+    "explanation": "A stays at position 1. B and F swap (positions 2 and 6). Opposite of position 1 in 8-seat circle = position 5. E is at position 5 and hasn't moved. E remains opposite A."
+  },
+  {
+    "id": 6,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "Seven persons sit in a row facing north. Left to right: G,B,E,D,A,C,F. What is A's position from the right end?",
+    "options": {
+      "A": "3rd",
+      "B": "4th",
+      "C": "5th",
+      "D": "2nd"
+    },
+    "correct": "A",
+    "explanation": "G(1),B(2),E(3),D(4),A(5),C(6),F(7). A at position 5 from left. From right = 7-5+1 = 3rd."
+  },
+  {
+    "id": 7,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "Six persons sit around a circular table facing the center. Clockwise: J,K,L,M,N,O. Who is to the immediate left (counterclockwise) of M?",
+    "options": {
+      "A": "L",
+      "B": "N",
+      "C": "K",
+      "D": "O"
+    },
+    "correct": "A",
+    "explanation": "J(1),K(2),L(3),M(4),N(5),O(6). Counterclockwise from M(4) = position 3 = L."
+  },
+  {
+    "id": 8,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "Six persons sit in a row. Left to right: F,D,B,A,C,E. If F and E swap positions, who is at position 3?",
+    "options": {
+      "A": "B",
+      "B": "A",
+      "C": "D",
+      "D": "C"
+    },
+    "correct": "A",
+    "explanation": "After swap: E(1),D(2),B(3),A(4),C(5),F(6). Position 3 = B."
+  },
+  {
+    "id": 9,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Hard",
+    "question": "Eight persons sit around a circular table. Clockwise positions 1-8: P,Q,R,S,T,U,V,W. P(1) and T(5) swap. Who is now opposite Q?",
+    "options": {
+      "A": "U",
+      "B": "T",
+      "C": "V",
+      "D": "P"
+    },
+    "correct": "A",
+    "explanation": "Q stays at position 2. Opposite of position 2 = position 6 = U. U hasn't moved. So U is still opposite Q."
+  },
+  {
+    "id": 10,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Hard",
+    "question": "Eight persons sit around a circular table. Clockwise positions 1-8: A,B,C,D,E,F,G,H. Everyone moves 3 seats clockwise. Who is now at position 1?",
+    "options": {
+      "A": "F",
+      "B": "C",
+      "C": "H",
+      "D": "E"
+    },
+    "correct": "A",
+    "explanation": "When everyone moves 3 seats clockwise, the person who ends up at position 1 was originally at position (1-3+8) = position 6. Person at position 6 = F."
+  },
+  {
+    "id": 11,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "Five tasks A, B, C, D and E must be done in sequence. C must be first. A must be done before B. B must be done before D. E must be done before D but after C. What is the correct order?",
+    "options": {
+      "A": "C, A, E, B, D",
+      "B": "C, E, A, B, D",
+      "C": "C, A, B, E, D",
+      "D": "C, E, B, A, D"
+    },
+    "correct": "C",
+    "explanation": "Constraints: C first; A<B<D; C<E<D. Valid orderings must have C first, A before B, B before D, E before D. Option C: C,A,B,E,D — check: C first ✓, A(2nd)<B(3rd) ✓, B(3rd)<D(5th) ✓, E(4th)<D(5th) ✓, E after C ✓. All satisfied."
+  },
+  {
+    "id": 12,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Hard",
+    "question": "Six lectures P, Q, R, S, T and U are scheduled Monday through Saturday (one per day). S is on Monday. P is on Wednesday. R is exactly two days after Q. T is immediately before U. On which day is U scheduled?",
+    "options": {
+      "A": "Saturday",
+      "B": "Friday",
+      "C": "Thursday",
+      "D": "Tuesday"
+    },
+    "correct": "A",
+    "explanation": "S=Mon, P=Wed. Remaining: Tue, Thu, Fri, Sat for Q, R, T, U. R is 2 days after Q: possible (Tue,Thu) or (Thu,Sat). T immediately before U: consecutive days, possible (Thu,Fri) or (Fri,Sat). If Q=Tue, R=Thu. Then T,U from {Fri,Sat}: T=Fri, U=Sat ✓. Final: S(Mon), Q(Tue), P(Wed), R(Thu), T(Fri), U(Sat)."
+  },
+  {
+    "id": 13,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "Four runners A, B, C and D finish a race. A finishes before B. B finishes before D. C finishes after D. What is the finishing order first to last?",
+    "options": {
+      "A": "A, B, D, C",
+      "B": "A, B, C, D",
+      "C": "B, A, D, C",
+      "D": "A, D, B, C"
+    },
+    "correct": "A",
+    "explanation": "Constraints: A<B<D<C. The only order satisfying all: A, B, D, C."
+  },
+  {
+    "id": 14,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Hard",
+    "question": "Five meetings V, W, X, Y, Z are scheduled in five consecutive time slots (1-5). X must be in slot 3. V must come before W. Z must be in a later slot than Y. Y cannot be in slot 1. What is the schedule?",
+    "options": {
+      "A": "V, Y, X, Z, W",
+      "B": "V, Y, X, W, Z",
+      "C": "Y, V, X, Z, W",
+      "D": "V, W, X, Y, Z"
+    },
+    "correct": "B",
+    "explanation": "X at slot 3. Y not at slot 1, and Z after Y. V before W. Remaining slots 1,2,4,5 for V,W,Y,Z. Y not at 1, Z after Y. If Y=2, Z can be 4 or 5. V before W: V and W in remaining slots. If Y=2, slots 1,4,5 for V,W,Z. V<W and Z>Y(2). Try V=1, then W=4 or 5, Z=4 or 5. V(1),Y(2),X(3),W(4),Z(5): V<W ✓, Z(5)>Y(2) ✓. Option B matches."
+  },
+  {
+    "id": 15,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "A project has 5 phases: Design(D), Planning(P), Testing(T), Implementation(I), Review(R). P must be first. D must come before I. I must come before T. R must be last. What is the sequence?",
+    "options": {
+      "A": "P, D, I, T, R",
+      "B": "P, I, D, T, R",
+      "C": "D, P, I, T, R",
+      "D": "P, D, T, I, R"
+    },
+    "correct": "A",
+    "explanation": "P first, R last. D<I<T must fit in positions 2,3,4. Only valid: P, D, I, T, R."
+  },
+  {
+    "id": 16,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "In a group of 100 students, 60 study Hindi, 50 study English, and 20 study both. How many study neither?",
+    "options": {
+      "A": "10",
+      "B": "20",
+      "C": "30",
+      "D": "15"
+    },
+    "correct": "A",
+    "explanation": "At least one = Hindi + English - Both = 60+50-20 = 90. Neither = 100-90 = 10."
+  },
+  {
+    "id": 17,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Hard",
+    "question": "In a survey of 200 people: 120 like tea, 80 like coffee, 60 like juice, 40 like both tea and coffee, 30 like both tea and juice, 20 like both coffee and juice, and 10 like all three. How many like only tea?",
+    "options": {
+      "A": "60",
+      "B": "50",
+      "C": "70",
+      "D": "40"
+    },
+    "correct": "A",
+    "explanation": "Only tea = Tea - (Tea∩Coffee) - (Tea∩Juice) + (Tea∩Coffee∩Juice) = 120 - 40 - 30 + 10 = 60."
+  },
+  {
+    "id": 18,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "In a class of 80 students, 50 passed Mathematics and 40 passed Science. If 10 failed both subjects, how many passed both?",
+    "options": {
+      "A": "20",
+      "B": "30",
+      "C": "10",
+      "D": "25"
+    },
+    "correct": "A",
+    "explanation": "Passed at least one = 80-10 = 70. By inclusion-exclusion: Math+Science-Both = 70. So 50+40-Both = 70. Both = 20."
+  },
+  {
+    "id": 19,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "In a group of 60 students, 35 play cricket, 25 play football, and 10 play both. How many play only football?",
+    "options": {
+      "A": "15",
+      "B": "25",
+      "C": "10",
+      "D": "20"
+    },
+    "correct": "A",
+    "explanation": "Only football = Football - Both = 25 - 10 = 15."
+  },
+  {
+    "id": 20,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Hard",
+    "question": "In a town of 1000 people, 600 read newspaper A, 500 read newspaper B, and 200 read both. How many read exactly one newspaper?",
+    "options": {
+      "A": "700",
+      "B": "900",
+      "C": "800",
+      "D": "600"
+    },
+    "correct": "A",
+    "explanation": "Exactly one = (Only A) + (Only B) = (600-200) + (500-200) = 400 + 300 = 700."
+  },
+  {
+    "id": 21,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "There are five houses in a row numbered 1-5 from left to right. The Doctor lives in house 1. The Lawyer lives in house 5. The Engineer lives immediately to the right of the Teacher. The Accountant lives in house 4. In which house does the Teacher live?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "1"
+    },
+    "correct": "A",
+    "explanation": "Doctor at 1, Lawyer at 5, Accountant at 4. Remaining: Teacher and Engineer for houses 2 and 3. Engineer immediately right of Teacher: Teacher=2, Engineer=3."
+  },
+  {
+    "id": 22,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Hard",
+    "question": "Five friends A, B, C, D and E each live on a different floor of a 5-story building (1=ground, 5=top). B lives above A. D lives on floor 5. C lives below A. E lives on floor 2. On which floor does A live?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "1",
+      "D": "2"
+    },
+    "correct": "A",
+    "explanation": "D at floor 5, E at floor 2. C below A, B above A. Remaining floors for A, B, C: 1, 3, 4. C<A<B. From {1,3,4}: C=1, A=3, B=4 satisfies C<A<B. Answer: A lives on floor 3."
+  },
+  {
+    "id": 23,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "Four persons A, B, C and D have different professions: Doctor, Engineer, Teacher and Lawyer. A is not a Doctor or Lawyer. B is not an Engineer or Teacher. C is a Doctor. D is an Engineer. What is A's profession?",
+    "options": {
+      "A": "Teacher",
+      "B": "Engineer",
+      "C": "Lawyer",
+      "D": "Doctor"
+    },
+    "correct": "A",
+    "explanation": "C=Doctor, D=Engineer. A is not Doctor or Lawyer, so A=Teacher (only remaining option since Engineer is taken by D). B gets Lawyer."
+  },
+  {
+    "id": 24,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Hard",
+    "question": "Six persons P, Q, R, S, T and U each have a different favorite color: Red, Blue, Green, Yellow, White, Black. P likes Red. R likes Yellow. T likes Blue. Q likes White. U does not like Black. What color does S like?",
+    "options": {
+      "A": "Black",
+      "B": "Green",
+      "C": "White",
+      "D": "Blue"
+    },
+    "correct": "A",
+    "explanation": "P=Red, R=Yellow, T=Blue, Q=White. Remaining colors: Green, Black for S and U. U does not like Black → U=Green. Therefore S=Black."
+  },
+  {
+    "id": 25,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "Five friends live in five different cities: Delhi, Mumbai, Chennai, Kolkata and Bangalore. A lives in Delhi. C does not live in Mumbai or Chennai. E lives in Bangalore. B does not live in Chennai. Where does C live?",
+    "options": {
+      "A": "Kolkata",
+      "B": "Mumbai",
+      "C": "Bangalore",
+      "D": "Delhi"
+    },
+    "correct": "A",
+    "explanation": "A=Delhi, E=Bangalore. Remaining cities: Mumbai, Chennai, Kolkata for B, C, D. C not in Mumbai or Chennai → C=Kolkata. B not in Chennai → B=Mumbai. D=Chennai."
+  },
+  {
+    "id": 26,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Hard",
+    "question": "Six persons A-F each own a different pet: Cat, Dog, Fish, Bird, Rabbit, Hamster. A owns the Dog. C owns the Bird. E does not own the Cat or Rabbit. B does not own the Fish or Hamster. D owns the Rabbit. What does B own?",
+    "options": {
+      "A": "Cat",
+      "B": "Fish",
+      "C": "Hamster",
+      "D": "Bird"
+    },
+    "correct": "A",
+    "explanation": "A=Dog, C=Bird, D=Rabbit. Remaining pets: Cat, Fish, Hamster for B, E, F. B not Fish or Hamster → B=Cat. E not Cat or Rabbit → E∈{Fish,Hamster}. F gets the remaining. B=Cat."
+  },
+  {
+    "id": 27,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "Four students W, X, Y, Z scored different marks. X scored more than W. Y scored more than X. Z scored less than W. Who scored the highest?",
+    "options": {
+      "A": "Y",
+      "B": "X",
+      "C": "W",
+      "D": "Z"
+    },
+    "correct": "A",
+    "explanation": "Z < W < X < Y. Y scored the highest."
+  },
+  {
+    "id": 28,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Hard",
+    "question": "Five persons A, B, C, D, E each speak a different language: Hindi, English, French, German, Spanish. A speaks Hindi. B does not speak English or French. C speaks German. D does not speak Spanish. What language does B speak?",
+    "options": {
+      "A": "Spanish",
+      "B": "English",
+      "C": "French",
+      "D": "German"
+    },
+    "correct": "A",
+    "explanation": "A=Hindi, C=German. Remaining: English, French, Spanish for B, D, E. B not English or French → B=Spanish. D not Spanish → D=English or French. E gets the other."
+  },
+  {
+    "id": 29,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "In a family of 5: A is B's father. C is A's mother. D is B's sister. E is C's husband. How is E related to B?",
+    "options": {
+      "A": "Grandfather",
+      "B": "Father",
+      "C": "Uncle",
+      "D": "Brother"
+    },
+    "correct": "A",
+    "explanation": "A is B's father. C is A's mother (B's grandmother). E is C's husband = A's father = B's grandfather."
+  },
+  {
+    "id": 30,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Hard",
+    "question": "Six persons P, Q, R, S, T, U work in three departments (2 per department): HR, Finance, IT. P is in HR. R is in Finance. T is in IT. U is in HR. S is not in Finance. Which department is Q in?",
+    "options": {
+      "A": "Finance",
+      "B": "HR",
+      "C": "IT",
+      "D": "Cannot be determined"
+    },
+    "correct": "A",
+    "explanation": "P=HR, R=Finance, T=IT, U=HR. HR is full (P,U). Remaining: Q and S for Finance and IT (one each). S not in Finance → S=IT. Therefore Q=Finance."
+  },
+  {
+    "id": 31,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "A machine rearranges numbers in each step. Input: 8 3 6 1 5. Step 1: 1 8 3 6 5. Step 2: 1 3 8 6 5. Step 3: 1 3 5 8 6. Step 4: 1 3 5 6 8. The machine picks the smallest unsorted number and places it in its correct position. What will be Step 2 output if Input is: 7 2 9 4 1?",
+    "options": {
+      "A": "1 2 9 7 4",
+      "B": "1 2 7 9 4",
+      "C": "1 2 4 9 7",
+      "D": "1 7 2 9 4"
+    },
+    "correct": "B",
+    "explanation": "Rule: extract minimum from unsorted portion and insert at next sorted position. Input: 7 2 9 4 1. Step 1: min of all = 1 (pos 5). Extract and insert at pos 1: 1, 7, 2, 9, 4. Step 2: min from pos 2 onward (7,2,9,4) = 2 (pos 3). Extract and insert at pos 2: 1, 2, 7, 9, 4."
+  },
+  {
+    "id": 32,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Hard",
+    "question": "A machine applies this rule: In each step, the largest number moves to the rightmost unsorted position. Input: 3 7 1 5 2. What is the output after Step 2?",
+    "options": {
+      "A": "3 1 5 2 7",
+      "B": "3 1 2 5 7",
+      "C": "1 3 2 5 7",
+      "D": "1 2 3 5 7"
+    },
+    "correct": "B",
+    "explanation": "Step 1: Find max of all (3,7,1,5,2) = 7 at pos2. Move to pos5 (rightmost). Extract and place: 3,1,5,2,7. Step 2: Find max of pos1-4 (3,1,5,2) = 5 at pos3. Move to pos4: 3,1,2,5,7. Output after Step 2: 3,1,2,5,7."
+  },
+  {
+    "id": 33,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "A coding machine converts words by a rule. If APPLE becomes ELPPA and MANGO becomes OGNAM, what does GRAPE become?",
+    "options": {
+      "A": "EPARG",
+      "B": "GRPAE",
+      "C": "EPRGA",
+      "D": "APERG"
+    },
+    "correct": "A",
+    "explanation": "The rule is reversing the word. APPLE → ELPPA (reverse) ✓. MANGO → OGNAM (reverse) ✓. GRAPE reversed = EPARG."
+  },
+  {
+    "id": 34,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Hard",
+    "question": "A machine processes numbers: Input: 12 5 8 3 15. Step 1: 3 12 5 8 15 (smallest to front, largest to back). Step 2: 3 5 12 8 15. Following this pattern, what is Step 1 output for Input: 9 2 14 6 11?",
+    "options": {
+      "A": "2 9 6 11 14",
+      "B": "2 6 9 11 14",
+      "C": "2 9 14 6 11",
+      "D": "9 2 6 11 14"
+    },
+    "correct": "A",
+    "explanation": "Rule from example: In Step 1, smallest goes to position 1 and largest goes to last position, others maintain relative order in between. Input: 9 2 14 6 11. Smallest=2, Largest=14. Remove both, remaining in order: 9, 6, 11. Place 2 at front, 14 at back: 2, 9, 6, 11, 14."
+  },
+  {
+    "id": 35,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "A machine doubles each number and subtracts 1 in each step. Input: 3. Step 1: 5. Step 2: 9. Step 3: 17. What is Step 4?",
+    "options": {
+      "A": "33",
+      "B": "34",
+      "C": "35",
+      "D": "31"
+    },
+    "correct": "A",
+    "explanation": "Rule: each step = 2*previous - 1. Step 1: 2(3)-1=5 ✓. Step 2: 2(5)-1=9 ✓. Step 3: 2(9)-1=17 ✓. Step 4: 2(17)-1=33."
+  },
+  {
+    "id": 36,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "A cube has 6 faces painted with 6 different colors: Red(top), Blue(bottom), Green(front), Yellow(back), White(left), Black(right). If the cube is rotated so that Green face comes to the top, which color will be at the bottom?",
+    "options": {
+      "A": "Yellow",
+      "B": "Red",
+      "C": "Blue",
+      "D": "White"
+    },
+    "correct": "A",
+    "explanation": "Original: Red(top), Blue(bottom), Green(front), Yellow(back). When Green(front) rotates to top, the rotation is forward (tilting top toward you). Top(Red)→front, Front(Green)→top, Bottom(Blue)→back, Back(Yellow)→bottom. Left and Right unchanged. New bottom = Yellow."
+  },
+  {
+    "id": 37,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Hard",
+    "question": "Two dice are thrown. The sum of numbers on opposite faces of each die is always 7. If the top faces of the two dice show 2 and 3 respectively, what is the sum of the numbers on the bottom faces of the two dice?",
+    "options": {
+      "A": "9",
+      "B": "7",
+      "C": "8",
+      "D": "10"
+    },
+    "correct": "A",
+    "explanation": "Opposite faces sum to 7. Die 1: top=2, bottom=7-2=5. Die 2: top=3, bottom=7-3=4. Sum of bottom faces = 5+4 = 9."
+  },
+  {
+    "id": 38,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "A cube is painted red on all faces and then cut into 27 smaller equal cubes. How many smaller cubes have exactly two faces painted?",
+    "options": {
+      "A": "12",
+      "B": "8",
+      "C": "6",
+      "D": "1"
+    },
+    "correct": "A",
+    "explanation": "When a cube is cut into 27 (3*3*3) smaller cubes: corner cubes have 3 painted faces (8 cubes), edge cubes (non-corner) have 2 painted faces (12 cubes), face-center cubes have 1 painted face (6 cubes), center cube has 0 painted faces (1 cube). Cubes with exactly 2 painted faces = 12."
+  },
+  {
+    "id": 39,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Hard",
+    "question": "A cube is painted blue on all faces and cut into 64 smaller equal cubes (4×4×4). How many smaller cubes have no face painted?",
+    "options": {
+      "A": "8",
+      "B": "0",
+      "C": "12",
+      "D": "16"
+    },
+    "correct": "A",
+    "explanation": "In a 4*4*4 cube, unpainted cubes are those completely inside with no exposed face. The inner core is (4-2)*(4-2)*(4-2) = 2*2*2 = 8 cubes."
+  },
+  {
+    "id": 40,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "On a standard die, 1 is opposite 6, 2 is opposite 5, 3 is opposite 4. If 4 is on top and 2 faces you (front), what number is on the right face?",
+    "options": {
+      "A": "1",
+      "B": "6",
+      "C": "3",
+      "D": "5"
+    },
+    "correct": "A",
+    "explanation": "Top=4, Bottom=3 (opposite). Front=2, Back=5 (opposite). Remaining faces: 1 and 6 for Left and Right. On a standard die with these constraints, using the right-hand rule: when 4 is on top and 2 faces front, right face = 1. (This can be verified with a physical die where 1-2-3 meet at a vertex going counterclockwise.)"
+  },
+  {
+    "id": 41,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Hard",
+    "question": "A cube has numbers 1-6 on its faces. Three views are given: View 1 shows top=1, front=2, right=3. View 2 shows top=1, front=3, right=5. What number is opposite to 2?",
+    "options": {
+      "A": "5",
+      "B": "4",
+      "C": "6",
+      "D": "3"
+    },
+    "correct": "A",
+    "explanation": "View 1: top=1, front=2, right=3. So bottom=opposite of 1, back=opposite of 2, left=opposite of 3. View 2: top=1, front=3, right=5. Since top=1 in both views, the cube was rotated around the vertical axis. In View 1, right=3. In View 2, front=3 (the right face rotated to front = 90° counterclockwise rotation viewed from top). So View 2's right was View 1's back = opposite of 2. View 2 right=5. Therefore opposite of 2 = 5."
+  },
+  {
+    "id": 42,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "Among five students A, B, C, D and E, A ranks higher than B. B ranks higher than D. D ranks higher than C. E ranks lowest. What is C's rank from the top?",
+    "options": {
+      "A": "4th",
+      "B": "3rd",
+      "C": "5th",
+      "D": "2nd"
+    },
+    "correct": "A",
+    "explanation": "A > B > D > C, and E is lowest. Order from top: A(1st), B(2nd), D(3rd), C(4th), E(5th). C is 4th from top."
+  },
+  {
+    "id": 43,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Hard",
+    "question": "Seven students are ranked 1st to 7th (1st=highest). P is ranked above Q. R is ranked 4th. S is ranked immediately above T. Q is ranked 5th. U is ranked above P. V is ranked 1st. What is P's rank?",
+    "options": {
+      "A": "3rd",
+      "B": "2nd",
+      "C": "5th",
+      "D": "4th"
+    },
+    "correct": "A",
+    "explanation": "V=1st, R=4th, Q=5th. P above Q(5th), so P is 2nd or 3rd. U above P. Remaining ranks 2,3,6,7 for P,U,S,T. S immediately above T means consecutive ranks (S=k, T=k+1). From {2,3,6,7}: consecutive pairs are (2,3) and (6,7). U above P means U's rank < P's rank. If S=6,T=7: then P,U from {2,3}. U<P (better rank): U=2, P=3. P(3rd) above Q(5th) ✓. All conditions satisfied. P's rank = 3rd."
+  },
+  {
+    "id": 44,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "In a queue, A is 5th from the front and 6th from the back. How many persons are in the queue?",
+    "options": {
+      "A": "10",
+      "B": "11",
+      "C": "9",
+      "D": "12"
+    },
+    "correct": "A",
+    "explanation": "Total = position from front + position from back - 1 = 5 + 6 - 1 = 10."
+  },
+  {
+    "id": 45,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Hard",
+    "question": "In a row of students, Mohan is 15th from the left and Sohan is 15th from the right. If they interchange positions, Mohan becomes 25th from the left. How many students are in the row?",
+    "options": {
+      "A": "39",
+      "B": "40",
+      "C": "44",
+      "D": "34"
+    },
+    "correct": "A",
+    "explanation": "After interchange, Mohan takes Sohan's position. Mohan is now 25th from left. So Sohan's original position from left = 25. Sohan was 15th from right. Total = position from left + position from right - 1 = 25 + 15 - 1 = 39."
+  },
+  {
+    "id": 46,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "Six students are ranked by height. A is taller than B. B is taller than C. D is taller than A. E is shorter than C. F is taller than D. Who is the shortest?",
+    "options": {
+      "A": "E",
+      "B": "C",
+      "C": "B",
+      "D": "A"
+    },
+    "correct": "A",
+    "explanation": "F > D > A > B > C > E. E is the shortest."
+  },
+  {
+    "id": 47,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "From a group of 5 men and 3 women, a committee of 4 is to be formed with at least 2 women. In how many ways can this be done?",
+    "options": {
+      "A": "25",
+      "B": "30",
+      "C": "35",
+      "D": "20"
+    },
+    "correct": "C",
+    "explanation": "At least 2 women from 5 men and 3 women for a committee of 4: Case 1 (2W,2M): C(3,2)*C(5,2) = 3*10 = 30. Case 2 (3W,1M): C(3,3)*C(5,1) = 1*5 = 5. Total = 30+5 = 35."
+  },
+  {
+    "id": 48,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Hard",
+    "question": "A team of 3 is to be selected from 4 boys and 3 girls such that at least one boy and at least one girl must be included. How many ways can this be done?",
+    "options": {
+      "A": "30",
+      "B": "35",
+      "C": "25",
+      "D": "31"
+    },
+    "correct": "A",
+    "explanation": "Total ways to pick 3 from 7 = C(7,3) = 35. All boys = C(4,3) = 4. All girls = C(3,3) = 1. Valid selections = 35 - 4 - 1 = 30."
+  },
+  {
+    "id": 49,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Medium",
+    "question": "From 6 different books, 3 are to be selected. In how many ways can this be done if one particular book must always be included?",
+    "options": {
+      "A": "10",
+      "B": "15",
+      "C": "20",
+      "D": "6"
+    },
+    "correct": "A",
+    "explanation": "One book is fixed. Choose remaining 2 from the other 5 books: C(5,2) = 10."
+  },
+  {
+    "id": 50,
+    "paper": "CSAT",
+    "subject": "Analytical Reasoning",
+    "difficulty": "Hard",
+    "question": "A committee of 5 is to be formed from 6 men and 4 women such that at least 3 men are included. How many ways can this be done?",
+    "options": {
+      "A": "186",
+      "B": "120",
+      "C": "200",
+      "D": "150"
+    },
+    "correct": "A",
+    "explanation": "At least 3 men: Case 1 (3M,2W): C(6,3)*C(4,2) = 20*6 = 120. Case 2 (4M,1W): C(6,4)*C(4,1) = 15*4 = 60. Case 3 (5M,0W): C(6,5)*C(4,0) = 6*1 = 6. Total = 120+60+6 = 186."
+  }
+]

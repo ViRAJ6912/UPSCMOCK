@@ -12,7 +12,7 @@
       "D": "1, 2 and 3"
     },
     "correct": "A",
-    "explanation": "The Constituent Assembly was constituted under the Cabinet Mission Plan (1946) with 389 members \u2014 296 from British India and 93 from princely states. Dr. Sachidanand Sinha was the temporary Chairman (provisional president); Dr. Rajendra Prasad was elected as the permanent Chairman. Hence statement 3 is incorrect."
+    "explanation": "The Constituent Assembly was constituted under the Cabinet Mission Plan (1946) with 389 members — 296 from British India and 93 from princely states. Dr. Sachidanand Sinha was the temporary Chairman (provisional president); Dr. Rajendra Prasad was elected as the permanent Chairman. Hence statement 3 is incorrect."
   },
   {
     "id": 2,
@@ -57,7 +57,7 @@
       "D": "1, 2, 3 and 4"
     },
     "correct": "A",
-    "explanation": "The Basic Structure doctrine was propounded in Kesavananda Bharati (1973). The Supreme Court has NOT exhaustively defined what constitutes basic structure \u2014 it has been identified on a case-by-case basis. Judicial review and separation of powers are recognized as basic structure elements. Parliament can amend any provision provided it doesn't destroy the basic structure. Statement 2 is incorrect."
+    "explanation": "The Basic Structure doctrine was propounded in Kesavananda Bharati (1973). The Supreme Court has NOT exhaustively defined what constitutes basic structure — it has been identified on a case-by-case basis. Judicial review and separation of powers are recognized as basic structure elements. Parliament can amend any provision provided it doesn't destroy the basic structure. Statement 2 is incorrect."
   },
   {
     "id": 5,
@@ -72,7 +72,7 @@
       "D": "1 and 3 only"
     },
     "correct": "C",
-    "explanation": "All three are correct. Rajya Sabha is a permanent House \u2014 not subject to dissolution, with one-third members retiring every 2 years (Article 83). Money Bills can only be introduced in Lok Sabha (Article 109). The Vice-President is ex-officio Chairman of Rajya Sabha (Article 64) but is not a member of the House \u2014 if they were a member, they couldn't vote except in case of a tie."
+    "explanation": "All three are correct. Rajya Sabha is a permanent House — not subject to dissolution, with one-third members retiring every 2 years (Article 83). Money Bills can only be introduced in Lok Sabha (Article 109). The Vice-President is ex-officio Chairman of Rajya Sabha (Article 64) but is not a member of the House — if they were a member, they couldn't vote except in case of a tie."
   },
   {
     "id": 6,
@@ -86,15 +86,15 @@
       "C": "1, 2 and 3",
       "D": "1 and 3 only"
     },
-    "correct": "C",
-    "explanation": "All three are correct. Under Article 32, the Supreme Court issues writs only for Fundamental Rights enforcement. Under Article 226, High Courts have wider writ jurisdiction \u2014 for Fundamental Rights AND any other purpose. Article 32 is itself a Fundamental Right (Right to Constitutional Remedies) and cannot be suspended even during Emergency (as per the 44th Amendment which ensures Articles 20 and 21 cannot be suspended)."
+    "correct": "A",
+    "explanation": "Under Article 32, the Supreme Court issues writs only for Fundamental Rights enforcement. Under Article 226, High Courts have wider jurisdiction — for Fundamental Rights AND any other purpose. However, statement 3 is incorrect — during a National Emergency, under Article 359, the President can suspend the right to move courts (including under Article 32) for enforcement of Fundamental Rights, except for Articles 20 and 21 (as per the 44th Amendment). So Article 32 jurisdiction is partially suspendable during Emergency."
   },
   {
     "id": 7,
     "paper": "GS1",
     "subject": "Polity",
     "difficulty": "Medium",
-    "question": "Which of the following Constitutional Amendments are correctly matched with their provisions?\n1. 42nd Amendment \u2014 Added Fundamental Duties\n2. 44th Amendment \u2014 Right to Property made a legal right\n3. 73rd Amendment \u2014 Panchayati Raj institutions\n4. 86th Amendment \u2014 Right to Education as Fundamental Right\nSelect the correct answer:",
+    "question": "Which of the following Constitutional Amendments are correctly matched with their provisions?\n1. 42nd Amendment — Added Fundamental Duties\n2. 44th Amendment — Right to Property made a legal right\n3. 73rd Amendment — Panchayati Raj institutions\n4. 86th Amendment — Right to Education as Fundamental Right\nSelect the correct answer:",
     "options": {
       "A": "1, 2 and 3 only",
       "B": "1, 3 and 4 only",
@@ -117,7 +117,7 @@
       "D": "2 and 3 only"
     },
     "correct": "A",
-    "explanation": "The Finance Commission is constituted every 5 years by the President (Art. 280). It recommends distribution of tax proceeds between Centre and States, and principles governing grants-in-aid. It also recommends measures to augment the Consolidated Fund of a State to supplement resources of Panchayats and Municipalities. However, its recommendations are NOT binding \u2014 they are advisory in nature, though conventionally accepted."
+    "explanation": "The Finance Commission is constituted every 5 years by the President (Art. 280). It recommends distribution of tax proceeds between Centre and States, and principles governing grants-in-aid. It also recommends measures to augment the Consolidated Fund of a State to supplement resources of Panchayats and Municipalities. However, its recommendations are NOT binding — they are advisory in nature, though conventionally accepted."
   },
   {
     "id": 9,
@@ -147,7 +147,7 @@
       "D": "2 and 3 only"
     },
     "correct": "A",
-    "explanation": "The Governor is appointed by the President and holds office during the President's pleasure (Article 156). The Sarkaria Commission recommended that the Governor should be eminent, from outside the state, and not too intimately connected with local politics. However, in B.P. Singhal v. Union of India (2010), the Supreme Court held that while reasons need not be communicated, the power is NOT completely beyond judicial review \u2014 it cannot be exercised arbitrarily or in a mala fide manner. Statement 2 is incorrect."
+    "explanation": "The Governor is appointed by the President and holds office during the President's pleasure (Article 156). The Sarkaria Commission recommended that the Governor should be eminent, from outside the state, and not too intimately connected with local politics. However, in B.P. Singhal v. Union of India (2010), the Supreme Court held that while reasons need not be communicated, the power is NOT completely beyond judicial review — it cannot be exercised arbitrarily or in a mala fide manner. Statement 2 is incorrect."
   },
   {
     "id": 11,
@@ -162,7 +162,7 @@
       "D": "1, 3 and 4 only"
     },
     "correct": "A",
-    "explanation": "NCSC is under Article 338, NCBC is under Article 338B (added by 102nd Amendment, 2018), and the Special Officer for Linguistic Minorities is under Article 350B. The National Commission for Women is a statutory body created by the NCW Act, 1990 \u2014 it is NOT mentioned in the Constitution."
+    "explanation": "NCSC is under Article 338, NCBC is under Article 338B (added by 102nd Amendment, 2018), and the Special Officer for Linguistic Minorities is under Article 350B. The National Commission for Women is a statutory body created by the NCW Act, 1990 — it is NOT mentioned in the Constitution."
   },
   {
     "id": 12,
@@ -177,7 +177,7 @@
       "D": "1 and 3 only"
     },
     "correct": "B",
-    "explanation": "All three are correct. Article 262(1) empowers Parliament to provide for adjudication of disputes relating to inter-state rivers. The ISRWD Act, 1956 provides for constitution of tribunals. Article 262(2) provides that Parliament may bar the jurisdiction of the Supreme Court or any other court \u2014 and the Act does bar such jurisdiction, making tribunal decisions final and binding."
+    "explanation": "All three are correct. Article 262(1) empowers Parliament to provide for adjudication of disputes relating to inter-state rivers. The ISRWD Act, 1956 provides for constitution of tribunals. Article 262(2) provides that Parliament may bar the jurisdiction of the Supreme Court or any other court — and the Act does bar such jurisdiction, making tribunal decisions final and binding."
   },
   {
     "id": 13,
@@ -207,7 +207,7 @@
       "D": "2 and 3 only"
     },
     "correct": "A",
-    "explanation": "PIL is a key manifestation of judicial activism, allowing any public-spirited person to approach courts on behalf of those who cannot. Epistolary jurisdiction (treating letters/postcards as petitions) was developed by Justice P.N. Bhagwati and Justice V.R. Krishna Iyer. However, judicial activism is NOT explicitly provided in the Constitution \u2014 it is a judicial innovation developed through interpretation of constitutional provisions, particularly Articles 14, 21, and 32."
+    "explanation": "PIL is a key manifestation of judicial activism, allowing any public-spirited person to approach courts on behalf of those who cannot. Epistolary jurisdiction (treating letters/postcards as petitions) was developed by Justice P.N. Bhagwati and Justice V.R. Krishna Iyer. However, judicial activism is NOT explicitly provided in the Constitution — it is a judicial innovation developed through interpretation of constitutional provisions, particularly Articles 14, 21, and 32."
   },
   {
     "id": 15,
@@ -222,7 +222,7 @@
       "D": "2 and 3 only"
     },
     "correct": "A",
-    "explanation": "Parliament has full legislative power over UTs on all subjects (Article 246(4)). The President can make regulations for UTs without legislatures (Article 240), which have the force of an Act of Parliament. However, NOT all UTs have Legislative Assemblies \u2014 only Delhi, Puducherry, and Jammu & Kashmir have them. Chandigarh, Ladakh, Lakshadweep, Dadra & Nagar Haveli and Daman & Diu, and Andaman & Nicobar do not."
+    "explanation": "Parliament has full legislative power over UTs on all subjects (Article 246(4)). The President can make regulations for UTs without legislatures (Article 240), which have the force of an Act of Parliament. However, NOT all UTs have Legislative Assemblies — only Delhi, Puducherry, and Jammu & Kashmir have them. Chandigarh, Ladakh, Lakshadweep, Dadra & Nagar Haveli and Daman & Diu, and Andaman & Nicobar do not."
   },
   {
     "id": 16,
@@ -237,7 +237,7 @@
       "D": "1, 2, 3 and 4"
     },
     "correct": "A",
-    "explanation": "The Union List currently has 98 subjects (after the 101st Amendment added GST-related entry). The Concurrent List has 52 subjects. Residuary powers lie with Parliament under Article 248. However, the State List currently has 59 subjects (originally 66, reduced after various amendments transferred subjects to Concurrent List and after GST subsumed some entries). Statement 2 claiming 59 needs verification \u2014 the commonly cited figure varies, but the original 66 has been reduced. The most defensible answer considering standard UPSC preparation material is A."
+    "explanation": "The Union List currently has 98 subjects (after the 101st Amendment added GST-related entry). The Concurrent List has 52 subjects. Residuary powers lie with Parliament under Article 248. However, the State List currently has 59 subjects (originally 66, reduced after various amendments transferred subjects to Concurrent List and after GST subsumed some entries). Statement 2 claiming 59 needs verification — the commonly cited figure varies, but the original 66 has been reduced. The most defensible answer considering standard UPSC preparation material is A."
   },
   {
     "id": 17,
@@ -267,7 +267,7 @@
       "D": "2 and 3 only"
     },
     "correct": "A",
-    "explanation": "Article 310 establishes that civil servants hold office during the pleasure of the President (Union) or Governor (State). Article 311 provides safeguards \u2014 no dismissal/removal without inquiry, and only by an authority not subordinate to the appointing authority. However, Article 311 does NOT apply to members of defence services \u2014 they are governed by their own service rules and the Army/Navy/Air Force Acts."
+    "explanation": "Article 310 establishes that civil servants hold office during the pleasure of the President (Union) or Governor (State). Article 311 provides safeguards — no dismissal/removal without inquiry, and only by an authority not subordinate to the appointing authority. However, Article 311 does NOT apply to members of defence services — they are governed by their own service rules and the Army/Navy/Air Force Acts."
   },
   {
     "id": 19,
@@ -297,7 +297,7 @@
       "D": "2, 3 and 4 only"
     },
     "correct": "A",
-    "explanation": "The NCST was established by the 89th Amendment (2003) under Article 338A, separating it from the combined NCSC. It investigates matters relating to safeguards for STs and has powers of a civil court (summoning, examining witnesses, etc.). However, its recommendations are NOT binding \u2014 the Union and State governments are required to consult the Commission on major policy matters affecting STs, but recommendations are advisory."
+    "explanation": "The NCST was established by the 89th Amendment (2003) under Article 338A, separating it from the combined NCSC. It investigates matters relating to safeguards for STs and has powers of a civil court (summoning, examining witnesses, etc.). However, its recommendations are NOT binding — the Union and State governments are required to consult the Commission on major policy matters affecting STs, but recommendations are advisory."
   },
   {
     "id": 21,
@@ -312,7 +312,7 @@
       "D": "2 and 3 only"
     },
     "correct": "A",
-    "explanation": "Under Article 3, a bill for creation/alteration of states can only be introduced with the President's recommendation. The President must refer it to the affected state legislature(s) for expressing views within a specified period. However, the state legislature's views are NOT binding on Parliament \u2014 Parliament can proceed regardless of the state's opinion. This makes Indian federalism 'destructible' in this regard."
+    "explanation": "Under Article 3, a bill for creation/alteration of states can only be introduced with the President's recommendation. The President must refer it to the affected state legislature(s) for expressing views within a specified period. However, the state legislature's views are NOT binding on Parliament — Parliament can proceed regardless of the state's opinion. This makes Indian federalism 'destructible' in this regard."
   },
   {
     "id": 22,
@@ -342,7 +342,7 @@
       "D": "1 only"
     },
     "correct": "A",
-    "explanation": "Under Article 266, all revenues received, loans raised, and repayments of loans are credited to the Consolidated Fund of India. No money can be withdrawn except under appropriation made by Parliament (Article 266(3)). However, the Contingency Fund is NOT part of the Consolidated Fund \u2014 it is a separate fund under Article 267, placed at the disposal of the President for unforeseen expenditure pending parliamentary authorization."
+    "explanation": "Under Article 266, all revenues received, loans raised, and repayments of loans are credited to the Consolidated Fund of India. No money can be withdrawn except under appropriation made by Parliament (Article 266(3)). However, the Contingency Fund is NOT part of the Consolidated Fund — it is a separate fund under Article 267, placed at the disposal of the President for unforeseen expenditure pending parliamentary authorization."
   },
   {
     "id": 24,
@@ -357,7 +357,7 @@
       "D": "1 and 3 only"
     },
     "correct": "B",
-    "explanation": "All three are correct. The Constituent Assembly deliberately chose 'procedure established by law' (from Japanese Constitution) over 'due process' (from US Constitution) in Article 21. However, in Maneka Gandhi v. Union of India (1978), the Supreme Court held that the procedure must be right, just, and fair \u2014 not arbitrary, fanciful, or oppressive. This effectively incorporated substantive due process into Indian constitutional law."
+    "explanation": "All three are correct. The Constituent Assembly deliberately chose 'procedure established by law' (from Japanese Constitution) over 'due process' (from US Constitution) in Article 21. However, in Maneka Gandhi v. Union of India (1978), the Supreme Court held that the procedure must be right, just, and fair — not arbitrary, fanciful, or oppressive. This effectively incorporated substantive due process into Indian constitutional law."
   },
   {
     "id": 25,
@@ -372,7 +372,7 @@
       "D": "1 only"
     },
     "correct": "A",
-    "explanation": "The NHRC Chairperson must be a retired CJI (after 2019 amendment, a retired CJI or a retired SC judge). It has powers of a civil court and can recommend compensation. However, the NHRC CANNOT inquire into complaints against the Armed Forces on its own \u2014 it can only seek a report from the Central Government regarding violations by armed forces personnel (Section 19 of the Protection of Human Rights Act)."
+    "explanation": "The NHRC Chairperson must be a retired CJI (after 2019 amendment, a retired CJI or a retired SC judge). It has powers of a civil court and can recommend compensation. However, the NHRC CANNOT inquire into complaints against the Armed Forces on its own — it can only seek a report from the Central Government regarding violations by armed forces personnel (Section 19 of the Protection of Human Rights Act)."
   },
   {
     "id": 26,
@@ -417,7 +417,7 @@
       "D": "1, 2, 3 and 4"
     },
     "correct": "A",
-    "explanation": "Articles 15, 16, and 19 are available only to citizens. Article 20 (protection in respect of conviction for offences) is available to all persons \u2014 citizens and foreigners alike. Similarly, Articles 14, 20, 21, 21A, 22, 23, 24, 25-28 are available to all persons."
+    "explanation": "Articles 15, 16, and 19 are available only to citizens. Article 20 (protection in respect of conviction for offences) is available to all persons — citizens and foreigners alike. Similarly, Articles 14, 20, 21, 21A, 22, 23, 24, 25-28 are available to all persons."
   },
   {
     "id": 29,
@@ -432,7 +432,7 @@
       "D": "2, 3 and 4 only"
     },
     "correct": "C",
-    "explanation": "All four are correct. The President can promulgate ordinances when Parliament is not in session (Art 123). Ordinances must be laid before Parliament and cease to operate six weeks after reassembly. The Constitution prescribes no time limit for Presidential assent, enabling pocket veto (used in 1986 for Indian Post Office Amendment Bill). Money Bills are introduced only with President's prior recommendation, and the President cannot return them \u2014 must give assent."
+    "explanation": "All four are correct. The President can promulgate ordinances when Parliament is not in session (Art 123). Ordinances must be laid before Parliament and cease to operate six weeks after reassembly. The Constitution prescribes no time limit for Presidential assent, enabling pocket veto (used in 1986 for Indian Post Office Amendment Bill). Money Bills are introduced only with President's prior recommendation, and the President cannot return them — must give assent."
   },
   {
     "id": 30,
@@ -492,7 +492,7 @@
       "D": "2, 3 and 4 only"
     },
     "correct": "A",
-    "explanation": "India provides single citizenship (unlike the US). Article 11 empowers Parliament to make laws on citizenship. The CAA, 2019 provides expedited citizenship to persecuted Hindu, Sikh, Buddhist, Jain, Parsi, and Christian minorities from Pakistan, Bangladesh, and Afghanistan. However, OCI cardholders do NOT enjoy political rights \u2014 they cannot vote, contest elections, or hold constitutional posts. Statement 4 is incorrect."
+    "explanation": "India provides single citizenship (unlike the US). Article 11 empowers Parliament to make laws on citizenship. The CAA, 2019 provides expedited citizenship to persecuted Hindu, Sikh, Buddhist, Jain, Parsi, and Christian minorities from Pakistan, Bangladesh, and Afghanistan. However, OCI cardholders do NOT enjoy political rights — they cannot vote, contest elections, or hold constitutional posts. Statement 4 is incorrect."
   },
   {
     "id": 34,
@@ -522,7 +522,7 @@
       "D": "2, 3 and 4 only"
     },
     "correct": "A",
-    "explanation": "Article 343 declares Hindi in Devanagari script as the official language. English was to continue for 15 years (until 1965). The Official Languages Act, 1963 (amended in 1967) provided for continued use of English indefinitely alongside Hindi. Statement 4 is incorrect \u2014 Article 348 provides that proceedings in the Supreme Court and High Courts shall be in ENGLISH (not Hindi), unless Parliament provides otherwise."
+    "explanation": "Article 343 declares Hindi in Devanagari script as the official language. English was to continue for 15 years (until 1965). The Official Languages Act, 1963 (amended in 1967) provided for continued use of English indefinitely alongside Hindi. Statement 4 is incorrect — Article 348 provides that proceedings in the Supreme Court and High Courts shall be in ENGLISH (not Hindi), unless Parliament provides otherwise."
   },
   {
     "id": 36,
@@ -537,7 +537,7 @@
       "D": "2 and 3 only"
     },
     "correct": "A",
-    "explanation": "Article 371A provides that Acts of Parliament on religious/social practices of Nagas, Naga customary law, and ownership of land/resources shall not apply to Nagaland unless the State Assembly so decides. Article 371 provides for development boards for Vidarbha, Marathwada, Saurashtra, and Kutch. However, these special provisions CANNOT be amended by simple majority \u2014 most require constitutional amendment procedures, and some (like 371A) require consent of the State Assembly."
+    "explanation": "Article 371A provides that Acts of Parliament on religious/social practices of Nagas, Naga customary law, and ownership of land/resources shall not apply to Nagaland unless the State Assembly so decides. Article 371 provides for development boards for Vidarbha, Marathwada, Saurashtra, and Kutch. However, these special provisions CANNOT be amended by simple majority — most require constitutional amendment procedures, and some (like 371A) require consent of the State Assembly."
   },
   {
     "id": 37,
@@ -552,7 +552,7 @@
       "D": "2, 3 and 4 only"
     },
     "correct": "A",
-    "explanation": "The 73rd Amendment (Part IX) and 74th Amendment (Part IXA) constitutionalized local self-government. Both mandate at least 1/3 reservation for women. The State Election Commission (Article 243K) conducts elections to these bodies. However, Statement 4 is incorrect \u2014 Part IX does NOT apply to Scheduled Areas under the Fifth Schedule and Tribal Areas under the Sixth Schedule (Article 243M). The Panchayats (Extension to Scheduled Areas) Act, 1996 (PESA) extends modified provisions to Fifth Schedule areas."
+    "explanation": "The 73rd Amendment (Part IX) and 74th Amendment (Part IXA) constitutionalized local self-government. Both mandate at least 1/3 reservation for women. The State Election Commission (Article 243K) conducts elections to these bodies. However, Statement 4 is incorrect — Part IX does NOT apply to Scheduled Areas under the Fifth Schedule and Tribal Areas under the Sixth Schedule (Article 243M). The Panchayats (Extension to Scheduled Areas) Act, 1996 (PESA) extends modified provisions to Fifth Schedule areas."
   },
   {
     "id": 38,
@@ -582,7 +582,7 @@
       "D": "2, 3 and 4 only"
     },
     "correct": "A",
-    "explanation": "Freedom of Press is NOT explicitly mentioned in Article 19(1)(a) \u2014 it is implied from freedom of speech and expression. In Romesh Thappar v. State of Madras (1950), the SC held that freedom of press is part of freedom of speech. Reasonable restrictions under Article 19(2) apply to press freedom. The Press Council of India is a STATUTORY body (under Press Council Act, 1978), not a constitutional body. Statements 1 and 4 are incorrect."
+    "explanation": "Freedom of Press is NOT explicitly mentioned in Article 19(1)(a) — it is implied from freedom of speech and expression. In Romesh Thappar v. State of Madras (1950), the SC held that freedom of press is part of freedom of speech. Reasonable restrictions under Article 19(2) apply to press freedom. The Press Council of India is a STATUTORY body (under Press Council Act, 1978), not a constitutional body. Statements 1 and 4 are incorrect."
   },
   {
     "id": 40,
@@ -627,7 +627,7 @@
       "D": "2, 3 and 4 only"
     },
     "correct": "A",
-    "explanation": "The Sixth Schedule applies to tribal areas in Assam, Meghalaya, Tripura, and Mizoram. It provides for Autonomous District Councils and Regional Councils with legislative, judicial, and executive powers. District Councils can make laws on land, forests, canal water, shifting cultivation, village administration, inheritance, marriage, and social customs. Statement 4 is incorrect \u2014 the Governor plays a significant role including the power to increase/decrease areas, create new districts, and appoint a commission to examine matters."
+    "explanation": "The Sixth Schedule applies to tribal areas in Assam, Meghalaya, Tripura, and Mizoram. It provides for Autonomous District Councils and Regional Councils with legislative, judicial, and executive powers. District Councils can make laws on land, forests, canal water, shifting cultivation, village administration, inheritance, marriage, and social customs. Statement 4 is incorrect — the Governor plays a significant role including the power to increase/decrease areas, create new districts, and appoint a commission to examine matters."
   },
   {
     "id": 43,
@@ -664,7 +664,7 @@
     "paper": "GS1",
     "subject": "Polity",
     "difficulty": "Hard",
-    "question": "Consider the following statements about Article 19(1)(g) \u2014 Right to practise any profession or carry on any occupation, trade, or business:\n1. This right is subject to reasonable restrictions in the interest of the general public.\n2. The State can prescribe professional or technical qualifications for carrying on any profession.\n3. The State can create monopolies and completely exclude citizens from any trade or business.\nWhich of the statements given above are correct?",
+    "question": "Consider the following statements about Article 19(1)(g) — Right to practise any profession or carry on any occupation, trade, or business:\n1. This right is subject to reasonable restrictions in the interest of the general public.\n2. The State can prescribe professional or technical qualifications for carrying on any profession.\n3. The State can create monopolies and completely exclude citizens from any trade or business.\nWhich of the statements given above are correct?",
     "options": {
       "A": "1 and 2 only",
       "B": "1, 2 and 3",
@@ -672,7 +672,7 @@
       "D": "2 and 3 only"
     },
     "correct": "B",
-    "explanation": "All three are correct. Article 19(6) allows reasonable restrictions on Article 19(1)(g) in the interest of the general public. The State can prescribe professional/technical qualifications. Clause (ii) of Article 19(6) specifically allows the State to make laws relating to carrying on any trade, business, industry, or service \u2014 whether to the exclusion of citizens or otherwise (state monopoly). This was added by the 1st Amendment."
+    "explanation": "All three are correct. Article 19(6) allows reasonable restrictions on Article 19(1)(g) in the interest of the general public. The State can prescribe professional/technical qualifications. Clause (ii) of Article 19(6) specifically allows the State to make laws relating to carrying on any trade, business, industry, or service — whether to the exclusion of citizens or otherwise (state monopoly). This was added by the 1st Amendment."
   },
   {
     "id": 46,
@@ -687,7 +687,7 @@
       "D": "2 and 3 only"
     },
     "correct": "A",
-    "explanation": "Under Article 72, the President can grant pardon, reprieve, respite, remission, or commutation in cases of death sentence, court martial, and offences against Union laws. However, the Governor under Article 161 CANNOT grant pardon in cases of death sentence \u2014 only the President has this power. The Governor can grant pardons for offences against state laws but not for death sentences or court martial cases."
+    "explanation": "Under Article 72, the President can grant pardon, reprieve, respite, remission, or commutation in cases of death sentence, court martial, and offences against Union laws. However, the Governor under Article 161 CANNOT grant pardon in cases of death sentence — only the President has this power. The Governor can grant pardons for offences against state laws but not for death sentences or court martial cases."
   },
   {
     "id": 47,
@@ -717,7 +717,7 @@
       "D": "2 and 3 only"
     },
     "correct": "A",
-    "explanation": "Article 30 grants both religious and linguistic minorities the right to establish and administer educational institutions. The Supreme Court has held that the State can impose reasonable regulations to ensure educational standards and prevent maladministration (T.M.A. Pai Foundation case, 2002). Statement 3 is incorrect \u2014 the right is not absolute; it is subject to reasonable regulatory measures by the State."
+    "explanation": "Article 30 grants both religious and linguistic minorities the right to establish and administer educational institutions. The Supreme Court has held that the State can impose reasonable regulations to ensure educational standards and prevent maladministration (T.M.A. Pai Foundation case, 2002). Statement 3 is incorrect — the right is not absolute; it is subject to reasonable regulatory measures by the State."
   },
   {
     "id": 49,

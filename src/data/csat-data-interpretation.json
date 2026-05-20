@@ -1,1 +1,752 @@
-[{"id":1,"paper":"csat-data-interpretation","subject":"Placeholder","difficulty":"Medium","question":"Placeholder question — questions coming soon.","options":{"A":"Option A","B":"Option B","C":"Option C","D":"Option D"},"correct":"A","explanation":"Placeholder explanation."}]
+[
+  {
+    "id": 1,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Table: Production (thousand tonnes)\nCrop|2019|2020|2021|2022\nRice|120|135|150|160\nWheat|200|210|225|240\nMaize|80|95|100|110\nPulses|60|65|70|80\nOilseeds|40|50|55|65\n\nWhat is the total production of all crops in 2021?",
+    "options": {
+      "A": "600 thousand tonnes",
+      "B": "580 thousand tonnes",
+      "C": "620 thousand tonnes",
+      "D": "560 thousand tonnes"
+    },
+    "correct": "A",
+    "explanation": "150+225+100+70+55 = 600 thousand tonnes."
+  },
+  {
+    "id": 2,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Table: Production (thousand tonnes)\nCrop|2019|2020|2021|2022\nRice|120|135|150|160\nWheat|200|210|225|240\nMaize|80|95|100|110\nPulses|60|65|70|80\nOilseeds|40|50|55|65\n\nWhich crop had the highest percentage increase from 2019 to 2022?",
+    "options": {
+      "A": "Rice",
+      "B": "Oilseeds",
+      "C": "Maize",
+      "D": "Pulses"
+    },
+    "correct": "B",
+    "explanation": "Rice=(40/120)×100=33.3%, Wheat=(40/200)×100=20%, Maize=(30/80)×100=37.5%, Pulses=(20/60)×100=33.3%, Oilseeds=(25/40)×100=62.5%. Oilseeds is highest."
+  },
+  {
+    "id": 3,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Table: Students enrolled (hundreds)\nDept|2020|2021|2022\nScience|45|50|55\nArts|60|58|62\nCommerce|35|40|42\nEngineering|80|85|90\nMedicine|25|28|30\n\nWhat is the average enrollment across all departments in 2022?",
+    "options": {
+      "A": "55.8 hundred",
+      "B": "54.2 hundred",
+      "C": "56.4 hundred",
+      "D": "53.6 hundred"
+    },
+    "correct": "A",
+    "explanation": "Total in 2022 = 55+62+42+90+30 = 279. Average = 279/5 = 55.8 hundred."
+  },
+  {
+    "id": 4,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Easy",
+    "question": "Table: Revenue (crore Rs)\nCompany|Q1|Q2|Q3|Q4\nA|150|180|200|220\nB|120|140|160|180\nC|200|210|230|250\nD|90|100|110|130\nE|170|190|200|210\n\nWhich company had the highest total annual revenue?",
+    "options": {
+      "A": "Company A",
+      "B": "Company C",
+      "C": "Company E",
+      "D": "Company B"
+    },
+    "correct": "B",
+    "explanation": "A=750, B=600, C=200+210+230+250=890, D=430, E=770. Company C is highest at 890."
+  },
+  {
+    "id": 5,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Table: Population (lakhs)\nCity|2018|2020|2022\nP|25|30|35\nQ|40|44|48\nR|18|22|28\nS|55|60|65\nT|30|35|40\n\nWhat is the difference between total population of all cities in 2022 and 2018?",
+    "options": {
+      "A": "48 lakhs",
+      "B": "50 lakhs",
+      "C": "52 lakhs",
+      "D": "46 lakhs"
+    },
+    "correct": "A",
+    "explanation": "2022 total = 35+48+28+65+40 = 216. 2018 total = 25+40+18+55+30 = 168. Difference = 48 lakhs."
+  },
+  {
+    "id": 6,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Hard",
+    "question": "Table: Exports (million USD)\nSector|2020|2021|2022\nTextiles|450|520|580\nIT|800|920|1050\nPharma|350|400|460\nAuto|600|650|720\nAgri|200|240|280\n\nIf total exports in 2023 increase by 15% over 2022, what would be the total?",
+    "options": {
+      "A": "3553.5 million USD",
+      "B": "3450 million USD",
+      "C": "3600 million USD",
+      "D": "3200 million USD"
+    },
+    "correct": "A",
+    "explanation": "2022 total = 580+1050+460+720+280 = 3090. 15% increase = 3090×1.15 = 3553.5 million USD."
+  },
+  {
+    "id": 7,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Table: Marks (out of 100)\nStudent|Math|Science|English|History\nArun|85|78|72|80\nBina|90|82|88|75\nCharu|76|85|80|90\nDev|92|70|65|85\nEsha|80|88|90|78\n\nWho has the highest total marks?",
+    "options": {
+      "A": "Bina",
+      "B": "Esha",
+      "C": "Charu",
+      "D": "Dev"
+    },
+    "correct": "B",
+    "explanation": "Arun=315, Bina=335, Charu=331, Dev=312, Esha=80+88+90+78=336. Esha is highest."
+  },
+  {
+    "id": 8,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Table: Daily trains on routes\nRoute|Express|Superfast|Mail|Local\nA-B|12|8|5|20\nC-D|10|6|4|15\nE-F|8|10|3|25\nG-H|15|12|6|18\nI-J|6|4|2|30\n\nWhat percentage of total trains on route E-F are Local?",
+    "options": {
+      "A": "54.35%",
+      "B": "50%",
+      "C": "48.5%",
+      "D": "56.2%"
+    },
+    "correct": "A",
+    "explanation": "Total on E-F = 8+10+3+25 = 46. Percentage = (25/46)×100 ≈ 54.35%."
+  },
+  {
+    "id": 9,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Hard",
+    "question": "Table: Monthly sales (units)\nProduct|Jan|Feb|Mar|Apr|May|Jun\nX|500|520|540|580|600|620\nY|300|310|330|350|360|380\nZ|450|470|490|500|520|540\n\nWhat is the ratio of total sales of Product X to Product Y over 6 months?",
+    "options": {
+      "A": "3360:2030",
+      "B": "168:101",
+      "C": "56:34",
+      "D": "168:103"
+    },
+    "correct": "A",
+    "explanation": "X total = 500+520+540+580+600+620 = 3360. Y total = 300+310+330+350+360+380 = 2030. Ratio = 3360:2030."
+  },
+  {
+    "id": 10,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Table: Rainfall (mm)\nMonth|City A|City B|City C\nJun|180|220|150\nJul|250|300|200\nAug|320|280|260\nSep|200|180|170\n\nWhich city received the maximum total rainfall during Jun-Sep?",
+    "options": {
+      "A": "City A",
+      "B": "City B",
+      "C": "City C",
+      "D": "All received equal"
+    },
+    "correct": "B",
+    "explanation": "A = 180+250+320+200 = 950. B = 220+300+280+180 = 980. C = 150+200+260+170 = 780. City B is highest."
+  },
+  {
+    "id": 11,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Table: Budget allocation (crore Rs)\nSector|2021|2022|2023\nEducation|5000|5500|6200\nHealth|4000|4500|5100\nDefence|7000|7500|8000\nInfra|6000|6800|7500\nAgriculture|3000|3200|3600\n\nWhat is the total budget allocation across all sectors in 2023?",
+    "options": {
+      "A": "30400 crore",
+      "B": "28500 crore",
+      "C": "31200 crore",
+      "D": "29800 crore"
+    },
+    "correct": "A",
+    "explanation": "6200+5100+8000+7500+3600 = 30400 crore Rs."
+  },
+  {
+    "id": 12,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Hard",
+    "question": "Table: Electricity consumption (GWh)\nState|2019|2020|2021|2022\nA|1200|1350|1500|1650\nB|800|900|1000|1100\nC|1500|1600|1750|1900\nD|600|700|800|950\nE|1000|1100|1200|1350\n\nWhich state had the maximum increase in consumption from 2019 to 2022?",
+    "options": {
+      "A": "State A",
+      "B": "State C",
+      "C": "State D",
+      "D": "State E"
+    },
+    "correct": "A",
+    "explanation": "A=1650-1200=450, B=300, C=400, D=350, E=350. State A has the maximum increase of 450 GWh."
+  },
+  {
+    "id": 13,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Table: Hospital beds per district\nDistrict|Govt|Private|Total\nX|500|300|800\nY|400|450|850\nZ|600|200|800\nW|350|500|850\nV|450|350|800\n\nWhat percentage of total beds in District W are in private hospitals?",
+    "options": {
+      "A": "58.82%",
+      "B": "55%",
+      "C": "60%",
+      "D": "52.5%"
+    },
+    "correct": "A",
+    "explanation": "Private beds in W = 500. Total = 850. Percentage = (500/850)×100 = 58.82%."
+  },
+  {
+    "id": 14,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Table: Vehicle registrations (thousands)\nType|2020|2021|2022\nCars|250|280|310\nTwo-wheelers|600|650|700\nBuses|40|45|50\nTrucks|80|90|100\nAutos|120|130|140\n\nWhat is the total number of vehicles registered in 2022?",
+    "options": {
+      "A": "1300 thousand",
+      "B": "1250 thousand",
+      "C": "1350 thousand",
+      "D": "1200 thousand"
+    },
+    "correct": "A",
+    "explanation": "310+700+50+100+140 = 1300 thousand."
+  },
+  {
+    "id": 15,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Hard",
+    "question": "Table: GDP contribution (billion $)\nSector|2020|2021|2022\nAgriculture|300|320|350\nIndustry|500|550|600\nServices|800|900|1000\n\nWhat fraction of total GDP in 2022 comes from Services?",
+    "options": {
+      "A": "20/39",
+      "B": "10/19",
+      "C": "1/2",
+      "D": "8/19"
+    },
+    "correct": "A",
+    "explanation": "Total GDP 2022 = 350+600+1000 = 1950. Services share = 1000/1950 = 20/39."
+  },
+  {
+    "id": 16,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "In a company of 800 employees: Male=480, Female=320. Of males, 60% are graduates. Of females, 75% are graduates. What percentage of total employees are graduates?",
+    "options": {
+      "A": "66%",
+      "B": "65%",
+      "C": "68%",
+      "D": "70%"
+    },
+    "correct": "A",
+    "explanation": "Male graduates = 60% of 480 = 288. Female graduates = 75% of 320 = 240. Total graduates = 528. Percentage = (528/800)×100 = 66%."
+  },
+  {
+    "id": 17,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "A school has 1200 students. Distribution: Class 10: 25%, Class 11: 35%, Class 12: 40%. If 80% of Class 12 students passed, how many Class 12 students passed?",
+    "options": {
+      "A": "384",
+      "B": "360",
+      "C": "400",
+      "D": "320"
+    },
+    "correct": "A",
+    "explanation": "Class 12 students = 40% of 1200 = 480. Passed = 80% of 480 = 384."
+  },
+  {
+    "id": 18,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Hard",
+    "question": "Monthly income of a family is Rs 60,000. Expenditure: Food 35%, Rent 25%, Education 15%, Transport 10%, Savings 15%. If food expenditure increases by 20%, what is the new percentage of income spent on food?",
+    "options": {
+      "A": "42%",
+      "B": "40%",
+      "C": "38%",
+      "D": "45%"
+    },
+    "correct": "A",
+    "explanation": "Original food = 35% of 60000 = 21000. New food = 21000×1.2 = 25200. New percentage = (25200/60000)×100 = 42%."
+  },
+  {
+    "id": 19,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "In an election with 50,000 voters, 80% voted. Candidate A got 55% of votes polled. How many votes did Candidate A get?",
+    "options": {
+      "A": "22,000",
+      "B": "20,000",
+      "C": "24,000",
+      "D": "25,000"
+    },
+    "correct": "A",
+    "explanation": "Votes polled = 80% of 50000 = 40000. Candidate A = 55% of 40000 = 22000."
+  },
+  {
+    "id": 20,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "A factory produces 5000 items. Defective rates by section: Section A (2000 items): 5% defective. Section B (3000 items): 8% defective. What is the overall defective percentage?",
+    "options": {
+      "A": "6.8%",
+      "B": "6.5%",
+      "C": "7%",
+      "D": "5.5%"
+    },
+    "correct": "A",
+    "explanation": "Defective from A = 5% of 2000 = 100. From B = 8% of 3000 = 240. Total defective = 340. Percentage = (340/5000)×100 = 6.8%."
+  },
+  {
+    "id": 21,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Easy",
+    "question": "Population of a town: 2020: 50,000. Male: 55%, Female: 45%. In 2022, population grew to 60,000 with males at 52%. How many females are there in 2022?",
+    "options": {
+      "A": "28,800",
+      "B": "27,000",
+      "C": "30,000",
+      "D": "25,200"
+    },
+    "correct": "A",
+    "explanation": "Males in 2022 = 52%, so Females = 48% of 60000 = 28800."
+  },
+  {
+    "id": 22,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "A survey of 2000 households shows: 60% own TV, 45% own refrigerator, 25% own both. What percentage own neither TV nor refrigerator?",
+    "options": {
+      "A": "20%",
+      "B": "25%",
+      "C": "15%",
+      "D": "30%"
+    },
+    "correct": "A",
+    "explanation": "Own at least one = 60+45-25 = 80%. Own neither = 100-80 = 20%."
+  },
+  {
+    "id": 23,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Hard",
+    "question": "Company revenue: 2021: Rs 40 crore, 2022: Rs 48 crore. Expenses: 2021: Rs 32 crore, 2022: Rs 36 crore. What is the percentage increase in profit from 2021 to 2022?",
+    "options": {
+      "A": "50%",
+      "B": "40%",
+      "C": "60%",
+      "D": "45%"
+    },
+    "correct": "A",
+    "explanation": "Profit 2021 = 40-32 = 8 crore. Profit 2022 = 48-36 = 12 crore. Increase = (4/8)×100 = 50%."
+  },
+  {
+    "id": 24,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "In a class of 60 students, 70% passed in Math, 80% passed in Science, and 60% passed in both. What percentage passed in at least one subject?",
+    "options": {
+      "A": "90%",
+      "B": "85%",
+      "C": "95%",
+      "D": "88%"
+    },
+    "correct": "A",
+    "explanation": "At least one = 70+80-60 = 90%."
+  },
+  {
+    "id": 25,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "A store's sales data: Total items sold = 4000. Electronics: 30%, Clothing: 25%, Groceries: 35%, Others: 10%. If electronics sales increase by 50% next month (others unchanged), what will be the new total?",
+    "options": {
+      "A": "4600",
+      "B": "4500",
+      "C": "4800",
+      "D": "4400"
+    },
+    "correct": "A",
+    "explanation": "Electronics = 30% of 4000 = 1200. Increase = 50% of 1200 = 600. New total = 4000+600 = 4600."
+  },
+  {
+    "id": 26,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Company revenue (crore Rs): 2019: 200, 2020: 240, 2021: 300, 2022: 360. What is the growth rate from 2020 to 2021?",
+    "options": {
+      "A": "25%",
+      "B": "20%",
+      "C": "30%",
+      "D": "15%"
+    },
+    "correct": "A",
+    "explanation": "Growth = (300-240)/240 × 100 = 60/240 × 100 = 25%."
+  },
+  {
+    "id": 27,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Hard",
+    "question": "Population data (millions): 2018: 100, 2019: 108, 2020: 118, 2021: 130, 2022: 145. In which year was the growth rate highest?",
+    "options": {
+      "A": "2019",
+      "B": "2020",
+      "C": "2021",
+      "D": "2022"
+    },
+    "correct": "D",
+    "explanation": "2019: (8/100)×100=8%, 2020: (10/108)×100=9.26%, 2021: (12/118)×100=10.17%, 2022: (15/130)×100=11.54%. 2022 is highest."
+  },
+  {
+    "id": 28,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "GDP (trillion $): 2020: 2.5, 2021: 2.8, 2022: 3.2. What is the compound annual growth rate (CAGR) approximately over 2 years?",
+    "options": {
+      "A": "13.1%",
+      "B": "12%",
+      "C": "14%",
+      "D": "15%"
+    },
+    "correct": "A",
+    "explanation": "CAGR = (3.2/2.5)^(1/2) - 1 = (1.28)^0.5 - 1 = 1.131 - 1 = 0.131 = 13.1% approximately."
+  },
+  {
+    "id": 29,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Exports (billion $): 2019: 50, 2020: 45, 2021: 54, 2022: 63. What is the growth rate from 2019 to 2020?",
+    "options": {
+      "A": "-10%",
+      "B": "-5%",
+      "C": "-8%",
+      "D": "-12%"
+    },
+    "correct": "A",
+    "explanation": "Growth = (45-50)/50 × 100 = -5/50 × 100 = -10%."
+  },
+  {
+    "id": 30,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Hard",
+    "question": "A city's waste generation (tonnes/day): 2018: 400, 2019: 440, 2020: 500, 2021: 580, 2022: 680. What is the average annual growth rate over 4 years?",
+    "options": {
+      "A": "70 tonnes/day per year",
+      "B": "60 tonnes/day per year",
+      "C": "80 tonnes/day per year",
+      "D": "75 tonnes/day per year"
+    },
+    "correct": "A",
+    "explanation": "Total increase = 680-400 = 280 over 4 years. Average annual increase = 280/4 = 70 tonnes/day per year."
+  },
+  {
+    "id": 31,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "A college has students in three streams: Science: 450, Commerce: 300, Arts: 250. What is the ratio of Science to Arts students?",
+    "options": {
+      "A": "9:5",
+      "B": "3:2",
+      "C": "2:1",
+      "D": "5:3"
+    },
+    "correct": "A",
+    "explanation": "Ratio = 450:250 = 9:5."
+  },
+  {
+    "id": 32,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Income of three persons: A: Rs 45,000, B: Rs 60,000, C: Rs 75,000. What is the ratio A:B:C?",
+    "options": {
+      "A": "3:4:5",
+      "B": "2:3:4",
+      "C": "9:12:15",
+      "D": "Both A and C"
+    },
+    "correct": "D",
+    "explanation": "45000:60000:75000 = 45:60:75 = 3:4:5 = 9:12:15. Both A and C represent the same ratio."
+  },
+  {
+    "id": 33,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Hard",
+    "question": "Two factories produce goods in ratio 3:5. Factory A produces 2400 units. If Factory B's defective rate is 4% and Factory A's is 6%, what is the total number of defective units?",
+    "options": {
+      "A": "304",
+      "B": "280",
+      "C": "320",
+      "D": "350"
+    },
+    "correct": "A",
+    "explanation": "A=2400, B=(5/3)×2400=4000. Defective: A=6% of 2400=144, B=4% of 4000=160. Total=144+160=304."
+  },
+  {
+    "id": 34,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Expenditure on items A, B, C, D is in ratio 5:3:4:2. If total expenditure is Rs 84,000, what is the expenditure on item C?",
+    "options": {
+      "A": "Rs 24,000",
+      "B": "Rs 20,000",
+      "C": "Rs 28,000",
+      "D": "Rs 18,000"
+    },
+    "correct": "A",
+    "explanation": "Total parts = 5+3+4+2 = 14. C's share = (4/14)×84000 = 24000."
+  },
+  {
+    "id": 35,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "In a mixture of 120 litres, milk and water are in ratio 7:3. How much water must be added to make the ratio 7:5?",
+    "options": {
+      "A": "24 litres",
+      "B": "20 litres",
+      "C": "30 litres",
+      "D": "18 litres"
+    },
+    "correct": "A",
+    "explanation": "Milk = (7/10)×120 = 84L. Water = 36L. For ratio 7:5, water needed = (5/7)×84 = 60L. Water to add = 60-36 = 24L."
+  },
+  {
+    "id": 36,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "A pie chart shows budget allocation (total Rs 50 crore): Education: 22%, Health: 18%, Defence: 30%, Infrastructure: 20%, Others: 10%. What is the amount allocated to Defence?",
+    "options": {
+      "A": "Rs 15 crore",
+      "B": "Rs 12 crore",
+      "C": "Rs 18 crore",
+      "D": "Rs 10 crore"
+    },
+    "correct": "A",
+    "explanation": "Defence = 30% of 50 crore = 15 crore."
+  },
+  {
+    "id": 37,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Pie chart of household expenditure (total Rs 40,000/month): Food: 35%, Rent: 25%, Transport: 15%, Education: 15%, Savings: 10%. How much more is spent on Food than Transport?",
+    "options": {
+      "A": "Rs 8,000",
+      "B": "Rs 6,000",
+      "C": "Rs 10,000",
+      "D": "Rs 7,000"
+    },
+    "correct": "A",
+    "explanation": "Food = 35% of 40000 = 14000. Transport = 15% of 40000 = 6000. Difference = 14000-6000 = 8000."
+  },
+  {
+    "id": 38,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Hard",
+    "question": "Pie chart shows market share: Company A: 28%, B: 22%, C: 18%, D: 15%, Others: 17%. Total market = Rs 500 crore. If Company A's share increases to 32% next year (total market grows to Rs 600 crore), what is the increase in A's revenue?",
+    "options": {
+      "A": "Rs 52 crore",
+      "B": "Rs 48 crore",
+      "C": "Rs 60 crore",
+      "D": "Rs 45 crore"
+    },
+    "correct": "A",
+    "explanation": "Current A = 28% of 500 = 140 crore. New A = 32% of 600 = 192 crore. Increase = 192-140 = 52 crore."
+  },
+  {
+    "id": 39,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Easy",
+    "question": "Pie chart of energy sources (total 1000 TWh): Coal: 45%, Solar: 15%, Wind: 12%, Hydro: 18%, Nuclear: 10%. What is the combined generation from renewable sources (Solar+Wind+Hydro)?",
+    "options": {
+      "A": "450 TWh",
+      "B": "400 TWh",
+      "C": "500 TWh",
+      "D": "350 TWh"
+    },
+    "correct": "A",
+    "explanation": "Renewable = Solar+Wind+Hydro = 15+12+18 = 45% of 1000 = 450 TWh."
+  },
+  {
+    "id": 40,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Pie chart of a company's workforce (total 5000): Engineering: 30%, Marketing: 20%, Finance: 15%, HR: 10%, Operations: 25%. If 40% of Engineering staff are senior, how many senior engineers are there?",
+    "options": {
+      "A": "600",
+      "B": "500",
+      "C": "750",
+      "D": "450"
+    },
+    "correct": "A",
+    "explanation": "Engineering = 30% of 5000 = 1500. Senior engineers = 40% of 1500 = 600."
+  },
+  {
+    "id": 41,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Bar chart shows annual book sales (thousands): 2018: 120, 2019: 150, 2020: 90, 2021: 180, 2022: 210. What is the percentage increase from 2020 to 2022?",
+    "options": {
+      "A": "133.33%",
+      "B": "120%",
+      "C": "140%",
+      "D": "100%"
+    },
+    "correct": "A",
+    "explanation": "Increase = (210-90)/90 × 100 = 120/90 × 100 = 133.33%."
+  },
+  {
+    "id": 42,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Bar chart shows monthly visitors (thousands) to a museum: Jan:15, Feb:12, Mar:18, Apr:22, May:25, Jun:30. What is the average monthly visitors for the first half?",
+    "options": {
+      "A": "20.33 thousand",
+      "B": "22 thousand",
+      "C": "18.5 thousand",
+      "D": "21 thousand"
+    },
+    "correct": "A",
+    "explanation": "Total = 15+12+18+22+25+30 = 122. Average = 122/6 = 20.33 thousand."
+  },
+  {
+    "id": 43,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Hard",
+    "question": "Bar chart shows profit (lakhs) of two companies:\nYear|Company X|Company Y\n2019|40|35\n2020|45|50\n2021|55|48\n2022|70|65\n\nIn how many years did Company X have higher profit than Company Y?",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "4",
+      "D": "1"
+    },
+    "correct": "A",
+    "explanation": "2019: X(40)>Y(35)✓, 2020: X(45)<Y(50)✗, 2021: X(55)>Y(48)✓, 2022: X(70)>Y(65)✓. Company X was higher in 3 years."
+  },
+  {
+    "id": 44,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Bar chart shows rainfall (cm) in a city: Jan:2, Feb:3, Mar:5, Apr:8, May:12, Jun:25, Jul:35, Aug:30, Sep:20, Oct:10, Nov:4, Dec:2. What percentage of annual rainfall occurs during Jun-Sep (monsoon)?",
+    "options": {
+      "A": "70.51%",
+      "B": "65%",
+      "C": "72%",
+      "D": "68%"
+    },
+    "correct": "A",
+    "explanation": "Annual = 2+3+5+8+12+25+35+30+20+10+4+2 = 156 cm. Monsoon (Jun-Sep) = 25+35+30+20 = 110 cm. Percentage = (110/156)×100 = 70.51%."
+  },
+  {
+    "id": 45,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Bar chart shows smartphone sales (million units): Brand A: 45, Brand B: 38, Brand C: 52, Brand D: 30, Brand E: 25. What is Brand C's market share?",
+    "options": {
+      "A": "27.37%",
+      "B": "25%",
+      "C": "30%",
+      "D": "28.5%"
+    },
+    "correct": "A",
+    "explanation": "Total = 45+38+52+30+25 = 190 million. Brand C share = (52/190)×100 = 27.37%."
+  },
+  {
+    "id": 46,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Hard",
+    "question": "A company's data:\nYear|Revenue(lakh)|Expenses(lakh)|Employees\n2020|500|400|200\n2021|600|470|220\n2022|750|560|250\n\nWhat is the profit per employee in 2022 (in Rs)?",
+    "options": {
+      "A": "Rs 76,000",
+      "B": "Rs 80,000",
+      "C": "Rs 72,000",
+      "D": "Rs 68,000"
+    },
+    "correct": "A",
+    "explanation": "Profit 2022 = 750-560 = 190 lakh = Rs 1,90,00,000. Per employee = 1,90,00,000/250 = Rs 76,000."
+  },
+  {
+    "id": 47,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Data: Total land = 1000 hectares. Allocation: Wheat 35%, Rice 25%, Pulses 20%, Vegetables 12%, Fallow 8%. If yield per hectare is: Wheat 4 tonnes, Rice 5 tonnes. What is the total production of Wheat and Rice combined?",
+    "options": {
+      "A": "2650 tonnes",
+      "B": "2400 tonnes",
+      "C": "2800 tonnes",
+      "D": "2500 tonnes"
+    },
+    "correct": "A",
+    "explanation": "Wheat land = 35% of 1000 = 350 ha. Rice land = 25% of 1000 = 250 ha. Wheat production = 350×4 = 1400 tonnes. Rice production = 250×5 = 1250 tonnes. Total = 1400+1250 = 2650 tonnes."
+  },
+  {
+    "id": 48,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Hard",
+    "question": "Investment data: Principal = Rs 2,00,000. Returns: Year 1: 12%, Year 2: 15%, Year 3: -5%, Year 4: 20%. What is the value at end of Year 2?",
+    "options": {
+      "A": "Rs 2,57,600",
+      "B": "Rs 2,54,000",
+      "C": "Rs 2,60,000",
+      "D": "Rs 2,50,000"
+    },
+    "correct": "A",
+    "explanation": "After Year 1 = 200000 × 1.12 = 224000. After Year 2 = 224000 × 1.15 = 257600."
+  },
+  {
+    "id": 49,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Survey of 500 people on transport preference: Bus: 35%, Train: 28%, Car: 22%, Bike: 10%, Walk: 5%. If 60% of bus users are daily commuters, how many daily bus commuters are there?",
+    "options": {
+      "A": "105",
+      "B": "100",
+      "C": "120",
+      "D": "90"
+    },
+    "correct": "A",
+    "explanation": "Bus users = 35% of 500 = 175. Daily commuters = 60% of 175 = 105."
+  },
+  {
+    "id": 50,
+    "paper": "CSAT",
+    "subject": "Data Interpretation",
+    "difficulty": "Hard",
+    "question": "Table: Tax collected (crore Rs)\nState|Income Tax|GST|Property Tax\nA|1200|800|200\nB|900|1100|150\nC|1500|950|300\nD|700|1200|180\n\nWhat is the ratio of total Income Tax to total GST collected across all states?",
+    "options": {
+      "A": "86:81",
+      "B": "22:20",
+      "C": "3:2",
+      "D": "43:41"
+    },
+    "correct": "A",
+    "explanation": "Total Income Tax = 1200+900+1500+700 = 4300. Total GST = 800+1100+950+1200 = 4050. GCD = 50. Ratio = 4300/50 : 4050/50 = 86:81."
+  }
+]
